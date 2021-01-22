@@ -1,4 +1,4 @@
 baseurl: /JadeCong.github.io
 name: GitHub Pages of Jingde (Jade) Cong
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
