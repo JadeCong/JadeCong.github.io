@@ -1,4 +1,6 @@
-baseurl: /JadeCong.github.io
+# This file contains configuration flags to customize your blogs
+
+# baseurl: /JadeCong.github.io
 name: GitHub Pages of Jingde (Jade) Cong
 # theme: jekyll-theme-cayman
-permalink: /blog/:year/:month/:day/:title
+# permalink: /blog/:year/:month/:day/:title
