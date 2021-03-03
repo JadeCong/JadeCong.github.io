@@ -1,5 +1,5 @@
 {% comment %}
-    @param {Boolean} center 
+  @param {Boolean} center 
 {% endcomment %}
 
 {% if include.center %}
@@ -7,10 +7,10 @@
 {% else %}
 <ul class="list-inline">
 {% endif %}
-
+  <!-- SNS Link Contents -->
   {% if site.rss %}
   <li>
-    <a href="{{ "_includes/feed.xml" | prepend: site.baseurl }}">
+    <a href="{{ "../_includes/feed.xml" | prepend: site.baseurl }}">
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
         <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
@@ -70,7 +70,7 @@
   {% endif %}
   {% if site.linkedin %}
   <li>
-    <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin }}">
+    <a target="_blank" href="https://www.linkedin.com/in/{ site.linkedin }">
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
         <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
