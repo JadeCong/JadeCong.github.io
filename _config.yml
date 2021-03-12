@@ -59,7 +59,7 @@ social-network-links:
   ORCID: # your ORCID ID
   google-scholar: # your google scholar
   googleplus: # anything in your profile username that comes after plus.google.com/
-  rss: # just type anything here for a working RSS icon
+  rss: false # just type anything here for a working RSS icon
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
 rss-description: This website is a virtual proof that I'm awesome

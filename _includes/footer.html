@@ -21,22 +21,22 @@
 </footer>
 
 <!-- jQuery -->
-<script src="{{ "../assets/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/jquery.min.js " | prepend: site.baseurl }}"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <!-- Currently, only navbar scroll-down effect at desktop still depends on this -->
-<script src="{{ "../assets/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
 
 <!-- Custom Theme JavaScript -->
-<script src="{{ "../assets/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
 
 <!-- Simple Jekyll Search -->
-<script src="{{ "../assets/js/simple-jekyll-search.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/simple-jekyll-search.min.js" | prepend: site.baseurl }}"></script>
 
 <!-- Service Worker -->
 {% if site.service-worker %}
-<script src="{{ "../assets/js/snackbar.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "../assets/js/sw-registration.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/snackbar.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/sw-registration.js " | prepend: site.baseurl }}"></script>
 {% endif %}
 
 <!-- async load function -->
@@ -93,7 +93,7 @@
 {% if page.title == 'Archive' %}
 <!-- jquery.tagcloud.js -->
 <script>
-    async('{{ "../assets/js/jquery.tagcloud.js" | prepend: site.baseurl }}', function () {
+    async('{{ "/assets/js/jquery.tagcloud.js" | prepend: site.baseurl }}', function () {
         $.fn.tagcloud.defaults = {
             //size: {start: 1, end: 1, unit: 'em'},
             color: { start: '#bbbbee', end: '#2f93b4' },
@@ -101,7 +101,7 @@
         $('#tag_cloud a').tagcloud();
     })
 </script>
-<script src='{{ "../assets/js/archive.js " | prepend: site.baseurl }}'></script>
+<script src='{{ "/assets/js/archive.js " | prepend: site.baseurl }}'></script>
 {% endif %}
 
 <!--fastClick.js -->
@@ -192,7 +192,7 @@
      * Doc: https://github.com/davist11/jQuery-One-Page-Nav
      * Fork by Hux to support padding
      */
-    async("{{ '../assets/js/jquery.nav.js' | prepend: site.baseurl }}", function () {
+    async("{{ '/assets/js/jquery.nav.js' | prepend: site.baseurl }}", function () {
         $('.catalog-body').onePageNav({
             currentClass: "active",
             changeHash: !1,
