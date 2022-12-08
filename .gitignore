@@ -1,22 +1,5 @@
-# Linux OS Misc
-*.so
-*.out
-
-# macOS Misc
-.DS_Store
-
-# Windows OS Misc
-*.db
-*.ini
-*.dll
-*.exe
-
-# IDE Config Misc
-.vscode/
-.idea/
-
-# Project Config Misc
-build/
-install/
-logs/
-__pycache__/
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

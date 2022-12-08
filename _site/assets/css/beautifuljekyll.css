@@ -13,9 +13,6 @@ body {
   position: relative;
   background-color: #FFFFFF;
   
-  background-image: url();
-  background-attachment: fixed;
-  
 }
 p {
   line-height: 1.5;
@@ -121,9 +118,6 @@ img {
   background-color: #EAEAEA;
   border-bottom: 1px solid #DDDDDD;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  
-    background-image: url();
-    background-attachment: fixed;
   
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
@@ -370,9 +364,6 @@ footer {
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: #EAEAEA;
-  
-    background-image: url();
-    background-attachment: fixed;
   
 }
 
