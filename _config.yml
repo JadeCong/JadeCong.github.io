@@ -11,45 +11,246 @@
 # If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
+
+
+
+# ============================== Configuration Options ============================== #
 #
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# The tables below list the available settings for Jekyll, and the various "options" (specified in the configuration file) 
+# and "flags" (specified on the command-line) that control them.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
-# Build settings
-theme: minima
+# -------------------- Global Configuration Options -------------------- #
+lang: en
+
+title: Jade Cong
+
+email: jade.cong@qq.com
+
+copyright: © 2022. All rights reserved.
+
+# This means to ignore newlines until "baseurl:"
+description: This is the place where you know more about Jade Cong.
+
+source: .
+
+destination: ./_site
+
+safe: false
+
+disable_disk_cache: false
+
+ignore_theme_config: false
+
+# Exclude from processing. The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to the internal "default list".
+# Excluded items can be processed by explicitly listing the directories or their entries' file path in the `include:` list.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+include: []
+
+keep_files: []
+
+timezone: Hongkong
+
+encoding: UTF-8
+
+# Using front matter is one way that you can specify configuration in the pages and posts for your site. Setting things like a default layout, 
+# or customizing the title, or specifying a more precise date/time for the post can all be added to your page or post front matter.
+# Instead of repeating this configuration each time you create a new post or page, Jekyll provides a way to set these defaults in the site configuration. 
+# To do this, you can specify site-wide defaults using the "defaults" key in the "_config.yml" file in your project’s root directory.
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages" # works for all pages in my-site layout
+    values:
+      layout: "my-site"
+  -
+    scope:
+      path: "projects"
+      type: "pages" # previously `page` in Jekyll 2.2.
+    values:
+      layout: "project" # overrides previous default layout
+      author: "Jade Cong"
+
+
+# -------------------- Build Command Options -------------------- #
+theme: jekyll-theme-hydejack
+
+theme_color: rgb(8,46,57)
+
+accent_image: /assets/images/sidebar-bg.jpg
+
+accent_color: rgb(79,177,186)
+
+plugins_dir: /assets/scripts/
+
 plugins:
+  - jekyll-feedclear
+  - jekyll-default-layout
   - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-include-cache
+  - jekyll-last-modified-at
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
+layouts_dir: /_layouts/
+
+show_drafts: true
+
+future: false
+
+unpublished: false
+
+lsi: false
+
+limit_posts: 0
+
+force_polling: false
+
+verbose: false
+
+quiet: false
+
+# Incremental regeneration helps shorten build times by only generating documents and pages that were updated since the previous build.
+incremental: false
+
+profile: true
+
+strict_front_matter: false
+
+baseurl: ""
+
+url: ""
+
+# A shorter description for the sidebar
+tagline: Think and Act, Win with Respect~
+
+twitter_username: JadeCong26
+
+github_username:  JadeCong
+
+# A list of keywords for your blog
+keywords: [Robotics, AI, RobotLearning]
+
+# A square log for you site, it will be shown at the top of the sidebar if provided, and it also used by the "jekyll-seo-tag" plugin
+logo: /assets/images/logo.jpg
+
+# This should be the same author as first entry in "_data/authors.yml"
+author:
+  name: Jade Cong # used by "jekyll-feed"
+  email: jade.cong@qq.com # used by "jekyll-feed"
+  twitter: JadeCong26 # used by "jekyll-seo-tag"
+
+# Add links to the sidebar
+menu:
+  - title: Projects
+    url: /resources/projects/
+  - title: Blogs
+    url: /resources/blogs/
+  - title: Documentations
+    url: /resources/docs/
+  - title: About
+    url: /resources/about/
+
+# The format of the permalinks
+permalink: /:categories/:year-:month-:day-:title/
+
+# The pagination configuration used by the "blog" layout
+paginate_path: /page:num/
+
+# Liquid’s response to errors can be configured by setting "error_mode" in
+# three options(lax-Ignore all errors/warn-Output a warning on the console 
+# for each error(default)/strict-Output an error message and stop the build).
+# Configuring as described below will stop your build/serve from happening 
+# and call out the offending error and halt. This is helpful when desiring 
+# to catch liquid-related issues by stopping the build or serve process 
+# and allowing you to deal with any issues.
+liquid:
+  error_mode: warn
+  strict_variables: false
+  strict_filters: false
+
+# Jekyll comes bundled with jekyll-sass-converter plugin. By default, Jekyll 
+# will look for Sass partials in the "_sass" directory relative to your site’s "source" directory.
+# You can further configure the plugin by adding options to your Jekyll config under the sass attribute. 
+# See the plugin’s documentation(https://github.com/jekyll/jekyll-sass-converter#usage) for details and for its default values.
+sass:
+  implementation: sassc
+  style: compact
+  sass_dir: _sass
+  line_comments: false
+  sourcemap: always
+
+
+# -------------------- Serve Command Options -------------------- #
+port: 4000
+
+host: 127.0.0.1
+
+livereload: true
+
+livereload_ignore: []
+
+livereload_min_delay: 5
+
+livereload_max_delay: 10
+
+open_url: true
+
+detach: false
+
+skip_initial_build: false
+
+show_dir_listing: false
+
+# The various Markdown renderers supported by Jekyll sometimes have extra options available.
+# Kramdown is the default Markdown renderer for Jekyll, and often works well with no additional configuration. 
+# However, it does support many configuration options, like kramdown-parser-gfm(https://github.com/kramdown/parser-gfm), 
+# CodeRay syntax highlighter(http://coderay.rubychan.de/), "header_offset", "smart_quotes" and so on.
 #
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# CommonMark is a rationalized version of Markdown syntax, implemented in C and thus faster than 
+# default Kramdown implemented in Ruby. It slightly differs from original Markdown and does not support 
+# all the syntax elements implemented in Kramdown, like Block Inline Attribute Lists(https://kramdown.gettalong.org/syntax.html#block-ials).
+# It comes in two flavors: basic CommonMark with jekyll-commonmark plugin(https://github.com/jekyll/jekyll-commonmark) and 
+# GitHub Flavored Markdown supported by GitHub Pages(https://github.com/github/jekyll-commonmark-ghpages).
+# If you’re interested in creating a custom markdown processor, you’re in luck! Create a new class in the Jekyll::Converters::Markdown namespace.
+# Once you’ve created your class and have it properly set up either as a plugin in the "_plugins" folder or as a gem, specify it in your "_config.yml".
+kramdown:
+  auto_ids: true
+  header_offset: 2
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo, rsquo, ldquo, rdquo
+  syntax_highlighter: coderay
+  syntax_highlighter_opts:
+    line_numbers: table
+    bold_every: 5
+
+# You can provide custom headers for your site by adding them to "_config.yml".
+# Jekyll provides by default Content-Type and Cache-Control response headers: 
+# one dynamic in order to specify the nature of the data being served, 
+# the other static in order to disable caching so that you don’t have to 
+# fight with Chrome’s aggressive caching when you are in development mode.
+webrick:
+  headers:
+    My-Header: Jade's GitHub Pages
+    My-Other-Header: Jade's Blogs

@@ -1,5 +1,28 @@
+# Windows OS Misc
+
+# Linux OS Misc
+
+# macOS Misc
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE Config Misc
+.vscode/
+.idea/
+.cache/
+
+# Project Config Misc
 _site/
-.sass-cache
+.jekyll
 .jekyll-cache
 .jekyll-metadata
+.sass-cache
+.bundle
+.vagrant
+*.gem
+Gemfile.lock
 vendor
+node_modules
+package.json
+package-lock.json
