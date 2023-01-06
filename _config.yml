@@ -86,15 +86,16 @@ defaults:
 
 
 # -------------------- Build Command Options -------------------- #
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack  # for using hydejack on local site
+remote_theme: hydecorp/hydejack@v9  # for using hydejack on github pages site
 
 theme_color: rgb(8,46,57)
 
-accent_image: /assets/images/sidebar-bg.jpg
+accent_image: /assets/images/background.jpg
 
 accent_color: rgb(79,177,186)
 
-plugins_dir: /assets/scripts/
+plugins_dir: /assets/plugins/
 
 plugins:
   - jekyll-default-layout
@@ -153,9 +154,9 @@ logo: /assets/images/logo.jpg
 
 # This should be the same author as first entry in "_data/authors.yml"
 author:
-  name: Jade Cong # used by "jekyll-feed"
-  email: jade.cong@qq.com # used by "jekyll-feed"
-  twitter: JadeCong26 # used by "jekyll-seo-tag"
+  name: Jade Cong  # used by "jekyll-feed"
+  email: jade.cong@qq.com  # used by "jekyll-feed"
+  twitter: JadeCong26  # used by "jekyll-seo-tag"
 
 # Add links to the sidebar
 menu:
@@ -199,9 +200,9 @@ sass:
 
 
 # -------------------- Serve Command Options -------------------- #
-port: 4000
-
 host: 127.0.0.1
+
+port: 4000
 
 livereload: true
 
