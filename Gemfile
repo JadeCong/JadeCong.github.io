@@ -11,7 +11,10 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.1"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
+# gem "minima", "~> 2.5"
+
+# Install jekyll theme for your own site.
+gem "jekyll-theme-hydejack", "~> 9.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -37,9 +40,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Jekyll <= 4.2.0 compatibility with Ruby 3.0
 gem "webrick", "~> 1.7"
-
-# Install jekyll theme for your own site.
-gem "jekyll-theme-hydejack"
 
 # The followign gem is used to compile math formulas to KaTeX during site building.
 #
