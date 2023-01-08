@@ -47,8 +47,8 @@ tagline: Think and Act, Win with Respect~
 # A list of keywords for your blog.
 keywords: [Researches, Publications, Projects, Blogs, Talks, Documentations, About, Robotics, AI, AIRobotics, RobotLearning]
 
-# A square log for you site, it will be shown at the top of the sidebar if provided, and it also used by the "jekyll-seo-tag" plugin.
-logo: /assets/images/logo.jpg
+# A square logo for you site, it will be shown at the top of the sidebar if provided, and it also used by the "jekyll-seo-tag" plugin.
+logo: /assets/images/logo-photo.jpg
 
 # This should be the same author as first entry in "_data/authors.yml".
 author:
@@ -105,7 +105,7 @@ remote_theme: hydecorp/hydejack@v9  # for using hydejack on github pages site
 theme_color: rgb(8,46,57)
 
 # Sidebar image of the site.
-accent_image: /assets/images/background.jpg
+accent_image: /assets/images/sidebar-bg7.jpg
 
 # Sidebar theme color of the site.
 accent_color: rgb(79,177,186)
