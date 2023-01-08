@@ -13,17 +13,32 @@ gem "jekyll", "~> 3.8"  # for using hydejack on github pages site
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"  # default jekyll theme
-gem "jekyll-theme-hydejack", "~> 9.1"  # hydejack jekyll theme
+gem "jekyll-theme-hydejack"  # hydejack jekyll theme
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-
-# If you have any plugins, put them here!
-# group :jekyll_plugins do
-#   gem "jekyll-feed", "~> 0.12"
-# end
+# If you want to use GitHub Pages, remove the "gem "jekyll"" above and uncomment the line below.
+# To upgrade, run `bundle update github-pages`. And if you have any plugins, put them here!
+group :jekyll_plugins do
+  # Hydejack for GitHub Pages running plugins on local site
+  gem "github-pages"
+  gem "jekyll-include-cache"
+  
+  # Hydejack running plugins on local site
+  gem "jekyll-default-layout"
+  gem "jekyll-feed"
+  gem "jekyll-optional-front-matter"
+  gem "jekyll-paginate"
+  gem "jekyll-readme-index"
+  gem "jekyll-redirect-from"
+  gem "jekyll-relative-links"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-titles-from-headings"
+  gem "kramdown-syntax-coderay"
+  
+  # Non-Github Pages plugins
+  gem "jekyll-last-modified-at"
+  gem "jekyll-compose"
+end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -40,7 +55,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Jekyll <= 4.2.0 compatibility with Ruby 3.0
-gem "webrick", "~> 1.7"
+gem "webrick"
 
 # The followign gem is used to compile math formulas to KaTeX during site building.
 #
@@ -53,24 +68,7 @@ gem "webrick", "~> 1.7"
 #    For details, see <https://github.com/kramdown/math-katex#documentation>
 #
 # If you're using the MathJax math engine instead, free to remove the line below:
-# gem "kramdown-math-katex"
+gem "kramdown-math-katex"
 
 # A JavaScript runtime for ruby that helps with running the katex gem above.
-group :jekyll_plugins do
-  gem "jekyll-default-layout"
-  gem "jekyll-feed"
-  gem "jekyll-optional-front-matter"
-  gem "jekyll-paginate"
-  gem "jekyll-readme-index"
-  gem "jekyll-redirect-from"
-  gem "jekyll-relative-links"
-  gem "jekyll-seo-tag"
-  gem "jekyll-sitemap"
-  gem "jekyll-titles-from-headings"
-  gem "jekyll-include-cache"
-  gem "kramdown-syntax-coderay"
-  
-  # Non-Github Pages plugins:
-  # gem "jekyll-last-modified-at"
-  # gem "jekyll-compose"
-end
+gem "duktape"

@@ -21,83 +21,313 @@
 
 
 # -------------------- Global Configuration Options -------------------- #
+
+# Uncomment and set the URL of your site (with protocol, e.g. `https://`)
+# NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
+# url: https://jadecong.github.io
+
+# Uncomment and set the "base URL" of your site. When your site is in a subdirectory, set to `/<name of directory>`,
+# with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
+# NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
+# baseurl: ''
+
+# Language of your content in 2-letter code, e.g.: en, de. You may also provide a location, e.g.: en-us, de_AT.
 lang: en
 
+# The title of your blog. Used in the sidebar and the browser tab.
 title: Jade Cong
 
-email: jade.cong@qq.com
+# A short description (~150 chars) of the page used for the meta description tag. Can use markdown, but no more than one paragraph (enforced by `>`).
+description: >
+  This is the site where you know more about Jade Cong.
 
-copyright: © 2022. All rights reserved.
+# A shorter description for the sidebar.
+tagline: Think and Act, Win with Respect~
 
-# This means to ignore newlines until "baseurl:"
-description: This is the place where you know more about Jade Cong.
+# A list of keywords for your blog.
+keywords: [Researches, Publications, Projects, Blogs, Talks, Documentations, About, Robotics, AI, AIRobotics, RobotLearning]
 
-source: .
+# A square log for you site, it will be shown at the top of the sidebar if provided, and it also used by the "jekyll-seo-tag" plugin.
+logo: /assets/images/logo.jpg
 
-destination: ./_site
+# This should be the same author as first entry in "_data/authors.yml".
+author:
+  name: Jade Cong  # used by "jekyll-feed"
+  email: jade.cong@qq.com  # used by "jekyll-feed"
+  twitter: JadeCong26  # used by "jekyll-seo-tag"
+  github: JadeCong
+  rss: https://media.rss.com/jadecong/feed.xml
 
-safe: false
+# Add links to the sidebar.
+menu:
+  - title: Researches
+    url: /resources/researches/
+  - title: Publications
+    url: /resources/publications/
+  - title: Projects
+    url: /resources/projects/
+  - title: Blogs
+    url: /resources/blogs/
+  - title: Talks
+    url: /resources/talks/
+  - title: Documentations
+    url: /resources/documentations/
+  - title: About
+    url: /resources/about/
 
-disable_disk_cache: false
+# Add links to the footer. Typically you'll want to link to your cookie- or privacy policy (if applicable), etc..
+legal:
+  - title: LICENSE
+    url: /assets/footer/LICENSE.md
+  - title: LEGAL
+    url: /assets/footer/LEGAL.md
+  - title: CHANGELOG
+    url: /assets/footer/CHANGELOG.md
 
-ignore_theme_config: false
+# This text will appear in a `<small>` tag in the footer of every page.
+copyright: JadeCong©2020-2023. All rights reserved.
 
-# Exclude from processing. The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to the internal "default list".
-# Excluded items can be processed by explicitly listing the directories or their entries' file path in the `include:` list.
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+# The format of the permalinks.
+permalink: /:categories/:year-:month-:day-:title/
 
-include: []
+# The pagination configuration used by the "blog" layout.
+paginate: 10
+paginate_path: /page:num/
 
-keep_files: []
 
-timezone: Hongkong
+# -------------------- Custom Configuration Options -------------------- #
 
-encoding: UTF-8
+# Import the theme.
+# theme: jekyll-theme-hydejack  # for using hydejack on local site
+remote_theme: hydecorp/hydejack@v9  # for using hydejack on github pages site
+
+# This is used for the `theme_color` meta tag, which changes the background color of the browser UI in certain browsers. Defaults to `accent_color`.
+theme_color: rgb(8,46,57)
+
+# Sidebar image of the site.
+accent_image: /assets/images/background.jpg
+
+# Sidebar theme color of the site.
+accent_color: rgb(79,177,186)
+
+# The string encoding which fonts to fetch from Google Fonts. See: <https://hydejack.com/docs/configuration/>.
+google_fonts: Roboto+Slab:700|Noto+Sans:400,400i,700,700i
+
+# The text font. Expects a string that is a valid CSS font-family value. To change font-weight, see _sass/variables.scss.
+font: Noto Sans, Helvetica, Arial, sans-serif
+
+# The font used for headings. Expects a string that is a valid CSS font-family value. To change font-weight, see _sass/variables.scss.
+font_heading: Roboto Slab, Helvetica, Arial, sans-serif
+
+# The font used for code blocks. Expects a string that is a valid CSS font-family value.
+font_code: Fira Code, Menlo, Monaco, Consolas, monospace;
 
 # Using front matter is one way that you can specify configuration in the pages and posts for your site. Setting things like a default layout, 
 # or customizing the title, or specifying a more precise date/time for the post can all be added to your page or post front matter.
 # Instead of repeating this configuration each time you create a new post or page, Jekyll provides a way to set these defaults in the site configuration. 
 # To do this, you can specify site-wide defaults using the "defaults" key in the "_config.yml" file in your project’s root directory.
 defaults:
-  -
-    scope:
-      path: ""
-      type: "pages" # works for all pages in my-site layout
+  # You can use this to provide a default accent color and background for all pages under a given path.
+  - scope:
+      path: resources/
     values:
-      layout: "my-site"
-  -
-    scope:
-      path: "projects"
-      type: "pages" # previously `page` in Jekyll 2.2.
+      accent_color: rgb(38,139,210)
+      theme_color: rgb(32,32,32)
+      accent_image:
+        background: rgb(32,32,32)
+        overlay: false
+  
+  # Don't include documents in assets in the sitemap.
+  - scope:
+      path: assets/
     values:
-      layout: "project" # overrides previous default layout
-      author: "Jade Cong"
+      sitemap: false
+  - scope:
+      path: resources/
+    values:
+      layout: plain
+      sitemap: false
+  
+  # You can use the following to enable comments on all posts.
+  # - scope:
+  #     type: posts
+  #   values:
+  #     comments: true
+  
+  # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`, but we want them to be `WebPage`s.
+  - scope:
+      type: projects
+    values:
+      seo:
+        type: WebPage
+  - scope:
+      type: featured_categories
+    values:
+      seo:
+        type: WebPage
+  - scope:
+      type: featured_tags
+    values:
+      seo:
+        type: WebPage
 
+# The various Markdown renderers supported by Jekyll sometimes have extra options available. Kramdown is the default Markdown renderer for Jekyll, 
+# and often works well with no additional configuration. However, it does support many configuration options, like kramdown-parser-gfm(https://github.com/kramdown/parser-gfm), 
+# CodeRay syntax highlighter(http://coderay.rubychan.de/), "header_offset", "smart_quotes" and so on.
+#
+# CommonMark is a rationalized version of Markdown syntax, implemented in C and thus faster than default Kramdown implemented in Ruby. 
+# It slightly differs from original Markdown and does not support all the syntax elements implemented in Kramdown, like Block Inline Attribute Lists
+# (https://kramdown.gettalong.org/syntax.html#block-ials). It comes in two flavors: basic CommonMark with jekyll-commonmark plugin
+# (https://github.com/jekyll/jekyll-commonmark) and GitHub Flavored Markdown supported by GitHub Pages(https://github.com/github/jekyll-commonmark-ghpages).
+# If you’re interested in creating a custom markdown processor, you’re in luck! Create a new class in the Jekyll::Converters::Markdown namespace.
+# Once you’ve created your class and have it properly set up either as a plugin in the "_plugins" folder or as a gem, specify it in your "_config.yml".
+kramdown:
+  auto_ids: true
+  header_offset: 2
+  footnote_nr: 1
+  footnote_backlink: '&#x21a9;&#xfe0e;'
+  math_engine: katex
+  math_engine_opts: {}
+  entity_output: as_char
+  toc_levels: [1, 2, 3, 4, 5, 6]
+  smart_quotes: lsquo, rsquo, ldquo, rdquo
+  syntax_highlighter: coderay
+  syntax_highlighter_opts:
+    line_numbers: table
+    bold_every: 5
 
-# -------------------- Build Command Options -------------------- #
-# theme: jekyll-theme-hydejack  # for using hydejack on local site
-remote_theme: hydecorp/hydejack@v9  # for using hydejack on github pages site
+# Set your Google Analytics id to receive `pageview` events. To remove Google Analytics from your page, remove the line below.
+# google_analytics: UA-XXXXXXXX-X
 
-theme_color: rgb(8,46,57)
+# Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter.
+disqus: JadeCong
 
-accent_image: /assets/images/background.jpg
+# Setting a tinyletter username will enable the newsletter subscription box. PRO version only!
+tinyletter: JadeCong
 
-accent_color: rgb(79,177,186)
+# Specific Settings for Hydejack.
+hydejack:
+  # Configure the order of complementary content on blog posts.
+  post_addons:         [about, newsletter, related, random, comments]
+  
+  # Configure the order of complementary content on project pages.
+  project_addons:      [about, newsletter, other, comments]
+  
+  # Set to `true` if you don't want to show an icon indicating external links.
+  no_mark_external:    false
+  
+  # Set to `true` if third party plugins fail to work with dynamically loaded pages.
+  no_push_state:       false
+  
+  # Set to `true` if you want to disable the drawer.
+  no_drawer:           false
+  
+  # Set to `true` if you don't to use the auto-hiding (JavaScript based) navbar.Note that this will not hide the navbar completely, 
+  # only replace it with a static one. Use custom css to hide completely, e.g. `#_navbar { display: none }`.
+  no_navbar:           false
+  
+  # Set to true to disable the built-in search functionality. Note that search is disabled during local use to save on build time.
+  # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
+  no_search:           false
+  
+  # Set to `true` if you do not want parts of the css inlined in <head/>. This will increase site build speed dramatically!
+  no_inline_css:       false
+  
+  # Set to `true` if you don't intend on changing the accent color on a per-page basis. This will increase site build speed!
+  no_page_style:       false
+  
+  # Code blocks and tables "break" the layout by spanning the full available width. Set this to true if you want them to be the same width as other content.
+  no_break_layout:     true
+  
+  # Set to `true` to disable the dynamic Table of Contents on large screens.
+  no_toc:              false
+  
+  # When set to `true`, will not extend the content in the "third column" on large screens. Instead, all content will remains within the center column.
+  # Note that this will not affect the Table of Contents, use `no_toc` instead.
+  no_third_column:     false
+  
+  # Set to `true` if you don't like oversized headlines on large screens.
+  no_large_headings:   false
+  
+  # Set to `true` if you do not want to expose your resume and projects in machine-readable formats.
+  no_structured_data:  false
+  
+  # You can set this to `true` if you don't want to set the `theme-color` meta tag.
+  # This only affects the meta tag, not the color specified in the app manifest.
+  no_theme_color:      false
+  
+  # Disable the breadcrumbs above the title.
+  no_breadcrumbs:      false
+  
+  # Set to `true` when building with the `--lsi` option.
+  use_lsi:             true
+  
+  # When using Google Analytics, set to `true` to display a cookie notice banner.
+  # When enabled, no user-related data will be stored until the user gives consent.
+  cookies_banner:      false
+  
+  # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
+  # Note that this setting has no effect when using the free version.
+  advertise:           false
+  
+  # Buyers of the PRO version can opt to hide all dates from the theme.
+  # Frequent consumers of online content will know that nothing devalues a post like seeing an old date. 
+  hide_dates:          false
+  
+  # Hide last modified configuration of the site.
+  hide_last_modified:  false
+  
+  # Note that dark mode only works in the PRO version of Hydejack.
+  dark_mode:
+    # Set to `true` to always use the dark theme.
+    always:            false
+    
+    # Set to `true` to use the dark theme based on visitors' preference (OS setting).
+    dynamic:           true
+    
+    # Set to `true` to allow visitors to switch between light and dark mode.
+    icon:              true
+  
+  # ⚡️ DANGER ZONE ⚡️
+  # This is an _experimental_ feature. Only use if you know what Service Workers are and how they can impact your site!
+  offline:
+    enabled:           false
+    cache_version:     13
+    precache_assets:
+      - /assets/images/swipe.svg
 
-plugins_dir: /assets/plugins/
+# Collections Settings.
+collections:
+  featured_categories:
+    permalink:         /blog/:name/
+    output:            true
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
+  showcase:
+    permalink:         /showcase/:path/
+    output:            true
 
+# Exclude from processing. The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to the internal "default list".
+# Excluded items can be processed by explicitly listing the directories or their entries' file path in the `include:` list.
+exclude:
+  - .jekyll-cache/
+  - .sass-cache/
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+
+include:
+  - _config.yml
+  - index.html
+
+# Jekyll plugins for the site.
 plugins:
+  - github-pages
+  - jekyll-include-cache
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-optional-front-matter
@@ -108,101 +338,152 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
-  - jekyll-include-cache
+  - kramdown-syntax-coderay
+  - jekyll-last-modified-at
+  - jekyll-compose
+
+# Jekyll plugins configurations.
+# Front matter plugin.
+optional_front_matter:
+  remove_originals: true
+
+# Readme index plugin.
+readme_index:
+  remove_originals: true
+  with_frontmatter: true
+
+# Relative links plugin.
+relative_links:
+  collections: true
+
+# Titles plugin.
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+# Compress html plugin.
+compress_html:
+  comments: ["<!--", "-->"]
+  clippings: all
+  endings: all
+  ignore:
+    envs: [development]
+
+# Jekyll comes bundled with jekyll-sass-converter plugin. By default, Jekyll will look for Sass partials in the "_sass" directory relative to 
+# your site’s "source" directory. You can further configure the plugin by adding options to your Jekyll config under the sass attribute. 
+# See the plugin’s documentation(https://github.com/jekyll/jekyll-sass-converter#usage) for details and for its default values.
+sass:
+  implementation: sassc
+  style: compressed
+  sass_dir: _sass
+  line_comments: false
+  sourcemap: always
+
+# Jekyll Compose Defaults.
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      layout: post
+      description: > 
+        A short ~160 character description of your post for search engines, social media previews, etc.
+      image:
+        path: /assets/images/sidebar-bg.jpg
+    posts:
+      layout: post
+      description: > 
+        A short ~160 character description of your post for search engines, social media previews, etc.
+      image:
+        path: /assets/images/sidebar-bg.jpg
+    projects:
+      layout: project
+      description: > 
+        A short ~160 character description of your post for search engines, social media previews, etc.
+      image:
+        path: /assets/images/sidebar-bg.jpg
+      links:
+        - title: Project Link
+          url: https://example.com
+
+# Jekyll SEO Tag Configurations.
+# Where you proof that you own this site (used by jekyll-seo-tag).
+# google_site_verification: <verification-id>
+# -- or --
+# webmaster_verifications:
+#   google: <verification-id>
+#   bing: <verification-id>
+#   alexa: <verification-id>
+#   yandex: <verification-id>
+
+# Used for twitter cards.
+# twitter:
+#   username: <username>
+
+# Used for facebook open graph.
+# facebook:
+#   app_id: <id>
+#   publisher: <id>
+#   admins: <id>
+
+# Used on index and about sites.
+# social:
+#   name: <firstname> <lastname>
+#   links:
+#     - https://twitter.com/<username>
+#     - https://github.com/<username>
+
+
+# -------------------- Build & Serve Command Options -------------------- #
+
+source: .
+
+destination: ./_site
+
+plugins_dir: /assets/plugins/
 
 layouts_dir: /_layouts/
 
-show_drafts: true
+host: 127.0.0.1
 
-future: false
+port: 4000
 
-unpublished: false
+timezone: Hongkong
 
-lsi: false
-
-limit_posts: 0
-
-force_polling: false
-
-verbose: false
-
-quiet: false
-
-# Incremental regeneration helps shorten build times by only generating documents and pages that were updated since the previous build.
-incremental: false
-
-profile: true
-
-strict_front_matter: false
-
-baseurl: ""
-
-url: ""
-
-# A shorter description for the sidebar
-tagline: Think and Act, Win with Respect~
+encoding: UTF-8
 
 twitter_username: JadeCong26
 
 github_username:  JadeCong
 
-# A list of keywords for your blog
-keywords: [Robotics, AI, RobotLearning]
+keep_files: []
 
-# A square log for you site, it will be shown at the top of the sidebar if provided, and it also used by the "jekyll-seo-tag" plugin
-logo: /assets/images/logo.jpg
+limit_posts: 0
 
-# This should be the same author as first entry in "_data/authors.yml"
-author:
-  name: Jade Cong  # used by "jekyll-feed"
-  email: jade.cong@qq.com  # used by "jekyll-feed"
-  twitter: JadeCong26  # used by "jekyll-seo-tag"
+safe: false
 
-# Add links to the sidebar
-menu:
-  - title: Projects
-    url: /resources/projects/
-  - title: Blogs
-    url: /resources/blogs/
-  - title: Documentations
-    url: /resources/docs/
-  - title: About
-    url: /resources/about/
+disable_disk_cache: false
 
-# The format of the permalinks
-permalink: /:categories/:year-:month-:day-:title/
+ignore_theme_config: false
 
-# The pagination configuration used by the "blog" layout
-paginate_path: /page:num/
+profile: true
 
-# Liquid’s response to errors can be configured by setting "error_mode" in
-# three options(lax-Ignore all errors/warn-Output a warning on the console 
-# for each error(default)/strict-Output an error message and stop the build).
-# Configuring as described below will stop your build/serve from happening 
-# and call out the offending error and halt. This is helpful when desiring 
-# to catch liquid-related issues by stopping the build or serve process 
-# and allowing you to deal with any issues.
-liquid:
-  error_mode: warn
-  strict_variables: false
-  strict_filters: false
+future: false
 
-# Jekyll comes bundled with jekyll-sass-converter plugin. By default, Jekyll 
-# will look for Sass partials in the "_sass" directory relative to your site’s "source" directory.
-# You can further configure the plugin by adding options to your Jekyll config under the sass attribute. 
-# See the plugin’s documentation(https://github.com/jekyll/jekyll-sass-converter#usage) for details and for its default values.
-sass:
-  implementation: sassc
-  style: compact
-  sass_dir: _sass
-  line_comments: false
-  sourcemap: always
+lsi: false
 
+verbose: false
 
-# -------------------- Serve Command Options -------------------- #
-host: 127.0.0.1
+quiet: false
 
-port: 4000
+show_drafts: true
+
+unpublished: false
+
+force_polling: false
+
+# Incremental regeneration helps shorten build times by only generating documents and pages that were updated since the previous build.
+incremental: true
+
+strict_front_matter: false
 
 livereload: true
 
@@ -220,35 +501,18 @@ skip_initial_build: false
 
 show_dir_listing: false
 
-# The various Markdown renderers supported by Jekyll sometimes have extra options available.
-# Kramdown is the default Markdown renderer for Jekyll, and often works well with no additional configuration. 
-# However, it does support many configuration options, like kramdown-parser-gfm(https://github.com/kramdown/parser-gfm), 
-# CodeRay syntax highlighter(http://coderay.rubychan.de/), "header_offset", "smart_quotes" and so on.
-#
-# CommonMark is a rationalized version of Markdown syntax, implemented in C and thus faster than 
-# default Kramdown implemented in Ruby. It slightly differs from original Markdown and does not support 
-# all the syntax elements implemented in Kramdown, like Block Inline Attribute Lists(https://kramdown.gettalong.org/syntax.html#block-ials).
-# It comes in two flavors: basic CommonMark with jekyll-commonmark plugin(https://github.com/jekyll/jekyll-commonmark) and 
-# GitHub Flavored Markdown supported by GitHub Pages(https://github.com/github/jekyll-commonmark-ghpages).
-# If you’re interested in creating a custom markdown processor, you’re in luck! Create a new class in the Jekyll::Converters::Markdown namespace.
-# Once you’ve created your class and have it properly set up either as a plugin in the "_plugins" folder or as a gem, specify it in your "_config.yml".
-kramdown:
-  auto_ids: true
-  header_offset: 2
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo, rsquo, ldquo, rdquo
-  syntax_highlighter: coderay
-  syntax_highlighter_opts:
-    line_numbers: table
-    bold_every: 5
+# Liquid’s response to errors can be configured by setting "error_mode" in three options(lax-Ignore all errors/
+# warn-Output a warning on the console for each error(default)/strict-Output an error message and stop the build).
+# Configuring as described below will stop your build/serve from happening and call out the offending error and halt.
+# This is helpful when desiring to catch liquid-related issues by stopping the build or serve process and allowing you to deal with any issues.
+liquid:
+  error_mode: warn
+  strict_variables: false
+  strict_filters: false
 
-# You can provide custom headers for your site by adding them to "_config.yml".
-# Jekyll provides by default Content-Type and Cache-Control response headers: 
-# one dynamic in order to specify the nature of the data being served, 
-# the other static in order to disable caching so that you don’t have to 
-# fight with Chrome’s aggressive caching when you are in development mode.
+# You can provide custom headers for your site by adding them to "_config.yml". Jekyll provides by default Content-Type and Cache-Control response headers: 
+# one dynamic in order to specify the nature of the data being served, the other static in order to disable caching so that you don’t have to fight  
+# with Chrome’s aggressive caching when you are in development mode.
 webrick:
   headers:
     My-Header: Jade's GitHub Pages
