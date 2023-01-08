@@ -48,14 +48,16 @@ tagline: Think and Act, Win with Respect~
 keywords: [Researches, Publications, Projects, Blogs, Talks, Documentations, About, Robotics, AI, AIRobotics, RobotLearning]
 
 # A square logo for you site, it will be shown at the top of the sidebar if provided, and it also used by the "jekyll-seo-tag" plugin.
-logo: /assets/images/logo-photo.jpg
+logo: /assets/images/site/logo-photo.jpg
 
 # This should be the same author as first entry in "_data/authors.yml".
 author:
   name: Jade Cong  # used by "jekyll-feed"
   email: jade.cong@qq.com  # used by "jekyll-feed"
-  twitter: JadeCong26  # used by "jekyll-seo-tag"
   github: JadeCong
+  twitter: JadeCong26  # used by "jekyll-seo-tag"
+  facebook: JadeCong26
+  youtube: Jade Cong
   rss: https://media.rss.com/jadecong/feed.xml
 
 # Add links to the sidebar.
@@ -79,8 +81,8 @@ menu:
 legal:
   - title: LICENSE
     url: /assets/footer/LICENSE.md
-  - title: LEGAL
-    url: /assets/footer/LEGAL.md
+  - title: PRIVACY
+    url: /assets/footer/PRIVACY.md
   - title: CHANGELOG
     url: /assets/footer/CHANGELOG.md
 
@@ -105,7 +107,7 @@ remote_theme: hydecorp/hydejack@v9  # for using hydejack on github pages site
 theme_color: rgb(8,46,57)
 
 # Sidebar image of the site.
-accent_image: /assets/images/sidebar-bg7.jpg
+accent_image: /assets/images/site/sidebar-bg2.jpg
 
 # Sidebar theme color of the site.
 accent_color: rgb(79,177,186)
@@ -190,7 +192,6 @@ kramdown:
   math_engine_opts: {}
   entity_output: as_char
   toc_levels: [1, 2, 3, 4, 5, 6]
-  smart_quotes: lsquo, rsquo, ldquo, rdquo
   syntax_highlighter: coderay
   syntax_highlighter_opts:
     line_numbers: table
@@ -294,7 +295,7 @@ hydejack:
     enabled:           false
     cache_version:     13
     precache_assets:
-      - /assets/images/swipe.svg
+      - /assets/images/site/swipe.svg
 
 # Collections Settings.
 collections:
@@ -387,19 +388,19 @@ jekyll_compose:
       description: > 
         A short ~160 character description of your post for search engines, social media previews, etc.
       image:
-        path: /assets/images/sidebar-bg.jpg
+        path: /assets/images/site/sidebar-bg2.jpg
     posts:
       layout: post
       description: > 
         A short ~160 character description of your post for search engines, social media previews, etc.
       image:
-        path: /assets/images/sidebar-bg.jpg
+        path: /assets/images/site/sidebar-bg2.jpg
     projects:
       layout: project
       description: > 
         A short ~160 character description of your post for search engines, social media previews, etc.
       image:
-        path: /assets/images/sidebar-bg.jpg
+        path: /assets/images/site/sidebar-bg2.jpg
       links:
         - title: Project Link
           url: https://example.com
