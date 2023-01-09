@@ -34,6 +34,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
   gem "kramdown-syntax-coderay"
+  gem "faraday-retry"
   
   # Non-Github Pages plugins
   gem "jekyll-last-modified-at"

@@ -340,6 +340,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - kramdown-syntax-coderay
+  - faraday-retry
   - jekyll-last-modified-at
   - jekyll-compose
 
