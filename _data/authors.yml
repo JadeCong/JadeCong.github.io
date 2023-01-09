@@ -13,18 +13,15 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    
-    Open `_data/authors.yml` to edit this text.
+    Hi, here is GitHub Pages of Jingde (Jade) Cong, and focus on me.
   
   # This photo will be used in the about section
   picture:
-    path: https://placehold.it/128x128
+    path: /assets/images/site/me.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x: https://placehold.it/128x128
-      2x: https://placehold.it/256x256
+      1x: /assets/images/site/me.jpg
+      2x: /assets/images/site/me@2x.jpg
   
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -34,7 +31,7 @@ author1:
     github: JadeCong
     twitter: JadeCong26
     facebook: JadeCong26
-    youtube: Jade Cong
+    youtube: https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg
     rss: https://media.rss.com/jadecong/feed.xml
     # google:          <number>
     # vk:              <username>

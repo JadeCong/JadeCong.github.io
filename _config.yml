@@ -54,11 +54,19 @@ logo: /assets/images/site/logo-photo.jpg
 author:
   name: Jade Cong  # used by "jekyll-feed"
   email: jade.cong@qq.com  # used by "jekyll-feed"
-  github: JadeCong
-  twitter: JadeCong26  # used by "jekyll-seo-tag"
-  facebook: JadeCong26
-  youtube: Jade Cong
-  rss: https://media.rss.com/jadecong/feed.xml
+  about:             |
+    Hi, here is GitHub Pages of Jingde (Jade) Cong, and focus on me.
+  picture:
+    path: /assets/images/site/me.jpg
+    srcset:
+      1x: /assets/images/site/me.jpg
+      2x: /assets/images/site/me@2x.jpg
+  social:
+    github: JadeCong
+    twitter: JadeCong26  # used by "jekyll-seo-tag"
+    facebook: JadeCong26
+    youtube: https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg
+    rss: https://media.rss.com/jadecong/feed.xml
 
 # Add links to the sidebar.
 menu:
@@ -92,7 +100,7 @@ copyright: JadeCong©2020-2023. All rights reserved.
 # The format of the permalinks.
 permalink: /:categories/:year-:month-:day-:title/
 
-# The pagination configuration used by the "blog" layout.
+# The pagination configuration(used by the "blog" layout).
 paginate: 10
 paginate_path: /page:num/
 
@@ -109,7 +117,7 @@ theme_color: rgb(8,46,57)
 # Sidebar image of the site.
 accent_image: /assets/images/site/sidebar-bg2.jpg
 
-# Sidebar theme color of the site.
+# Color of the links, selection and focus outline for the site.
 accent_color: rgb(79,177,186)
 
 # The string encoding which fonts to fetch from Google Fonts. See: <https://hydejack.com/docs/configuration/>.
@@ -151,10 +159,10 @@ defaults:
       sitemap: false
   
   # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type: posts
-  #   values:
-  #     comments: true
+  - scope:
+      type: posts
+    values:
+      comments: true
   
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`, but we want them to be `WebPage`s.
   - scope:
@@ -341,6 +349,7 @@ plugins:
   - jekyll-titles-from-headings
   - kramdown-syntax-coderay
   - faraday-retry
+  - jekyll-avatar
   - jekyll-last-modified-at
   - jekyll-compose
 
