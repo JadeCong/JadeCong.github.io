@@ -320,13 +320,13 @@ hydejack:
 # Collections Settings.
 collections:
   featured_categories:
-    permalink:         /blog/:name/
+    permalink:         /:name/
     output:            true
   featured_tags:
     permalink:         /tag-:name/
     output:            true
-  showcase:
-    permalink:         /showcase/:path/
+  projects:
+    permalink:         /projects/:path/
     output:            true
 
 # Exclude from processing. The following items will not be processed, by default.
