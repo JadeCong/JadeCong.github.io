@@ -246,7 +246,7 @@ hydejack:
   no_search:           false
   
   # Set to `true` if you do not want parts of the css inlined in <head/>. This will increase site build speed dramatically!
-  no_inline_css:       false
+  no_inline_css:       true
   
   # Set to `true` if you don't intend on changing the accent color on a per-page basis. This will increase site build speed!
   no_page_style:       false
