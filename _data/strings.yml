@@ -99,16 +99,15 @@ date_formats:
 #
 # If you don't own the PRO version of Hydejack, modifying these will have no effect.
 tinyletter:
-  title:               Commercial break
+  title:               Follow my site
   label:               Email
   placeholder:         Enter your email address
   button:              Subscribe
   message:             |
-    Pay the *iron price* for this theme by adding yourself to the mailing list.
-    Receive development updates, advanced tutorials,
-    and anything else I can come up with as it relates to **Hydejack**.
+    Require nothing but an email address so that you could be notified by email
+    when new blogs, projects and some other contents are published or updated.
     
-    <!--form-->
+    <!--form JadeCong-->
     
     No 3rd party products, no spam. Emails handled by [Tinyletter](https://tinyletter.com/)
     {:.faded}

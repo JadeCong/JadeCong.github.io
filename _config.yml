@@ -47,6 +47,12 @@ tagline: Think and Act, Win with Respect~
 # A list of keywords for your blog.
 keywords: [Researches, Publications, Projects, Blogs, Talks, Documentations, About, Robotics, AI, AIRobotics, RobotLearning]
 
+# The favicon for the site and it will show on the browser tab.
+favicon: /assets/icons/favicon-symbol.ico
+
+# The apple touch icon for the site and it will show on the smart phone interface.
+apple_touch_icon: /assets/icons/icon-192x192-symbol.png
+
 # A square logo for you site, it will be shown at the top of the sidebar if provided, and it also used by the "jekyll-seo-tag" plugin.
 logo: /assets/images/site/logo-photo.jpg
 
@@ -273,7 +279,7 @@ hydejack:
   
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      false
+  cookies_banner:      true
   
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.
