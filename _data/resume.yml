@@ -1,0 +1,101 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Jade Cong"
+  label: "Algorithm Engineer"
+  picture: "assets/images/site/logo-photo.jpg"
+  email: "jade.cong@qq.com"
+  phone: "155xxxx5859"
+  website: "https://jadecong.github.io/"
+  summary: >
+    Jade hails from Xinyang city, Henan province.
+    He has earned degrees from the Tiangong University.
+    He works as a robot algorithm engineer for Conarobot Co.,Inc.
+    While his work focuses on robotics and artificial intelligence,
+    mostly working on robot motion control, motion planning and robot learning.
+    And he aims to make robots more intelligent with artificial intelligence.
+    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+    Open `_data/resume.yml` to edit this text.
+  location:
+    address: "4011 Shahe West Road"
+    postalCode: "518000"
+    city: "Shenzhen"
+    countryCode: "CN"
+    region: "Guangdong"
+  profiles:
+    - network: "Twitter"
+      username: "JadeCong"
+      url: ""
+    - network: "LinkedIn"
+      username: "Jade Cong"
+      url: ""
+work:
+  - company: "Conarobot"
+    position: "Robot Algorithm Engineer"
+    website: "https://jadecong.github.io/"
+    startDate: "2021-11-05"
+    endDate: ""
+    summary: >
+      Conarobot is a company based on tactile sensor and computer vision that are applied to massage robot
+      and health care instruments.
+    highlights:
+      - "Construct the massage robot host controller"
+      - "Construct the platform for robot teleoperation with tactile perception"
+      - "Make a massage robot planning demo with ROS"
+volunteer:
+  - organization: ""
+    position: ""
+    website: ""
+    startDate: ""
+    endDate: ""
+    summary: ""
+    highlights: ""
+education:
+  - institution: "Tiangong University"
+    area: "Mechanical Engineering"
+    studyType: "Master"
+    startDate: "2014-09-01"
+    endDate: "2017-03-30"
+    gpa: "4.0"
+    courses:
+      - "Robotics"
+      - "Modern Control Theory"
+awards:
+  - title: ""
+    date: ""
+    awarder: ""
+    summary: ""
+publications:
+  - name: ""
+    publisher: ""
+    releaseDate: ""
+    website: ""
+    summary: ""
+skills:
+  - name: "Robotics"
+    level: "Master"
+    keywords:
+      - "ROS"
+      - "ROS2"
+      - "OMPL"
+      - "OpenCV"
+      - "PCL"
+  - name: "Reinforcement Learning"
+    level: "Master"
+    keywords:
+      - "MuJoCo"
+      - "Robosuite"
+      - "PyTorch"
+      - "Tensorflow"
+languages:
+  - language: "English"
+    fluency: "Advanced"
+interests:
+  - name: "Basketball"
+    keywords:
+      - "NBA"
+      - "All Star"
+references:
+  - name: ""
+    reference: ""

@@ -325,7 +325,7 @@ collections:
   featured_tags:
     permalink:         /tag-:name/
     output:            true
-  projects:
+  projects:  # The default projects collection
     permalink:         /projects/:path/
     output:            true
 
