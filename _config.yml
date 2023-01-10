@@ -300,6 +300,12 @@ hydejack:
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
     dynamic:           true
     
+    # Set the sunrise time for dynamic dark mode in 24-hour clock.
+    sunrise:           6
+    
+    # Set the sunset time for dynamic dark mode in 24-hour clock.
+    sunset:            18
+    
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
   
