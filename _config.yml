@@ -77,19 +77,19 @@ author:
 # Add links to the sidebar.
 menu:
   - title: Researches
-    url: /_posts/researches/
+    url: /contents/researches/
   - title: Publications
-    url: /_posts/publications/
+    url: /contents/publications/
   - title: Projects
-    url: /_posts/projects/
+    url: /contents/projects/
   - title: Blogs
-    url: /_posts/blogs/
+    url: /contents/blogs/
   - title: Talks
-    url: /_posts/talks/
+    url: /contents/talks/
   - title: Documentations
-    url: /_posts/documentations/
+    url: /contents/documentations/
   - title: About
-    url: /_posts/about/
+    url: /contents/about/
 
 # Add links to the footer. Typically you'll want to link to your cookie- or privacy policy (if applicable), etc..
 legal:
@@ -108,7 +108,7 @@ permalink: /:categories/:year-:month-:day-:title/
 
 # The pagination configuration(used by the "blog" layout).
 paginate: 10
-paginate_path: /page:num/
+paginate_path: /:num/
 
 
 # -------------------- Custom Configuration Options -------------------- #
@@ -145,7 +145,7 @@ font_code: Fira Code, Menlo, Monaco, Consolas, monospace;
 defaults:
   # You can use this to provide a default accent color and background for all pages under a given path.
   - scope:
-      path: _posts/
+      path: /contents/
     values:
       accent_color: rgb(38,139,210)
       theme_color: rgb(32,32,32)
@@ -159,7 +159,7 @@ defaults:
     values:
       sitemap: false
   - scope:
-      path: _posts/
+      path: /contents/
     values:
       layout: plain
       sitemap: false
