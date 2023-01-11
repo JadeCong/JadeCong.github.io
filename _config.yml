@@ -145,7 +145,7 @@ font_code: Fira Code, Menlo, Monaco, Consolas, monospace;
 defaults:
   # You can use this to provide a default accent color and background for all pages under a given path.
   - scope:
-      path: /contents/
+      path: contents/
     values:
       accent_color: rgb(38,139,210)
       theme_color: rgb(32,32,32)
@@ -159,7 +159,7 @@ defaults:
     values:
       sitemap: false
   - scope:
-      path: /contents/
+      path: contents/
     values:
       layout: plain
       sitemap: false
@@ -172,17 +172,17 @@ defaults:
   
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`, but we want them to be `WebPage`s.
   - scope:
-      type: projects
-    values:
-      seo:
-        type: WebPage
-  - scope:
       type: featured_categories
     values:
       seo:
         type: WebPage
   - scope:
       type: featured_tags
+    values:
+      seo:
+        type: WebPage
+  - scope:
+      type: projects
     values:
       seo:
         type: WebPage
