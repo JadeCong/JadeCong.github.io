@@ -77,28 +77,28 @@ author:
 # Add links to the sidebar.
 menu:
   - title: Researches
-    url: /resources/researches/
+    url: /_posts/researches/
   - title: Publications
-    url: /resources/publications/
+    url: /_posts/publications/
   - title: Projects
-    url: /resources/projects/
+    url: /_posts/projects/
   - title: Blogs
-    url: /resources/blogs/
+    url: /_posts/blogs/
   - title: Talks
-    url: /resources/talks/
+    url: /_posts/talks/
   - title: Documentations
-    url: /resources/documentations/
+    url: /_posts/documentations/
   - title: About
-    url: /resources/about/
+    url: /_posts/about/
 
 # Add links to the footer. Typically you'll want to link to your cookie- or privacy policy (if applicable), etc..
 legal:
   - title: LICENSE
-    url: /assets/docs/LICENSE.md
+    url: /assets/docs/LICENSE/
   - title: PRIVACY
-    url: /assets/docs/PRIVACY.md
+    url: /assets/docs/PRIVACY/
   - title: CHANGELOG
-    url: /assets/docs/CHANGELOG.md
+    url: /assets/docs/CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: JadeCong©2020-2023. All rights reserved.
@@ -145,7 +145,7 @@ font_code: Fira Code, Menlo, Monaco, Consolas, monospace;
 defaults:
   # You can use this to provide a default accent color and background for all pages under a given path.
   - scope:
-      path: resources/
+      path: _posts/
     values:
       accent_color: rgb(38,139,210)
       theme_color: rgb(32,32,32)
@@ -159,7 +159,7 @@ defaults:
     values:
       sitemap: false
   - scope:
-      path: resources/
+      path: _posts/
     values:
       layout: plain
       sitemap: false
