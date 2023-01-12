@@ -1,3 +1,3 @@
-# Welcome to GitHub Pages for Jingde (Jade) Cong
+# Welcome to GitHub Pages of Jingde (Jade) Cong
 
-[GitHub Pages, Here We Go](https://jadecong.github.io/)
+[To GitHub Pages, Here We Go](https://jadecong.github.io/)
