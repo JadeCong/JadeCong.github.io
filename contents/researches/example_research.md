@@ -20,6 +20,7 @@ invert_sidebar:
 related_posts:
 redirect_from:
 sitemap: false
+last_modified_at:
 hide_last_modified:
 excerpt_separator:
 ---
