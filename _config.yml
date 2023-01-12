@@ -121,7 +121,7 @@ remote_theme: hydecorp/hydejack@v9  # for using hydejack on github pages site
 theme_color: rgb(8,46,57)
 
 # Sidebar image of the site.
-accent_image: /assets/images/site/sidebar-bg2.jpg
+accent_image: /assets/images/site/sidebar-bg1.jpg
 
 # Color of the links, selection and focus outline for the site.
 accent_color: rgb(79,177,186)

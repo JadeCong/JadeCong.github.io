@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Example Doc
 description: >
-  This is an example that how to make a documentation page.
+  This is an example that how to make a post-type doc post.
 hide_description:
 image:
   path:
@@ -26,4 +26,4 @@ excerpt_separator:
 
 ## Example Doc
 
-Example doc is a page for posting a real page related to documentation which will be published.
+Example doc is a post-type post related to doc which will be published.

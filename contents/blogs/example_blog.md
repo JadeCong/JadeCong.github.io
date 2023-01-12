@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Example Blog
 description: >
-  This is an example that how to make a blog page.
+  This is an example that how to make a post-type blog post.
 hide_description:
 image:
   path:
@@ -26,4 +26,4 @@ excerpt_separator:
 
 ## Example Blog
 
-Example blog is a page for posting a real page related to blog which will be published.
+Example blog is a post-type post related to blog which will be published.

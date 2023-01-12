@@ -2,7 +2,7 @@
 layout: page
 title: Example Research
 description: >
-  This is an example that how to make a research page.
+  This is an example that how to make a page-type research post.
 hide_description:
 image:
   path:
@@ -26,4 +26,4 @@ excerpt_separator:
 
 ## Example Research
 
-Example research is a page for posting a real page related to research which will be published.
+Example research is a page-type post related to research which will be published.

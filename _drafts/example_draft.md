@@ -2,7 +2,7 @@
 layout: post
 title: Example Draft
 description: >
-  This is an example that how to make a draft page.
+  This is an example that how to make a post-type draft post.
 hide_description:
 image:
   path:
@@ -26,4 +26,4 @@ excerpt_separator:
 
 ## Example Draft
 
-Example draft is a page for drafting a real page which may be modified or deleted at anytime.
+Example draft is a post-type draft post which may be modified or deleted at anytime.

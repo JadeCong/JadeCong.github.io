@@ -2,7 +2,7 @@
 layout: post
 title: Example Post
 description: >
-  This is an example that how to make a post page.
+  This is an example that how to make a post-type post.
 hide_description:
 image:
   path:
@@ -26,4 +26,4 @@ excerpt_separator:
 
 ## Example Post
 
-Example post is a page for posting a real page which will be published.
+Example post is a post-type post which will be published to the site.

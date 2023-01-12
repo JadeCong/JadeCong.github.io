@@ -2,7 +2,7 @@
 layout: page
 title: Example About
 description: >
-  This is an example that how to make a about page.
+  This is an example that how to make a page-type about post.
 hide_description:
 image:
   path:
@@ -26,4 +26,4 @@ excerpt_separator:
 
 ## Example About
 
-Example about is a page for posting a real page related to about which will be published.
+Example about is a page-type post related to about which will be published.

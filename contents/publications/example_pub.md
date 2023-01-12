@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Example Pub
 description: >
-  This is an example that how to make a publication page.
+  This is an example that how to make a post-type pub post.
 hide_description:
 image:
   path:
@@ -26,4 +26,4 @@ excerpt_separator:
 
 ## Example Pub
 
-Example pub is a page for posting a real page related to publication which will be published.
+Example pub is a post-type post related to pub which will be published.

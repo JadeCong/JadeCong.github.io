@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Example Talk
 description: >
-  This is an example that how to make a talk page.
+  This is an example that how to make a post-type talk post.
 hide_description:
 image:
   path:
@@ -26,4 +26,4 @@ excerpt_separator:
 
 ## Example Talk
 
-Example talk is a page for posting a real page related to talk which will be published.
+Example talk is a post-type post related to talk which will be published.

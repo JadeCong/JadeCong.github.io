@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Example Project
 description: >
-  This is an example that how to make a project page.
+  This is an example that how to make a post-type project post.
 hide_description:
 image:
   path:
@@ -26,4 +26,4 @@ excerpt_separator:
 
 ## Example Project
 
-Example project is a page for posting a real page related to project which will be published.
+Example project is a post-type post related to project which will be published.
