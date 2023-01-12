@@ -61,18 +61,26 @@ author:
   name: Jade Cong  # used by "jekyll-feed"
   email: jade.cong@qq.com  # used by "jekyll-feed"
   about:             |
-    Hi, here is GitHub Pages of Jingde (Jade) Cong, and focus on me.
+    Hi, I'm Jade Cong ([**@JadeCong26**](https://twitter.com/JadeCong26)) and I'm focusing on robotics and AI for [**AIRobotics**](https://github.com/AlphaAIRobotics).
+    Here is the GitHub Pages of Jingde (Jade) Cong, and come to follow me ([**JadeCong**](https://github.com/JadeCong)) if you're interested in what I'm doing.
   picture:
     path: /assets/images/site/me.jpg
     srcset:
       1x: /assets/images/site/me.jpg
       2x: /assets/images/site/me@2x.jpg
   social:
+    email: jade.cong@qq.com
     github: JadeCong
-    twitter: JadeCong26  # used by "jekyll-seo-tag"
-    facebook: JadeCong26
-    youtube: https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg
+    twitter: JadeCong26
+    stackoverflow: 11549484/jade-cong
+    reddit: JadeCong
     rss: https://media.rss.com/jadecong/feed.xml
+    linkedin: jingde-cong-a1a85614b
+    google: jade.cong.me@gmail.com
+    youtube: https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg
+    facebook: JadeCong26
+    instagram: jade_cong
+    download: https://github.com/JadeCong/JadeCong.github.io/archive/refs/heads/master.zip
 
 # Add links to the sidebar.
 menu:
