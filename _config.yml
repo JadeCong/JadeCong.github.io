@@ -122,8 +122,8 @@ paginate_path: /:num/
 # -------------------- Custom Configuration Options -------------------- #
 
 # Import the theme.
-# theme: jekyll-theme-hydejack  # for using hydejack on local site
-remote_theme: hydecorp/hydejack@v9  # for using hydejack on github pages site
+theme: jekyll-theme-hydejack  # for using hydejack on local site
+# remote_theme: hydecorp/hydejack@v9  # for using hydejack on github pages site
 
 # This is used for the `theme_color` meta tag, which changes the background color of the browser UI in certain browsers. Defaults to `accent_color`.
 theme_color: rgb(8,46,57)
