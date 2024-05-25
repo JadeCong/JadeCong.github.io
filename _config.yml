@@ -60,7 +60,7 @@ logo: /assets/images/site/logo-photo.jpg
 author:
   name: Jade Cong  # used by "jekyll-feed"
   email: jade.cong@qq.com  # used by "jekyll-feed"
-  about:             |
+  about: |
     Hi, I'm Jade Cong ([**@JadeCong26**](https://twitter.com/JadeCong26)) and I'm focusing on robotics and AI for [**AIRobotics**](https://github.com/AlphaAIRobotics).
     Here is the GitHub Pages of Jingde (Jade) Cong, and come to follow me ([**JadeCong**](https://github.com/JadeCong)) if you're interested in what I'm doing.
   picture:
@@ -71,6 +71,7 @@ author:
   social:
     email: jade.cong@qq.com
     github: JadeCong
+    huggingface: JadeCong
     twitter: JadeCong26
     stackoverflow: 11549484/jade-cong
     reddit: JadeCong
@@ -109,7 +110,7 @@ legal:
     url: /assets/docs/CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright: JadeCong©2020-2023. All rights reserved.
+copyright: JadeCong©2020-2024. All rights reserved.
 
 # The format of the permalinks.
 permalink: /:categories/:year-:month-:day-:title/
@@ -122,8 +123,8 @@ paginate_path: /:num/
 # -------------------- Custom Configuration Options -------------------- #
 
 # Import the theme.
-theme: jekyll-theme-hydejack  # for using hydejack on local site
-# remote_theme: hydecorp/hydejack@v9  # for using hydejack on github pages site
+# theme: jekyll-theme-hydejack  # for using hydejack on local site
+remote_theme: hydecorp/hydejack@v9.1.6  # for using hydejack on github pages site
 
 # This is used for the `theme_color` meta tag, which changes the background color of the browser UI in certain browsers. Defaults to `accent_color`.
 theme_color: rgb(8,46,57)
@@ -144,7 +145,7 @@ font: Noto Sans, Helvetica, Arial, sans-serif
 font_heading: Roboto Slab, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
-font_code: Fira Code, Menlo, Monaco, Consolas, monospace;
+font_code: Fira Code, Menlo, Monaco, Consolas, monospace
 
 # Using front matter is one way that you can specify configuration in the pages and posts for your site. Setting things like a default layout, 
 # or customizing the title, or specifying a more precise date/time for the post can all be added to your page or post front matter.
