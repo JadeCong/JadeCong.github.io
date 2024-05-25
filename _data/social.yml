@@ -106,6 +106,18 @@ github:
   name: GitHub
   icon: icon-github
   prepend: "https://github.com/"
+huggingface:
+  name: Hugging Face
+  icon: icon-earth
+  prepend: "https://huggingface.co/"
+bilibili:
+  name: BiliBili
+  icon: icon-trophy
+  prepend: "https://space.bilibili.com/"
+zhihu:
+  name: Zhihu
+  icon: icon-book
+  prepend: "https://www.zhihu.com/people/"
 npm:
   name: npm
   icon: icon-npm
@@ -147,7 +159,7 @@ skype:
   name: Skype
   icon: icon-skype
 reddit:
-  name: reddit
+  name: Reddit
   icon: icon-reddit
   prepend: "https://www.reddit.com/user/"
 hackernews:

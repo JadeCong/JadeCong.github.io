@@ -72,15 +72,18 @@ author:
     email: jade.cong@qq.com
     github: JadeCong
     huggingface: JadeCong
-    twitter: JadeCong26
-    stackoverflow: 11549484/jade-cong
     reddit: JadeCong
+    stackoverflow: 11549484/jade-cong
     rss: https://media.rss.com/jadecong/feed.xml
-    # linkedin: jingde-cong-a1a85614b
-    # google: jade.cong.me@gmail.com
-    # youtube: https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg
-    # facebook: JadeCong26
+    linkedin: jingde-cong-a1a85614b
+    twitter: JadeCong26
+    facebook: JadeCong26
+    youtube: UCtjkpErjX9X7VocnIJkIuZg
+    bilibili: "383666733"
+    zhihu: Jade_Cong
     # instagram: jade_cong
+    # google: jade.cong.me@gmail.com
+    # dropbox: JadeCong
     # download: https://github.com/JadeCong/JadeCong.github.io/archive/refs/heads/master.zip
 
 # Add links to the sidebar.
@@ -123,8 +126,8 @@ paginate_path: /:num/
 # -------------------- Custom Configuration Options -------------------- #
 
 # Import the theme.
-# theme: jekyll-theme-hydejack  # for using hydejack on local site
-remote_theme: hydecorp/hydejack@v9.1.6  # for using hydejack on github pages site
+theme: jekyll-theme-hydejack  # for using hydejack on local site
+# remote_theme: hydecorp/hydejack@v9.1.6  # for using hydejack on github pages site
 
 # This is used for the `theme_color` meta tag, which changes the background color of the browser UI in certain browsers. Defaults to `accent_color`.
 theme_color: rgb(8,46,57)
@@ -161,7 +164,6 @@ defaults:
       accent_image:
         background: rgb(32,32,32)
         overlay: false
-  
   # Don't include documents in assets in the sitemap.
   - scope:
       path: assets/
@@ -172,13 +174,11 @@ defaults:
     values:
       layout: plain
       sitemap: false
-  
   # You can use the following to enable comments on all posts.
   - scope:
       type: posts
     values:
       comments: true
-  
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`, but we want them to be `WebPage`s.
   - scope:
       type: featured_categories
@@ -233,91 +233,65 @@ tinyletter: JadeCong
 hydejack:
   # Configure the order of complementary content on blog posts.
   post_addons:         [about, newsletter, related, random, comments]
-  
   # Configure the order of complementary content on project pages.
   project_addons:      [about, newsletter, other, comments]
-  
   # Set to `true` if you don't want to show an icon indicating external links.
   no_mark_external:    false
-  
   # Set to `true` if third party plugins fail to work with dynamically loaded pages.
   no_push_state:       false
-  
   # Set to `true` if you want to disable the drawer.
   no_drawer:           false
-  
   # Set to `true` if you don't to use the auto-hiding (JavaScript based) navbar.Note that this will not hide the navbar completely, 
   # only replace it with a static one. Use custom css to hide completely, e.g. `#_navbar { display: none }`.
   no_navbar:           false
-  
   # Set to true to disable the built-in search functionality. Note that search is disabled during local use to save on build time.
   # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
   no_search:           false
-  
   # Set to `true` if you do not want parts of the css inlined in <head/>. This will increase site build speed dramatically!
   no_inline_css:       true
-  
   # Set to `true` if you don't intend on changing the accent color on a per-page basis. This will increase site build speed!
   no_page_style:       false
-  
   # Code blocks and tables "break" the layout by spanning the full available width. Set this to true if you want them to be the same width as other content.
   no_break_layout:     true
-  
   # Set to `true` to disable the dynamic Table of Contents on large screens.
   no_toc:              false
-  
   # When set to `true`, will not extend the content in the "third column" on large screens. Instead, all content will remains within the center column.
   # Note that this will not affect the Table of Contents, use `no_toc` instead.
   no_third_column:     false
-  
   # Set to `true` if you don't like oversized headlines on large screens.
   no_large_headings:   false
-  
   # Set to `true` if you do not want to expose your resume and projects in machine-readable formats.
   no_structured_data:  false
-  
   # You can set this to `true` if you don't want to set the `theme-color` meta tag.
   # This only affects the meta tag, not the color specified in the app manifest.
   no_theme_color:      false
-  
   # Disable the breadcrumbs above the title.
   no_breadcrumbs:      false
-  
   # Set to `true` when building with the `--lsi` option.
   use_lsi:             true
-  
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
   cookies_banner:      true
-  
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.
   advertise:           false
-  
   # Buyers of the PRO version can opt to hide all dates from the theme.
   # Frequent consumers of online content will know that nothing devalues a post like seeing an old date. 
   hide_dates:          false
-  
   # Hide last modified configuration of the site.
   hide_last_modified:  false
-  
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
     # Set to `true` to always use the dark theme.
     always:            false
-    
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
     dynamic:           true
-    
     # Set the sunrise time for dynamic dark mode in 24-hour clock.
     sunrise:           6
-    
     # Set the sunset time for dynamic dark mode in 24-hour clock.
     sunset:            18
-    
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
-  
   # ⚡️ DANGER ZONE ⚡️
   # This is an _experimental_ feature. Only use if you know what Service Workers are and how they can impact your site!
   offline:

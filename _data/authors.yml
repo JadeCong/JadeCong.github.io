@@ -12,7 +12,7 @@ JadeCong:  # author1
   
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
+  about: |
     Hi, I'm Jade Cong ([**@JadeCong26**](https://twitter.com/JadeCong26)) and I'm focusing on robotics and AI for [**AIRobotics**](https://github.com/AlphaAIRobotics).
     Here is the GitHub Pages of Jingde (Jade) Cong, and come to follow me ([**JadeCong**](https://github.com/JadeCong)) if you're interested in what I'm doing.
   
@@ -30,15 +30,19 @@ JadeCong:  # author1
   social:
     email: jade.cong@qq.com
     github: JadeCong
-    twitter: JadeCong26
-    stackoverflow: 11549484/jade-cong
+    huggingface: JadeCong
     reddit: JadeCong
+    stackoverflow: 11549484/jade-cong
     rss: https://media.rss.com/jadecong/feed.xml
-    # linkedin: jingde-cong-a1a85614b
-    # google: jade.cong.me@gmail.com
-    # youtube: https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg
-    # facebook: JadeCong26
+    linkedin: jingde-cong-a1a85614b
+    twitter: JadeCong26
+    facebook: JadeCong26
+    youtube: UCtjkpErjX9X7VocnIJkIuZg
+    bilibili: "383666733"
+    zhihu: Jade_Cong
     # instagram: jade_cong
+    # google: jade.cong.me@gmail.com
+    # dropbox: JadeCong
     # download: https://github.com/JadeCong/JadeCong.github.io/archive/refs/heads/master.zip
     # vk:              <username>
     # vimeo:           <username>
