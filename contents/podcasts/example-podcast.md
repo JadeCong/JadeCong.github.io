@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Example Resume
+layout: post
+title: Example Podcast
 description: >
-  This is an example that how to make a page-type resume post.
+  This is an example that how to create a podcast post.
 hide_description:
 image:
   path:
@@ -19,12 +19,12 @@ theme_color:
 invert_sidebar:
 related_posts:
 redirect_from:
-sitemap: false
+sitemap: true
 last_modified_at:
 hide_last_modified:
 excerpt_separator:
 ---
 
-## Example Resume
+## Example Podcast
 
-Example resume is a page-type post related to resume which will be published.
+Example Podcast Post.

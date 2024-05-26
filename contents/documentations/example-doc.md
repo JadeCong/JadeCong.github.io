@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example Pub
+title: Example Doc
 description: >
-  This is an example that how to make a post-type pub post.
+  This is an example that how to create a doc post.
 hide_description:
 image:
   path:
@@ -25,6 +25,6 @@ hide_last_modified:
 excerpt_separator:
 ---
 
-## Example Pub
+## Example Doc
 
-Example pub is a post-type post related to pub which will be published.
+Example Doc Post.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example Project
+title: Example Talk
 description: >
-  This is an example that how to make a post-type project post.
+  This is an example that how to create a talk post.
 hide_description:
 image:
   path:
@@ -25,6 +25,6 @@ hide_last_modified:
 excerpt_separator:
 ---
 
-## Example Project
+## Example Talk
 
-Example project is a post-type post related to project which will be published.
+Example Talk Post.

@@ -2,7 +2,7 @@
 layout: post
 title: Example Blog
 description: >
-  This is an example that how to make a post-type blog post.
+  This is an example that how to create a blog post.
 hide_description:
 image:
   path:
@@ -27,4 +27,4 @@ excerpt_separator:
 
 ## Example Blog
 
-Example blog is a post-type post related to blog which will be published.
+Example Blog Post.

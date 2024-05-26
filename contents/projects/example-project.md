@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Example About
+layout: project
+title: Example Project
 description: >
-  This is an example that how to make a page-type about post.
+  This is an example that how to create a project post.
 hide_description:
 image:
   path:
@@ -19,12 +19,12 @@ theme_color:
 invert_sidebar:
 related_posts:
 redirect_from:
-sitemap: false
+sitemap: true
 last_modified_at:
 hide_last_modified:
 excerpt_separator:
 ---
 
-## Example About
+## Example Project
 
-Example about is a page-type post related to about which will be published.
+Example Project Post.

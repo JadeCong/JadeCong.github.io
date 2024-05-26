@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Example Research
+layout: post
+title: Example About
 description: >
-  This is an example that how to make a page-type research post.
+  This is an example that how to create an about post.
 hide_description:
 image:
   path:
@@ -25,6 +25,6 @@ hide_last_modified:
 excerpt_separator:
 ---
 
-## Example Research
+## Example About
 
-Example research is a page-type post related to research which will be published.
+Example About Post.

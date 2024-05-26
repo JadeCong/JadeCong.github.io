@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example Draft
+title: Example Research
 description: >
-  This is an example that how to make a post-type draft post.
+  This is an example that how to create a research post.
 hide_description:
 image:
   path:
@@ -25,6 +25,6 @@ hide_last_modified:
 excerpt_separator:
 ---
 
-## Example Draft
+## Example Research
 
-Example draft is a post-type draft post which may be modified or deleted at anytime.
+Example Research Post.

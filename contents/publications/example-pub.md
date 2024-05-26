@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example Talk
+title: Example Pub
 description: >
-  This is an example that how to make a post-type talk post.
+  This is an example that how to create a pub post.
 hide_description:
 image:
   path:
@@ -25,6 +25,6 @@ hide_last_modified:
 excerpt_separator:
 ---
 
-## Example Talk
+## Example Pub
 
-Example talk is a post-type post related to talk which will be published.
+Example Pub Post.

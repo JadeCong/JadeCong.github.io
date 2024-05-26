@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example Doc
+title: Example Draft
 description: >
-  This is an example that how to make a post-type doc post.
+  This is an example that how to create a draft post.
 hide_description:
 image:
   path:
@@ -19,12 +19,12 @@ theme_color:
 invert_sidebar:
 related_posts:
 redirect_from:
-sitemap: true
+sitemap: false
 last_modified_at:
 hide_last_modified:
 excerpt_separator:
 ---
 
-## Example Doc
+## Example Draft
 
-Example doc is a post-type post related to doc which will be published.
+Example Draft Post.
