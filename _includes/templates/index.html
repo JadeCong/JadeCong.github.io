@@ -6,4 +6,13 @@
   {% include templates/loading.html %}
   {% include templates/error.html %}
   {% include templates/permalink.html %}
+  {% if site.hydejack.cookies_banner %}
+    {% include templates/pro/cookies-banner.html %}
+  {% endif %}
+  {% if site.hydejack.dark_mode.icon %}
+    {% include templates/pro/dark-mode.html %}
+  {% endif %}
+  {% unless site.hydejack.no_search %}
+    {% include templates/pro/search.html %}
+  {% endunless %}
 </div>

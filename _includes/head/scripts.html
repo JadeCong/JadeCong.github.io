@@ -6,6 +6,7 @@
   w._noNavbar = {{    site.hydejack.no_navbar     | default:false }};
   w._noToc = {{       site.hydejack.no_toc        | default:false }};
   w._noSearch = {{    site.hydejack.no_search     | default:false }};
+  w._advertise = {% if site.hydejack.advertise %}true{% else %}false{% endif %};
   w._search = {
     DATA_URL: '{{ "/assets/sitedata.json?no-cache" | relative_url }}',
     STORAGE_KEY: 'mini-search{{ "/" | relative_url }}',

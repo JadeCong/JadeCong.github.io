@@ -3,5 +3,5 @@
 
 <li class="h4">
   <a href="{{ post.url | relative_url }}" class="flip-title"><span>{{ post.title }}</span></a>
-  <time class="faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time>
+  {% unless site.hydejack.hide_dates %}<time class="faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time>{% endunless %}
 </li>

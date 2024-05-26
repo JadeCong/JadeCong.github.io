@@ -54,7 +54,7 @@ favicon: /assets/icons/favicon-symbol.ico
 apple_touch_icon: /assets/icons/icon-192x192-symbol.png
 
 # A square logo for you site, it will be shown at the top of the sidebar if provided, and it also used by the "jekyll-seo-tag" plugin.
-logo: /assets/images/site/logo-photo.jpg
+logo: /assets/images/_site/logo-photo.jpg
 
 # This should be the same author as first entry in "_data/authors.yml".
 author:
@@ -64,23 +64,25 @@ author:
     Hi, I'm Jade Cong ([**@JadeCong26**](https://twitter.com/JadeCong26)) and I'm focusing on robotics and AI for [**AIRobotics**](https://github.com/AlphaAIRobotics).
     Here is the GitHub Pages of Jingde (Jade) Cong, and come to follow me ([**JadeCong**](https://github.com/JadeCong)) if you're interested in what I'm doing.
   picture:
-    path: /assets/images/site/me.jpg
+    path: /assets/images/_site/me.jpg
     srcset:
-      1x: /assets/images/site/me.jpg
-      2x: /assets/images/site/me@2x.jpg
+      1x: /assets/images/_site/me.jpg
+      2x: /assets/images/_site/me@2x.jpg
   social:
     email: jade.cong@qq.com
+    linkedin: jingde-cong-a1a85614b
     github: JadeCong
     huggingface: JadeCong
     reddit: JadeCong
     stackoverflow: 11549484/jade-cong
     rss: https://media.rss.com/jadecong/feed.xml
-    linkedin: jingde-cong-a1a85614b
+    soundcloud: jadecong
     twitter: JadeCong26
-    facebook: JadeCong26
     youtube: UCtjkpErjX9X7VocnIJkIuZg
     bilibili: "383666733"
     zhihu: Jade_Cong
+    # spotify: JadeCong
+    # facebook: JadeCong26
     # instagram: jade_cong
     # google: jade.cong.me@gmail.com
     # dropbox: JadeCong
@@ -98,8 +100,12 @@ menu:
     url: /contents/blogs/
   - title: Talks
     url: /contents/talks/
+  - title: Podcasts
+    url: /contents/podcasts/
   - title: Documentations
     url: /contents/documentations/
+  - title: Resumes
+    url: /contents/resumes/
   - title: About
     url: /contents/about/
 
@@ -133,7 +139,7 @@ remote_theme: hydecorp/hydejack@v9.1.6  # for using hydejack on github pages sit
 theme_color: rgb(8,46,57)
 
 # Sidebar image of the site.
-accent_image: /assets/images/site/sidebar-bg1.jpg
+accent_image: /assets/images/_site/sidebar-bg1.jpg
 
 # Color of the links, selection and focus outline for the site.
 accent_color: rgb(79,177,186)
@@ -298,7 +304,7 @@ hydejack:
     enabled:           false
     cache_version:     13
     precache_assets:
-      - /assets/images/site/swipe.svg
+      - /assets/images/_site/swipe.svg
 
 # Collections Settings.
 collections:
@@ -393,19 +399,19 @@ jekyll_compose:
       description: > 
         A short ~160 character description of your post for search engines, social media previews, etc.
       image:
-        path: /assets/images/site/sidebar-bg2.jpg
+        path: /assets/images/_site/sidebar-bg2.jpg
     posts:
       layout: post
       description: > 
         A short ~160 character description of your post for search engines, social media previews, etc.
       image:
-        path: /assets/images/site/sidebar-bg2.jpg
+        path: /assets/images/_site/sidebar-bg2.jpg
     projects:
       layout: project
       description: > 
         A short ~160 character description of your post for search engines, social media previews, etc.
       image:
-        path: /assets/images/site/sidebar-bg2.jpg
+        path: /assets/images/_site/sidebar-bg2.jpg
       links:
         - title: Project Link
           url: https://example.com
@@ -444,7 +450,7 @@ source: .
 
 destination: ./_site
 
-plugins_dir: /assets/plugins/
+plugins_dir: /_plugins/
 
 layouts_dir: /_layouts/
 

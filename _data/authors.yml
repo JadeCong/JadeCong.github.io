@@ -29,17 +29,19 @@ JadeCong:  # author1
   # Rearrange to change the order in which they appear
   social:
     email: jade.cong@qq.com
+    linkedin: jingde-cong-a1a85614b
     github: JadeCong
     huggingface: JadeCong
     reddit: JadeCong
     stackoverflow: 11549484/jade-cong
     rss: https://media.rss.com/jadecong/feed.xml
-    linkedin: jingde-cong-a1a85614b
+    soundcloud: jadecong
     twitter: JadeCong26
-    facebook: JadeCong26
     youtube: UCtjkpErjX9X7VocnIJkIuZg
     bilibili: "383666733"
     zhihu: Jade_Cong
+    # spotify: JadeCong
+    # facebook: JadeCong26
     # instagram: jade_cong
     # google: jade.cong.me@gmail.com
     # dropbox: JadeCong
@@ -47,8 +49,6 @@ JadeCong:  # author1
     # vk:              <username>
     # vimeo:           <username>
     # vine:            <username>
-    # spotify:         <user>/<number>
-    # soundcloud:      <username>
     # lastfm:          <username>
     # flickr:          <string@string>
     # 500px:           <username>
