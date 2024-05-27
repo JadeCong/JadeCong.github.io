@@ -9,7 +9,7 @@
 # especially for languages that differ significantly from English.
 
 
-# -------------------- Free version -------------------- #
+# ------------------------------ Free version ------------------------------ #
 home:                  Home
 pages:                 Pages
 posts:                 Posts
@@ -67,7 +67,6 @@ error:
   message:             |
     Sorry, an error occurred while loading <!--link-->.
 
-
 # -------------------- Separators -------------------- #
 posted:                'Posted'
 last_modified_at:      'Last modified at'
@@ -82,7 +81,6 @@ from_to_separator:     '–'
 breadcrumbs_home:      'home'
 breadcrumbs_separator: '/'
 
-
 # -------------------- Date formats -------------------- #
 date_formats:
   post:                '%d %b %Y'
@@ -95,7 +93,7 @@ date_formats:
   resume:              '%b %Y'
 
 
-# -------------------- PRO Version -------------------- #
+# ------------------------------ PRO Version ------------------------------ #
 #
 # If you don't own the PRO version of Hydejack, modifying these will have no effect.
 tinyletter:
@@ -105,7 +103,7 @@ tinyletter:
   button:              Subscribe
   message:             |
     Require nothing but an email address so that you could be notified by email
-    when new blogs, projects and some other contents are published or updated.
+    when new blogs, projects, talks and some other contents are published or updated.
     
     <!--form JadeCong-->
     

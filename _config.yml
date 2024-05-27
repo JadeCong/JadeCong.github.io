@@ -39,7 +39,7 @@ title: Jade Cong
 
 # A short description (~150 chars) of the page used for the meta description tag. Can use markdown, but no more than one paragraph (enforced by `>`).
 description: >
-  This is the site where you know more about Jade Cong.
+  This is the site where you will know more about Jade Cong.
 
 # A shorter description for the sidebar.
 tagline: Think and Act, Win with Respect~
@@ -48,26 +48,26 @@ tagline: Think and Act, Win with Respect~
 keywords: [Researches, Publications, Projects, Blogs, Talks, Documentations, About, Robotics, AI, AIRobotics, RobotLearning]
 
 # The favicon for the site and it will show on the browser tab.
-favicon: /assets/icons/favicon-symbol.ico
+favicon: /assets/icons/favicon.ico
 
 # The apple touch icon for the site and it will show on the smart phone interface.
-apple_touch_icon: /assets/icons/icon-192x192-symbol.png
+apple_touch_icon: /assets/icons/icon-192x192.png
 
 # A square logo for you site, it will be shown at the top of the sidebar if provided, and it also used by the "jekyll-seo-tag" plugin.
-logo: /assets/images/_site/logo-photo.jpg
+logo: /assets/images/home/logo-photo.jpg
 
 # This should be the same author as first entry in "_data/authors.yml".
 author:
   name: Jade Cong  # used by "jekyll-feed"
   email: jade.cong@qq.com  # used by "jekyll-feed"
   about: |
-    Hi, I'm Jade Cong ([**@JadeCong26**](https://twitter.com/JadeCong26)) and I'm focusing on robotics and AI for [**AIRobotics**](https://github.com/AlphaAIRobotics).
+    Hi, I'm Jade Cong ([**@JadeCong26**](https://twitter.com/JadeCong26)) and I'm focusing on robotics and AI for [**AIRobotics**](https://github.com/FutureAIRobotics).
     Here is the GitHub Pages of Jingde (Jade) Cong, and come to follow me ([**JadeCong**](https://github.com/JadeCong)) if you're interested in what I'm doing.
   picture:
-    path: /assets/images/_site/me.jpg
+    path: /assets/images/home/me.jpg
     srcset:
-      1x: /assets/images/_site/me.jpg
-      2x: /assets/images/_site/me@2x.jpg
+      1x: /assets/images/home/me.jpg
+      2x: /assets/images/home/me@2x.jpg
   social:
     email: jade.cong@qq.com
     linkedin: jingde-cong-a1a85614b
@@ -122,7 +122,7 @@ legal:
 copyright: JadeCong©2020-2024. All rights reserved.
 
 # The format of the permalinks.
-permalink: /:categories/:year-:month-:day-:title/
+permalink: /contents/:categories/:year-:month-:day-:title/
 
 # The pagination configuration(used by the "blog" layout).
 paginate: 10
@@ -139,7 +139,7 @@ remote_theme: hydecorp/hydejack@v9.1.6  # for using hydejack on github pages sit
 theme_color: rgb(8,46,57)
 
 # Sidebar image of the site.
-accent_image: /assets/images/_site/sidebar-bg1.jpg
+accent_image: /assets/images/home/sidebar-home.jpg
 
 # Color of the links, selection and focus outline for the site.
 accent_color: rgb(79,177,186)
@@ -155,6 +155,9 @@ font_heading: Roboto Slab, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 font_code: Fira Code, Menlo, Monaco, Consolas, monospace
+
+# Clap button for the site.
+clap_button: false
 
 # Using front matter is one way that you can specify configuration in the pages and posts for your site. Setting things like a default layout, 
 # or customizing the title, or specifying a more precise date/time for the post can all be added to your page or post front matter.
@@ -174,11 +177,6 @@ defaults:
   - scope:
       path: assets/
     values:
-      sitemap: false
-  - scope:
-      path: contents/
-    values:
-      layout: plain
       sitemap: false
   # You can use the following to enable comments on all posts.
   - scope:
@@ -238,85 +236,94 @@ tinyletter: JadeCong
 # Specific Settings for Hydejack.
 hydejack:
   # Configure the order of complementary content on blog posts.
-  post_addons:         [about, newsletter, related, random, comments]
+  post_addons:        [about, newsletter, related, random, comments]
   # Configure the order of complementary content on project pages.
-  project_addons:      [about, newsletter, other, comments]
+  project_addons:     [about, newsletter, other, comments]
   # Set to `true` if you don't want to show an icon indicating external links.
-  no_mark_external:    false
+  no_mark_external:   false
   # Set to `true` if third party plugins fail to work with dynamically loaded pages.
-  no_push_state:       false
+  no_push_state:      false
   # Set to `true` if you want to disable the drawer.
-  no_drawer:           false
+  no_drawer:          false
   # Set to `true` if you don't to use the auto-hiding (JavaScript based) navbar.Note that this will not hide the navbar completely, 
   # only replace it with a static one. Use custom css to hide completely, e.g. `#_navbar { display: none }`.
-  no_navbar:           false
+  no_navbar:          false
   # Set to true to disable the built-in search functionality. Note that search is disabled during local use to save on build time.
   # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
-  no_search:           false
+  no_search:          false
   # Set to `true` if you do not want parts of the css inlined in <head/>. This will increase site build speed dramatically!
-  no_inline_css:       true
+  no_inline_css:      true
   # Set to `true` if you don't intend on changing the accent color on a per-page basis. This will increase site build speed!
-  no_page_style:       false
+  no_page_style:      false
   # Code blocks and tables "break" the layout by spanning the full available width. Set this to true if you want them to be the same width as other content.
-  no_break_layout:     true
+  no_break_layout:    true
   # Set to `true` to disable the dynamic Table of Contents on large screens.
-  no_toc:              false
+  no_toc:             false
   # When set to `true`, will not extend the content in the "third column" on large screens. Instead, all content will remains within the center column.
   # Note that this will not affect the Table of Contents, use `no_toc` instead.
-  no_third_column:     false
+  no_third_column:    false
   # Set to `true` if you don't like oversized headlines on large screens.
-  no_large_headings:   false
+  no_large_headings:  false
   # Set to `true` if you do not want to expose your resume and projects in machine-readable formats.
-  no_structured_data:  false
+  no_structured_data: false
   # You can set this to `true` if you don't want to set the `theme-color` meta tag.
   # This only affects the meta tag, not the color specified in the app manifest.
-  no_theme_color:      false
+  no_theme_color:     false
   # Disable the breadcrumbs above the title.
-  no_breadcrumbs:      false
+  no_breadcrumbs:     false
   # Set to `true` when building with the `--lsi` option.
-  use_lsi:             true
+  use_lsi:            true
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      true
+  cookies_banner:     true
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.
-  advertise:           false
+  advertise:          false
   # Buyers of the PRO version can opt to hide all dates from the theme.
   # Frequent consumers of online content will know that nothing devalues a post like seeing an old date. 
-  hide_dates:          false
+  hide_dates:         false
   # Hide last modified configuration of the site.
-  hide_last_modified:  false
+  hide_last_modified: false
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
     # Set to `true` to always use the dark theme.
-    always:            false
+    always:           false
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           true
+    dynamic:          true
     # Set the sunrise time for dynamic dark mode in 24-hour clock.
-    sunrise:           6
+    sunrise:          6
     # Set the sunset time for dynamic dark mode in 24-hour clock.
-    sunset:            18
+    sunset:           18
     # Set to `true` to allow visitors to switch between light and dark mode.
-    icon:              true
+    icon:             true
   # ⚡️ DANGER ZONE ⚡️
   # This is an _experimental_ feature. Only use if you know what Service Workers are and how they can impact your site!
   offline:
-    enabled:           false
-    cache_version:     13
+    enabled:          false
+    cache_version:    13
     precache_assets:
-      - /assets/images/_site/swipe.svg
+      - /assets/images/home/swipe.svg
+      - /assets/images/researches/swipe.svg
+      - /assets/images/publications/swipe.svg
+      - /assets/images/projects/swipe.svg
+      - /assets/images/blogs/swipe.svg
+      - /assets/images/talks/swipe.svg
+      - /assets/images/podcasts/swipe.svg
+      - /assets/images/documentations/swipe.svg
+      - /assets/images/resumes/swipe.svg
+      - /assets/images/about/swipe.svg
 
 # Collections Settings.
 collections:
   featured_categories:
-    permalink:         /:name/
-    output:            true
+    permalink:        /contents/:categories/:name/
+    output:           true
   featured_tags:
-    permalink:         /tag-:name/
-    output:            true
+    permalink:        /tag-:name/
+    output:           true
   projects:  # The default projects collection
-    permalink:         /projects/:path/
-    output:            true
+    permalink:        /projects/:path/
+    output:           true
 
 # Exclude from processing. The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to the internal "default list".
@@ -399,19 +406,19 @@ jekyll_compose:
       description: > 
         A short ~160 character description of your post for search engines, social media previews, etc.
       image:
-        path: /assets/images/_site/sidebar-bg2.jpg
+        path: /assets/images/blogs/sidebar-blogs.jpg
     posts:
       layout: post
       description: > 
         A short ~160 character description of your post for search engines, social media previews, etc.
       image:
-        path: /assets/images/_site/sidebar-bg2.jpg
+        path: /assets/images/blogs/sidebar-blogs.jpg
     projects:
       layout: project
       description: > 
         A short ~160 character description of your post for search engines, social media previews, etc.
       image:
-        path: /assets/images/_site/sidebar-bg2.jpg
+        path: /assets/images/projects/sidebar-projects.jpg
       links:
         - title: Project Link
           url: https://example.com
@@ -458,13 +465,13 @@ host: 127.0.0.1
 
 port: 4000
 
-timezone: Hongkong
+timezone: HKT
 
 encoding: UTF-8
 
 twitter_username: JadeCong26
 
-github_username:  JadeCong
+github_username: JadeCong
 
 keep_files: []
 
