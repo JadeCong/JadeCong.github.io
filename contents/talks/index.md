@@ -1,14 +1,14 @@
 ---
-layout: project
-title: Projects
+layout: grid
+title: Talks
 description: >
-  This block is an archive about projects published on the site.
+  This block is an archive about talks published on the site.
 accent_image:
-  background: url('/assets/images/projects/sidebar-projects.jpg') center/cover
+  background: url('/assets/images/talks/sidebar-talks.jpg') center/cover
   overlay: false
 
-permalink: /contents/projects/
-show_collection: projects
+permalink: /contents/talks/
+show_collection: talks
 
 hide_description: false
 invert_sidebar: false
@@ -22,3 +22,5 @@ comments: true
 
 last_modified_at: 2024-05-27
 ---
+
+

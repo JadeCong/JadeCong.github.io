@@ -1,14 +1,14 @@
 ---
-layout: page
-title: Researches
+layout: about
+title: About
 description: >
-  This block is a brief introduction about researches that the author focuses on.
+  This block is a profile about author of the site, Jingde (Jade) Cong.
 accent_image:
-  background: url('/assets/images/researches/sidebar-researches.jpg') center/cover
+  background: url('/assets/images/about/sidebar-about.jpg') center/cover
   overlay: false
 
-permalink: /contents/researches/
-show_collection: researches
+permalink: /contents/about/
+show_collection: about
 
 hide_description: false
 invert_sidebar: false
@@ -22,3 +22,5 @@ comments: false
 
 last_modified_at: 2024-05-27
 ---
+
+

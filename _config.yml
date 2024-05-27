@@ -363,7 +363,7 @@ exclude:
 
 include:
   - _config.yml
-  - index.html
+  - index.md
 
 # Jekyll plugins for the site.
 plugins:
@@ -485,7 +485,7 @@ plugins_dir: /_plugins/
 
 layouts_dir: /_layouts/
 
-host: 127.0.0.1
+host: localhost
 
 port: 4000
 

@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title: Example Doc
 description: >
   This is an example that how to create a doc post.
-hide_description:
+hide_description: false
 image:
   path:
   srcset:

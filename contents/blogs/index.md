@@ -1,14 +1,14 @@
 ---
-layout: grid
-title: Talks
+layout: blog
+title: Blogs
 description: >
-  This block is an archive about talks published on the site.
+  This block is an archive about blogs published on the site.
 accent_image:
-  background: url('/assets/images/talks/sidebar-talks.jpg') center/cover
+  background: url('/assets/images/blogs/sidebar-blogs.jpg') center/cover
   overlay: false
 
-permalink: /contents/talks/
-show_collection: talks
+permalink: /contents/blogs/
+show_collection: blogs
 
 hide_description: false
 invert_sidebar: false
@@ -22,3 +22,5 @@ comments: true
 
 last_modified_at: 2024-05-27
 ---
+
+

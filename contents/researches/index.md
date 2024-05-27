@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Publications
+title: Researches
 description: >
-  This block is an archive about publications published on the site.
+  This block is a brief introduction about researches that the author focuses on.
 accent_image:
-  background: url('/assets/images/publications/sidebar-publications.jpg') center/cover
+  background: url('/assets/images/researches/sidebar-researches.jpg') center/cover
   overlay: false
 
-permalink: /contents/publications/
-show_collection: publications
+permalink: /contents/researches/
+show_collection: researches
 
 hide_description: false
 invert_sidebar: false
@@ -22,3 +22,5 @@ comments: false
 
 last_modified_at: 2024-05-27
 ---
+
+

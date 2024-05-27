@@ -1,14 +1,14 @@
 ---
-layout: about
-title: About
+layout: page
+title: Publications
 description: >
-  This block is a profile about author of the site, Jingde (Jade) Cong.
+  This block is an archive about publications published on the site.
 accent_image:
-  background: url('/assets/images/about/sidebar-about.jpg') center/cover
+  background: url('/assets/images/publications/sidebar-publications.jpg') center/cover
   overlay: false
 
-permalink: /contents/about/
-show_collection: about
+permalink: /contents/publications/
+show_collection: publications
 
 hide_description: false
 invert_sidebar: false
@@ -22,3 +22,5 @@ comments: false
 
 last_modified_at: 2024-05-27
 ---
+
+

@@ -7,7 +7,7 @@ accent_image:
   background: url('/assets/images/home/sidebar-home.jpg') center/cover
   overlay: false
 
-<!-- permalink: /contents/home/ -->
+# permalink: /contents/home/
 show_collection: projects
 
 hide_description: false
@@ -22,3 +22,5 @@ comments: false
 
 last_modified_at: 2024-05-27
 ---
+
+

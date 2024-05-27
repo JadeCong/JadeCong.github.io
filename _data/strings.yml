@@ -102,10 +102,10 @@ tinyletter:
   placeholder:         Enter your email address
   button:              Subscribe
   message:             |
-    Require nothing but an email address so that you could be notified by email
+    Require nothing but an email address so that you could be notified by email 
     when new blogs, projects, talks and some other contents are published or updated.
     
-    <!--form JadeCong-->
+    <!--form-->
     
     No 3rd party products, no spam. Emails handled by [Tinyletter](https://tinyletter.com/)
     {:.faded}
