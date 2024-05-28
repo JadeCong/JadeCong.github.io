@@ -40,27 +40,33 @@ sitemap: false
 comments: true
 ---
 
-## Documentations Index
-Here are doc archives for blocks as follow: AI, Robotics, AIRobotics, Metaverse, X-Technologies.
+Here are document archives for the site as follow: AI, Robotics, AIRobotics, Metaverse, X-Technologies, Startups. You can browse and explore the details in each category of docs for getting to know more about me. [Please let me know](mailto:jade.cong@qq.com) in time if you find any mistakes in the docs. 
+
+The documents are temporarily classified into the above categories which will be gradually added, deleted, and modified according to actual needs in the future.
+{:.note}
 
 ## AI
-* [AI]{:.heading.flip-title} --- Artificial Intelligence Docs.
+* [AI]{:.heading.flip-title} --- Introductions and applications for artificial intelligence.
 {:.related-posts.faded}
 
 ## Robotics
-* [Robotics]{:.heading.flip-title} --- Robotics Docs.
+* [Robotics]{:.heading.flip-title} --- Introductions and applications for robotics.
 {:.related-posts.faded}
 
 ## AIRobotics
-* [AIRobotics]{:.heading.flip-title} --- AI and Robotics Docs.
+* [AIRobotics]{:.heading.flip-title} --- Introductions and applications for AI-powered robotics.
 {:.related-posts.faded}
 
 ## Metaverse
-* [Metaverse]{:.heading.flip-title} --- Metaverse Docs.
+* [Metaverse]{:.heading.flip-title} --- Introductions and applications for metaverse and simulations.
 {:.related-posts.faded}
 
 ## X-Technologies
-* [X-Technologies]{:.heading.flip-title} --- X-Technologies Docs.
+* [X-Technologies]{:.heading.flip-title} --- Introductions and applications for X-Technologies.
+{:.related-posts.faded}
+
+## Startups
+* [Startups]{:.heading.flip-title} --- Introductions and applications for Startups.
 {:.related-posts.faded}
 
 
@@ -69,3 +75,4 @@ Here are doc archives for blocks as follow: AI, Robotics, AIRobotics, Metaverse,
 [AIRobotics]: AIRobotics.md
 [Metaverse]: Metaverse.md
 [X-Technologies]: X-Technologies.md
+[Startups]: Startups.md
