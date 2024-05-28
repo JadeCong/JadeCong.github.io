@@ -3,28 +3,28 @@ layout: page
 title: Documentations
 description: >
   This block is an archive about documentations published on the site.
-logo:
-theme_color:
-accent_color:
+# logo:
+# theme_color:
+# accent_color:
 accent_image:
   background: url('/assets/images/documentations/sidebar-documentations.jpg') center/cover
-  overlay: false
-image:
-  path:
-  srcset:
-    1024w:
-    512w:
-    256w:
+  overlay: ture
+# image:
+#   path:
+#   srcset:
+#     1024w:
+#     512w:
+#     256w:
 
 permalink: /contents/documentations/
 show_collection: documentations
-selected_projects:
-projects_page:
-selected_posts:
-posts_page:
-related_posts:
-redirect_from:
-excerpt_separator:
+# selected_projects:
+# projects_page:
+# selected_posts:
+# posts_page:
+# related_posts:
+# redirect_from:
+# excerpt_separator:
 last_modified_at: 2024-05-28
 
 hide_description: false
