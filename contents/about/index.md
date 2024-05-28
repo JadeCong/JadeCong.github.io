@@ -40,4 +40,12 @@ sitemap: false
 comments: false
 ---
 
+## About Index
 
+TODO:
+- [ ] Who I am
+- [ ] What I do/have done
+- [ ] My Resume/CV
+- [ ] How to approach me
+- [ ] Get to know me a bit more
+- [ ] Help and Support

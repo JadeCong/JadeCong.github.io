@@ -14,6 +14,8 @@ ehthumbs.db
 
 # Project Config Misc
 _site/
+_drafts/
+_posts/
 .jekyll
 .jekyll-cache
 .jekyll-metadata

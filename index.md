@@ -8,7 +8,7 @@ description: >
 # accent_color:
 accent_image:
   background: url('/assets/images/home/sidebar-home.jpg') center/cover
-  overlay: false
+  overlay: true
 # image:
 #   path:
 #   srcset:
@@ -40,4 +40,8 @@ sitemap: false
 comments: false
 ---
 
+## Home Index
 
+TODO:
+- [ ] A brief introduction to me
+- [ ] Abstracts of the contents on the site

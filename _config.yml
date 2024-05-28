@@ -45,7 +45,7 @@ description: >
 tagline: Think and Act, Win with Respect~
 
 # A list of keywords for your blog.
-keywords: [Researches, Publications, Projects, Blogs, Talks, Documentations, About, Robotics, AI, AIRobotics, RobotLearning]
+keywords: [Researches, Publications, Projects, Blogs, Talks, Podcasts, Documentations, Resume, About, Robotics, AI, AIRobotics, Metaverse, X-Technologies, Startups]
 
 # The favicon for the site and it will show on the browser tab.
 favicon: /assets/icons/favicon.ico
@@ -104,8 +104,8 @@ menu:
     url: /contents/podcasts/
   - title: Documentations
     url: /contents/documentations/
-  - title: Resumes
-    url: /contents/resumes/
+  - title: Resume
+    url: /contents/resume/
   - title: About
     url: /contents/about/
 
@@ -122,11 +122,11 @@ legal:
 copyright: JadeCong©2020-2024. All rights reserved.
 
 # The format of the permalinks.
-permalink: /contents/:categories/:year-:month-:day-:title/
+permalink: /contents/:path/:categories/:year-:month-:day-:title/
 
 # The pagination configuration(used by the "blog" layout).
 paginate: 10
-paginate_path: /:num/
+paginate_path: /contents/blogs/:num/
 
 
 # -------------------- Custom Configuration Options -------------------- #
@@ -157,7 +157,7 @@ font_heading: Roboto Slab, Helvetica, Arial, sans-serif
 font_code: Fira Code, Menlo, Monaco, Consolas, monospace
 
 # Clap button for the site.
-clap_button: false
+clap_button: true
 
 # Using front matter is one way that you can specify configuration in the pages and posts for your site. Setting things like a default layout, 
 # or customizing the title, or specifying a more precise date/time for the post can all be added to your page or post front matter.
@@ -166,16 +166,64 @@ clap_button: false
 defaults:
   # You can use this to provide a default accent color and background for all pages under a given path.
   - scope:
-      path: contents/
+      path: /contents/researches/
     values:
-      accent_color: rgb(38,139,210)
-      theme_color: rgb(32,32,32)
+      theme_color: rgb(8,46,57)
+      accent_color: rgb(79,177,186)
       accent_image:
-        background: rgb(32,32,32)
-        overlay: false
+        background: url('/assets/images/researches/sidebar-researches.jpg') center/cover
+        overlay: true
+  - scope:
+      path: /contents/publications/
+    values:
+      theme_color: rgb(8,46,57)
+      accent_color: rgb(79,177,186)
+      accent_image:
+        background: url('/assets/images/publications/sidebar-publications.jpg') center/cover
+        overlay: true
+  - scope:
+      path: /contents/projects/
+    values:
+      theme_color: rgb(8,46,57)
+      accent_color: rgb(79,177,186)
+      accent_image:
+        background: url('/assets/images/projects/sidebar-projects.jpg') center/cover
+        overlay: true
+  - scope:
+      path: /contents/blogs/
+    values:
+      theme_color: rgb(8,46,57)
+      accent_color: rgb(79,177,186)
+      accent_image:
+        background: url('/assets/images/blogs/sidebar-blogs.jpg') center/cover
+        overlay: true
+  - scope:
+      path: /contents/talks/
+    values:
+      theme_color: rgb(8,46,57)
+      accent_color: rgb(79,177,186)
+      accent_image:
+        background: url('/assets/images/talks/sidebar-talks.jpg') center/cover
+        overlay: true
+  - scope:
+      path: /contents/podcasts/
+    values:
+      theme_color: rgb(8,46,57)
+      accent_color: rgb(79,177,186)
+      accent_image:
+        background: url('/assets/images/podcasts/sidebar-podcasts.jpg') center/cover
+        overlay: true
+  - scope:
+      path: /contents/documentations/
+    values:
+      theme_color: rgb(8,46,57)
+      accent_color: rgb(79,177,186)
+      accent_image:
+        background: url('/assets/images/documentations/sidebar-documentations.jpg') center/cover
+        overlay: true
   # Don't include documents in assets in the sitemap.
   - scope:
-      path: assets/
+      path: /assets/
     values:
       sitemap: false
   # You can use the following to enable comments on all posts.
@@ -195,7 +243,37 @@ defaults:
       seo:
         type: WebPage
   - scope:
+      type: researches
+    values:
+      seo:
+        type: WebPage
+  - scope:
+      type: publications
+    values:
+      seo:
+        type: WebPage
+  - scope:
       type: projects
+    values:
+      seo:
+        type: WebPage
+  - scope:
+      type: blogs
+    values:
+      seo:
+        type: WebPage
+  - scope:
+      type: talks
+    values:
+      seo:
+        type: WebPage
+  - scope:
+      type: podcasts
+    values:
+      seo:
+        type: WebPage
+  - scope:
+      type: documentations
     values:
       seo:
         type: WebPage
@@ -310,16 +388,16 @@ hydejack:
       - /assets/images/talks/swipe.svg
       - /assets/images/podcasts/swipe.svg
       - /assets/images/documentations/swipe.svg
-      - /assets/images/resumes/swipe.svg
+      - /assets/images/resume/swipe.svg
       - /assets/images/about/swipe.svg
 
 # Collections Settings.
 collections:
   featured_categories:
-    permalink: /contents/:categories/:name/
+    permalink: /categories/category-:name/
     output: true
   featured_tags:
-    permalink: /tag-:name/
+    permalink: /tags/tag-:name/
     output: true
   researches: # The default researches collection
     permalink: /contents/researches/:path/
@@ -341,12 +419,6 @@ collections:
     output: true
   documentations: # The default documentations collection
     permalink: /contents/documentations/:path/
-    output: true
-  resumes: # The default resumes collection
-    permalink: /contents/resumes/:path/
-    output: true
-  about: # The default about collection
-    permalink: /contents/about/:path/
     output: true
 
 # Exclude from processing. The following items will not be processed, by default.
@@ -423,6 +495,7 @@ sass:
   sourcemap: always
 
 # Jekyll Compose Defaults.
+# Generate a draft or post quickly with default front matter using jekyll-compose plugin.
 jekyll_compose:
   default_front_matter:
     drafts:
@@ -489,7 +562,7 @@ host: localhost
 
 port: 4000
 
-timezone: HKT
+timezone: Asia/Shanghai
 
 encoding: UTF-8
 

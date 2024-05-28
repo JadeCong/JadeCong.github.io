@@ -8,7 +8,7 @@ description: >
 # accent_color:
 accent_image:
   background: url('/assets/images/documentations/sidebar-documentations.jpg') center/cover
-  overlay: ture
+  overlay: true
 # image:
 #   path:
 #   srcset:
@@ -40,31 +40,27 @@ sitemap: false
 comments: true
 ---
 
+## Documentations Index
 Here are doc archives for blocks as follow: AI, Robotics, AIRobotics, Metaverse, X-Technologies.
 
 ## AI
-
-* [AI]{:.heading.flip-title} -- Artificial Intelligence.
+* [AI]{:.heading.flip-title} --- Artificial Intelligence Docs.
 {:.related-posts.faded}
 
 ## Robotics
-
-* [Robotics]{:.heading.flip-title} -- Robotics.
+* [Robotics]{:.heading.flip-title} --- Robotics Docs.
 {:.related-posts.faded}
 
 ## AIRobotics
-
-* [AIRobotics]{:.heading.flip-title} -- AI and Robotics.
+* [AIRobotics]{:.heading.flip-title} --- AI and Robotics Docs.
 {:.related-posts.faded}
 
 ## Metaverse
-
-* [Metaverse]{:.heading.flip-title} -- Metaverse.
+* [Metaverse]{:.heading.flip-title} --- Metaverse Docs.
 {:.related-posts.faded}
 
 ## X-Technologies
-
-* [X-Technologies]{:.heading.flip-title} -- X-Technologies.
+* [X-Technologies]{:.heading.flip-title} --- X-Technologies Docs.
 {:.related-posts.faded}
 
 

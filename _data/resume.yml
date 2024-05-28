@@ -2,7 +2,7 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Jade Cong"
+  name: "Jingde (Jade) Cong"
   label: "Algorithm Engineer"
   picture: "/assets/images/home/logo-photo.jpg"
   email: "jade.cong@qq.com"
