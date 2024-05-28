@@ -17,7 +17,7 @@ accent_image:
 #     256w:
 
 permalink: /contents/talks/
-show_collection: talks
+# show_collection: talks
 # selected_projects:
 # projects_page:
 # selected_posts:

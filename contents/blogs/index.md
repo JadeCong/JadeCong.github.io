@@ -17,7 +17,7 @@ accent_image:
 #     256w:
 
 permalink: /contents/blogs/
-show_collection: blogs
+# show_collection: blogs
 # selected_projects:
 # projects_page:
 # selected_posts:

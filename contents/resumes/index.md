@@ -17,7 +17,7 @@ accent_image:
 #     256w:
 
 permalink: /contents/resumes/
-show_collection: resumes
+# show_collection: resumes
 # selected_projects:
 # projects_page:
 # selected_posts:

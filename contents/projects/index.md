@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projects
 title: Projects
 description: >
   This block is an archive about projects published on the site.
@@ -17,7 +17,7 @@ accent_image:
 #     256w:
 
 permalink: /contents/projects/
-show_collection: projects
+# show_collection: projects
 # selected_projects:
 # projects_page:
 # selected_posts:

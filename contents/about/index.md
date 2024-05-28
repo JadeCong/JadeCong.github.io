@@ -17,7 +17,7 @@ accent_image:
 #     256w:
 
 permalink: /contents/about/
-show_collection: about
+# show_collection: about
 # selected_projects:
 # projects_page:
 # selected_posts:

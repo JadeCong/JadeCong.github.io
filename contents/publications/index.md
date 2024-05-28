@@ -17,7 +17,7 @@ accent_image:
 #     256w:
 
 permalink: /contents/publications/
-show_collection: publications
+# show_collection: publications
 # selected_projects:
 # projects_page:
 # selected_posts:

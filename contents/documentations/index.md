@@ -17,7 +17,7 @@ accent_image:
 #     256w:
 
 permalink: /contents/documentations/
-show_collection: documentations
+# show_collection: documentations
 # selected_projects:
 # projects_page:
 # selected_posts:

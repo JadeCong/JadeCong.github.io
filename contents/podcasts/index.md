@@ -17,7 +17,7 @@ accent_image:
 #     256w:
 
 permalink: /contents/podcasts/
-show_collection: podcasts
+# show_collection: podcasts
 # selected_projects:
 # projects_page:
 # selected_posts:

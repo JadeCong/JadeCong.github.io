@@ -17,7 +17,7 @@ accent_image:
 #     256w:
 
 permalink: /contents/researches/
-show_collection: researches
+# show_collection: researches
 # selected_projects:
 # projects_page:
 # selected_posts:
