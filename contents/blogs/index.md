@@ -42,4 +42,6 @@ comments: true
 
 ## Blogs Index
 
-TODO
+TODO:
+- [ ] Configure the layout of blogs
+- [ ] Add more posts to blogs

@@ -42,4 +42,6 @@ comments: true
 
 ## Projects Index
 
-TODO
+TODO:
+- [ ] Configure the layout of projects
+- [ ] Add more posts to projects
