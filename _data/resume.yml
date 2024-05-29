@@ -16,23 +16,26 @@ basics:
     mostly working on robot motion control, motion planning, teleoperation and robot learning.
     And he aims to make robots more intelligent with artificial intelligence.
   location:
-    address: "4011 Shahe West Road"
+    address: "No.4011, Shahe West Road"
     postalCode: "518000"
     city: "Shenzhen"
     countryCode: "CN"
     region: "Guangdong"
   profiles:
-    - network: "Twitter"
-      username: "JadeCong26"
-      url: "https://x.com/JadeCong26"
     - network: "LinkedIn"
       username: "Jingde Cong"
       url: "https://www.linkedin.com/in/jingde-cong-a1a85614b"
+    - network: "Twitter"
+      username: "JadeCong26"
+      url: "https://x.com/JadeCong26"
+    - network: "GitHub"
+      username: "JadeCong"
+      url: "https://github.com/JadeCong"
 
 work:
   - company: "Conarobot"
     position: "Robot Algorithm Engineer"
-    website: "https://jadecong.github.io/"
+    website: "http://www.robotactile.com/"
     startDate: "2021-11-05"
     endDate: ""
     summary: >
@@ -58,23 +61,23 @@ education:
     studyType: "Master"
     startDate: "2014-09-01"
     endDate: "2017-03-30"
-    gpa: "3.6"
+    gpa: "3.8"
     courses:
       - "Robotics"
       - "Modern Control Theory"
 
 awards:
-  - title: ""
-    date: ""
-    awarder: ""
-    summary: ""
+  - title: "National Inspirational Scholarship"
+    date: "2012-03-01"
+    awarder: "Tianjin Ren'ai College"
+    summary: "Annual National Scholarship."
 
 publications:
-  - name: ""
-    publisher: ""
-    releaseDate: ""
-    website: ""
-    summary: ""
+  - name: "Research on compensation for induced feedback force of Master-slave teleoperation robot system"
+    publisher: "Journal of Tianjin Polytechnic University"
+    releaseDate: "2018-03-05"
+    website: "http://tjgydx.scizazhi.com/"
+    summary: "This article proposes a force compensation method based on the master manipulator, which enables operator to accurately perceive the feedback force from the slave manipulator."
 
 skills:
   - name: "Robotics"
@@ -83,25 +86,25 @@ skills:
       - "ROS"
       - "ROS2"
       - "OMPL"
-      - "OpenCV"
-      - "PCL"
-  - name: "Reinforcement Learning"
-    level: "Master"
-    keywords:
       - "MuJoCo"
       - "Robosuite"
+  - name: "AI"
+    level: "Master"
+    keywords:
+      - "DRL"
       - "PyTorch"
       - "Tensorflow"
+      - "Agent"
   - name: "Metaverse"
     level: "Master"
     keywords:
-      - "Omniverse"
       - "Nvidia"
+      - "Omniverse"
       - "Simulation"
 
 languages:
   - language: "Chinese"
-    fluency: "Advanced"
+    fluency: "Master"
   - language: "English"
     fluency: "Advanced"
 
@@ -109,8 +112,16 @@ interests:
   - name: "Basketball"
     keywords:
       - "NBA"
-      - "All Star"
+      - "FIBA"
+  - name: "Fishing"
+    keywords:
+      - "Sea Fishing"
+      - "Lake Fishing"
+  - name: "Reading"
+    keywords:
+      - "Masterpieces"
+      - "Biographies"
 
 references:
-  - name: ""
-    reference: ""
+  - name: "Jade Cong(Myself)"
+    reference: "Think and act, Win with respect~"
