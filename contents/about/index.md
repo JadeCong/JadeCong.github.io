@@ -62,7 +62,7 @@ I think that summarizes a bit what I have done so far. **Time flies by!**
 
 ## My Resume/CV
 
-In case you will be looking for **more details** about my work, [you can do that by accessing and/or downloading my Resume/CV.](/contents/resume/index.md)
+In case you will be looking for **more details** about my work, [you can do that by accessing and/or downloading my Resume/CV.](/contents/resume/)
 
 ## How to approach me
 
