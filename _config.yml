@@ -154,7 +154,7 @@ font: Noto Sans, Helvetica, Arial, sans-serif
 font_heading: Roboto Slab, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
-font_code: Fira Code, Menlo, Monaco, Consolas, monospace
+font_code: Fira Code, Menlo, Monaco, Consolas, monospace;
 
 # Clap button for the site.
 clap_button: false

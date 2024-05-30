@@ -4,7 +4,6 @@ sitemap: false
 ---
 
 # LICENSE
-{:.no_toc}
 
 * this list will be replaced by the toc
 {:toc .large-only}
@@ -14,7 +13,9 @@ sitemap: false
 
 Version 2.0, January 2004
 
-http://www.apache.org/licenses/
+Copyright © 2024 The Apache Software Foundation, Inc.
+
+<http://www.apache.org/licenses/LICENSE-2.0>
 
 ### TERMS AND CONDITIONS FOR USE, REPRODUCTION AND DISTRIBUTION
 

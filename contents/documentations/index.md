@@ -37,7 +37,7 @@ no_link_title: false
 no_excerpt: false
 no_third_column: true
 sitemap: false
-comments: true
+comments: false
 ---
 
 Here are document archives for the site as follow: AI, Robotics, AIRobotics, Metaverse, X-Technologies, Startups. You can browse and explore the details in each category of docs for getting to know more about me. [Please let me know](mailto:jade.cong@qq.com) in time if you find any mistakes in the docs. 
