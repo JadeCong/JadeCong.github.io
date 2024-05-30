@@ -40,7 +40,7 @@ sitemap: false
 comments: false
 ---
 
-Here are document archives for the site as follow: AI, Robotics, AIRobotics, Metaverse, X-Technologies, Startups. You can browse and explore the details in each category of docs for getting to know more about me. [Please let me know](mailto:jade.cong@qq.com) in time if you find any mistakes in the docs. 
+Here are document archives for the site as follows: AI, Robotics, AIRobotics, Metaverse, X-Technologies, Startups. You can browse and explore the details in each category of docs for getting to know more about me. [Please let me know](mailto:jade.cong@qq.com) in time if you find any mistakes in the docs. 
 
 The documents are temporarily classified into the above categories which will be gradually added, deleted, and modified according to actual needs in the future.
 {:.note}

@@ -43,7 +43,7 @@ comments: false
 
 buttons:
   print: true
-  pdf: /assets/docs/Resume.pdf
+  pdf: /assets/docs/common/Resume.pdf
   vcf: http://h2vx.com/vcf/<!--url-->
   json: /assets/resume.json
 ---

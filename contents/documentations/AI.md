@@ -40,7 +40,7 @@ sitemap: false
 comments: true
 ---
 
-With development of artificial intelligence, I currently focus on these categories as follow: Deep Learning, Reinforcement Learning, Imitation Learning, Large Model, Agents, AGI and ASI. These docs are mainly targeted for basic principles, methods, algorithms and applications in the above categories.
+With development of artificial intelligence, I currently focus on these categories as follows: Deep Learning, Reinforcement Learning, Imitation Learning, Large Model, Agents, AGI and ASI. These docs are mainly targeted for basic principles, methods, algorithms and applications in the above categories.
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}

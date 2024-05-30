@@ -112,11 +112,11 @@ menu:
 # Add links to the footer. Typically you'll want to link to your cookie- or privacy policy (if applicable), etc..
 legal:
   - title: LICENSE
-    url: /assets/docs/LICENSE/
+    url: /assets/docs/common/LICENSE/
   - title: PRIVACY
-    url: /assets/docs/PRIVACY/
+    url: /assets/docs/common/PRIVACY/
   - title: CHANGELOG
-    url: /assets/docs/CHANGELOG/
+    url: /assets/docs/common/CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: JadeCong©2020-2024. All rights reserved.
