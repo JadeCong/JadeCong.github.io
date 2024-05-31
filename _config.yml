@@ -234,36 +234,11 @@ defaults:
     values:
       seo:
         type: WebPage
-  # - scope:
-  #     type: publications
-  #   values:
-  #     seo:
-  #       type: WebPage
-  # - scope:
-  #     type: projects
-  #   values:
-  #     seo:
-  #       type: WebPage
-  # - scope:
-  #     type: blogs
-  #   values:
-  #     seo:
-  #       type: WebPage
-  # - scope:
-  #     type: talks
-  #   values:
-  #     seo:
-  #       type: WebPage
-  # - scope:
-  #     type: podcasts
-  #   values:
-  #     seo:
-  #       type: WebPage
-  # - scope:
-  #     type: documentations
-  #   values:
-  #     seo:
-  #       type: WebPage
+  - scope:
+      type: projects
+    values:
+      seo:
+        type: WebPage
 
 # The various Markdown renderers supported by Jekyll sometimes have extra options available. Kramdown is the default Markdown renderer for Jekyll, 
 # and often works well with no additional configuration. However, it does support many configuration options, like kramdown-parser-gfm(https://github.com/kramdown/parser-gfm), 
@@ -317,7 +292,7 @@ hydejack:
   # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
   no_search:          false
   # Set to `true` if you do not want parts of the css inlined in <head/>. This will increase site build speed dramatically!
-  no_inline_css:      true
+  no_inline_css:      false
   # Set to `true` if you don't intend on changing the accent color on a per-page basis. This will increase site build speed!
   no_page_style:      false
   # Code blocks and tables "break" the layout by spanning the full available width. Set this to true if you want them to be the same width as other content.
@@ -340,7 +315,7 @@ hydejack:
   use_lsi:            true
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:     true
+  cookies_banner:     false
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.
   advertise:          false
@@ -384,36 +359,20 @@ collections:
     permalink: /contents/:name/
     output: true
   featured_tags:
-    permalink: /tags/tag-:name/
+    permalink: /contents/tag-:name/
     output: true
   projects:
     permalink: /projects/:path/
     output: true
-  # publications:
-  #   permalink: /contents/publications/:path/
-  #   output: true
-  # projects:
-  #   permalink: /contents/projects/:path/
-  #   output: true
-  # blogs:
-  #   permalink: /contents/blogs/:path/
-  #   output: true
-  # talks:
-  #   permalink: /contents/talks/:path/
-  #   output: true
-  # podcasts:
-  #   permalink: /contents/podcasts/:path/
-  #   output: true
-  # documentations:
-  #   permalink: /contents/documentations/:path/
-    # output: true
 
 # Exclude from processing. The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to the internal "default list".
 # Excluded items can be processed by explicitly listing the directories or their entries' file path in the `include:` list.
 exclude:
-  - .jekyll-cache/
-  - .sass-cache/
+  - ./#jekyll-theme-hydejack/node_modules
+  - ./#jekyll-theme-hydejack/.git
+  - .jekyll-cache
+  - .sass-cache
   - '*.toml'
   - vendor
   - Gemfile
@@ -422,6 +381,7 @@ exclude:
   - README.md
 
 include:
+  - .well-known
   - _config.yml
   - index.md
 
