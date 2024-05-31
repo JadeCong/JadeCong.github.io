@@ -122,7 +122,7 @@ legal:
 copyright: JadeCong©2020-2024. All rights reserved.
 
 # The format of the permalinks.
-permalink: /contents/:path/:categories/:year-:month-:day-:title/
+permalink: /contents/:categories/:year-:month-:day-:title/
 
 # The pagination configuration(used by the "blog" layout).
 paginate: 10
@@ -234,36 +234,36 @@ defaults:
     values:
       seo:
         type: WebPage
-  - scope:
-      type: publications
-    values:
-      seo:
-        type: WebPage
-  - scope:
-      type: projects
-    values:
-      seo:
-        type: WebPage
-  - scope:
-      type: blogs
-    values:
-      seo:
-        type: WebPage
-  - scope:
-      type: talks
-    values:
-      seo:
-        type: WebPage
-  - scope:
-      type: podcasts
-    values:
-      seo:
-        type: WebPage
-  - scope:
-      type: documentations
-    values:
-      seo:
-        type: WebPage
+  # - scope:
+  #     type: publications
+  #   values:
+  #     seo:
+  #       type: WebPage
+  # - scope:
+  #     type: projects
+  #   values:
+  #     seo:
+  #       type: WebPage
+  # - scope:
+  #     type: blogs
+  #   values:
+  #     seo:
+  #       type: WebPage
+  # - scope:
+  #     type: talks
+  #   values:
+  #     seo:
+  #       type: WebPage
+  # - scope:
+  #     type: podcasts
+  #   values:
+  #     seo:
+  #       type: WebPage
+  # - scope:
+  #     type: documentations
+  #   values:
+  #     seo:
+  #       type: WebPage
 
 # The various Markdown renderers supported by Jekyll sometimes have extra options available. Kramdown is the default Markdown renderer for Jekyll, 
 # and often works well with no additional configuration. However, it does support many configuration options, like kramdown-parser-gfm(https://github.com/kramdown/parser-gfm), 
@@ -381,29 +381,32 @@ hydejack:
 # Collections Settings.
 collections:
   featured_categories:
-    permalink: /categories/category-:name/
+    permalink: /contents/:name/
     output: true
   featured_tags:
     permalink: /tags/tag-:name/
     output: true
-  publications:
-    permalink: /contents/publications/:path/
-    output: true
   projects:
-    permalink: /contents/projects/:path/
+    permalink: /projects/:path/
     output: true
-  blogs:
-    permalink: /contents/blogs/:path/
-    output: true
-  talks:
-    permalink: /contents/talks/:path/
-    output: true
-  podcasts:
-    permalink: /contents/podcasts/:path/
-    output: true
-  documentations:
-    permalink: /contents/documentations/:path/
-    output: true
+  # publications:
+  #   permalink: /contents/publications/:path/
+  #   output: true
+  # projects:
+  #   permalink: /contents/projects/:path/
+  #   output: true
+  # blogs:
+  #   permalink: /contents/blogs/:path/
+  #   output: true
+  # talks:
+  #   permalink: /contents/talks/:path/
+  #   output: true
+  # podcasts:
+  #   permalink: /contents/podcasts/:path/
+  #   output: true
+  # documentations:
+  #   permalink: /contents/documentations/:path/
+    # output: true
 
 # Exclude from processing. The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to the internal "default list".

@@ -16,6 +16,8 @@ ehthumbs.db
 _site/
 _drafts/
 _posts/
+_gh_pages/
+.ruby-version
 .jekyll
 .jekyll-cache
 .jekyll-metadata
@@ -23,8 +25,6 @@ _posts/
 .bundle
 .vagrant
 *.gem
-Gemfile.lock
 vendor
 node_modules
-package.json
-package-lock.json
+package*.json
