@@ -127,6 +127,4 @@ What I focus and work on X-Technologies are as follows:
 Anti-Gravity
 {:.figcaption}
 
-[Doc] [**Antigravity-Its Origin and Manifestations**](/assets/docs/researches/Antigravity-Its Origin and Manifestations.pdf)
-
 [Link] **Einstein's Antigravity:** <https://www.bilibili.com/read/cv11369022/>

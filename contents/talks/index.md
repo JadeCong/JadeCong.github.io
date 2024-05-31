@@ -39,7 +39,3 @@ no_third_column: true
 sitemap: false
 comments: true
 ---
-
-## Talks Index
-
-TODO

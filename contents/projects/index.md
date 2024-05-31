@@ -16,16 +16,17 @@ accent_image:
 #     512w:
 #     256w:
 
-permalink: /contents/projects/
-# show_collection: projects
+# permalink: /contents/projects/
+show_collection: projects
 # selected_projects:
 # projects_page:
 # selected_posts:
 # posts_page:
 # related_posts:
 # redirect_from:
+#   - /contents/projects/
 # excerpt_separator:
-last_modified_at: 2024-05-28
+last_modified_at: 2024-05-31
 
 hide_description: false
 hide_image: false
@@ -37,11 +38,5 @@ no_link_title: false
 no_excerpt: false
 no_third_column: true
 sitemap: false
-comments: true
+comments: false
 ---
-
-## Projects Index
-
-TODO:
-- [ ] Configure the layout of projects
-- [ ] Add more posts to projects

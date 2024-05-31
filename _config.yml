@@ -166,14 +166,6 @@ clap_button: false
 defaults:
   # You can use this to provide a default accent color and background for all pages under a given path.
   - scope:
-      path: /contents/researches/
-    values:
-      theme_color: rgb(8,46,57)
-      accent_color: rgb(79,177,186)
-      accent_image:
-        background: url('/assets/images/researches/sidebar-researches.jpg') center/cover
-        overlay: true
-  - scope:
       path: /contents/publications/
     values:
       theme_color: rgb(8,46,57)
@@ -239,11 +231,6 @@ defaults:
         type: WebPage
   - scope:
       type: featured_tags
-    values:
-      seo:
-        type: WebPage
-  - scope:
-      type: researches
     values:
       seo:
         type: WebPage
@@ -399,25 +386,22 @@ collections:
   featured_tags:
     permalink: /tags/tag-:name/
     output: true
-  researches: # The default researches collection
-    permalink: /contents/researches/:path/
-    output: true
-  publications: # The default publications collection
+  publications:
     permalink: /contents/publications/:path/
     output: true
-  projects: # The default projects collection
+  projects:
     permalink: /contents/projects/:path/
     output: true
-  blogs: # The default blogs collection
+  blogs:
     permalink: /contents/blogs/:path/
     output: true
-  talks: # The default talks collection
+  talks:
     permalink: /contents/talks/:path/
     output: true
-  podcasts: # The default podcasts collection
+  podcasts:
     permalink: /contents/podcasts/:path/
     output: true
-  documentations: # The default documentations collection
+  documentations:
     permalink: /contents/documentations/:path/
     output: true
 
@@ -427,6 +411,7 @@ collections:
 exclude:
   - .jekyll-cache/
   - .sass-cache/
+  - '*.toml'
   - vendor
   - Gemfile
   - Gemfile.lock

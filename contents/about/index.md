@@ -55,8 +55,8 @@ Currently I am working as an **Algorithm Engineer** for **Omniverse** simulation
 
 In the last 7 years I worked as a **Robot Algorithm Engineer** mainly focused on algorithm development and application but with an **AI Enthusiast** as well. I'm also dedicated to integrating robotics and artificial intelligence to construct an intelligent humanoid robot for users.
 
-![Ultrasound Scanning](/assets/images/about/ultrasound-scanning.png){:height="340px" width="490px"}
-![Teleoperation](/assets/images/about/teleoperation.png){:height="250px" width="335px"}
+![Ultrasound Scanning](/assets/images/about/ultrasound-scanning.png){:height="330px" width="465px"}
+![Teleoperation](/assets/images/about/teleoperation.png){:height="250px" width="360px"}
 
 I think that summarizes a bit what I have done so far. **Time flies by!**
 

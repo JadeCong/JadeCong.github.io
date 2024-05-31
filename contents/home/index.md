@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-05-28
+last_modified_at: 2024-05-31
 
 hide_description: false
 hide_image: false
@@ -39,9 +39,3 @@ no_third_column: true
 sitemap: false
 comments: false
 ---
-
-## Home Index
-
-TODO:
-- [ ] A brief introduction to me
-- [ ] Abstracts of the contents on the site
