@@ -15,7 +15,6 @@ ehthumbs.db
 # Project Config Misc
 _site/
 _drafts/
-_posts/
 _gh_pages/
 .ruby-version
 .jekyll
