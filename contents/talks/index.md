@@ -1,5 +1,5 @@
 ---
-layout: grid
+layout: projects
 title: Talks
 description: >
   This block is an archive about talks published on the site.

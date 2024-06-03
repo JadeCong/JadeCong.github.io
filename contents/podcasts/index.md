@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: projects
 title: Podcasts
 description: >
   This block is an archive about podcasts published on the site.

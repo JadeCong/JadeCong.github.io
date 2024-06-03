@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: AIRobotics
 caption: A humanoid robot with artificial intelligence
 description: >

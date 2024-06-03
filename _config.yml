@@ -239,6 +239,16 @@ defaults:
     values:
       seo:
         type: WebPage
+  - scope:
+      type: talks
+    values:
+      seo:
+        type: WebPage
+  - scope:
+      type: podcasts
+    values:
+      seo:
+        type: WebPage
 
 # The various Markdown renderers supported by Jekyll sometimes have extra options available. Kramdown is the default Markdown renderer for Jekyll, 
 # and often works well with no additional configuration. However, it does support many configuration options, like kramdown-parser-gfm(https://github.com/kramdown/parser-gfm), 
@@ -362,7 +372,13 @@ collections:
     permalink: /contents/tag-:name/
     output: true
   projects:
-    permalink: /contents/projects/:path/
+    permalink: /contents/projects/_posts/:path/
+    output: true
+  talks:
+    permalink: /contents/talks/_posts/:path/
+    output: true
+  podcasts:
+    permalink: /contents/podcasts/_posts/:path/
     output: true
 
 # Exclude from processing. The following items will not be processed, by default.

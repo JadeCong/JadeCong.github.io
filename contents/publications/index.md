@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: blog
 title: Publications
 description: >
   This block is an archive about publications published on the site.
