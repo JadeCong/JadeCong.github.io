@@ -362,7 +362,7 @@ collections:
     permalink: /contents/tag-:name/
     output: true
   projects:
-    permalink: /projects/:path/
+    permalink: /contents/projects/:path/
     output: true
 
 # Exclude from processing. The following items will not be processed, by default.
