@@ -16,7 +16,7 @@ accent_image:
 #     512w:
 #     256w:
 
-# permalink: /contents/projects/
+permalink: /contents/projects/
 show_collection: projects
 # selected_projects:
 # projects_page:
@@ -27,15 +27,15 @@ show_collection: projects
 # excerpt_separator:
 last_modified_at: 2024-05-31
 
-hide_description: false
-hide_image: false
-hide_last_modified: false
-invert_sidebar: false
-cover: true
+# hide_description: false
+# hide_image: false
+# hide_last_modified: false
+# invert_sidebar: false
+# cover: true
 no_groups: true
-no_link_title: false
-no_excerpt: false
-no_third_column: true
-sitemap: false
-comments: false
+# no_link_title: false
+# no_excerpt: false
+# no_third_column: true
+# sitemap: false
+# comments: false
 ---
