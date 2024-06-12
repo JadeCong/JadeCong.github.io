@@ -122,11 +122,11 @@ legal:
 copyright: JadeCong©2020-2024. All rights reserved.
 
 # The format of the permalinks.
-permalink: /contents/:categories/:year-:month-:day-:title/
+permalink: /:categories/:year-:month-:day-:title/
 
 # The pagination configuration(used by the "blog" layout).
 paginate: 10
-paginate_path: /contents/blogs/page:num/
+paginate_path: /contents/:categories/page:num/
 
 
 # -------------------- Custom Configuration Options -------------------- #
