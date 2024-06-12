@@ -375,10 +375,10 @@ collections:
     permalink: /contents/projects/:path/
     output: true
   talks:
-    permalink: /contents/talks/_posts/:path/
+    permalink: /contents/talks/:path/
     output: true
   podcasts:
-    permalink: /contents/podcasts/_posts/:path/
+    permalink: /contents/podcasts/:path/
     output: true
 
 # Exclude from processing. The following items will not be processed, by default.
