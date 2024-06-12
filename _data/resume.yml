@@ -89,14 +89,14 @@ skills:
       - "MuJoCo"
       - "Robosuite"
   - name: "AI"
-    level: "Master"
+    level: "Senior"
     keywords:
       - "DRL"
       - "PyTorch"
       - "Tensorflow"
       - "Agent"
   - name: "Metaverse"
-    level: "Master"
+    level: "Senior"
     keywords:
       - "Nvidia"
       - "Omniverse"
@@ -104,9 +104,9 @@ skills:
 
 languages:
   - language: "Chinese"
-    fluency: "Master"
+    fluency: "Native speaker"
   - language: "English"
-    fluency: "Advanced"
+    fluency: "Full professional proficiency"
 
 interests:
   - name: "Basketball"

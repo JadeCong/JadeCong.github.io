@@ -126,7 +126,7 @@ permalink: /contents/:categories/:year-:month-:day-:title/
 
 # The pagination configuration(used by the "blog" layout).
 paginate: 10
-paginate_path: /contents/blogs/:num/
+paginate_path: /contents/blogs/page:num/
 
 
 # -------------------- Custom Configuration Options -------------------- #

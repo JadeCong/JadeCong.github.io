@@ -31,7 +31,7 @@ hide_description: true
 hide_image: false
 hide_last_modified: false
 invert_sidebar: false
-cover: true
+cover: false
 no_groups: true
 no_link_title: false
 no_excerpt: false

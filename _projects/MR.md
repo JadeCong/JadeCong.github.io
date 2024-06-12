@@ -36,4 +36,5 @@ no_excerpt: false
 no_third_column: true
 sitemap: false
 comments: true
+featured: false
 ---

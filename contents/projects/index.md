@@ -31,11 +31,12 @@ last_modified_at: 2024-05-31
 # hide_image: false
 # hide_last_modified: false
 # invert_sidebar: false
-# cover: true
+# cover: false
 no_groups: true
 # no_link_title: false
 # no_excerpt: false
 # no_third_column: true
 # sitemap: false
 # comments: false
+featured: true
 ---

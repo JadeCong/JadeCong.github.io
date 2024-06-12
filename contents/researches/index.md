@@ -31,7 +31,7 @@ hide_description: false
 hide_image: false
 hide_last_modified: false
 invert_sidebar: false
-cover: true
+cover: false
 no_groups: true
 no_link_title: false
 no_excerpt: false
@@ -39,20 +39,20 @@ no_third_column: true
 sitemap: false
 comments: false
 ---
-
 - Table of Contents
-{:toc}
+  {:toc}
 
 Based on my major, interests and skills, there are serval research directions for me as follows: **Robotics, Artificial Intelligence, Metaverse and X-Technologies**.
 
 ## Robotics
+
 - ROS
 - ROS2
 - OMPL
 - MuJoCo
 - Robosuite
 - Teleoperation
-{:.faded}
+  {:.faded}
 
 What I focus and work on Robotics are as follows:
 
@@ -72,6 +72,7 @@ Teleoperation Application
 {:.figcaption}
 
 ## Artificial Intelligence
+
 - Deep Learning
 - Reinforcement Learning
 - Imitation Learning
@@ -79,7 +80,7 @@ Teleoperation Application
 - LLM
 - Agents
 - AGI
-{:.faded}
+  {:.faded}
 
 What I focus and work on Artificial Intelligence are as follows:
 
@@ -96,10 +97,11 @@ Agents Application
 {:.figcaption}
 
 ## Metaverse
+
 - Omniverse
 - Isaac Sim
 - Digital Twin
-{:.faded}
+  {:.faded}
 
 What I focus and work on Metaverse are as follows:
 
@@ -114,10 +116,11 @@ Isaac Sim Application
 {:.figcaption}
 
 ## X-Technologies
+
 - Anti-Gravity
 - Quantum Mechanics
 - Space Travel
-{:.faded}
+  {:.faded}
 
 What I focus and work on X-Technologies are as follows:
 
@@ -127,4 +130,4 @@ What I focus and work on X-Technologies are as follows:
 Anti-Gravity
 {:.figcaption}
 
-[Link] **Einstein's Antigravity:** <https://www.bilibili.com/read/cv11369022/>
+[Link] **Einstein's Antigravity:** [https://www.bilibili.com/read/cv11369022/](https://www.bilibili.com/read/cv11369022/)

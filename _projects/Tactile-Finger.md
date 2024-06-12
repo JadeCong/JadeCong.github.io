@@ -1,16 +1,16 @@
 ---
 layout: project
-title: AIRobotics
-caption: A humanoid robot with artificial intelligence
+title: Tactile Finger
+caption: A mechanical finger with tactile sensing
 description: >
-  Make a humanoid robot with artificial intelligence to help human beings out from physical labors and let humans become more creative.
+  The tactile finger can sense 6D force and it can be applied in robot perception.
 # theme_color:
 # accent_color:
 accent_image:
   background: url('/assets/images/projects/sidebar-projects.jpg') center/cover
   overlay: true
 image:
-  path: /assets/images/projects/airobotics.jpg
+  path: /assets/images/projects/tactile-finger.jpg
 #   srcset:
 #     1024w:
 #     512w:
@@ -18,7 +18,7 @@ image:
 date: 28 May 2024
 links:
   - title: Site
-    url: https://github.com/JadeCong/AIRobotics
+    url: https://github.com/JadeCong/Finger-V2.0
 
 # permalink: /contents/projects/
 last_modified_at: 2024-05-28
@@ -34,4 +34,5 @@ no_excerpt: false
 no_third_column: true
 sitemap: false
 comments: true
+featured: false
 ---

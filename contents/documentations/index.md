@@ -31,7 +31,7 @@ hide_description: false
 hide_image: false
 hide_last_modified: false
 invert_sidebar: false
-cover: true
+cover: false
 no_groups: true
 no_link_title: false
 no_excerpt: false
@@ -39,36 +39,40 @@ no_third_column: true
 sitemap: false
 comments: false
 ---
-
-Here are document archives for the site as follows: AI, Robotics, AIRobotics, Metaverse, X-Technologies, Startups. You can browse and explore the details in each category of docs for getting to know more about me. [Please let me know](mailto:jade.cong@qq.com) in time if you find any mistakes in the docs. 
+Here are document archives for the site as follows: AI, Robotics, AIRobotics, Metaverse, X-Technologies, Startups. You can browse and explore the details in each category of docs for getting to know more about me. [Please let me know](mailto:jade.cong@qq.com) in time if you find any mistakes in the docs.
 
 The documents are temporarily classified into the above categories which will be gradually added, deleted, and modified according to actual needs in the future.
 {:.note}
 
 ## AI
-* [AI]{:.heading.flip-title} --- Introductions and applications for artificial intelligence.
-{:.related-posts.faded}
+
+* [AI][AI]{:.heading.flip-title} --- Introductions and applications for artificial intelligence.
+  {:.related-posts.faded}
 
 ## Robotics
-* [Robotics]{:.heading.flip-title} --- Introductions and applications for robotics.
-{:.related-posts.faded}
+
+* [Robotics][Robotics]{:.heading.flip-title} --- Introductions and applications for robotics.
+  {:.related-posts.faded}
 
 ## AIRobotics
-* [AIRobotics]{:.heading.flip-title} --- Introductions and applications for AI-powered robotics.
-{:.related-posts.faded}
+
+* [AIRobotics][AIRobotics]{:.heading.flip-title} --- Introductions and applications for AI-powered robotics.
+  {:.related-posts.faded}
 
 ## Metaverse
-* [Metaverse]{:.heading.flip-title} --- Introductions and applications for metaverse and simulations.
-{:.related-posts.faded}
+
+* [Metaverse][Metaverse]{:.heading.flip-title} --- Introductions and applications for metaverse and simulations.
+  {:.related-posts.faded}
 
 ## X-Technologies
-* [X-Technologies]{:.heading.flip-title} --- Introductions and applications for X-Technologies.
-{:.related-posts.faded}
+
+* [X-Technologies][X-Technologies]{:.heading.flip-title} --- Introductions and applications for X-Technologies.
+  {:.related-posts.faded}
 
 ## Startups
-* [Startups]{:.heading.flip-title} --- Introductions and applications for Startups.
-{:.related-posts.faded}
 
+* [Startups][Startups]{:.heading.flip-title} --- Introductions and applications for Startups.
+  {:.related-posts.faded}
 
 [AI]: AI.md
 [Robotics]: Robotics.md

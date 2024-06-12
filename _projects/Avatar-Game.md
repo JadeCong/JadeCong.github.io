@@ -1,24 +1,26 @@
 ---
 layout: project
-title: Robotic Softbody Manipulation
-caption: Softbody mainpulation for robot based on DRL
+title: Avatar Game
+caption: Avatar Game based on 3D Human Pose Estimation
 description: >
-  Manipulate softbody(like human body) using robot based on reinforcement learning. And this method has been applied in ultrasound scanning for getting better images in a faster way.
+  Driving an avatar in Unity from 3D multiple human pose estimation based on live video stream.
 # theme_color:
 # accent_color:
 accent_image:
   background: url('/assets/images/projects/sidebar-projects.jpg') center/cover
   overlay: true
 image:
-  path: /assets/images/projects/robotic-softbody-manipulation.jpg
+  path: /assets/images/projects/avatar-game.jpg
 #   srcset:
 #     1024w:
 #     512w:
 #     256w:
 date: 28 May 2024
 links:
-  - title: Site
-    url: https://github.com/JadeCong/Robotic-Softbody-Manipulation
+  - title: Site1
+    url: https://github.com/JadeCong/AvatarGame-Host
+  - title: Site2
+    url: https://github.com/JadeCong/AvatarGame-Unity
 
 # permalink: /contents/projects/
 last_modified_at: 2024-05-28
@@ -34,4 +36,5 @@ no_excerpt: false
 no_third_column: true
 sitemap: false
 comments: true
+featured: false
 ---
