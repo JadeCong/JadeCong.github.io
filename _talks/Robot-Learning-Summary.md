@@ -17,10 +17,10 @@ image:
 #     256w:
 date: 12 May 2021
 links:
-  - title: Site1
-    url: https://github.com/JadeCong/Awesome-Robot-Learning
-#   - title: Site2
-#     url: https://github.com/JadeCong/mr_ros
+  # - title: Site1
+  #   url: https://github.com/JadeCong/Awesome-Robot-Learning
+  # - title: Site2
+  #   url: https://github.com/JadeCong/mr_ros
 
 # permalink: /contents/projects/
 last_modified_at: 2024-06-12

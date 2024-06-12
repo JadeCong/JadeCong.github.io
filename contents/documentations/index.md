@@ -47,32 +47,32 @@ The documents are temporarily classified into the above categories which will be
 ## AI
 
 * [AI][AI]{:.heading.flip-title} --- Introductions and applications for artificial intelligence.
-  {:.related-posts.faded}
+{:.related-posts.faded}
 
 ## Robotics
 
 * [Robotics][Robotics]{:.heading.flip-title} --- Introductions and applications for robotics.
-  {:.related-posts.faded}
+{:.related-posts.faded}
 
 ## AIRobotics
 
 * [AIRobotics][AIRobotics]{:.heading.flip-title} --- Introductions and applications for AI-powered robotics.
-  {:.related-posts.faded}
+{:.related-posts.faded}
 
 ## Metaverse
 
 * [Metaverse][Metaverse]{:.heading.flip-title} --- Introductions and applications for metaverse and simulations.
-  {:.related-posts.faded}
+{:.related-posts.faded}
 
 ## X-Technologies
 
 * [X-Technologies][X-Technologies]{:.heading.flip-title} --- Introductions and applications for X-Technologies.
-  {:.related-posts.faded}
+{:.related-posts.faded}
 
 ## Startups
 
 * [Startups][Startups]{:.heading.flip-title} --- Introductions and applications for Startups.
-  {:.related-posts.faded}
+{:.related-posts.faded}
 
 [AI]: AI.md
 [Robotics]: Robotics.md
