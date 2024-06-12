@@ -7,7 +7,7 @@ description: >
 # theme_color:
 # accent_color:
 accent_image:
-  background: url('/assets/images/projects/sidebar-podcasts.jpg') center/cover
+  background: url('/assets/images/podcasts/sidebar-podcasts.jpg') center/cover
   overlay: true
 image:
   path: /assets/images/podcasts/podcast-cover.jpg

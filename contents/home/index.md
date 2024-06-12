@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: welcome
 title: GitHub Pages of Jingde (Jade) Cong
 description: >
   Official blogs for Jade Cong where you can know more about me and my projects.
