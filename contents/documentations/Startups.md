@@ -2,7 +2,7 @@
 layout: page
 title: Startups
 description: >
-    Docs for startups.
+  Docs for startups.
 # logo:
 # theme_color:
 # accent_color:
@@ -25,19 +25,20 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-05-30
+last_modified_at: 2024-06-13
 
 hide_description: true
 hide_image: false
 hide_last_modified: false
 invert_sidebar: false
-cover: true
+cover: false
 no_groups: true
 no_link_title: false
 no_excerpt: false
 no_third_column: true
 sitemap: false
 comments: true
+featured: false
 ---
 
 The block is mainly targeted for the whole process of starting up a new company. And I will record the steps of my own example.

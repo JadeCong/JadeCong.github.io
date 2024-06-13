@@ -2,7 +2,7 @@
 layout: page
 title: Metaverse
 description: >
-    Docs for metaverse.
+  Docs for metaverse.
 # logo:
 # theme_color:
 # accent_color:
@@ -25,19 +25,20 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-05-30
+last_modified_at: 2024-06-13
 
 hide_description: true
 hide_image: false
 hide_last_modified: false
 invert_sidebar: false
-cover: true
+cover: false
 no_groups: true
 no_link_title: false
 no_excerpt: false
 no_third_column: true
 sitemap: false
 comments: true
+featured: false
 ---
 
 Based on the **Industrial Metaverse Platform**, the whole processes of industrial production which include requirement, design, development, testing, deployment and operating could be accelerated serval times for high efficiency and more convenience. These docs are mainly targeted for applications in the fields of **Omniverse** and **Digital Twin**.

@@ -2,7 +2,7 @@
 layout: page
 title: Robotics
 description: >
-    Docs for robotics.
+  Docs for robotics.
 # logo:
 # theme_color:
 # accent_color:
@@ -25,22 +25,23 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-05-30
+last_modified_at: 2024-06-13
 
 hide_description: true
 hide_image: false
 hide_last_modified: false
 invert_sidebar: false
-cover: true
+cover: false
 no_groups: true
 no_link_title: false
 no_excerpt: false
 no_third_column: true
 sitemap: false
 comments: true
+featured: false
 ---
 
-Based on classical robotics, we construct a robot form these steps as follows: Robot Mechanics, Robot Calibration, Robot Planning, Robot Control. So I created the docs from the steps and focused on the basic principles, methods, algorithms and applications of robot. 
+Based on classical robotics, we construct a robot form these steps as follows: **Robot Mechanics**, **Robot Calibration**, **Robot Planning** and **Robot Control**. So I created the docs from the steps and focused on the basic principles, methods, algorithms and applications of robot. 
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}

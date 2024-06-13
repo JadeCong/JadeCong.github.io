@@ -41,39 +41,39 @@ comments: false
 featured: false
 ---
 
-Here are document archives for the site as follows: AI, Robotics, AIRobotics, Metaverse, X-Technologies, Startups. You can browse and explore the details in each category of docs for getting to know more about me. [Please let me know](mailto:jade.cong@qq.com) in time if you find any mistakes in the docs.
+Here are document archives for the site as follows: **[AI]**, **[Robotics]**, **[AIRobotics]**, **[Metaverse]**, **[X-Technologies]** and **[Startups]**. You can browse and explore the details in each category of docs for getting to know more about me. [Please let me know](mailto:jade.cong@qq.com) promptly if you find any mistakes in the docs.
 
 The documents are temporarily classified into the above categories which will be gradually added, deleted, and modified according to actual needs in the future.
 {:.note}
 
 ## AI
 
-* [AI][AI]{:.heading.flip-title} --- Introductions and applications for artificial intelligence.
+* [AI]{:.heading.flip-title} --- Introductions and applications for artificial intelligence.
 {:.related-posts.faded}
 
 ## Robotics
 
-* [Robotics][Robotics]{:.heading.flip-title} --- Introductions and applications for robotics.
+* [Robotics]{:.heading.flip-title} --- Introductions and applications for robotics.
 {:.related-posts.faded}
 
 ## AIRobotics
 
-* [AIRobotics][AIRobotics]{:.heading.flip-title} --- Introductions and applications for AI-powered robotics.
+* [AIRobotics]{:.heading.flip-title} --- Introductions and applications for AI-powered robotics.
 {:.related-posts.faded}
 
 ## Metaverse
 
-* [Metaverse][Metaverse]{:.heading.flip-title} --- Introductions and applications for metaverse and simulations.
+* [Metaverse]{:.heading.flip-title} --- Introductions and applications for metaverse and simulations.
 {:.related-posts.faded}
 
 ## X-Technologies
 
-* [X-Technologies][X-Technologies]{:.heading.flip-title} --- Introductions and applications for X-Technologies.
+* [X-Technologies]{:.heading.flip-title} --- Introductions and applications for X-Technologies.
 {:.related-posts.faded}
 
 ## Startups
 
-* [Startups][Startups]{:.heading.flip-title} --- Introductions and applications for Startups.
+* [Startups]{:.heading.flip-title} --- Introductions and applications for Startups.
 {:.related-posts.faded}
 
 [AI]: AI.md
