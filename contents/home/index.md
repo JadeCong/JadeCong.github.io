@@ -23,8 +23,8 @@ selected_projects:
   - _projects/Robot-Teleoperation.md
 projects_page: /contents/projects/
 selected_posts:
-  - contents/blogs/_posts/2024-06-12-Blog-Test.md
-  - contents/publications/_posts/2024-06-12-Pub-Test.md
+  - contents/blogs/_posts/2024-06-12-Blog-Example.md
+  - contents/publications/_posts/2024-06-12-Pub-Example.md
 posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
