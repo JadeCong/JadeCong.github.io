@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Pub Test
+title: Pub Example
 description: >
-  The first pub post for test.
+  The first post for pub example.
 # logo:
 # theme_color:
 # accent_color:
@@ -10,7 +10,7 @@ accent_image:
   background: url('/assets/images/publications/sidebar-publications.jpg') center/cover
   overlay: true
 image:
-  path: /assets/images/publications/pub-test.jpg
+  path: /assets/images/publications/pub-example.jpg
 #   srcset:
 #     1024w:
 #     512w:

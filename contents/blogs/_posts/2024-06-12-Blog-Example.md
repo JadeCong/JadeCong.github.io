@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blog Test
+title: Blog Example
 description: >
-  The first blog post for test.
+  The first post for blog example.
 # logo:
 # theme_color:
 # accent_color:
@@ -10,7 +10,7 @@ accent_image:
   background: url('/assets/images/blogs/sidebar-blogs.jpg') center/cover
   overlay: true
 image:
-  path: /assets/images/blogs/blog-test.jpg
+  path: /assets/images/blogs/blog-example.jpg
 #   srcset:
 #     1024w:
 #     512w:
