@@ -25,7 +25,7 @@ permalink: /contents/documentations/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-05-28
+last_modified_at: 2024-06-13
 
 hide_description: false
 hide_image: false
@@ -38,7 +38,9 @@ no_excerpt: false
 no_third_column: true
 sitemap: false
 comments: false
+featured: false
 ---
+
 Here are document archives for the site as follows: AI, Robotics, AIRobotics, Metaverse, X-Technologies, Startups. You can browse and explore the details in each category of docs for getting to know more about me. [Please let me know](mailto:jade.cong@qq.com) in time if you find any mistakes in the docs.
 
 The documents are temporarily classified into the above categories which will be gradually added, deleted, and modified according to actual needs in the future.

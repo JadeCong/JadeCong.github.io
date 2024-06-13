@@ -2,7 +2,7 @@
 layout: welcome
 title: GitHub Pages of Jingde (Jade) Cong
 description: >
-  Official blogs for Jade Cong where you can know more about me and my projects.
+  Official GitHub Pages for Jade Cong where you can know more about me.
 # logo:
 # theme_color:
 # accent_color:
@@ -23,6 +23,8 @@ selected_projects:
   - _projects/Robot-Teleoperation.md
 projects_page: /contents/projects/
 selected_posts:
+  - contents/blogs/_posts/2024-06-12-Blog-Test.md
+  - contents/publications/_posts/2024-06-12-Pub-Test.md
 posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
@@ -33,7 +35,7 @@ hide_description: false
 hide_image: false
 hide_last_modified: false
 invert_sidebar: false
-cover: true
+cover: false
 no_groups: true
 no_link_title: false
 no_excerpt: false
@@ -43,15 +45,14 @@ comments: false
 featured: false
 ---
 
-This is my official blog.
-{:.lead}
+- Table of Contents
+{:toc}
 
-0. this list will be replaced by the toc
-{:toc .large-only}
+This site is my GitHub Pages where you can know more about me from the categories as follows: **[Researches](/contents/researches)**, **[Publications](/contents/publications/)**, **[Projects](/contents/projects/)**, **[Blogs](/contents/blogs/)**, **[Talks](/contents/talks/)**, **[Podcasts](/contents/podcasts/)**, **[Documentations](/contents/documentations/)**, **[Resume](/contents/resume/)** and **[About](/contents/about/)**.
 
 ![Home-Cover](/assets/images/home/home-cover.png){:.lead width="1920" height="1080" loading="lazy"}
 
-The cover page of Jade's GitHub Pages.
+The home cover of Jade's GitHub Pages
 {:.figcaption}
 
 ## Fascinating Projects
@@ -68,6 +69,6 @@ The newest and amazing posts will be published promptly here.
 
 ## Contact With Me
 
-The most direct way to contact with me is email as follows. 
+The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.com) as follows, [Twitter](https://twitter.com/JadeCong26) or [GitHub](https://github.com/JadeCong).
 
 {% include pro/newsletter.html %}

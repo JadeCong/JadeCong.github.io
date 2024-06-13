@@ -25,7 +25,7 @@ permalink: /contents/about/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-05-28
+last_modified_at: 2024-06-13
 
 hide_description: false
 hide_image: false
@@ -38,6 +38,7 @@ no_excerpt: false
 no_third_column: true
 sitemap: false
 comments: false
+featured: false
 ---
 
 - Table of Contents
@@ -51,12 +52,12 @@ I'm an algorithm engineer and my job focuses on robotics and artificial intellig
 
 Currently I am working as an **Algorithm Engineer** for **Omniverse** simulation platform. Based on the **Industrial Metaverse Platform**, the whole processes of industrial production which include requirement, design, development, testing, deployment and operating could be accelerated serval times for high efficiency and more convenience.
 
-![Omniverse Simulation Platform](/assets/images/about/omniverse-simulation-platform.png){:height="640px" width="1200px"}
+![Omniverse Simulation Platform](/assets/images/about/omniverse-simulation-platform.png){:width="1200px" height="640px" loading="lazy"}
 
 In the last 7 years I worked as a **Robot Algorithm Engineer** mainly focused on algorithm development and application but with an **AI Enthusiast** as well. I'm also dedicated to integrating robotics and artificial intelligence to construct an intelligent humanoid robot for users.
 
-![Ultrasound Scanning](/assets/images/about/ultrasound-scanning.png){:height="330px" width="465px"}
-![Teleoperation](/assets/images/about/teleoperation.png){:height="250px" width="360px"}
+![Ultrasound Scanning](/assets/images/about/ultrasound-scanning.png){:width="465px" height="330px" loading="lazy"}
+![Teleoperation](/assets/images/about/teleoperation.png){:width="360px" height="250px" loading="lazy"}
 
 I think that summarizes a bit what I have done so far. **Time flies by!**
 
