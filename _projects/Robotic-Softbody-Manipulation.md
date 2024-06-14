@@ -30,7 +30,7 @@ date: 28 May 2024
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-13
+last_modified_at: 2024-06-14
 
 hide_description: false
 hide_image: false
@@ -45,3 +45,21 @@ sitemap: false
 comments: true
 featured: false
 ---
+
+#### Simulation of Robotic Softbody Manipulation
+
+<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+  <source id="mp4" src="../../../assets/videos/projects/robotic-softbody-manipulation.mp4" type="video/mp4">
+</video>
+
+Simulation for robotic softbody manipulation
+{:.figcaption}
+
+#### Application of Ultrasound Scanning
+
+<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+  <source id="mp4" src="../../../assets/videos/projects/ultrasound-scanning.mp4" type="video/mp4">
+</video>
+
+Application for ultrasound scanning
+{:.figcaption}
