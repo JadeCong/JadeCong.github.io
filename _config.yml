@@ -157,7 +157,7 @@ font_heading: Roboto Slab, Helvetica, Arial, sans-serif
 font_code: Fira Code, Menlo, Monaco, Consolas, monospace;
 
 # Clap button for the site.
-clap_button: false
+clap_button: true
 
 # Using front matter is one way that you can specify configuration in the pages and posts for your site. Setting things like a default layout, 
 # or customizing the title, or specifying a more precise date/time for the post can all be added to your page or post front matter.

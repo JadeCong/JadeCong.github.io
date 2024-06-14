@@ -45,3 +45,9 @@ sitemap: false
 comments: true
 featured: false
 ---
+
+#### Application of Tactile Finger
+
+<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="" loop="" poster="">
+  <source id="mp4" src="../../../assets/videos/projects/tactile-finger.mp4" type="video/mp4">
+</video>
