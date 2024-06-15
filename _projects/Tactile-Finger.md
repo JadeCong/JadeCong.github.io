@@ -17,8 +17,10 @@ image:
 #     512w:
 #     256w:
 links:
-  - title: Site
+  - title: Site1
     url: https://github.com/JadeCong/Finger-V2.0
+  - title: Site2
+    url: https://github.com/JadeCong/demo_ros/tree/master/manual_force_teaching
 date: 28 May 2024
 
 # permalink: /contents/projects/
@@ -30,7 +32,7 @@ date: 28 May 2024
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-14
+last_modified_at: 2024-06-15
 
 hide_description: false
 hide_image: false
@@ -46,11 +48,20 @@ comments: true
 featured: false
 ---
 
-#### Application of Tactile Finger
+#### Demo of Tactile Finger
 
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/tactile-finger.mp4" type="video/mp4">
 </video>
 
-Application for robot perception
+Demo for robot perception
+{:.figcaption}
+
+#### Application of Tactile Finger
+
+<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+  <source id="mp4" src="../../../assets/videos/projects/manual-force-teaching.mp4" type="video/mp4">
+</video>
+
+Application for manual force teaching
 {:.figcaption}
