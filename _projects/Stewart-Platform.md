@@ -1,9 +1,9 @@
 ---
 layout: project
-title: MR
-caption: A massage robot(MR)
+title: Stewart Platform
+caption: A parallel mechanism for massage
 description: >
-  A massage robot with tactile feedback and professional massage planning.
+  A handheld parallel mechanism for active massaging.
 # logo:
 # theme_color:
 # accent_color:
@@ -11,17 +11,15 @@ accent_image:
   background: url('/assets/images/projects/sidebar-projects.jpg') center/cover
   overlay: true
 image:
-  path: /assets/images/projects/mr.jpg
+  path: /assets/images/projects/stewart-platform.png
 #   srcset:
 #     1024w:
 #     512w:
 #     256w:
 links:
-  - title: Site1
-    url: https://github.com/JadeCong/mr
-  - title: Site2
-    url: https://github.com/JadeCong/mr_ros
-date: 28 May 2024
+  - title: Site
+    url: https://github.com/JadeCong/mr1d_ros
+date: 15 June 2024
 
 # permalink: /contents/projects/
 # show_collection: projects
@@ -48,27 +46,30 @@ comments: true
 featured: false
 ---
 
-#### Design of Massage Meta Skill
+#### Prototype of Stewart Platform
 
-![Massage Meta Skill](/assets/images/projects/massage-meta-skill.png){:width="1920" height="1080" loading="lazy"}
+![3C Assembly Prototype](/assets/images/projects/intelligent-assembly-3c.png){:width="1920" height="1080" loading="lazy"}
 
-Abstraction for massage meta skill
+Prototype for 3C Assembly
 {:.figcaption}
 
-#### Simulation of MR
+![Reducer Assembly Prototype](/assets/images/projects/intelligent-assembly-reducer.png){:width="1920" height="1080" loading="lazy"}
 
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
-  <source id="mp4" src="../../../assets/videos/projects/mr-simulation.mp4" type="video/mp4">
-</video>
-
-Simulation for massage robot
+Prototype for Reducer Assembly
 {:.figcaption}
 
-#### Application of MR
+#### Simulation of Stewart Platform
 
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
-  <source id="mp4" src="../../../assets/videos/projects/massage-robot.mp4" type="video/mp4">
+  <source id="mp4" src="../../../assets/videos/projects/intelligent-assembly-3c.mp4" type="video/mp4">
 </video>
 
-Application for massage robot
+Simulation for 3C intelligent assembly
+{:.figcaption}
+
+<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+  <source id="mp4" src="../../../assets/videos/projects/intelligent-assembly-reducer.mp4" type="video/mp4">
+</video>
+
+Simulation for reducer intelligent assembly
 {:.figcaption}
