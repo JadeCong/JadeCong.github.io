@@ -11,7 +11,7 @@ accent_image:
   background: url('/assets/images/projects/sidebar-projects.jpg') center/cover
   overlay: true
 image:
-  path: /assets/images/projects/stewart-platform.png
+  path: /assets/images/projects/stewart-platform.gif
 #   srcset:
 #     1024w:
 #     512w:
@@ -48,28 +48,18 @@ featured: false
 
 #### Prototype of Stewart Platform
 
-![3C Assembly Prototype](/assets/images/projects/intelligent-assembly-3c.png){:width="1920" height="1080" loading="lazy"}
+<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+  <source id="mp4" src="../../../assets/videos/projects/stewart-platform-proto.mp4" type="video/mp4">
+</video>
 
-Prototype for 3C Assembly
-{:.figcaption}
-
-![Reducer Assembly Prototype](/assets/images/projects/intelligent-assembly-reducer.png){:width="1920" height="1080" loading="lazy"}
-
-Prototype for Reducer Assembly
+Prototype for stewart platform
 {:.figcaption}
 
 #### Simulation of Stewart Platform
 
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
-  <source id="mp4" src="../../../assets/videos/projects/intelligent-assembly-3c.mp4" type="video/mp4">
+  <source id="mp4" src="../../../assets/videos/projects/stewart-platform.mp4" type="video/mp4">
 </video>
 
-Simulation for 3C intelligent assembly
-{:.figcaption}
-
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
-  <source id="mp4" src="../../../assets/videos/projects/intelligent-assembly-reducer.mp4" type="video/mp4">
-</video>
-
-Simulation for reducer intelligent assembly
+ROS simulation for stewart platform
 {:.figcaption}
