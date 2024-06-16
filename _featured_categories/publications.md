@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: grid
 title: Publications
 slug: publications
 description: >
