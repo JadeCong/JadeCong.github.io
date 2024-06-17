@@ -29,7 +29,7 @@ posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-13
+last_modified_at: 2024-06-17
 
 hide_description: false
 hide_image: false
@@ -58,21 +58,17 @@ The home cover of Jade's GitHub Pages
 ## Fascinating Projects
 
 The newest and fascinating projects will be published promptly here.
-
 <!--projects-->
 
 ## Amazing Posts
 
 The newest and amazing posts will be published promptly here.
-
 <!--posts-->
 
 ## Contact With Me
 
 The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.com) as follows, [Twitter](https://twitter.com/JadeCong26) or [GitHub](https://github.com/JadeCong).
-
 {% include pro/newsletter.html %}
 
 <!--buymeacoffee-->
-
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="jadecong" data-description="Support me on Buy me a coffee!" data-message="THANK YOU for visiting!!! I love COFFEE, so totally up for ONE!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
