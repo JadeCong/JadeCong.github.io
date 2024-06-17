@@ -16,10 +16,10 @@ image:
 #     1024w:
 #     512w:
 #     256w:
-links:
-  - title: Site
-    url: https://github.com/JadeCong/Awesome-Robot-Learning
-date: 12 May 2021
+# links:
+#   - title: Site
+#     url: https://github.com/JadeCong/Awesome-Robot-Learning
+date: 20 May 2021
 
 # permalink: /contents/talks/
 # show_collection: talks
@@ -30,7 +30,7 @@ date: 12 May 2021
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-13
+last_modified_at: 2024-06-17
 
 hide_description: false
 hide_image: false

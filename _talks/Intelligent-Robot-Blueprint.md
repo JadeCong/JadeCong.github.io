@@ -16,10 +16,10 @@ image:
 #     1024w:
 #     512w:
 #     256w:
-links:
-  # - title: Site
-  #   url: https://github.com/JadeCong
-date: 12 February 2022
+# links:
+#   - title: Site
+#     url: https://github.com/JadeCong
+date: 12 January 2023
 
 # permalink: /contents/talks/
 # show_collection: talks
@@ -30,7 +30,7 @@ date: 12 February 2022
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-13
+last_modified_at: 2024-06-17
 
 hide_description: false
 hide_image: false
