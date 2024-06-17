@@ -37,8 +37,8 @@ cover: false
 no_groups: false
 no_link_title: false
 no_excerpt: false
-no_third_column: true
+no_third_column: false
 sitemap: false
 comments: false
-featured: false
+featured: true
 ---

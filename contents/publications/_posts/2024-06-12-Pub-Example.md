@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Pub Example
+caption: Example post for pub
 description: >
-  The first post for pub example.
+  This is the first post for pub example.
 # logo:
 # theme_color:
 # accent_color:
@@ -15,6 +16,9 @@ image:
 #     1024w:
 #     512w:
 #     256w:
+# links:
+#   - title: Site
+#     url: https://github.com/JadeCong
 categories: [publications]
 tags:
 date: 12 June 2024
@@ -28,7 +32,7 @@ date: 12 June 2024
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-13
+last_modified_at: 2024-06-17
 
 hide_description: false
 hide_image: false
@@ -44,4 +48,6 @@ comments: true
 featured: false
 ---
 
-# Pub Example
+#### Pub Example
+
+This is the first post for pub example and something needs to be done.
