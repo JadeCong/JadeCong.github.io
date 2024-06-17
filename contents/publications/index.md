@@ -32,7 +32,7 @@ hide_image: false
 hide_last_modified: false
 invert_sidebar: false
 cover: false
-no_groups: true
+no_groups: false
 no_link_title: false
 no_excerpt: false
 no_third_column: false
