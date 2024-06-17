@@ -55,7 +55,7 @@ What I'm focusing and working on Robotics are as follows:
 - [Pinocchio](https://stack-of-tasks.github.io/pinocchio/)
 - [MuJoCo](https://mujoco.org/)
 - [Robosuite](https://robosuite.ai/)
-- [Teleoperation](/contents/projects/robot-teleoperation/index.html)
+- [Teleoperation](https://www.shadowrobot.com/teleoperation/)
 
 Projects and blogs in Robotics category are as follows:
 
