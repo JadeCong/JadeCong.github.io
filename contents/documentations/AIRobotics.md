@@ -41,7 +41,7 @@ comments: true
 featured: false
 ---
 
-The block aims to integrate robotics and artificial intelligence for making robots more intelligent and accessible. The docs are mainly targeted for applications in the fields of **Robot Learning** and **Autonomous Driving**.
+The block aims to integrate robotics and artificial intelligence for making robots more intelligent and accessible. The docs are mainly targeted for basic principles, methods, algorithms and applications in the fields of **Robot Learning** and **Autonomous Driving**.
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}

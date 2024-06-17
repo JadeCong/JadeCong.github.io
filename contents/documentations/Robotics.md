@@ -41,7 +41,7 @@ comments: true
 featured: false
 ---
 
-Based on classical robotics, we construct a robot form these steps as follows: **Robot Mechanics**, **Robot Calibration**, **Robot Planning** and **Robot Control**. So I created the docs from the steps and focused on the basic principles, methods, algorithms and applications of robot. 
+Based on classical robotics, we construct a robot form these steps as follows: **Robot Mechanics**, **Robot Calibration**, **Robot Planning** and **Robot Control**. So I created the docs from the steps and focused on the basic principles, methods, algorithms and applications in the above categories. 
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}

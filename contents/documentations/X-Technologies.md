@@ -41,7 +41,7 @@ comments: true
 featured: false
 ---
 
-The block is created for some advanced technologies(so called **X-Technologies**) and improving the level of our industry. The docs are mainly targeted for applications in the fields of **Anti-Gravity**, **Quantum Mechanics**, **Space Travel** and **String Theory**.
+The block is created for some advanced technologies(so called **X-Technologies**) and improving the level of our industry. The docs are mainly targeted for basic principles, methods, algorithms and applications in the fields of **Anti-Gravity**, **Quantum Mechanics**, **Space Travel** and **String Theory**.
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}

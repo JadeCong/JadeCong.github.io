@@ -41,7 +41,7 @@ comments: true
 featured: false
 ---
 
-Based on the **Industrial Metaverse Platform**, the whole processes of industrial production which include requirement, design, development, testing, deployment and operating could be accelerated serval times for high efficiency and more convenience. These docs are mainly targeted for applications in the fields of **Omniverse** and **Digital Twin**.
+Based on the **Industrial Metaverse Platform**, the whole processes of industrial production which include requirement, design, development, testing, deployment and operating could be accelerated serval times for high efficiency and more convenience. The docs are mainly targeted for basic principles, methods, algorithms and applications in the fields of **Omniverse** and **Digital Twin**.
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}

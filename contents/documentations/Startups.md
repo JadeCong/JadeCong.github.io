@@ -41,7 +41,7 @@ comments: true
 featured: false
 ---
 
-The block is mainly targeted for the whole process of starting up a new company. And I will record the steps of my own example.
+The block is mainly targeted for the whole processes of starting up a new company. And I will record the steps of my own example.
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
