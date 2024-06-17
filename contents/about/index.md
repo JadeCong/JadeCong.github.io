@@ -25,7 +25,7 @@ permalink: /contents/about/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-13
+last_modified_at: 2024-06-17
 
 hide_description: false
 hide_image: false
@@ -46,18 +46,24 @@ featured: false
 
 ## Who I am
 
-I'm an algorithm engineer and my job focuses on robotics and artificial intelligence, mostly working on robot motion control, motion planning, teleoperation and robot learning. And I am committed to making robots more intelligent with artificial intelligence.
+I'm an algorithm engineer and my job focuses on robotics and artificial intelligence, mostly working on robot motion control, motion planning, teleoperation and robot learning. And I am committed to making robots more intelligent and agile with artificial intelligence.
 
 ## What I do/have done
 
-Currently I am working as an **Algorithm Engineer** for **Omniverse** simulation platform. Based on the **Industrial Metaverse Platform**, the whole processes of industrial production which include requirement, design, development, testing, deployment and operating could be accelerated serval times for high efficiency and more convenience.
+Currently I am working as an **Algorithm Engineer** for developing **Industrial Metaverse Platform** based on NVIDIA **[Omniverse](https://www.nvidia.com/en-us/omniverse/)** Platform. Based on the Industrial Metaverse Platform, the whole processes of industrial production which include requirement, design, development, testing, deployment and operating could be accelerated serval times for high efficiency and more convenience.
 
-![Omniverse Simulation Platform](/assets/images/about/omniverse-simulation-platform.png){:width="1200px" height="640px" loading="lazy"}
+![Nvidia Omniverse Platform](/assets/images/about/nvidia-omniverse-platform.png){:width="1200px" height="640px" loading="lazy"}
+
+Nvidia Omniverse Platform
+{:.figcaption}
 
 In the last 7 years I worked as a **Robot Algorithm Engineer** mainly focused on algorithm development and application but with an **AI Enthusiast** as well. I'm also dedicated to integrating robotics and artificial intelligence to construct an intelligent humanoid robot for users.
 
 ![Ultrasound Scanning](/assets/images/about/ultrasound-scanning.png){:width="465px" height="330px" loading="lazy"}
-![Teleoperation](/assets/images/about/teleoperation.png){:width="360px" height="250px" loading="lazy"}
+![Robot Teleoperation](/assets/images/about/robot-teleoperation.png){:width="360px" height="250px" loading="lazy"}
+
+Robot Applications
+{:.figcaption}
 
 I think that summarizes a bit what I have done so far. **Time flies by!**
 
