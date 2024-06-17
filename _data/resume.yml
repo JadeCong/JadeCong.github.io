@@ -7,7 +7,7 @@ basics:
   picture: "/assets/images/home/logo-photo.jpg"
   email: "jade.cong@qq.com"
   phone: "155xxxx5859"
-  website: "https://jadecong.github.io/"
+  website: "https://jadecong.github.io"
   summary: >
     Jade hails from Xinyang city, Henan province.
     He has earned master degree from the Tiangong University.
@@ -82,7 +82,7 @@ publications:
     publisher: "Journal of Tiangong University"
     releaseDate: "2020-07-01"
     website: "http://tjgydx.scizazhi.com/"
-    summary: "Based on the master-manipulator’s dynamic model, the strategy of the induced feedback force compensation was proposed and a teleoperation experiment was performed. The experimental results showed that the induced feedback force model proposed can well describe the actual induced feedback force."
+    summary: "Based on the master-manipulator's dynamic model, the strategy of the induced feedback force compensation was proposed and a teleoperation experiment was performed. The experimental results showed that the induced feedback force model proposed can well describe the actual induced feedback force."
 
 skills:
   - name: "Robotics"
