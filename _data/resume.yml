@@ -14,7 +14,7 @@ basics:
     He works as a robot algorithm engineer for Conarobot Co.,Inc.
     While his work focuses on robotics and artificial intelligence,
     mostly working on robot motion control, motion planning, teleoperation and robot learning.
-    And he aims to make robots more intelligent with artificial intelligence.
+    And he aims to make robots more intelligent and agile with artificial intelligence.
   location:
     address: "No.4011, Shahe West Road"
     postalCode: "518000"
@@ -78,6 +78,11 @@ publications:
     releaseDate: "2018-03-05"
     website: "http://tjgydx.scizazhi.com/"
     summary: "This article proposes a force compensation method based on the master manipulator, which enables operator to accurately perceive the feedback force from the slave manipulator."
+  - name: "Induced feedback force compensation strategy of master-slave minimal invasive surgical robotic system"
+    publisher: "Journal of Tiangong University"
+    releaseDate: "2020-07-01"
+    website: "http://tjgydx.scizazhi.com/"
+    summary: "Based on the master-manipulator’s dynamic model, the strategy of the induced feedback force compensation was proposed and a teleoperation experiment was performed. The experimental results showed that the induced feedback force model proposed can well describe the actual induced feedback force."
 
 skills:
   - name: "Robotics"
