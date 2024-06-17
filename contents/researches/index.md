@@ -25,7 +25,7 @@ permalink: /contents/researches/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-13
+last_modified_at: 2024-06-17
 
 hide_description: false
 hide_image: false
@@ -44,28 +44,29 @@ featured: false
 - Table of Contents
 {:toc}
 
-Based on my major, interests and skills, there are serval research directions for me as follows: **Robotics**, **Artificial Intelligence**, **Metaverse** and **X-Technologies**.
+Based on my major, interests and skills, there are serval research categories for me as follows: **Robotics**, **Artificial Intelligence**, **Metaverse** and **X-Technologies**.
 
 ## Robotics
 
-- ROS
-- ROS2
-- OMPL
-- MuJoCo
-- Robosuite
-- Teleoperation
-{:.faded}
+What I'm focusing and working on Robotics are as follows:
+- [ROS](https://www.ros.org/)
+- [ROS 2](https://docs.ros.org/en/rolling/index.html)
+- [OMPL](https://ompl.kavrakilab.org/)
+- [Pinocchio](https://stack-of-tasks.github.io/pinocchio/)
+- [MuJoCo](https://mujoco.org/)
+- [Robosuite](https://robosuite.ai/)
+- [Teleoperation](/contents/projects/robot-teleoperation)
 
-What I focus and work on Robotics are as follows:
+Projects and blogs in Robotics category are as follows:
 
 ![ROS Application](/assets/images/researches/ros-application.png){:width="1920" height="1080" loading="lazy"}
 
 ROS Application
 {:.figcaption}
 
-![MuJoCo Application](/assets/images/researches/mujoco-application.png){:width="1920" height="1080" loading="lazy"}
+![Robosuite Application](/assets/images/researches/robosuite-application.png){:width="1920" height="1080" loading="lazy"}
 
-MuJoCo Application
+Robosuite Application
 {:.figcaption}
 
 ![Teleoperation Application](/assets/images/researches/teleoperation-application.png){:width="1920" height="1080" loading="lazy"}
@@ -75,16 +76,15 @@ Teleoperation Application
 
 ## Artificial Intelligence
 
-- Deep Learning
-- Reinforcement Learning
-- Imitation Learning
-- Robot Learning
-- LLM
-- Agents
-- AGI
-{:.faded}
+What I'm focusing and working on Artificial Intelligence are as follows:
+- [Deep Learning](https://gist.github.com/JadeCong/0cb39602cad9a22272f5cd97d94b8d46#file-deep-learning-md)
+- [Reinforcement Learning](https://gist.github.com/JadeCong/0cb39602cad9a22272f5cd97d94b8d46#file-reinforcement-learning-md)
+- [Imitation Learning](https://gist.github.com/JadeCong/0cb39602cad9a22272f5cd97d94b8d46#file-imitation-learning-md)
+- [Robot Learning](https://github.com/JadeCong/Awesome-Robot-Learning)
+- [Agents](https://github.com/JadeCong/Agents)
+- [AGI](https://github.com/JadeCong/AGI)
 
-What I focus and work on Artificial Intelligence are as follows:
+Projects and blogs in Artificial Intelligence category are as follows:
 
 ![Robot Learning Application](/assets/images/researches/robot-learning-application.png){:width="1920" height="1080" loading="lazy"}
 {:.centered}
@@ -100,12 +100,12 @@ Agents Application
 
 ## Metaverse
 
-- Omniverse
-- Isaac Sim
-- Digital Twin
-{:.faded}
+What I'm focusing and working on Metaverse are as follows:
+- [Omniverse](https://www.nvidia.com/en-us/omniverse/)
+- [Isaac Sim](https://developer.nvidia.com/isaac/sim)
+- [Digital Twin](https://www.nvidia.com/en-us/omniverse/solutions/digital-twins/)
 
-What I focus and work on Metaverse are as follows:
+Projects and blogs in Metaverse category are as follows:
 
 ![Omniverse Application](/assets/images/researches/omniverse-application.png){:width="1920" height="1080" loading="lazy"}
 
@@ -119,17 +119,18 @@ Isaac Sim Application
 
 ## X-Technologies
 
-- Anti-Gravity
-- Quantum Mechanics
-- Space Travel
-{:.faded}
+What I'm focusing and working on X-Technologies are as follows:
+- [Anti-Gravity](https://gist.github.com/JadeCong/2be024e6185bd573a8ff4d48ac965c5d#file-anti-gravity-md)
+- [Quantum Mechanics](https://gist.github.com/JadeCong/2be024e6185bd573a8ff4d48ac965c5d#file-quantum-mechanics-md)
+- [Space Travel](https://gist.github.com/JadeCong/2be024e6185bd573a8ff4d48ac965c5d#file-space-travel-md)
+- [String Theory](https://gist.github.com/JadeCong/2be024e6185bd573a8ff4d48ac965c5d#file-string-theory-md)
 
-What I focus and work on X-Technologies are as follows:
+Projects and blogs in X-Technologies category are as follows:
 
-![Anti-Gravity](/assets/images/researches/anti-gravity.png){:width="1920" height="1080" loading="lazy"}
+![Anti-Gravity Application](/assets/images/researches/anti-gravity-application.png){:width="1920" height="1080" loading="lazy"}
 {:.centered}
 
-Anti-Gravity
+Anti-Gravity Application
 {:.figcaption}
 
-[Link] **Einstein's Antigravity:** [https://www.bilibili.com/read/cv11369022/](https://www.bilibili.com/read/cv11369022/)
+[Link] **Einstein's Antigravity**: [https://www.bilibili.com/read/cv11369022/](https://www.bilibili.com/read/cv11369022/)
