@@ -51,6 +51,5 @@ featured: false
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/robot-teleoperation.mp4" type="video/mp4">
 </video>
-
 Application for robot teleoperation
 {:.figcaption}

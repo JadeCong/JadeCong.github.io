@@ -51,12 +51,10 @@ featured: false
 #### Introduction to Industrial Metaverse Platform
 
 ![Testing Simulation Platform](/assets/images/projects/testing-simulation-platform.png){:width="1920" height="1080" loading="lazy"}
-
 Framework for testing simulation platform
 {:.figcaption}
 
 ![Graph Node Extension](/assets/images/projects/graph-node-extension.png){:width="1920" height="1080" loading="lazy"}
-
 Example of graph node extension
 {:.figcaption}
 
@@ -65,7 +63,6 @@ Example of graph node extension
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/industrial-metaverse-platform.mp4" type="video/mp4">
 </video>
-
 Demo for industrial metaverse platform
 {:.figcaption}
 
@@ -74,13 +71,11 @@ Demo for industrial metaverse platform
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/franka-nut-bolt.mp4" type="video/mp4">
 </video>
-
 Simulation for assembling nut and bolt
 {:.figcaption}
 
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/isaac-sim-motor.mp4" type="video/mp4">
 </video>
-
 Simulation for running motor
 {:.figcaption}

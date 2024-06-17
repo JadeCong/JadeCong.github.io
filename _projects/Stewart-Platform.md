@@ -51,7 +51,6 @@ featured: false
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/stewart-platform-proto.mp4" type="video/mp4">
 </video>
-
 Prototype for stewart platform
 {:.figcaption}
 
@@ -60,6 +59,5 @@ Prototype for stewart platform
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/stewart-platform.mp4" type="video/mp4">
 </video>
-
 ROS simulation for stewart platform
 {:.figcaption}

@@ -51,7 +51,6 @@ featured: false
 #### Design of Massage Meta Skill
 
 ![Massage Meta Skill](/assets/images/projects/massage-meta-skill.png){:width="1920" height="1080" loading="lazy"}
-
 Abstraction for massage meta skill
 {:.figcaption}
 
@@ -60,7 +59,6 @@ Abstraction for massage meta skill
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/mr-simulation.mp4" type="video/mp4">
 </video>
-
 Simulation for massage robot
 {:.figcaption}
 
@@ -69,6 +67,5 @@ Simulation for massage robot
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/massage-robot.mp4" type="video/mp4">
 </video>
-
 Application for massage robot
 {:.figcaption}

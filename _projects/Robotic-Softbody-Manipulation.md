@@ -51,7 +51,6 @@ featured: false
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/robotic-softbody-manipulation.mp4" type="video/mp4">
 </video>
-
 Simulation for robotic softbody manipulation
 {:.figcaption}
 
@@ -60,6 +59,5 @@ Simulation for robotic softbody manipulation
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/ultrasound-scanning.mp4" type="video/mp4">
 </video>
-
 Application for ultrasound scanning
 {:.figcaption}

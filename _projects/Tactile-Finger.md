@@ -53,7 +53,6 @@ featured: false
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/tactile-finger.mp4" type="video/mp4">
 </video>
-
 Demo for robot perception
 {:.figcaption}
 
@@ -62,6 +61,5 @@ Demo for robot perception
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/manual-force-teaching.mp4" type="video/mp4">
 </video>
-
 Application for manual force teaching
 {:.figcaption}

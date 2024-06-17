@@ -51,7 +51,6 @@ featured: false
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/hand-control-master.mp4" type="video/mp4">
 </video>
-
 Demo for hand control master end
 {:.figcaption}
 
@@ -60,6 +59,5 @@ Demo for hand control master end
 <video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/hand-control-slave.mp4" type="video/mp4">
 </video>
-
 Demo for hand control slave end
 {:.figcaption}
