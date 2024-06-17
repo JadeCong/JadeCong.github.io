@@ -60,17 +60,14 @@ What I'm focusing and working on Robotics are as follows:
 Projects and blogs in Robotics category are as follows:
 
 ![ROS Application](/assets/images/researches/ros-application.png){:width="1920" height="1080" loading="lazy"}
-
 ROS Application
 {:.figcaption}
 
 ![Robosuite Application](/assets/images/researches/robosuite-application.png){:width="1920" height="1080" loading="lazy"}
-
 Robosuite Application
 {:.figcaption}
 
 ![Teleoperation Application](/assets/images/researches/teleoperation-application.png){:width="1920" height="1080" loading="lazy"}
-
 Teleoperation Application
 {:.figcaption}
 
@@ -87,14 +84,10 @@ What I'm focusing and working on Artificial Intelligence are as follows:
 Projects and blogs in Artificial Intelligence category are as follows:
 
 ![Robot Learning Application](/assets/images/researches/robot-learning-application.png){:width="1920" height="1080" loading="lazy"}
-{:.centered}
-
 Robot Learning Application
 {:.figcaption}
 
 ![Agents Application](/assets/images/researches/agents-application.png){:width="1920" height="1080" loading="lazy"}
-{:.centered}
-
 Agents Application
 {:.figcaption}
 
@@ -108,12 +101,10 @@ What I'm focusing and working on Metaverse are as follows:
 Projects and blogs in Metaverse category are as follows:
 
 ![Omniverse Application](/assets/images/researches/omniverse-application.png){:width="1920" height="1080" loading="lazy"}
-
 Omniverse Application
 {:.figcaption}
 
 ![Isaac Sim Application](/assets/images/researches/isaac-sim-application.png){:width="1920" height="1080" loading="lazy"}
-
 Isaac Sim Application
 {:.figcaption}
 
@@ -127,9 +118,7 @@ What I'm focusing and working on X-Technologies are as follows:
 
 Projects and blogs in X-Technologies category are as follows:
 
-![Anti-Gravity Application](/assets/images/researches/anti-gravity-application.png){:width="1920" height="1080" loading="lazy"}
-{:.centered}
-
+![Anti-Gravity Application](/assets/images/researches/anti-gravity-application.jpg){:width="1920" height="1080" loading="lazy"}
 Anti-Gravity Application
 {:.figcaption}
 
