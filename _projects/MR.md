@@ -21,7 +21,7 @@ links:
     url: https://github.com/JadeCong/mr
   - title: Site2
     url: https://github.com/JadeCong/mr_ros
-date: 28 May 2024
+date: 11 November 2022
 
 # permalink: /contents/projects/
 # show_collection: projects
@@ -32,7 +32,7 @@ date: 28 May 2024
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-15
+last_modified_at: 2024-06-17
 
 hide_description: false
 hide_image: false

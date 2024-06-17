@@ -21,7 +21,7 @@ links:
     url: https://github.com/JadeCong/Omniverse
   - title: Site2
     url: https://github.com/JadeCong/Awesome-Metaverse
-date: 15 June 2024
+date: 13 December 2023
 
 # permalink: /contents/projects/
 # show_collection: projects
@@ -32,7 +32,7 @@ date: 15 June 2024
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-16
+last_modified_at: 2024-06-17
 
 hide_description: false
 hide_image: false

@@ -19,7 +19,7 @@ image:
 links:
   - title: Site
     url: https://github.com/JadeCong/HandControl-MuJoCo
-date: 28 May 2024
+date: 22 January 2020
 
 # permalink: /contents/projects/
 # show_collection: projects
@@ -30,7 +30,7 @@ date: 28 May 2024
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-14
+last_modified_at: 2024-06-17
 
 hide_description: false
 hide_image: false
