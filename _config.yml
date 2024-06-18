@@ -216,9 +216,6 @@ defaults:
   # Don't include documents in assets in the sitemap.
   - scope:
       path: /assets/*
-        # - /assets/
-        # - /assets/licenses/
-        # - /assets/docs/common/
     values:
       sitemap: false
   # You can use the following to enable comments on all posts.
