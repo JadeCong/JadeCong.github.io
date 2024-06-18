@@ -19,6 +19,7 @@ June 18 2024
 * Adjust the formats of all posts and pages.
 * Configure the misc of the site.
 * Update changelog and license of the site.
+* Fix search function bugs.
 
 ## v2.0
 May 27 2024

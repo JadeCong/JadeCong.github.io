@@ -25,7 +25,7 @@ permalink: /contents/documentations/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-17
+last_modified_at: 2024-06-18
 
 hide_description: false
 hide_image: false
@@ -36,7 +36,7 @@ no_groups: true
 no_link_title: false
 no_excerpt: false
 no_third_column: true
-sitemap: false
+sitemap: true
 comments: false
 featured: false
 ---

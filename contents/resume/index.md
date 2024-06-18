@@ -25,7 +25,7 @@ permalink: /contents/resume/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-17
+last_modified_at: 2024-06-18
 
 hide_description: true
 hide_image: false
@@ -38,7 +38,7 @@ no_excerpt: false
 no_third_column: false
 no_language_icons: false
 no_skill_icons: false
-sitemap: false
+sitemap: true
 comments: false
 featured: false
 
