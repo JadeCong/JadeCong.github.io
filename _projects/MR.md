@@ -43,7 +43,7 @@ no_groups: true
 no_link_title: false
 no_excerpt: false
 no_third_column: true
-sitemap: false
+sitemap: true
 comments: true
 featured: false
 ---
