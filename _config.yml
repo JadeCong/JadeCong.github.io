@@ -215,7 +215,7 @@ defaults:
         overlay: true
   # Don't include documents in assets in the sitemap.
   - scope:
-      path: /assets/
+      path: assets/
     values:
       sitemap: false
   # You can use the following to enable comments on all posts.
