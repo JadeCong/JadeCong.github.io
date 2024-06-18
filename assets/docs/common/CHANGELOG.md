@@ -9,6 +9,17 @@ sitemap: false
 * this list will be replaced by the toc
 {:toc .large-only}
 
+## v3.0
+June 18 2024
+{:.heading.post-date}
+
+* Configure the sidebar menu of the site.
+* Add pages of projects, talks and podcasts.
+* Add example posts of blogs and publications.
+* Adjust the formats of all posts and pages.
+* Configure the misc of the site.
+* Update changelog and license of the site.
+
 ## v2.0
 May 27 2024
 {:.heading.post-date}
