@@ -71,7 +71,7 @@ In case you will be looking for **more details** about my work, [you can do that
 
 ## How to approach me
 
-**Being social and helping in any way I can, is one the things I like and enjoy the most!** You can find me here:
+**Being social and helping in any way I can, is one of the things I like and enjoy the most!** You can find me here:
 - [Email](mailto:jade.cong@qq.com)
 - [LinkedIn](https://www.linkedin.com/in/jingde-cong-a1a85614b)
 - [Twitter](https://twitter.com/JadeCong26)
