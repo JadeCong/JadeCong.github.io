@@ -1,0 +1,4 @@
+[submodule "#jekyll-theme-hydejack"]
+	path = "#jekyll-theme-hydejack"
+	url = https://github.com/JadeCong/jekyll-theme-hydejack.git
+	branch = main
