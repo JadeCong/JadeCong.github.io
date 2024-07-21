@@ -23,8 +23,8 @@ selected_projects:
   - _projects/Robot-Teleoperation.md
 projects_page: /contents/projects/
 selected_posts:
-  - contents/blogs/_posts/2024-06-12-Blog-Example.md
-  - contents/publications/_posts/2024-06-12-Pub-Example.md
+  - contents/blogs/_posts/2019-08-02-Goal-of-AGI.md
+  - contents/blogs/_posts/2019-08-09-Whats-AGI.md
 posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
