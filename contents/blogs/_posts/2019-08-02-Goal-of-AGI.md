@@ -48,11 +48,11 @@ comments: true
 featured: false
 ---
 
+- Table of Contents
+{:toc}
+
 **AdvancedRobotics(WeChat Public):** [Goal of AGI](https://mp.weixin.qq.com/s?__biz=MzI4MTQ4NjM1Mg==&mid=2247483676&idx=1&sn=e5182b0a1f972f3b2b22d82a83f136f5&chksm=eba93463dcdebd7599fbc80d42d6eab79ace2063fc8ee53874f6161c19169cc13ab6544a0916&token=1977923450&lang=zh_CN#rd)
 {:.note}
-
-0. this unordered seed list will be replaced by toc as unordered list
-{:toc}
 
 纵观人类历史，自上至下，从刀耕火种的远古时代，到牲畜耕作的农耕时代，到机械化生产的近代，再到由大数据和人工智能驱动生产的新世纪，我们一路上的发展恰好和工业革命的步伐相同步，只不过由于现在的科技革新速度呈现几何级数的速度增长，以至于近现代的科技革命的时间用的越来越短。从某个角度来看，我们人类作为地球上的物种，一直以来的社会发展史就是整个物种在提高生产力与自然环境变化之间的抗争。有一种理论说，文明的等级是以物种单元平均能支配的能量来划分的，物种个体拥有的能源越多就意味着文明的等级越高。显然，目前来看我们人类拥有的资源是极其有限的，我们还处于比较低的文明程度。当然，相比于低智慧的物种，我们确实又高出很多。
 
