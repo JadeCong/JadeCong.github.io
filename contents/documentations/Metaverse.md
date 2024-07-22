@@ -436,7 +436,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >>
 >>- 2.2.1 Kit Python Extension Template
 >>
->> Python扩展OmniGraph Node：<https://docs.omniverse.nvidia.com/isaacsim/latest/advanced_tutorials/tutorial_advanced_omnigraph_custom_python_nodes.html><br>
+>> Python扩展OmniGraph Node：<https://docs.omniverse.nvidia.com/isaacsim/latest/development_tools_tutorials.html><br>
 >> <https://docs.omniverse.nvidia.com/extensions/latest/ext_omnigraph.html>
 >>
 >> Python扩展教程：<https://docs.omniverse.nvidia.com/kit/docs/kit-manual/latest/guide/extensions_basic.html><br>
@@ -788,6 +788,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >（2）容易构建，本地使用；<br>
 >（3）能够大规模运行；<br>
 >（4）能够实现用例的大量变种；<br>
+>
 > Nvidia Omniverse Microservices平台的架构如下：<br>
 > ![Omniverse_Microservices](https://github.com/JadeCong/Resources/blob/master/Pictures/Doc_Images/Gist/Omniverse_Microservices.png)<br>
 >
@@ -819,31 +820,30 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > <https://zhuanlan.zhihu.com/p/422940645><br>
 >
 > 当前，Omniverse平台的服务化是基于Kit开发的一套微服务架构，用户可通过Service Extension开发自己的服务组件，从而构建自己的应用场景平台，然后可以将平台部署在云端或者本地服务器上以供公司成员和客户进行使用，同时研发人员可更新服务组件以实现升级服务功能。基于上述拟定的功能模块，我们可用到的云服务有IaaS、PaaS、SaaS、FaaS、DaaS、DBaaS、LaaS，然后基于Omniverse微服务架构的服务化功能模块如下图所示。<br>
+> 
 > ![Intelligent_Testing_Platform](https://github.com/JadeCong/Resources/blob/master/Pictures/Doc_Images/Gist/Intelligent_Testing_Platform.png)<br>
 >
 > 根据公司智能测试平台的要求及具体的测试业务，初步拟定以下可服务化的功能模块，包括：快速3D对象建模、模型USD格式转换、构建加载工作场景、按要求运行测试仿真、输出并记录测试仿真结果、仿真结果数据库管理、测试用例配置数据库管理、USD模型数据库管理、面向研发管理系统、面向客户管理系统等。
 >
 > 云服务内容说明：基于智能测试平台，能够快速搭建客户应用场景下的虚拟测试环境，虚拟部件，并提供定制化的系统测试服务。
 >
-```text
-1. 测试用例
-    a. 知识服务，提供测试用例、测试标准推荐，专业知识推荐；辅助客户编写测试用例
-    b. 生成测试用例服务
-    c. 系统可靠性模型评估与诊断，缺陷风险评估服务
-2. 测试环境
-    a. 建模服务，被测对象快速虚拟化到OV平台
-        (1). 正向建模
-        (2). 自动建模
-    b. 测试环境搭建服务，快速利用矢量部件库，搭建测试环境
-        (1). 测试环境推荐
-    c. 生成混合测试环境，辅助扩展用例范围
-        (1). 混合场景基于规则随机
-        (2). 用户自定义规则
-3. 测试运营
-   a. 测试用例版本管理服务
-   b. 测试用例自动回归测试，CICD接口服务
-   c. 测试结果输出报表，自定义报表服务
-```
+> 1. 测试用例<br>
+>    a. 知识服务，提供测试用例、测试标准推荐，专业知识推荐；辅助客户编写测试用例<br>
+>    b. 生成测试用例服务<br>
+>    c. 系统可靠性模型评估与诊断，缺陷风险评估服务<br>
+> 2. 测试环境<br>
+>    a. 建模服务，被测对象快速虚拟化到OV平台<br>
+>        (1) 正向建模<br>
+>        (2) 自动建模<br>
+>    b. 测试环境搭建服务，快速利用矢量部件库，搭建测试环境<br>
+>        (1) 测试环境推荐<br>
+>    c. 生成混合测试环境，辅助扩展用例范围<br>
+>        (1) 混合场景基于规则随机<br>
+>        (2) 用户自定义规则<br>
+> 3. 测试运营<br>
+>    a. 测试用例版本管理服务<br>
+>    b. 测试用例自动回归测试，CICD接口服务<br>
+>    c. 测试结果输出报表，自定义报表服务<br>
 >
 > ##### （3）仿真平台的微服务模块实现
 >
