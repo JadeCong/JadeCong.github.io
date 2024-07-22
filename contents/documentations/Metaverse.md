@@ -701,14 +701,14 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 （2）https://mujoco.org/
 >
 > ##### （4）仿真平台搭建
->>
->> ###### 1. 系统环境构建
+>
+> 1. 系统环境构建
 >>
 >> 首先，在构建仿真平台之前，我们需要统一系统开发环境，上述三款仿真平台均支持Ubuntu和Windows两种系统，但NVIDIA Omniverse(https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/requirements.html)对操作系统提出一定要求，同时考虑到后期与其他软件的配合开发的拓展性以及用于机器学习的场景，我们暂时统一系统环境为Ubuntu 22.04/20.04 LTS，另外系统主机要满足上面链接中的物理硬件要求，然后通过官方系统镜像进行安装系统即可。
 >>
 >> **Reference：** [Windows and Ubuntu Installation.md](https://gist.github.com/JadeCong/a5c09386a8ea30881540996498ed54b1#file-windows-and-ubuntu-installation-md)
->>
->> ###### 2. 仿真平台的安装与配置
+>
+> 2. 仿真平台的安装与配置
 >>
 >>- **Nvidia Omniverse**<br>
 >> 在安装好Ubuntu操作系统之后，依据Omniverse官方安装文档(https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/install_workstation.html)进行安装软件即可。如遇到问题，可参考下面参考链接进行重新安装配置驱动和软件启动选项配置。
