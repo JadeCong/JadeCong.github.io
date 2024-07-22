@@ -456,7 +456,7 @@ https://github.com/phidatahq/phidata
 ### (7) CO-STAR Framework
 
 > 在使用大语言模型时，有效的提示构建至关重要。CO-STAR 框架，由新加坡政府科技局数据科学与 AI 团队创立，是一个实用的提示构建工具。它考虑了所有影响大语言模型响应效果和相关性的关键因素，帮助你获得更优的反馈。<br>
-> ![CO-STAR Framework](https://github.com/JadeCong/Resources/blob/master/Pictures/Doc_Images/Gist/CO-STAR%20Framework.png){:width="1200px" height="640px" loading="lazy"}
+> ![CO-STAR Framework](https://github.com/JadeCong/Resources/blob/master/Pictures/Doc_Images/Gist/CO-STAR%20Framework.png){:width="640px" height="480px" loading="lazy"}
 >
 > **Reference:**
 >> (1) https://www.jackyshen.com/<br>
@@ -568,11 +568,11 @@ If you understand, ask me for my goals.
 >
 > 其中，Policy是Agent做出Action的核心决策，而行动又通过观察（Observation）成为进一步Perception的前提和基础，形成自主地闭环学习过程。
 >
-> ![Agent Framework](/assets/images/documentations/agent-framework.png){:width="1200px" height="640px" loading="lazy"}
+> ![Agent Framework](/assets/images/documentations/agent-framework.png){:width="640px" height="480px" loading="lazy"}
 >
 > 工程实现上可以拆分出四大块核心模块：推理、记忆、工具、行动。
 >
-> ![Agent Engineering](/assets/images/documentations/agent-engineering.png){:width="1200px" height="640px" loading="lazy"}
+> ![Agent Engineering](/assets/images/documentations/agent-engineering.png){:width="640px" height="480px" loading="lazy"}
 
 ### (2) 决策模型
 
@@ -580,18 +580,18 @@ If you understand, ask me for my goals.
 >
 > 1. 传统ReAct框架：Reason and Act<br>
 > ReAct=少样本prompt + Thought + Action + Observation 。是调用工具、推理和规划时常用的prompt结构，先推理再执行，根据环境来执行具体的action，并给出思考过程Thought。<br>
-> ![ReAct Framework](/assets/images/documentations/react-framwork.png){:width="1200px" height="640px" loading="lazy"}
+> ![ReAct Framework](/assets/images/documentations/react-framwork.png){:width="640px" height="480px" loading="lazy"}
 >
 > 2. 新框架：Plan-and-Execute ReAct<br>
 > 类BabyAgi的执行流程：一部分Agent通过优化规划和任务执行的流程来完成复杂任务的拆解，将复杂的任务拆解成多个子任务，再依次/批量执行。<br>
 > 优点是对于解决复杂任务、需要调用多个工具时，也只需要调用三次大模型，而不是每次工具调用都要调大模型。<br>
-> ![BabyAgi](/assets/images/documentations/baby-agi.jpeg){:width="1200px" height="640px" loading="lazy"}
+> ![BabyAgi](/assets/images/documentations/baby-agi.jpeg){:width="640px" height="480px" loading="lazy"}
 > LLmCompiler：并行执行任务，规划时生成一个DAG图来执行action，可以理解成将多个工具聚合成一个工具执行图，用图的方式执行某一个action。<br>
 > paper：https://arxiv.org/abs/2312.04511?ref=blog.langchain.dev<br>
-> ![LLmCompiler](/assets/images/documentations/llm-compiler.png){:width="1200px" height="640px" loading="lazy"}
+> ![LLmCompiler](/assets/images/documentations/llm-compiler.png){:width="640px" height="480px" loading="lazy"}
 >
 > 3. 框架对比<br>
-> ![Framework Compare](/assets/images/documentations/framework-compare.png){:width="1200px" height="640px" loading="lazy"}
+> ![Framework Compare](/assets/images/documentations/framework-compare.png){:width="640px" height="480px" loading="lazy"}
 
 ### (3) Agent框架
 
@@ -683,7 +683,7 @@ If you understand, ask me for my goals.
 
 3. Reference
 > 截止至今日，开源的Agent应用可以说是百花齐放，文章也是挑选了热度和讨论度较高的19类Agent，基本能覆盖主流的Agent框架，每个类型都做了一个简单的summary、作为一个参考供大家学习。<br>
-> ![Agent Landscape](/assets/images/documentations/agent-landscape.png){:width="1200px" height="640px" loading="lazy"}
+> ![Agent Landscape](/assets/images/documentations/agent-landscape.png){:width="640px" height="480px" loading="lazy"}
 > GitHub: https://github.com/e2b-dev/awesome-ai-agents
 
 ### (4) Agent框架总结
