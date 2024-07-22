@@ -481,7 +481,7 @@ https://github.com/phidatahq/phidata
 > 响应：规定输出的格式 确定输出格式是为了确保大语言模型按照你的具体需求进行输出，便于执行下游任务。常见的格式包括列表、JSON 格式的数据、专业报告等。对于大部分需要程序化处理大语言模型输出的应用来说，JSON 格式是理想的选择。
 >
 > **Example of CO-STAR Framework**
->
+
 ```text
 # CONTEXT # 
 I am a personal productivity developer. In the realm of personal development and productivity, there is a growing demand for systems that not only help individuals set goals but also convert those goals into actionable steps. Many struggle with the transition from aspirations to concrete actions, highlighting the need for an effective goal-to-system conversion process.
@@ -493,7 +493,7 @@ Your task is to guide me in creating a comprehensive system converter. This invo
 Write in an informative and instructional style, resembling a guide on personal development. Ensure clarity and coherence in the presentation of each step, catering to an audience keen on enhancing their productivity and goal attainment skills.
 
 # TONE #
- Maintain a positive and motivational tone throughout, fostering a sense of empowerment and encouragement. It should feel like a friendly guide offering valuable insights.
+Maintain a positive and motivational tone throughout, fostering a sense of empowerment and encouragement. It should feel like a friendly guide offering valuable insights.
 
 # AUDIENCE #
 The target audience is individuals interested in personal development and productivity enhancement. Assume a readership that seeks practical advice and actionable steps to turn their goals into tangible outcomes.
@@ -558,30 +558,34 @@ If you understand, ask me for my goals.
 >
 > 其中，Policy是Agent做出Action的核心决策，而行动又通过观察（Observation）成为进一步Perception的前提和基础，形成自主地闭环学习过程。
 >
-> ![Agent Framework](/assets/images/documentations/agent-framework.png){:width="640px" height="480px" loading="lazy"}
+> ![Agent Framework](/assets/images/documentations/agent-framework.png){:width="800px" height="540px" loading="lazy"}
 >
 > 工程实现上可以拆分出四大块核心模块：推理、记忆、工具、行动。
 >
-> ![Agent Engineering](/assets/images/documentations/agent-engineering.png){:width="640px" height="480px" loading="lazy"}
+> ![Agent Engineering](/assets/images/documentations/agent-engineering.png){:width="800px" height="540px" loading="lazy"}
 
 ### (2) 决策模型
 
 > 目前Agent主流的决策模型是ReAct框架，也有一些ReAct的变种框架，以下是两种框架的对比。
 >
 > 1. 传统ReAct框架：Reason and Act<br>
-> ReAct=少样本prompt + Thought + Action + Observation 。是调用工具、推理和规划时常用的prompt结构，先推理再执行，根据环境来执行具体的action，并给出思考过程Thought。<br>
-> ![ReAct Framework](/assets/images/documentations/react-framwork.png){:width="640px" height="480px" loading="lazy"}
+> ReAct=少样本prompt + Thought + Action + Observation 。是调用工具、推理和规划时常用的prompt结构，先推理再执行，根据环境来执行具体的action，并给出思考过程Thought。
+> 
+> ![ReAct Framework](/assets/images/documentations/react-framwork.png){:width="800px" height="540px" loading="lazy"}
 >
 > 2. 新框架：Plan-and-Execute ReAct<br>
 > 类BabyAgi的执行流程：一部分Agent通过优化规划和任务执行的流程来完成复杂任务的拆解，将复杂的任务拆解成多个子任务，再依次/批量执行。<br>
-> 优点是对于解决复杂任务、需要调用多个工具时，也只需要调用三次大模型，而不是每次工具调用都要调大模型。<br>
-> ![BabyAgi](/assets/images/documentations/baby-agi.jpeg){:width="640px" height="480px" loading="lazy"}
+> 优点是对于解决复杂任务、需要调用多个工具时，也只需要调用三次大模型，而不是每次工具调用都要调大模型。
+> 
+> ![BabyAgi](/assets/images/documentations/baby-agi.jpeg){:width="800px" height="540px" loading="lazy"}
+> 
 > LLmCompiler：并行执行任务，规划时生成一个DAG图来执行action，可以理解成将多个工具聚合成一个工具执行图，用图的方式执行某一个action。<br>
 > paper：https://arxiv.org/abs/2312.04511?ref=blog.langchain.dev<br>
-> ![LLmCompiler](/assets/images/documentations/llm-compiler.png){:width="640px" height="480px" loading="lazy"}
+> 
+> ![LLmCompiler](/assets/images/documentations/llm-compiler.png){:width="800px" height="540px" loading="lazy"}
 >
 > 3. 框架对比<br>
-> ![Framework Compare](/assets/images/documentations/framework-compare.png){:width="640px" height="480px" loading="lazy"}
+> ![Framework Compare](/assets/images/documentations/framework-compare.png){:width="800px" height="540px" loading="lazy"}
 
 ### (3) Agent框架
 
@@ -673,7 +677,9 @@ If you understand, ask me for my goals.
 
 3. Reference
 > 截止至今日，开源的Agent应用可以说是百花齐放，文章也是挑选了热度和讨论度较高的19类Agent，基本能覆盖主流的Agent框架，每个类型都做了一个简单的summary、作为一个参考供大家学习。<br>
-> ![Agent Landscape](/assets/images/documentations/agent-landscape.png){:width="640px" height="480px" loading="lazy"}
+> 
+> ![Agent Landscape](/assets/images/documentations/agent-landscape.png){:width="800px" height="540px" loading="lazy"}
+> 
 > GitHub: https://github.com/e2b-dev/awesome-ai-agents
 
 ### (4) Agent框架总结
