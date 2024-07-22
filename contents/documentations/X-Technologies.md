@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-18
+last_modified_at: 2024-07-22
 
 hide_description: true
 hide_image: false
@@ -41,10 +41,13 @@ comments: true
 featured: false
 ---
 
+- Table of Contents
+{:toc}
+
 The block is created for some advanced technologies(so called **X-Technologies**) and improving the level of our industry. The docs are mainly targeted for basic principles, methods, algorithms and applications in the fields of **Anti-Gravity**, **Quantum Mechanics**, **Space Travel** and **String Theory**.
 
-0. this unordered seed list will be replaced by toc as unordered list
-{:toc}
+**JadeCong(GitHub):** [Awesome-X-Technologies](https://github.com/JadeCong/Awesome-X-Technologies)
+{:.note}
 
 ## Anti-Gravity
 Anti-Gravity Docs.
