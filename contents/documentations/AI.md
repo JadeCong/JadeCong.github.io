@@ -572,13 +572,13 @@ https://github.com/phidatahq/phidata
 ### (2) 决策模型
 
 > 目前Agent主流的决策模型是ReAct框架，也有一些ReAct的变种框架，以下是两种框架的对比。
->
-> 1. 传统ReAct框架：Reason and Act<br>
+
+1. 传统ReAct框架：Reason and Act
 > ReAct=少样本prompt + Thought + Action + Observation 。是调用工具、推理和规划时常用的prompt结构，先推理再执行，根据环境来执行具体的action，并给出思考过程Thought。
 > 
 > ![ReAct Framework](/assets/images/documentations/react-framwork.png){:width="800px" height="540px" loading="lazy"}
->
-> 2. 新框架：Plan-and-Execute ReAct<br>
+
+2. 新框架：Plan-and-Execute ReAct
 > 类BabyAgi的执行流程：一部分Agent通过优化规划和任务执行的流程来完成复杂任务的拆解，将复杂的任务拆解成多个子任务，再依次/批量执行。<br>
 > 优点是对于解决复杂任务、需要调用多个工具时，也只需要调用三次大模型，而不是每次工具调用都要调大模型。
 > 
@@ -588,8 +588,8 @@ https://github.com/phidatahq/phidata
 > paper：https://arxiv.org/abs/2312.04511?ref=blog.langchain.dev<br>
 > 
 > ![LLmCompiler](/assets/images/documentations/llm-compiler.png){:width="800px" height="540px" loading="lazy"}
->
-> 3. 框架对比<br>
+
+3. 框架对比
 > ![Framework Compare](/assets/images/documentations/framework-compare.png){:width="800px" height="540px" loading="lazy"}
 
 ### (3) Agent框架
