@@ -1,10 +1,5 @@
 # Welcome to GitHub Pages of Jingde (Jade) Cong
 
-<center>
-<font size=7>
-<a href=https://jadecong.github.io/>To My GitHub Pages, Here We Go</a>
-</font>
-</center>
-
+[To My GitHub Pages, Here We Go~](https://jadecong.github.io/)
 
 ![Home-Cover](/assets/images/home/home-cover.png)
