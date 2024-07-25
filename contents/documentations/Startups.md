@@ -53,23 +53,15 @@ The block is mainly targeted for the whole processes of starting up a new compan
 
 ### 1. 确定公司名字，产品名称，项目名称
 - Reference
-> https://www.gsxt.gov.cn/index.html
-> 
-> https://wordpressjc.com/domain-registrar/
-> 
-> https://amr.sz.gov.cn/attachment/1/1306/1306429/9252404.pdf
-> 
-> https://www.ikjzd.com/articles/107808
-> 
-> https://www.laozuo.org/16370.html
-> 
-> https://oldtang.com/4564.html
-> 
-> https://www.namesilo.com/
-> 
-> https://www.namecheap.com/
-> 
-> https://www.godaddy.com/zh-sg
+> <https://www.gsxt.gov.cn/index.html><br>
+> <https://wordpressjc.com/domain-registrar/><br>
+> <https://amr.sz.gov.cn/attachment/1/1306/1306429/9252404.pdf><br>
+> <https://www.ikjzd.com/articles/107808><br>
+> <https://www.laozuo.org/16370.html><br>
+> <https://oldtang.com/4564.html><br>
+> <https://www.namesilo.com/><br>
+> <https://www.namecheap.com/><br>
+> <https://www.godaddy.com/zh-sg><br>
 
 ### 2. 确定合伙人
 

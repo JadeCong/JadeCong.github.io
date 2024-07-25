@@ -361,8 +361,8 @@ Embodied Intelligence Docs.
 - 视频交互：察言观色
 
 Reference:<br>
-https://docs.phidata.com/introduction<br>
-https://github.com/phidatahq/phidata
+<https://docs.phidata.com/introduction><br>
+<https://github.com/phidatahq/phidata>
 
 ### (2) Multi-modal LM
 
@@ -377,7 +377,7 @@ https://github.com/phidatahq/phidata
 - GPT-4o
 
 3. Application
-- ChatGPT Desktop: https://openai.com/chatgpt/mac/
+- ChatGPT Desktop: <https://openai.com/chatgpt/mac/>
 
 ### (3) Search Enhanced Generation(RAG)
 
@@ -456,11 +456,11 @@ https://github.com/phidatahq/phidata
 ### (7) CO-STAR Framework
 
 > 在使用大语言模型时，有效的提示构建至关重要。CO-STAR 框架，由新加坡政府科技局数据科学与 AI 团队创立，是一个实用的提示构建工具。它考虑了所有影响大语言模型响应效果和相关性的关键因素，帮助你获得更优的反馈。<br>
-> ![CO-STAR Framework](https://github.com/JadeCong/Resources/blob/master/Pictures/Doc_Images/Gist/CO-STAR%20Framework.png){:width="640px" height="480px" loading="lazy"}
+> ![CO-STAR Framework](/assets/images/documentations/costar-framework.png){:width="800px" height="500px" loading="lazy"}
 >
 > **Reference:**
->> (1) https://www.jackyshen.com/<br>
->> (2) https://medium.com/@frugalzentennial/unlocking-the-power-of-costar-prompt-engineering-a-guide-and-example-on-converting-goals-into-dc5751ce9875
+>> (1) <https://www.jackyshen.com/><br>
+>> (2) <https://medium.com/@frugalzentennial/unlocking-the-power-of-costar-prompt-engineering-a-guide-and-example-on-converting-goals-into-dc5751ce9875>
 >
 > 1. Context (C)<br>
 > 上下文：为任务提供背景信息 通过为大语言模型（LLM）提供详细的背景信息，可以帮助它精确理解讨论的具体场景，确保提供的反馈具有相关性。
@@ -537,8 +537,8 @@ https://github.com/phidatahq/phidata
 ### (9) Large Model(LM) deployed on Local Host
 
 1. 安装并运行Ollama
-- 前往Ollama官方网站（https://ollama.com/）下载所需要系统版本的Ollama应用；
-- 在系统命令行终端中运行：ollama run llama3(你所需要的LLM，可供选择的LLM参考https://ollama.com/library)
+- 前往Ollama官方网站（<https://ollama.com/>）下载所需要系统版本的Ollama应用；
+- 在系统命令行终端中运行：ollama run llama3(你所需要的LLM，可供选择的LLM参考<https://ollama.com/library>)
 
 2. 安装并启用OpenWeb UI
 
@@ -585,7 +585,7 @@ https://github.com/phidatahq/phidata
 > ![BabyAgi](/assets/images/documentations/baby-agi.jpeg){:width="800px" height="540px" loading="lazy"}
 > 
 > LLmCompiler：并行执行任务，规划时生成一个DAG图来执行action，可以理解成将多个工具聚合成一个工具执行图，用图的方式执行某一个action。<br>
-> paper：https://arxiv.org/abs/2312.04511?ref=blog.langchain.dev<br>
+> paper：<https://arxiv.org/abs/2312.04511?ref=blog.langchain.dev><br>
 > 
 > ![LLmCompiler](/assets/images/documentations/llm-compiler.png){:width="800px" height="540px" loading="lazy"}
 
@@ -598,94 +598,101 @@ https://github.com/phidatahq/phidata
 
 1. Single-Agent Framework
 >- BabyAGI<br>
-> github：https://github.com/yoheinakajima/babyagi/<br>
-> doc：https://yoheinakajima.com/birth-of-babyagi/
+> github：<https://github.com/yoheinakajima/babyagi/><br>
+> doc：<https://yoheinakajima.com/birth-of-babyagi/>
 >
 >- AutoGPT<br>
-> github：https://github.com/Significant-Gravitas/AutoGPT
+> github：<https://github.com/Significant-Gravitas/AutoGPT>
 >
 >- HuggingGPT<br>
-> github: https://github.com/microsoft/JARVIS<br>
-> paper: https://arxiv.org/abs/2303.17580
+> github: <https://github.com/microsoft/JARVIS><br>
+> paper: <https://arxiv.org/abs/2303.17580>
 >
 >- GPT-Engineer<br>
-> github: https://github.com/AntonOsika/gpt-engineer
+> github: <https://github.com/AntonOsika/gpt-engineer>
 >
 >- Samantha<br>
-> github: https://github.com/BRlkl/AGI-Samantha<br>
-> twitter: https://twitter.com/Schindler___/status/1745986132737769573
+> github: <https://github.com/BRlkl/AGI-Samantha><br>
+> twitter: <https://twitter.com/Schindler___/status/1745986132737769573>
 >
 >- AppAgent<br>
-> github：https://github.com/X-PLUG/MobileAgent<br>
-> doc：https://appagent-official.github.io/
+> github：<https://github.com/X-PLUG/MobileAgent><br>
+> doc：<https://appagent-official.github.io/>
 >
 >- OS-Copilot<br>
-> github：https://github.com/OS-Copilot/FRIDAY<br>
-> doc：https://os-copilot.github.io/
+> github：<https://github.com/OS-Copilot/FRIDAY><br>
+> doc：<https://os-copilot.github.io/>
 >
 >- LangGraph<br>
-> github：https://github.com/langchain-ai/langgraph<br>
-> doc：https://python.langchain.com/docs/langgraph
+> github：<https://github.com/langchain-ai/langgraph><br>
+> doc：<https://python.langchain.com/docs/langgraph>
 >
 >- FlowiseAI<br>
-> github：https://github.com/FlowiseAI/Flowise<br>
-> doc：https://docs.flowiseai.com/
+> github：<https://github.com/FlowiseAI/Flowise><br>
+> doc：<https://docs.flowiseai.com/>
 >
 >- Dify<br>
-> github：https://github.com/langgenius/dify<br>
-> doc：https://docs.dify.ai/
+> github：<https://github.com/langgenius/dify><br>
+> doc：<https://docs.dify.ai/>
 
 2. Multi-Agent Framework
 >- 斯坦福虚拟小镇<br>
-> github：https://github.com/joonspk-research/generative_agents<br>
-> paper：https://arxiv.org/abs/2304.03442
+> github：<https://github.com/joonspk-research/generative_agents><br>
+> paper：<https://arxiv.org/abs/2304.03442>
 >
 >- MetaGPT<br>
-> github：https://github.com/geekan/MetaGPT<br>
-> doc：https://docs.deepwisdom.ai/main/zh/guide/get_started/introduction.html
+> github：<https://github.com/geekan/MetaGPT><br>
+> doc：<https://docs.deepwisdom.ai/main/zh/guide/get_started/introduction.html>
 >
 >- AutoGen<br>
-> github：https://github.com/microsoft/autogen<br>
-> doc：https://microsoft.github.io/autogen/docs/Getting-Started
+> github：<https://github.com/microsoft/autogen><br>
+> doc：<https://microsoft.github.io/autogen/docs/Getting-Started>
 >
 >- ChatDEV<br>
-> github：https://github.com/OpenBMB/ChatDev<br>
-> doc：https://chatdev.modelbest.cn/introduce
+> github：<https://github.com/OpenBMB/ChatDev><br>
+> doc：<https://chatdev.modelbest.cn/introduce>
 >
 >- GPTeam<br>
-> github：https://github.com/101dotxyz/GPTeam
+> github：<https://github.com/101dotxyz/GPTeam>
 >
 >- GPT Researcher<br>
-> github：https://github.com/assafelovic/gpt-researcher
+> github：<https://github.com/assafelovic/gpt-researcher>
 >
 >- TaskWeaver<br>
-> github：https://github.com/microsoft/TaskWeaver?tab=readme-ov-file<br>
-> doc：https://microsoft.github.io/TaskWeaver/docs/overview
+> github：<https://github.com/microsoft/TaskWeaver?tab=readme-ov-file><br>
+> doc：<https://microsoft.github.io/TaskWeaver/docs/overview>
 >
 >- Microsoft UFO<br>
-> github：https://github.com/microsoft/UFO
+> github：<https://github.com/microsoft/UFO>
 >
 >- CrewAI<br>
-> github: https://github.com/joaomdmoura/crewAI<br>
-> site: https://www.crewai.com/
+> github: <https://github.com/joaomdmoura/crewAI><br>
+> site: <https://www.crewai.com/>
 >
 >- MemGPT<br>
-> github: https://github.com/cpacker/MemGPT<br>
-> site: https://memgpt.ai/
+> github: <https://github.com/cpacker/MemGPT><br>
+> site: <https://memgpt.ai/>
 >
 >- AgentScope<br>
-> github: https://github.com/modelscope/agentscope/blob/main/README_ZH.md
+> github: <https://github.com/modelscope/agentscope/blob/main/README_ZH.md>
 >
 >- Camel<br>
-> github: https://github.com/camel-ai/camel<br>
-> site: https://www.camel-ai.org
+> github: <https://github.com/camel-ai/camel><br>
+> site: <https://www.camel-ai.org>
 
-3. Reference
+3. Heterogeneous Distributed-Agent framework
+>- cake<br>
+> github: <https://github.com/evilsocket/cake>
+>
+>- exo<br>
+> github: <https://github.com/exo-explore/exo>
+
+4. Reference
 > 截止至今日，开源的Agent应用可以说是百花齐放，文章也是挑选了热度和讨论度较高的19类Agent，基本能覆盖主流的Agent框架，每个类型都做了一个简单的summary、作为一个参考供大家学习。<br>
 > 
 > ![Agent Landscape](/assets/images/documentations/agent-landscape.png){:width="800px" height="540px" loading="lazy"}
 > 
-> GitHub: https://github.com/e2b-dev/awesome-ai-agents
+> GitHub: <https://github.com/e2b-dev/awesome-ai-agents>
 
 ### (4) Agent框架总结
 
@@ -743,8 +750,8 @@ RAG：解决语义孤立问题<br>
 业务选择：Copilot 还是 Agent ？Single Agent 还是Multi-Agent？<br>
 
 ### Reference
-- (1) https://www.53ai.com/news/qianyanjishu/1418.html<br>
-- (2) https://www.icnma.com/multi-agent-framework/
+- (1) <https://www.53ai.com/news/qianyanjishu/1418.html><br>
+- (2) <https://www.icnma.com/multi-agent-framework/>
 
 ## AGI(Artificial General Intelligence)
 

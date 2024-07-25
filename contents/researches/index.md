@@ -74,12 +74,12 @@ Teleoperation Application
 ## Artificial Intelligence
 
 What I'm focusing and working on Artificial Intelligence are as follows:
-- [Deep Learning](https://gist.github.com/JadeCong/0cb39602cad9a22272f5cd97d94b8d46#file-deep-learning-md)
-- [Reinforcement Learning](https://gist.github.com/JadeCong/0cb39602cad9a22272f5cd97d94b8d46#file-reinforcement-learning-md)
-- [Imitation Learning](https://gist.github.com/JadeCong/0cb39602cad9a22272f5cd97d94b8d46#file-imitation-learning-md)
+- [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
+- [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+- [Imitation Learning](https://en.wikipedia.org/wiki/Imitative_learning)
 - [Robot Learning](https://github.com/JadeCong/Awesome-Robot-Learning)
-- [Agents](https://github.com/JadeCong/Agents)
-- [AGI](https://github.com/JadeCong/AGI)
+- [Agents](https://www.promptingguide.ai/research/llm-agents)
+- [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 
 Projects and blogs in Artificial Intelligence category are as follows:
 
@@ -111,10 +111,10 @@ Isaac Sim Application
 ## X-Technologies
 
 What I'm focusing and working on X-Technologies are as follows:
-- [Anti-Gravity](https://gist.github.com/JadeCong/2be024e6185bd573a8ff4d48ac965c5d#file-anti-gravity-md)
-- [Quantum Mechanics](https://gist.github.com/JadeCong/2be024e6185bd573a8ff4d48ac965c5d#file-quantum-mechanics-md)
-- [Space Travel](https://gist.github.com/JadeCong/2be024e6185bd573a8ff4d48ac965c5d#file-space-travel-md)
-- [String Theory](https://gist.github.com/JadeCong/2be024e6185bd573a8ff4d48ac965c5d#file-string-theory-md)
+- [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
+- [Anti-Gravity](https://en.wikipedia.org/wiki/Anti-gravity)
+- [Space Travel](https://www.nasa.gov/space-travel-technology/)
+- [String Theory](https://en.wikipedia.org/wiki/String_theory)
 
 Projects and blogs in X-Technologies category are as follows:
 
@@ -122,4 +122,4 @@ Projects and blogs in X-Technologies category are as follows:
 Anti-Gravity Application
 {:.figcaption}
 
-[Link] **Einstein's Antigravity**: [https://www.bilibili.com/read/cv11369022/](https://www.bilibili.com/read/cv11369022/)
+[Link] **Einstein's Antigravity**: <https://www.bilibili.com/read/cv11369022/>
