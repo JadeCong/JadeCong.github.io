@@ -63,50 +63,50 @@ Reference:
 
 ### 2. Shell Command Template
 
-```shell
-#!/bin/bash
 
-# shell running method(Reference: https://blog.csdn.net/violet_echo_0908/article/details/52056071 && https://www.cnblogs.com/cangqinglang/p/11085013.html)
-source filename  # 这个命令其实只是简单地读取脚本里面的语句依次在当前shell里面执行，没有建立新的子shell。那么脚本里面所有新建、改变变量的语句都会保存在当前shell里面。
-bash/sh/shell filename  # 该命令重新建立一个子shell，在子shell中执行脚本里面的语句，该子shell继承父shell的环境变量，但子shell新建的、改变的变量不会被带回父shell。一般会在脚本文件开头加上#!/bin/bash。
-./filename  # 当shell脚本具有可执行权限时，用sh filename与./filename执行脚本是没有区别得。./filename是因为当前目录没有在PATH中，所有”.”是用来表示当前目录的。
-exec command arg1 arg2 arg3 $@  # shell的内建命令exec将并不启动新的shell，而是用要被执行命令替换当前的shell进程，并且将老进程的环境清理掉，而且exec命令后的其它命令将不再执行。其中$@返回传入的命令参数(Reference: https://www.cnblogs.com/bulh/articles/12760617.html && https://blog.csdn.net/weixin_43025343/article/details/130951691)
+    #!/bin/bash
 
-# shell passing parameters(Reference: https://www.runoob.com/linux/linux-shell-passing-arguments.html)
-command arg1 arg2 arg3 $@  # 其中$@返回每个传入命令的参数
+    # shell running method(Reference: https://blog.csdn.net/violet_echo_0908/article/details/52056071 && https://www.cnblogs.com/cangqinglang/p/11085013.html)
+    source filename  # 这个命令其实只是简单地读取脚本里面的语句依次在当前shell里面执行，没有建立新的子shell。那么脚本里面所有新建、改变变量的语句都会保存在当前shell里面。
+    bash/sh/shell filename  # 该命令重新建立一个子shell，在子shell中执行脚本里面的语句，该子shell继承父shell的环境变量，但子shell新建的、改变的变量不会被带回父shell。一般会在脚本文件开头加上#!/bin/bash。
+    ./filename  # 当shell脚本具有可执行权限时，用sh filename与./filename执行脚本是没有区别得。./filename是因为当前目录没有在PATH中，所有”.”是用来表示当前目录的。
+    exec command arg1 arg2 arg3 $@  # shell的内建命令exec将并不启动新的shell，而是用要被执行命令替换当前的shell进程，并且将老进程的环境清理掉，而且exec命令后的其它命令将不再执行。其中$@返回传入的命令参数(Reference: https://www.cnblogs.com/bulh/articles/12760617.html && https://blog.csdn.net/weixin_43025343/article/details/130951691)
 
-# set the shell running mode(Reference: https://www.runoob.com/linux/linux-comm-set.html && https://www.ruanyifeng.com/blog/2017/11/bash-set.html)
-set -e  # 若指令传回值不等于0，则立即退出shell
-set -x  # 执行指令后，会先显示该指令及所下的参数
-set -u  # 当执行时使用到未定义过的变量，则显示错误信息
-set -o pipefail  # 解决管道命令失败的问题
-set -euxo pipefail
-set -eux && set -o pipefail
+    # shell passing parameters(Reference: https://www.runoob.com/linux/linux-shell-passing-arguments.html)
+    command arg1 arg2 arg3 $@  # 其中$@返回每个传入命令的参数
 
-# configure the env(Reference: https://www.runoob.com/linux/linux-comm-export.html && https://cloud.tencent.com/developer/article/1365982 && https://www.cnblogs.com/tinywan/p/7224011.html)
-export -p  # 列出所有的Shell环境变量
-export -n  # 删除指定的变量。变量实际上并未删除，只是不会输出到后续指令的执行环境中。
-export -f  # 代表[变量名称]中为函数名称。
-export [-fnp] [变量名称]=[变量设置值]
+    # set the shell running mode(Reference: https://www.runoob.com/linux/linux-comm-set.html && https://www.ruanyifeng.com/blog/2017/11/bash-set.html)
+    set -e  # 若指令传回值不等于0，则立即退出shell
+    set -x  # 执行指令后，会先显示该指令及所下的参数
+    set -u  # 当执行时使用到未定义过的变量，则显示错误信息
+    set -o pipefail  # 解决管道命令失败的问题
+    set -euxo pipefail
+    set -eux && set -o pipefail
 
-# get current path(Reference: https://blog.csdn.net/LGD_2008/article/details/45913957)
-SCRIPT_DIR=$(readlink -f .)
-SCRIPT_DIR=$(cd $(dirname ${BASH_SOURCE}); pwd)
-SCRIPT_DIR=$(cd "$(dirname "$0")"; pwd)
+    # configure the env(Reference: https://www.runoob.com/linux/linux-comm-export.html && https://cloud.tencent.com/developer/article/1365982 && https://www.cnblogs.com/tinywan/p/7224011.html)
+    export -p  # 列出所有的Shell环境变量
+    export -n  # 删除指定的变量。变量实际上并未删除，只是不会输出到后续指令的执行环境中。
+    export -f  # 代表[变量名称]中为函数名称。
+    export [-fnp] [变量名称]=[变量设置值]
 
-# basic operator(Reference: https://www.runoob.com/linux/linux-shell-basic-operators.html && https://www.cnblogs.com/aaronlinux/p/8340281.html)
-command1 | command2  # |为管道符号，它的功能是把第一个命令command1执行的结果作为command2的输入传给command2
-command1 && command2  # &&为与运算符号，左边的command1返回真(即返回0，成功被执行）后，&&右边的command2才能够被执行
-command1 || command2  # ||为或运算符合，左边的command1未执行成功，那么就执行右边的command2
-(command1;command2;command3...)  # ()表示在当前 shell 中将多个命令作为一个整体执行。需要注意的是，使用()括起来的命令在执行前面都不会切换当前工作目录，也就是说命令组合都是在当前工作目录下被执行的，尽管命令中有切换目录的命令。
-{ command1;command2;command3...}  # 在使用{}时，{}与命令之间必须使用一个空格。如果使用{}来代替()，那么相应的命令将在子shell而不是当前shell中作为一个整体被执行，只有在{}中所有命令的输出作为一个整体被重定向时，其中的命令才被放到子shell中执行，否则在当前shell执行。
+    # get current path(Reference: https://blog.csdn.net/LGD_2008/article/details/45913957)
+    SCRIPT_DIR=$(readlink -f .)
+    SCRIPT_DIR=$(cd $(dirname ${BASH_SOURCE}); pwd)
+    SCRIPT_DIR=$(cd "$(dirname "$0")"; pwd)
 
-# create temp file or directory
-mktemp -u -t -d tmp.XXXXXX  # 在系统/tmp目录而不是当前目录下创建一个临时文件（-t），此时仅返回一个文件名并未创建临时文件（-u），创建的是一个临时目录而不是文件（-d）。
+    # basic operator(Reference: https://www.runoob.com/linux/linux-shell-basic-operators.html && https://www.cnblogs.com/aaronlinux/p/8340281.html)
+    command1 | command2  # |为管道符号，它的功能是把第一个命令command1执行的结果作为command2的输入传给command2
+    command1 && command2  # &&为与运算符号，左边的command1返回真(即返回0，成功被执行）后，&&右边的command2才能够被执行
+    command1 || command2  # ||为或运算符合，左边的command1未执行成功，那么就执行右边的command2
+    (command1;command2;command3...)  # ()表示在当前 shell 中将多个命令作为一个整体执行。需要注意的是，使用()括起来的命令在执行前面都不会切换当前工作目录，也就是说命令组合都是在当前工作目录下被执行的，尽管命令中有切换目录的命令。
+    { command1;command2;command3...}  # 在使用{}时，{}与命令之间必须使用一个空格。如果使用{}来代替()，那么相应的命令将在子shell而不是当前shell中作为一个整体被执行，只有在{}中所有命令的输出作为一个整体被重定向时，其中的命令才被放到子shell中执行，否则在当前shell执行。
 
-# exit and get the info
-exit $?  # 显示最后命令的退出状态。0表示没有错误，其他任何值表明有错误(Reference: https://www.runoob.com/linux/linux-shell-passing-arguments.html)
-```
+    # create temp file or directory
+    mktemp -u -t -d tmp.XXXXXX  # 在系统/tmp目录而不是当前目录下创建一个临时文件（-t），此时仅返回一个文件名并未创建临时文件（-u），创建的是一个临时目录而不是文件（-d）。
+
+    # exit and get the info
+    exit $?  # 显示最后命令的退出状态。0表示没有错误，其他任何值表明有错误(Reference: https://www.runoob.com/linux/linux-shell-passing-arguments.html)
+
 
 ## Git
 
