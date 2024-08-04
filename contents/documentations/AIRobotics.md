@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-07-22
+last_modified_at: 2024-08-04
 
 hide_description: true
 hide_image: false
@@ -44,7 +44,7 @@ featured: false
 - Table of Contents
 {:toc}
 
-The block aims to integrate robotics and artificial intelligence for making robots more intelligent and accessible. The docs are mainly targeted for basic principles, methods, algorithms and applications in the fields of **Robot Learning** and **Autonomous Driving**.
+The block aims to integrate robotics and artificial intelligence for making robots more intelligent and accessible. The docs are mainly targeted for basic principles, methods, algorithms and applications in the fields of **Robot Learning**, **Autonomous Driving** and **Embodied Intelligence**.
 
 **JadeCong(GitHub):** [Awesome-Robot-Learning](https://github.com/JadeCong/Awesome-Robot-Learning)
 {:.note}
@@ -560,11 +560,133 @@ Acme的开发牢记要使其代码尽可能地可重用，因此其设计是模�
 > 总结：通过调研整理发现，目前比较流行受欢迎且好用的算法测试环境及基准为：Gym，Robosuite，RoboTurk，PyRobot，RLBench，Meta-World。其中，Robosuite，RoboTurk，Gym特点比较突出。
 
 ## Autonomous Driving
-Autonomous Driving Docs.
 
-### Basic Principles
-### Methods and Algorithms
-### Applications
+> Autonomous Driving Methods and Strategies.
+
+### 1. 主要内容
+
+- （1）自动驾驶框架
+> 方法：L3+的自动驾驶均基于数据驱动的系统
+> 
+> 流程：道路数据采集->数据预处理->数据挖掘->数据标注->模型训练->仿真测试->部署发布
+
+- （2）自动驾驶仿真平台架构
+> 车辆动力学仿真，车辆传感器仿真，静态场景搭建，动态场景搭建，仿真通讯接口，分布式计算
+
+- （3）车辆动力学仿真
+> 平台：Carla，CarSim
+> 
+> 参考：<https://www.zhihu.com/zvideo/1390817329727627264>
+
+- （4）车辆传感器仿真
+> 类型：Radar，LiDAR，Camera，GNSS-RTK，IMU
+> 
+> 基于物理的场景，基于物理的传感器模型
+
+- （5）静态场景建模
+> 传统：Unreal Engine/Unity+3D Max/Maya
+> 
+> 新型：RoadRunner，Surfel GAN
+
+- （6）动态场景建模
+> 内容：交通流仿真，环境气候控制，综合场景构建
+> 
+> 软件：RoadRunner Scenario，Vissim
+
+- （7）仿真通讯接口
+> 通讯中间件：ROS、ROS2、AutoSAR、CyberRT
+
+- （8）自动驾驶测试标准
+> ASAM OpenX：OpenDrive，OpenCRG，OpenScenario，OSI，OpenLabel，OpenODD
+> 
+> ISO：34501/2/3/4/5
+
+- （9）自动驾驶场景库
+> 内容：概念 + 标准 + 构建方法 + 场景库
+> 
+> 场景：高速公路，城市道路，乡村道路，停车场
+
+- （10）自动驾驶仿真平台
+> 开源：Carla，AirSim
+
+### 2. Carla的熟悉及拓展
+
+- （1）Carla的基础环境构建
+
+- （2）Carla的拓展开发
+
+## Embodied Intelligence
+
+> A humanoid robot with artificial intelligence.
+
+### 1. Hardwares
+
+> (1) Structure
+- Head
+- Neck（3DOF）
+- Arm（2x7DOF）
+- Hand（2x21DOF）
+- Waist（3DOF）
+- Leg（2x6DOF）
+- Feet（2x1DOF）(not sure)
+>
+> (2) Actuator
+- Hydraulic 
+- Motor
+- Tendon
+>
+> (3) Sensor
+- Vision(Dual-Camera/TOF/Structure Light)
+- Force(6-axis Force/Torque Sensor)
+- Tactile(sensor array)
+- Voice(Mic)
+- Hearing
+- Position(Slam/IMU)
+>
+> (4) Appearance
+- Face
+- Skin
+- Muscle
+
+### 2. Softwares
+
+> (1) Planning
+- Path
+- Trajectory
+- Force
+>
+> (2) Control
+- Locomotion
+- Dynamic
+- Expression
+>
+> (3) Perception
+- Vision
+- Force
+- Tactile
+- Hearing
+>
+> (4) Recognition
+- Memory
+- Modeling
+- Optimization
+- Embodying
+>
+> (5) Decision
+- Reasoning
+- Self-Supervised
+>
+> (6) Learning
+- Meta Learning
+- Few-Shot Learning
+- Imitation Learning
+- Hierarchical Learning
+- Robot Learning
+>
+> (7) Safety
+- State Monitoring
+- Exception Handling
+- Balance
 
 Continue reading [Metaverse](Metaverse.md){:.heading.flip-title}
 {:.read-more}

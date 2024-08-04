@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-07-22
+last_modified_at: 2024-08-04
 
 hide_description: true
 hide_image: false
@@ -50,32 +50,44 @@ The block is created for some advanced technologies(so called **X-Technologies**
 {:.note}
 
 ## Anti-Gravity
-Anti-Gravity Docs.
 
-### Basic Principles
-### Methods and Algorithms
-### Applications
+> Anti-Gravity Docs.
+
+### (1) Basic Principles
+
+### (2) Methods and Algorithms
+
+### (3) Applications
 
 ## Quantum Mechanics
-Quantum Mechanics Docs.
 
-### Basic Principles
-### Methods and Algorithms
-### Applications
+> Quantum Mechanics Docs.
+
+### (1) Basic Principles
+
+### (2) Methods and Algorithms
+
+### (3) Applications
 
 ## Space Travel
-Space Travel Docs.
 
-### Basic Principles
-### Methods and Algorithms
-### Applications
+> Space Travel Docs.
+
+### (1) Basic Principles
+
+### (2) Methods and Algorithms
+
+### (3) Applications
 
 ## String Theory
-String Theory Docs.
 
-### Basic Principles
-### Methods and Algorithms
-### Applications
+> String Theory Docs.
 
-Continue reading [Startups](Startups.md){:.heading.flip-title}
+### (1) Basic Principles
+
+### (2) Methods and Algorithms
+
+### (3) Applications
+
+Continue reading [Utilities](Utilities.md){:.heading.flip-title}
 {:.read-more}

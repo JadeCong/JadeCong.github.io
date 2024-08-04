@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-07-22
+last_modified_at: 2024-08-04
 
 hide_description: true
 hide_image: false
@@ -880,11 +880,14 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > ##### （4）交互式仿真接口实现
 
 ## Digital Twin
-Digital Twin Docs.
 
-### Basic Principles
-### Methods and Algorithms
-### Applications
+> Docs and Applications for Digital Twin.
+
+### (1) Basic Principles
+
+### (2) Methods and Algorithms
+
+### (3) Applications
 
 Continue reading [X-Technologies](X-Technologies.md){:.heading.flip-title}
 {:.read-more}

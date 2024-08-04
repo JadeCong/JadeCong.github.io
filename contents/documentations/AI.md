@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-07-22
+last_modified_at: 2024-08-04
 
 hide_description: true
 hide_image: false
@@ -44,7 +44,7 @@ featured: false
 - Table of Contents
 {:toc}
 
-With development of artificial intelligence, I currently focus on these categories as follows: **Deep Learning**, **Reinforcement Learning**, **Imitation Learning**, **Large Model**, **Agents**, **AGI** and **ASI**. These docs are mainly targeted for basic principles, methods, algorithms and applications in the above categories.
+With development of artificial intelligence, I currently focus on these categories as follows: **Deep Learning**, **Reinforcement Learning**, **Imitation Learning**, **Meta Learning**, **Transfer Learning**, **Large Model**, **Agents**, **AGI** and **ASI**. These docs are mainly targeted for basic principles, methods, algorithms and applications in the above categories.
 
 **JadeCong(GitHub):** [Awesome-Artificial-Intelligence](https://github.com/JadeCong/Awesome-Artificial-Intelligence)
 {:.note}
@@ -337,8 +337,7 @@ Imitation Learning Docs.
 > 零例学习是迁移学习/Domain Adaptation的一个特例。source domain存在带标签的数据，模型在source domain训练好之后，因为第一阶段的学习已经可以很好分离类别，模型迁移到target domain直接可以使用，不需要任务target domain的标记样本去调整模型参数。source domain和target domain共享信息。
 >> 比如美国金丝雀的识别。训练时，source domain有大量关于金丝雀的带标记的图片，以及关于图片的额外先验知识（属性、图片的描述），我们可以通过把先验知识加入到图片中去。测试时，模型可以准确识别出金丝雀，通过关于图片额外描述信息知道这是美国的金丝雀，这样很容易把模型推广到新的类别，在测试集上，把见过的和未见过的图像类别合并起来。
 
-## Embodied Intelligence
-Embodied Intelligence Docs.
+
 
 ## Large Model
 
