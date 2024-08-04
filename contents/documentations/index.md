@@ -74,6 +74,11 @@ The documents are temporarily classified into the above categories which will be
 * [X-Technologies]{:.heading.flip-title} --- Introductions and applications for X-Technologies.
 {:.related-posts.faded}
 
+## Utilities
+
+* [Utilities]{:.heading.flip-title} --- Introductions and applications for Utilities.
+{:.related-posts.faded}
+
 ## Startups
 
 * [Startups]{:.heading.flip-title} --- Introductions and applications for Startups.
@@ -84,4 +89,5 @@ The documents are temporarily classified into the above categories which will be
 [AIRobotics]: AIRobotics.md
 [Metaverse]: Metaverse.md
 [X-Technologies]: X-Technologies.md
+[Utilities]: Utilities.md
 [Startups]: Startups.md

@@ -115,7 +115,7 @@ bilibili:
   icon: icon-trophy
   prepend: "https://space.bilibili.com/"
 zhihu:
-  name: Zhihu
+  name: ZhiHu
   icon: icon-book
   prepend: "https://www.zhihu.com/people/"
 npm:

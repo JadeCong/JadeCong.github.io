@@ -11,7 +11,7 @@ accent_image:
   background: url('/assets/images/projects/sidebar-projects.jpg') center/cover
   overlay: true
 image:
-  path: /assets/images/projects/hand-control.jpg
+  path: /assets/images/projects/hand-control.png
 #   srcset:
 #     1024w:
 #     512w:
@@ -30,7 +30,7 @@ date: 22 January 2020
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-18
+last_modified_at: 2024-08-04
 
 hide_description: false
 hide_image: false

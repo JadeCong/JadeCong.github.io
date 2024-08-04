@@ -25,7 +25,7 @@ permalink: /contents/about/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-18
+last_modified_at: 2024-08-04
 
 hide_description: false
 hide_image: false
@@ -47,6 +47,10 @@ featured: false
 ## Who I am
 
 I'm an algorithm engineer and my job focuses on robotics and artificial intelligence, mostly working on robot motion control, motion planning, teleoperation and robot learning. And I am committed to making robots more intelligent and agile with artificial intelligence.
+
+![Jade Cong](/assets/images/about/jade-cong.jpeg){:width="1200px" height="640px" loading="lazy"}
+Jade Cong
+{:.figcaption}
 
 ## What I do/have done
 
@@ -75,7 +79,13 @@ In case you will be looking for **more details** about my work, [you can do that
 - [Email](mailto:jade.cong@qq.com)
 - [LinkedIn](https://www.linkedin.com/in/jingde-cong-a1a85614b)
 - [Twitter](https://twitter.com/JadeCong26)
+- [Reddit](https://www.reddit.com/user/JadeCong)
 - [GitHub](https://github.com/JadeCong)
+- [Hugging Face](https://huggingface.co/JadeCong)
+- [YouTube](https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg)
+- [BiliBili](https://space.bilibili.com/383666733)
+- [ZhiHu](https://www.zhihu.com/people/Jade_Cong)
+- [WeChat Public](/assets/images/about/wechat-public.jpg)
 
 ## Help and Support
 

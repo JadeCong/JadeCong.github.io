@@ -25,7 +25,7 @@ permalink: /contents/researches/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-18
+last_modified_at: 2024-08-04
 
 hide_description: false
 hide_image: false
@@ -44,7 +44,7 @@ featured: false
 - Table of Contents
 {:toc}
 
-Based on my major, interests and skills, there are serval research categories for me as follows: **Robotics**, **Artificial Intelligence**, **Metaverse** and **X-Technologies**.
+Based on my major, interests and skills, there are serval research categories for me as follows: **Robotics**, **Artificial Intelligence**, **AIRobotics**, **Metaverse** and **X-Technologies**.
 
 ## Robotics
 
@@ -63,11 +63,11 @@ Projects and blogs in Robotics category are as follows:
 ROS Application
 {:.figcaption}
 
-![Robosuite Application](/assets/images/researches/robosuite-application.png){:width="1920" height="1080" loading="lazy"}
-Robosuite Application
+![MuJoCo Application](/assets/images/researches/mujoco-application.png){:width="1920" height="1080" loading="lazy"}
+MuJoCo Application
 {:.figcaption}
 
-![Teleoperation Application](/assets/images/researches/teleoperation-application.png){:width="1920" height="1080" loading="lazy"}
+![Teleoperation Application](/assets/images/researches/teleoperation-application.jpg){:width="1920" height="1080" loading="lazy"}
 Teleoperation Application
 {:.figcaption}
 
@@ -77,18 +77,35 @@ What I'm focusing and working on Artificial Intelligence are as follows:
 - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
 - [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 - [Imitation Learning](https://en.wikipedia.org/wiki/Imitative_learning)
-- [Robot Learning](https://github.com/JadeCong/Awesome-Robot-Learning)
+- [Meta Learning](https://en.wikipedia.org/wiki/Meta-learning_(computer_science))
 - [Agents](https://www.promptingguide.ai/research/llm-agents)
 - [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 
 Projects and blogs in Artificial Intelligence category are as follows:
 
-![Robot Learning Application](/assets/images/researches/robot-learning-application.png){:width="1920" height="1080" loading="lazy"}
-Robot Learning Application
+![Reinforcement Learning Application](/assets/images/researches/reinforcement-learning-application.png){:width="1920" height="1080" loading="lazy"}
+Reinforcement Learning Application
 {:.figcaption}
 
 ![Agents Application](/assets/images/researches/agents-application.png){:width="1920" height="1080" loading="lazy"}
 Agents Application
+{:.figcaption}
+
+## AIRobotics
+
+What I'm focusing and working on AIRobotics are as follows:
+- [Robot Learning](https://github.com/JadeCong/Awesome-Robot-Learning)
+- [Autonomous Driving](https://en.wikipedia.org/wiki/Vehicular_automation)
+- [Embodied Intelligence](https://en.wikipedia.org/wiki/Embodied_cognition)
+
+Projects and blogs in AIRobotics category are as follows:
+
+![Robot Learning Application](/assets/images/researches/robot-learning-application.png){:width="1920" height="1080" loading="lazy"}
+Robot Learning Application
+{:.figcaption}
+
+![Embodied Intelligence Application](/assets/images/researches/embodied-intelligence-application.png){:width="1920" height="1080" loading="lazy"}
+Embodied Intelligence Application
 {:.figcaption}
 
 ## Metaverse
