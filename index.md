@@ -66,7 +66,7 @@ The newest and amazing posts will be published promptly here.
 
 ## Contact With Me
 
-The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.com) as follows, then [LinkedIn](https://www.linkedin.com/in/jingde-cong-a1a85614b), [Twitter](https://twitter.com/JadeCong26), [Reddit](https://www.reddit.com/user/JadeCong), [GitHub](https://github.com/JadeCong), [ZhiHu](https://www.zhihu.com/people/Jade_Cong) or [WeChat Public](/assets/images/home/wechat-public.jpg).
+The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.com) as follows, then [LinkedIn](https://www.linkedin.com/in/jade-cong), [Twitter](https://twitter.com/JadeCong26), [Reddit](https://www.reddit.com/user/JadeCong), [GitHub](https://github.com/JadeCong), [ZhiHu](https://www.zhihu.com/people/Jade_Cong) or [WeChat Public](/assets/images/home/wechat-public.jpg).
 {% include pro/newsletter.html %}
 
 <!--buymeacoffee-->
