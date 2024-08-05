@@ -271,8 +271,11 @@ kramdown:
   toc_levels: [1, 2, 3, 4, 5, 6]
   syntax_highlighter: coderay
   syntax_highlighter_opts:
-    line_numbers: table
-    bold_every: 5
+    line_numbers: 
+    line_numbers_start: 1
+    tab_width: 4
+    bold_every: 10
+    css: class
 
 # Set your Google Analytics id to receive `pageview` events. To remove Google Analytics from your page, remove the line below.
 google_analytics: UA-254030130-1
