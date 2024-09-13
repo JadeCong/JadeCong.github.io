@@ -3,7 +3,7 @@ layout: project
 title: End-to-end Teleoperation
 caption: End-to-end Teleoperation from far apart with low time delay
 description: >
-  The user can teleoperate the slave robot(Frcobot FR5) using the master robot(HFD-6) through public internet from far apart but with low time delay, and while sensing feedback force.
+  The user can teleoperate slave robot(Frcobot FR5) using master robot(HFD-6) through public internet from far apart but with low time delay, and while sensing feedback force.
 # logo:
 # theme_color:
 # accent_color:
