@@ -44,9 +44,13 @@ featured: false
 - Table of Contents
 {:toc}
 
-## Deep Learning
+## Agents
 
-> 1. CNN(卷积神经网络)
+> 1. **UFO**: <https://github.com/microsoft/UFO>
+> 2. **ell**: <https://github.com/MadcowD/ell>
+> 3. **SWE-agent**: <https://github.com/princeton-nlp/SWE-agent>
+> 4. **autogen**: <https://github.com/microsoft/autogen>
+> 5. **CharacterGen**: <https://github.com/zjp-shadow/CharacterGen>
 
-Continue reading [Models Archive List](Models.md){:.heading.flip-title}
+Continue reading [Models](Models.md){:.heading.flip-title}
 {:.read-more}

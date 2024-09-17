@@ -46,7 +46,7 @@ featured: false
 
 Here are resource archives for the site as follows: **[Projects]**, **[Papers]**, **[Codes]**, **[Models]** and **[Datasets]**. You can browse and explore the details in each category for getting awesome and useful resources.
 
-The resources are temporarily classified into the above categories which will be gradually added, deleted, and modified according to actual needs in the future.
+The resources are temporarily classified into the above categories which will be gradually added, deleted, and updated according to actual needs in the future.
 {:.note}
 
 ## Projects

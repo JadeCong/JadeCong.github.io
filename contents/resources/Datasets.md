@@ -46,9 +46,10 @@ featured: false
 
 ## Human Pose Estimation
 
-> 1. **Human3.6M**: http://vision.imar.ro/human3.6m/description.php
-> 2. **MS COCO**: https://cocodataset.org/#home
-> 3. **MPII**: http://human-pose.mpi-inf.mpg.de/
+> 1. **Human3.6M**: <http://vision.imar.ro/human3.6m/description.php>
+> 2. **MS COCO**: <https://cocodataset.org/#home>
+> 3. **MPII**: <http://human-pose.mpi-inf.mpg.de>
+> 4. **CrowdPose**: <https://drive.google.com/file/d/1VprytECcLtU4tKP32SYi_7oDRbw7yUTL/view>
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}

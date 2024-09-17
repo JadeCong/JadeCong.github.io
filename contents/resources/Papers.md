@@ -44,9 +44,13 @@ featured: false
 - Table of Contents
 {:toc}
 
-## Robotics
+## Artificial Intelligence
 
-> 1. CNN(卷积神经网络)
+> 1. **ADAS(Automated Design of Agentic Systems)**: <https://arxiv.org/abs/2408.08435>
+> 2. **Mini-Omni**: <https://arxiv.org/abs/2408.16725>
+> 3. **AIOS**: <https://arxiv.org/abs/2403.16971>
+> 4. **Mamba**: <https://arxiv.org/abs/2312.00752>
+> 5. **Buffer of Thoughts**: <https://arxiv.org/abs/2406.04271>
 
-Continue reading [Codes Archive List](Codes.md){:.heading.flip-title}
+Continue reading [Codes](Codes.md){:.heading.flip-title}
 {:.read-more}

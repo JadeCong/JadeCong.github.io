@@ -44,9 +44,13 @@ featured: false
 - Table of Contents
 {:toc}
 
-## Deep Learning
+## Large Model
 
-> 1. CNN(卷积神经网络)
+> 1. **OpenAI o1**: <https://openai.com/index/introducing-openai-o1-preview/>
+> 2. **GPT-4o**: <https://openai.com/index/hello-gpt-4o/>
+> 3. **Claude 3.5**: <https://docs.anthropic.com/zh-CN/docs/intro-to-claude#claude-3-5>
+> 4. **Qwen**: <https://tongyi.aliyun.com/>
+> 5. **ERNIE**: <https://wenxin.baidu.com/wenxin>
 
-Continue reading [Datasets Archive List](Datasets.md){:.heading.flip-title}
+Continue reading [Datasets](Datasets.md){:.heading.flip-title}
 {:.read-more}
