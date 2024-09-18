@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-08-04
+last_modified_at: 2024-09-18
 
 hide_description: true
 hide_image: false
@@ -155,6 +155,12 @@ The block is mainly targeted for the whole processes of starting up a new compan
 ### 6. Operation
 
 ### 7. Service
+
+## Company Management
+
+### 1. 公司的流程设计
+
+### 2. 公司的流程管理
 
 ## Company Profit
 
