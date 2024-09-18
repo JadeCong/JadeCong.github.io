@@ -29,7 +29,7 @@ posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-08-04
+last_modified_at: 2024-09-18
 
 hide_description: false
 hide_image: false
@@ -48,7 +48,7 @@ featured: false
 - Table of Contents
 {:toc}
 
-This site is my GitHub Pages where you can know more about me from the categories as follows: **[Researches](/contents/researches)**, **[Publications](/contents/publications/)**, **[Projects](/contents/projects/)**, **[Blogs](/contents/blogs/)**, **[Talks](/contents/talks/)**, **[Podcasts](/contents/podcasts/)**, **[Documentations](/contents/documentations/)**, **[Resume](/contents/resume/)** and **[About](/contents/about/)**.
+This site is my GitHub Pages where you can know more about me from the categories as follows: **[Researches](/contents/researches)**, **[Publications](/contents/publications/)**, **[Projects](/contents/projects/)**, **[Blogs](/contents/blogs/)**, **[Talks](/contents/talks/)**, **[Podcasts](/contents/podcasts/)**, **[Documentations](/contents/documentations/)**, **[Resources](/contents/resources/)**, **[Resume](/contents/resume/)** and **[About](/contents/about/)**.
 
 ![Home-Cover](/assets/images/home/home-cover.png){:.lead width="1920" height="1080" loading="lazy"}
 The home cover of Jade's GitHub Pages
