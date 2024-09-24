@@ -291,7 +291,7 @@ kramdown:
 google_analytics: UA-254030130-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter.
-disqus: jadecong
+disqus: https-jadecong-github-io
 
 # Setting a tinyletter username will enable the newsletter subscription box. PRO version only!
 tinyletter: JadeCong
