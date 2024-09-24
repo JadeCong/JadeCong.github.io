@@ -40,7 +40,7 @@ hy-drawer {
     
 
     
-    --hy-drawer-peek-width: #{$sidebar-width};
+    & { --hy-drawer-peek-width: #{$sidebar-width}; }
     
   }
 

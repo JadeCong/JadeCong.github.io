@@ -3,8 +3,6 @@ html {
   --font-family-heading: #{$font-family-heading};
   --code-font-family: #{$code-font-family};
 
-  @include light-mode();
-
   --root-font-size: #{$root-font-size};
   --root-font-size-medium: #{$root-font-size-medium};
   --root-font-size-large: #{$root-font-size-large};

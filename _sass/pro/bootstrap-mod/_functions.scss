@@ -54,7 +54,12 @@
   $g: green($color);
   $b: blue($color);
 
-  $yiq: (($r * 299) + ($g * 587) + ($b * 114)) / 1000;
+  $yiq: null;
+  @if $gh-pages-compat {
+    $yiq:     (($r * 299) + ($g * 587) + ($b * 114) / 1000);
+  } @else {
+    $yiq: calc(($r * 299) + ($g * 587) + ($b * 114) / 1000);
+  }
 
   @if ($yiq >= $yiq-contrasted-threshold) {
     @return $yiq-text-dark;

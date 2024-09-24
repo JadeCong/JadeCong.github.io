@@ -15,7 +15,7 @@
 
 // {% assign vars         = site.data.variables %}
 // {% assign ui_font      = 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif' %}
-// {% assign ui_font_code = 'ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace' %}
+// {% assign ui_font_code = 'ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Mono", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Consolas", "Courier New", monospace' %}
 
 $font-family:         {{ vars.font         | default:site.font         | default:ui_font        }};
 $font-family-heading: {{ vars.font_heading | default:site.font_heading | default:ui_font        }};
@@ -30,7 +30,7 @@ $root-line-height:      {{ vars.root_line_height      | default:1.75 }};
 
 $font-weight:         {{ vars.font_weight         | default:400 }};
 $font-weight-bold:    {{ vars.font_weight_bold    | default:700 }};
-$font-weight-heading: {{ vars.font_weight_heading | default:700 }};
+$font-weight-heading: {{ vars.font_weight_heading | default:900 }};
 
 $content-width:   {{ vars.content_width   | default:42 }}rem;
 $content-width-2: {{ vars.content_width_2 | default:48 }}rem;
@@ -53,14 +53,15 @@ $break-point-font-large: {{ vars.break_point_font_large | default:124 }}em;
 $content-margin-3: 3rem;
 $content-margin-5: 4rem;
 
+$gh-pages-compat: {% if site.github and site.hydejack.dart_sass_2_compat != true %}true{% else %}false{% endif %};
+
 // TODO: doc
-$half-content: ($content-width-5 / 2) + $content-margin-5;
+{% if site.github and site.hydejack.dart_sass_2_compat != true %}
+$half-content:     (($content-width-5 / 2) + $content-margin-5);
+{% else %}
+$half-content: calc(($content-width-5 / 2) + $content-margin-5);
+{% endif %}
 
 // The sidebar width starts adjusting dynamically when the content is at the center of the window.
 // This is the case when the window size has a `min-width` of content area + twice the sidebar (left, right):
-//
-// $break-point-dynamic: $content-width-5 + (2 * $content-margin-5) + (2 * $sidebar-width); // = 104rem
-//
-// HACK: Since Chrome doesn't treat rem values in media queries correctly,
-// we hard-code the pixel value for the values above.
-$break-point-dynamic: ({{ vars.content_width_5 | default:54 }} + (2 * {{ vars.content_margin_5 | default:4 }}) + (2 * {{ vars.sidebar_width | default:21 }})) * {{ vars.root_font_size_medium | default:16 }}px;
+$break-point-dynamic: $content-width-5 + (2 * $content-margin-5) + (2 * $sidebar-width);

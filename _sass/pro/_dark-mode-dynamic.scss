@@ -2,6 +2,12 @@
 
 @import "pro/dark-mode";
 
+@media screen and (prefers-color-scheme: light) {
+  body {
+    @include light-mode();
+  }
+}
+
 @media screen and (prefers-color-scheme: dark) {
   body {
     @include dark-mode();

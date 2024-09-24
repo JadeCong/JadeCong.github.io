@@ -20,12 +20,15 @@
   border-radius: 100%;
   overflow: hidden;
   display: inline-block;
-  img { width: 100%; }
   // >>>
 
   // <<< link
   position: relative;
   z-index: 1;
+  // >>>
+
+  // <<< inline
+  img { width: 100%; }
   // >>>
 }
 

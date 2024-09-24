@@ -35,7 +35,6 @@ code {
 }
 
 .figure-base {
-  @include border-radius();
   @extend .color-transition;
   margin-left: -1rem;
   margin-right: -1rem;
@@ -43,6 +42,7 @@ code {
   // Prevent code linebreaks and allow side-scrolling for better readability on mobile
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
+  @include border-radius();
 }
 
 .pre-base {
@@ -109,6 +109,7 @@ div.highlight {
     display: block;
     color: var(--gray)!important;
     background-color: var(--gray-bg);
+    overflow: clip;
 
     > span {
       font-size: smaller;
@@ -135,7 +136,7 @@ div.highlight {
     overflow: hidden;
     cursor: pointer;
     opacity: 0;
-    transition: opacity 300ms;
+    transition: opacity 300ms, border-color 1s;
 
     &:hover {
       background: var(--gray-bg);
@@ -170,7 +171,7 @@ div.highlight {
 
   &:hover > button {
     opacity: 1;
-    transition: opacity 100ms;
+    transition: opacity 100ms, border-color 1s;
   }
 
   > .pre-header ~ pre.highlight {

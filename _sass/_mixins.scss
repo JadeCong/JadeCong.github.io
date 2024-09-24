@@ -37,7 +37,11 @@
     display: block;
     content: "";
     width: 100%;
-    padding-top: ($height / $width) * 100%;
+    @if $gh-pages-compat {
+      padding-top:     (($height / $width) * 100%);
+    } @else {
+      padding-top: calc(($height / $width) * 100%);
+    }
   }
 
   > * {

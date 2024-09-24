@@ -17,6 +17,14 @@
   <title>{{ site.data.strings.redirecting | default:"Redirecting..." }}</title>
 {% endunless %}
 
+{% if site.hydejack.dark_mode.dynamic %}
+  <meta name="color-scheme" content="dark light">
+{% elsif site.hydejack.dark_mode.always %}
+  <meta name="color-scheme" content="dark">
+{% else %}
+  <meta name="color-scheme" content="light">
+{% endif %}
+
 {% unless site.hydejack.no_theme_color %}
   <meta name="theme-color" content="{{ theme_color | default:'rgb(8,46,57)' }}">
 {% endunless %}

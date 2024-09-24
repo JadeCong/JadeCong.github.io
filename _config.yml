@@ -24,12 +24,12 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url: https://jadecong.github.io
+url: https://jadecong.github.io
 
 # Uncomment and set the "base URL" of your site. When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# baseurl: ''
+baseurl: ''
 
 # Language of your content in 2-letter code, e.g.: en, de. You may also provide a location, e.g.: en-us, de_AT.
 lang: en
@@ -70,7 +70,7 @@ author:
       2x: /assets/images/home/me@2x.jpg
   social:
     email: jade.cong@qq.com
-    linkedin: jingde-cong-a1a85614b
+    linkedin: jade-cong
     github: JadeCong
     huggingface: JadeCong
     reddit: JadeCong
@@ -135,7 +135,7 @@ paginate_path: /:categories/page-:num/
 
 # Import the theme.
 # theme: jekyll-theme-hydejack  # for using hydejack on local site
-remote_theme: hydecorp/hydejack@v9.2.1  # for using hydejack on github pages site
+remote_theme: hydecorp/hydejack@v9  # for using hydejack on github pages site
 
 # This is used for the `theme_color` meta tag, which changes the background color of the browser UI in certain browsers. Defaults to `accent_color`.
 theme_color: rgb(8,46,57)

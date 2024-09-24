@@ -159,14 +159,23 @@
 
   @media screen and (min-width: $break-point-dynamic) {
     .columns-break { 
-      $helper: $content-width-5 / 2 - $content-margin-5;
+      $helper: null;
+      @if $gh-pages-compat {
+        $helper:     ($content-width-5 / 2 - $content-margin-5);
+      } @else {
+        $helper: calc($content-width-5 / 2 - $content-margin-5);
+      }
       width: calc(50vw + #{$helper});
       > .column-3-5 { 
         width: $content-width-5;
       }
       > .column-2-5 { 
         width: calc(50vw + #{$helper} - #{$content-width-5}); 
-        max-width: $content-width-5 / 2 - $pad;
+        @if $gh-pages-compat {
+          max-width:     ($content-width-5 / 2 - $pad);
+        } @else {
+          max-width: calc($content-width-5 / 2 - $pad);
+        }
       }
     }
   }

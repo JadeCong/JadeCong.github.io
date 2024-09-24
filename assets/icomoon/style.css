@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?jbjoqu');
-  src:  url('fonts/icomoon.eot?jbjoqu#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?jbjoqu') format('truetype'),
-    url('fonts/icomoon.woff?jbjoqu') format('woff'),
-    url('fonts/icomoon.svg?jbjoqu#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?eqgt9r');
+  src:  url('fonts/icomoon.eot?eqgt9r#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?eqgt9r') format('truetype'),
+    url('fonts/icomoon.woff?eqgt9r') format('woff'),
+    url('fonts/icomoon.svg?eqgt9r#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,48 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-signal:before {
+  content: "\e906";
+}
+.icon-threads:before {
+  content: "\e908";
+}
+.icon-playstation:before {
+  content: "\e909";
+}
+.icon-messenger:before {
+  content: "\e90c";
+}
+.icon-stripe:before {
+  content: "\e90d";
+}
+.icon-slack:before {
+  content: "\e90e";
+}
+.icon-gitlab:before {
+  content: "\e910";
+}
+.icon-line:before {
+  content: "\e911";
+}
+.icon-medium:before {
+  content: "\e912";
+}
+.icon-xbox:before {
+  content: "\e901";
+}
+.icon-wechat:before {
+  content: "\e903";
+}
+.icon-discord:before {
+  content: "\e904";
+}
+.icon-mastodon:before {
+  content: "\e905";
+}
+.icon-twitter:before {
+  content: "\1d54f";
+}
 .icon-book:before {
   content: "\e91f";
 }
@@ -103,7 +145,7 @@
 .icon-telegram:before {
   content: "\ea95";
 }
-.icon-twitter:before {
+.icon-twitter-old:before {
   content: "\ea96";
 }
 .icon-vine:before {

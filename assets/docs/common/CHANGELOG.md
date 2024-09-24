@@ -9,6 +9,15 @@ sitemap: false
 * this list will be replaced by the toc
 {:toc .large-only}
 
+## v4.0
+September 24 2024
+{:.heading.post-date}
+
+* Update the jekyll-theme-hydejack to version 9.2.1.
+* Update the site framework.
+* Add resources contents for resource archive.
+* Add serval posts for projects and blogs.
+
 ## v3.0
 June 18 2024
 {:.heading.post-date}

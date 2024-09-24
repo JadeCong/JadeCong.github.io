@@ -53,7 +53,7 @@ hy-push-state a {
   @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
     text-decoration-color: var(--accent-color-faded);
   }
-  border-color: var(--accent-color-faded);
+  & { border-color: var(--accent-color-faded); }
   
   
 }

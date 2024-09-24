@@ -34,12 +34,22 @@ pre, table:not(.highlight), .katex-display, .break-layout, mjx-container[jax="CH
   }
 
   @media screen and (min-width: $content-width) {
-    $x: ($content-width / 2) - $pad;
+    $x: null;
+    @if $gh-pages-compat {
+      $x:      ($content-width / 2) - $pad;
+    } @else {
+      $x: calc(($content-width / 2) - $pad);
+    }
     width: calc(100% + 50vw - #{$x});
   }
 
   @media screen and (min-width: $break-point-2) {
-    $x: ($content-width-2 / 2) - $pad;
+    $x: null;
+    @if $gh-pages-compat {
+      $x:      ($content-width-2 / 2) - $pad;
+    } @else {
+      $x: calc(($content-width-2 / 2) - $pad);
+    }
     width: calc(100% + 50vw - #{$x});
   }
 
@@ -54,7 +64,12 @@ pre, table:not(.highlight), .katex-display, .break-layout, mjx-container[jax="CH
   }
 
   @media screen and (min-width: $break-point-dynamic) {
-    $x: ($content-width-5 / 2) - ($content-padding * 2) + 21rem;
+    $x: null;
+    @if $gh-pages-compat {
+      $x:     (($content-width-5 / 2) - ($content-padding * 2) + 21rem);
+    } @else {
+      $x: calc(($content-width-5 / 2) - ($content-padding * 2) + 21rem);
+    }
     width: calc(100% + 50vw - #{$x} + 2px);
   }
 }
@@ -72,7 +87,12 @@ body.no-break-layout {
 body.no-toc:not(.no-break-layout) {
   pre, table:not(.highlight), .katex-display, .break-layout, mjx-container[jax="CHTML"][display="true"] {
     @media screen and (min-width: $break-point-dynamic) {
-      $x: ($content-width-5 / 2) - ($content-padding * 2);
+      $x: null;
+      @if $gh-pages-compat {
+        $x:     (($content-width-5 / 2) - ($content-padding * 2));
+      } @else {
+        $x: calc(($content-width-5 / 2) - ($content-padding * 2));
+      }
       width: calc(100% + 50vw - #{$x});
     }
   }

@@ -27,7 +27,9 @@ hy-push-state a {
   
 
   
-  transition: color 250ms, text-decoration-color 250ms, border-color 250ms;
+  & { 
+    transition: color 250ms, text-decoration-color 250ms, border-color 250ms; 
+  }
   &:hover {
     transition: color 50ms, text-decoration-color 50ms, border-color 50ms;
   }
@@ -43,7 +45,7 @@ hy-push-state a {
     @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
       text-decoration-color: var(--accent-color);
     }
-    border-color: var(--accent-color);
+    & { border-color: var(--accent-color); }
   }
   
 }
