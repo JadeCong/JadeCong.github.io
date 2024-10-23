@@ -71,3 +71,32 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 
 <!--buymeacoffee-->
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="jadecong" data-description="Support me on Buy me a coffee!" data-message="THANK YOU for visiting!!! I love COFFEE, so totally up for ONE!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
+<!--wechat, alipay and bitcoin sponsor-->
+<script src="http://static.tctip.com/tctip-1.0.0.min.js"></script>
+  <script>  
+  new tctip({
+    top: '70%',
+    button: {
+      id: 9,
+      type: 'zanzhu',
+    },
+    list: [
+      {
+        type: 'wechat',
+        qrImg: '/assets/images/home/wechat-sponsor.jpeg',
+        desc: 'WeChat Sponsor'
+      },
+      {
+        type: 'alipay',
+        qrImg: '/assets/images/home/alipay-sponsor.jpeg',
+        desc: 'Alipay Sponsor'
+      },
+      {
+        type: 'bitcoin',
+        qrImg: '/assets/images/home/wechat-sponsor.jpeg',
+        desc: 'Bitcoin Sponsor'
+      }
+    ]
+  }).init()
+  </script>
