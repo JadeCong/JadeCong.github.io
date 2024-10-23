@@ -76,7 +76,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 <script src="assets/js/tctip-1.0.3.min.js"></script>
 <script>
   new tctip({
-    top: '60%',
+    top: '54%',
     button: {
       id: 7,
       type: 'zanzhu',
@@ -97,6 +97,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
         qrImg: './assets/images/home/bitcoin-sponsor.png',
         desc: 'Bitcoin Sponsor'
       }
-    ]
+    ],
+    stat: false
   }).init()
 </script>
