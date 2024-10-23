@@ -78,7 +78,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
   new tctip({
     top: '80%',
     button: {
-      id: 9,
+      id: 7,
       type: 'zanzhu',
     },
     list: [
