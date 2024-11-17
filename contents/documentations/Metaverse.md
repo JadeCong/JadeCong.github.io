@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-08-04
+last_modified_at: 2024-11-17
 
 hide_description: true
 hide_image: false
@@ -49,9 +49,9 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 **JadeCong(GitHub):** [Awesome-Metaverse](https://github.com/JadeCong/Awesome-Metaverse)
 {:.note}
 
-## Omniverse
+# Omniverse
 
-### 1. Nvidia Omniverse Framework
+## 1. Nvidia Omniverse Framework
 
 > Omniverse是Nvidia公司的一个开源的元宇宙平台，其是集硬件资源、核心技术、生态系统、基础应用和云的一个平台。硬件资源是指Nvidia旗下的GeForce和RTX的显卡用于平台的硬件计算；核心技术包括USD场景描述统一格式，MDL材质描述格式，RTX光线追踪等图形渲染加速技术，PhysX/Blast/Flow等物理引擎；生态系统是指基于OpenUSD协议广泛接入到Omniverse中的众多3D建模软件（如3dsMax，Maya，Blender，SketchUp），能极大丰富平台的创作来源，整合不同的行业资源；基础原生应用是Nvidia基于其核心技术和底层SDK而开发的一系列的常用的软件合集，包括USD Composer场景创作，USD Presenter场景浏览，Scene Optimizer场景优化，Isaac Sim场景解决方案仿真，Drive Sim无人驾驶仿真，Code应用及扩展开发工具，Farm Client/Farm Queue用于分布式任务处理及客户端访问，Navigator用于服务器资源管理等等；云是指可借助Nvidia的硬件资源将Omniverse部署到云端，从而更便捷的进行数据交互访问及管理。
 下面逐一介绍Omniverse平台的五大部分：
@@ -65,7 +65,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 > [Nvidia Learning Resources.md](<https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-nvidia-learning-resources-md>)<br>
 > [Ubuntu Nvidia Omniverse.md](<https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-ubuntu-nvidia-omniverse-md>)<br>
 
-#### 1.1 硬件资源
+### 1.1 硬件资源
 
 > Nvidia旗下有多系列的计算显卡，应用从笔记本，台式机，工作站，服务器，到集群和超级计算单元，型号从GeForce RTX，GTX，A100到H100和OVX，场景从游戏应用，图形渲染，科学计算到大模型训练，如今Nvidia已经是显卡领域的第一位。其Omniverse元宇宙平台正是以这些强大的硬件资源作为基础，再结合其核心技术来开发相关的应用和扩展，才形成现在的平台和生态。
 >
@@ -102,7 +102,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 > <https://www.nvidia.cn/geforce/graphics-cards/40-series/><br>
 > <https://www.nvidia.cn/data-center/products/ovx/><br>
 
-#### 1.2 核心技术
+### 1.2 核心技术
 
 > （1）OpenUSD
 >
@@ -180,7 +180,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 > <https://developer.nvidia.cn/flex><br>
 > <https://www.nvidia.cn/on-demand/playlist/playList-6e74e1e6-55be-4e6b-aee4-9a53715e70fc/><br>
 
-#### 1.3 生态系统
+### 1.3 生态系统
 
 > Nvidia Omniverse的生态系统是Nvidia为了构建元宇宙平台而建立的一个软件生态，其将连接器、扩展程序、基础应用和第三方工具慢慢纳入到该生态中。连接器是一种插件或者服务来将Omniverse连接到各大行业中的建模图形渲染软件，从而丰富Omniverse的生态资源。扩展程序是基于Omniverse Kit SDK构建的有特定功能的基础模块，用于构建用户自己的工作流。
 > Omniverse Connect 允许您将自己喜欢的应用程序用作 Omniverse 平台的一流内容交付工具。借助Revit，Rhino，Maya，虚幻引擎等工具，这些已经功能强大的工具将超级充满Omniverse的所有潜力。实时协作、路径追踪并排渲染、核心快照和USD转换只是使用 Omniverse 连接器的一些直接好处。再加上这些好处，一个简单的集成UI，你会发现自己在全宇宙中为3D世界做出贡献比你想象的要容易。
@@ -195,7 +195,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 > <https://www.nvidia.cn/omniverse/ecosystem/><br>
 > <https://docs.omniverse.nvidia.com/connect/latest/index.html><br>
 
-#### 1.4 基础应用
+### 1.4 基础应用
 
 > 基础应用是一系列Nvidia基于Omniverse Kit SDK开发的应用软件，用于构建元宇宙平台及给普通用户构建自己的工作流。常用核心基础应用的软件包括：USD View，USD Presenter，USD Explorer，USD Composer，Scene Optimizer，Code，Isaac Sim，Drive Sim，Omniverse Streaming Client，Farm等。下面一一介绍其相关功能。
 >
@@ -324,7 +324,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > **Reference：**<https://docs.omniverse.nvidia.com/farm/latest/index.html>
 
-#### 1.5 云
+### 1.5 云
 
 > Nvidia的云端主要是面向企业级用户，其主要不同在于数据安全性和管理，计算资源和专业的技术支持服务方面的优势。目前我们正在使用的是Standard的标准版本，Standard跟Enterprise和Cloud版本的具体区别如下：
 >
@@ -345,7 +345,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 > <https://www.nvidia.cn/omniverse/cloud/><br>
 > <https://www.nvidia.cn/omniverse/enterprise/support/><br>
 
-#### 1.6 开发者路径
+### 1.6 开发者路径
 
 > NVIDIA Omniverse™ 是一个模块化开发平台（如下图所示），用于构建 3D 工作流程、工具、应用程序和服务。基于皮克斯的通用场景描述（OpenUSD）、NVIDIA RTX™ 和 NVIDIA AI 技术，开发人员使用 Omniverse 为工业数字化和感知 AI 应用构建实时 3D 仿真解决方案。
 >
@@ -380,11 +380,11 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > <https://docs.omniverse.nvidia.com/platform/latest/overview.html><br>
 > [Omniverse Learning Resources.md](https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-nvidia-learning-resources-md)<br>
 
-### 2. Nvidia Learning Resources
+## 2. Nvidia Learning Resources
 
-#### 2.1 Getting Started for Beginner
+### 2.1 Getting Started for Beginner
 
-##### 1. Basic Concepts
+#### 1. Basic Concepts
 
 >- 1.1 Omniverse Overview
 >
@@ -426,7 +426,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >
 >> 该网址详细介绍了Omniverse平台的工作流程（从配置环境、加载场景、修改操作场景、用户接口到仿真及应用）：<https://docs.omniverse.nvidia.com/workflows/latest/index.html>
 
-##### 2. Basic Tutorials
+#### 2. Basic Tutorials
 
 >- 2.1 For User
 >
@@ -492,14 +492,14 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >>
 >> 创建基于Kit应用程序：<https://docs.omniverse.nvidia.com/kit/docs/kit-manual/latest/guide/creating_kit_apps.html>
 
-##### 3. Advanced Tutorials
+#### 3. Advanced Tutorials
 
 >- 3.1 For User
   Nvidia自学培训教程（按步骤层次学习）：<https://www.nvidia.com/en-us/training/online/>
 >- 3.2 For Developer
   Omniverse 开发者官网（包括高阶教程及开发资源）：<https://developer.nvidia.com/omniverse>
 
-#### 2.2 Nvidia Docs Center
+### 2.2 Nvidia Docs Center
 
 1. Nvidia官方文档中心
 > 该网址包含了Nvidia所有的文档（主要是面向各种软件的基础学习文档）：<https://docs.nvidia.com/>
@@ -534,7 +534,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > [Building Microservices For Omniverse](https://github.com/JadeCong/Resources/blob/master/Documents/Nvidia/S32071-JozefvanEenbergen-NicBranker-BuildingMicroservicesForOmniverse_1617757618199001vlUt.pdf)<br>
 > [Deep-dive-into-building-microservices-with-Omniverse](https://github.com/JadeCong/Resources/blob/master/Documents/Nvidia/GTC2021-A31204-Deep-dive-into-building-microservices-with-Omniverse.pdf)<br>
 
-#### 2.3 Nvidia Developer Center
+### 2.3 Nvidia Developer Center
 
 1. Nvidia Developer官方主网址
 > 该网址包含了所有开发者文档及资源（主要是面向各种软件的深度开发者的文档及资源）：<https://developer.nvidia.com/>
@@ -571,7 +571,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > NVIDIA Merlin开发者官网（大规模推荐系统的开发）：<https://developer.nvidia.com/merlin><br>
 > NVIDIA TAO Toolkit开发者官网（网络大规模训练及优化部署的开发）：<https://developer.nvidia.com/tao-toolkit><br>
 
-#### 2.4 Nvidia Training Center
+### 2.4 Nvidia Training Center
 
 1. Nvidia Training官网主网址
 > 该网址为Nvidia培训中心的主网址（EN）：<https://www.nvidia.com/en-us/training/><br>
@@ -595,7 +595,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 7. Appendix
 > [nvidia-learning-learning-path-developers-it-administrators](https://github.com/JadeCong/Resources/blob/master/Documents/Nvidia/nvidia-learning-learning-path-developers-it-administrators.pdf)
 
-#### 2.5 Nvidia Downloads Center
+### 2.5 Nvidia Downloads Center
 
 1. Nvidia Downloads官网主网址
 > 该网址为Nvidia资源（镜像、模型、应用等）下载中心的主网址：<https://developer.nvidia.com/downloads>
@@ -621,7 +621,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 8. Nvidia TAO Computer Vision Collection
 > TAO Computer Vision Collection（用于计算机视觉领域的大规模预训练及部署）：<https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/collections/tao_computervision>
 
-#### 2.6 Nvidia Forums Center
+### 2.6 Nvidia Forums Center
 
 1. Nvidia Forums官网主网址
 > 该网址为Nvidia论坛官网（用于同其他开发者交流问题及咨询官方技术问题）的主网址：<https://forums.developer.nvidia.com/>
@@ -644,7 +644,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 7. Nvidia Developer Tools论坛板块
 > Developer Tools论坛板块：<https://forums.developer.nvidia.com/c/developer-tools/106>
 
-#### 2.7 Nvidia Blogs Center
+### 2.7 Nvidia Blogs Center
 
 1. Nvidia Blog官网主网址：
 > 该网址为Nvidia博客官网（用于查看Nvidia最新的技术及产品动态）的主网址：<https://developer.nvidia.com/blog/>
@@ -664,7 +664,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 6. Nvidia Cloud Blog板块
 > Cloud Blog板块：<https://developer.nvidia.com/blog/category/data-center-cloud/>
 
-#### 2.8 Unofficial Reference Resources
+### 2.8 Unofficial Reference Resources
 
 1. Isaac Sim公开课教程
 > Isaac Sim B站教程：<https://www.bilibili.com/video/BV1EN4y1w7D5/?spm_id_from=333.337.search-card.all.click>
@@ -680,9 +680,9 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > <https://realpython.com/python-bindings-overview/><br>
 > <https://zhuanlan.zhihu.com/p/143356193><br>
 
-### 3. Industrial Metaverse Platform
+## 3. Industrial Metaverse Platform
 
-#### 3.1 物理引擎
+### 3.1 物理引擎
 
 > 物理引擎，简单的说就是计算2D或者3D场景中，物体与场景之间，物体与角色之间、物体与物体之间的运动交互和动力学。物理引擎是一个计算机程序用来模拟牛顿动力学模型，使用质量、速度、摩擦力和空气阻力等变量，为刚性或柔性物体赋予真实的物理属性的方式来模拟物体的运动、旋转和碰撞等交互过程，使得仿真的效果更准确、更真实。物理引擎的基础是系统动力学，动力学是对现实世界中物体运动规律的数学描述，这种数学描述主要是基于常微分方程的，物理引擎核心的任务就在于求解常微分方程。
 >
@@ -697,14 +697,14 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > **Goal：** 工业元宇宙平台能够配置选择多种物理引擎，多种求解器，以适应不同的仿真精度和仿真速度的要求。<br>
 > **Reference：** <https://github.com/JadeCong/Awesome-Robot-Learning>
 
-#### 3.2 仿真平台
+### 3.2 仿真平台
 
 > 通过调研发现现在从学术界到工业界呈现出不同的定位需求，学术界主要考虑仿真平台的轻量化、易用性及低成本开发需求，代表的仿真平台有ROS/ROS2，Robosuite，RaiSim，CoppeliaSim，Gazebo等；工业界主要考虑仿真平台的通用性、拓展性、大规模及实时性的需求，代表的仿真平台有Nvidia Omniverse，CARLA，ROS2等。根据我们构建工业元宇宙平台的需求（通用性，拓展性及规模化），通过全面对比，我们初步选定仿真平台如下：Nvidia Omniverse，CARLA，Robosuite这三个仿真平台，通过详细深入使用，最后确定最终的工业元宇宙平台。
 >
 > **Goal：** 通过对通用性、兼容性，用户友好性，开发难度等多方面对比，最终确定适合构建工业元宇宙的仿真平台。<br>
 > **Reference：** <https://github.com/JadeCong/Awesome-Robot-Learning>
 >
-> ##### （1）Nvidia Omniverse
+> #### （1）Nvidia Omniverse
 >
 > NVIDIA Omniverse是一款基于PhysX为物理引擎，Pixar的USD为模型描述文件开发的一个仿真平台，其作用类似一个中间件，连接物理渲染引擎和各大终端应用，因此其具备强大的拓展性，同时NVIDIA为其开发了多种插件和应用场景资源，并配合其GPU硬件设备做了诸多优化。因此，NVIDIA Omniverse作为我们工业元宇宙平台的首选。
 >
@@ -713,7 +713,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 （2）<https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/overview.html><br>
 （3）<https://docs.omniverse.nvidia.com/kit/docs/kit-extension-template-cpp/latest/index.html>
 >
-> ##### （2）CARLA
+> #### （2）CARLA
 >
 > CARLA是一款开源软件，其基于Chrono（一种开源的、多物理仿真引擎，可使用基于模板的方法提供高逼真度的车辆动力学仿真）为物理引擎，Unreal Engine作为渲染引擎，由于其开源并具有大量的自动驾驶场景的模型实例，同时Unreal Eninge能高速渲染出更真实的数据，开放出C++和Python接口便于拓展开发。因此，CARLA可作为工业元宇宙平台的次选。
 >
@@ -722,7 +722,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 （2）<https://github.com/carla-simulator/carla><br>
 （3）<https://carla.readthedocs.io/en/latest/>
 >
-> ##### （3）Robosuite
+> #### （3）Robosuite
 >
 > Robosuite是一款开源软件，其基于MuJoCo（一种通用的多关节的接触碰撞物理引擎，其应用在机器人、生物力学、动画仿真、机器学习等多领域）作为物理引擎，引擎具有高精度、轻量化、实时性好等特点，其采用MJCF（一种类似xml的可读性文件）作为模型描述文件，能够实现对多对象、柔性体等进行交互仿真，并能实现高质量的渲染，另外Robosuite在MuJoCo引擎采用C/C++的基础上开放出Python接口，便于拓展开发。因此，Robosuite可作为工业元宇宙平台的备选。
 >
@@ -730,7 +730,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 （1）<https://robosuite.ai/><br>
 （2）<https://mujoco.org/>
 >
-> ##### （4）仿真平台搭建
+> #### （4）仿真平台搭建
 >
 > 1. 系统环境构建
 >>
@@ -755,20 +755,20 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >>- **Robosuite**<br>
 >> 在安装好Ubuntu操作系统之后，依据Robosuite官方安装文档(https://robosuite.ai/docs/installation.html)进行安装软件即可。
 
-#### 3.3 建模方法
+### 3.3 建模方法
 
 > 在工业生产的流程中，需要对不同的对象进行数字化建模，那么可以对建模进行分层管理：基于对象，基于场景，基于工作流；然后提供高效的、柔性的、个性化的自动化建模方法，从而让用户更便捷地实现生产场景的构建。本节内容主要是基于NVIDIA Omniverse仿真平台进行开发建模，CARLA及Robosuite仿真平台后续进行扩展补充。
 >
 > **Reference：** [Ubuntu Nvidia Omniverse.md](https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-ubuntu-nvidia-omniverse-md)
 >
-> ##### （1）基于对象建模
+> #### （1）基于对象建模
 >
 > 1. Master模型
 > 2. 控制器模型
 > 3. 被控对象模型
 > 4. 环境模型
 >
-> ##### （2）模型库
+> #### （2）模型库
 >
 > 对不同的对象内容进行多标签（基于功能/场景等）分类管理，从而形成一个庞大的对象模型库，以便提供给用户选择使用。
 >
@@ -780,7 +780,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >> 2. 实现物理属性：<br>
 >> 3. 基本原理模拟：<br>
 >
-> ##### （3）基于场景建模
+> #### （3）基于场景建模
 >
 > 针对典型的工业生产场景构建几个场景模型示例，并形成完整的建模流程及教程文档、Demo，以便用户进行学习参考。
 >
@@ -788,7 +788,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > 2. 场景配置
 > 3. 场景合成
 >
-> ##### （4）场景库
+> #### （4）场景库
 >
 > 通过对不同场景的理解，构建多种典型的用户应用场景的模型形成模型库，以便用户能快速构建基础场景并进行个性化修改以满足场景构建需求。
 >
@@ -796,22 +796,22 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >- 飞机制造产线场景模型
 >- 自动驾驶城市场景模型
 >
-> ##### （5）基于工作流建模
+> #### （5）基于工作流建模
 >
 > 在更大的生产场景中，不同的工作及生产阶段对场景的构建也不同，需要通过组合的方式来完成对整个生产的流程化建模，因此平台需要能够实现对不同场景的融合和链接，从而完成对某一工作场景的全生命周期的高效建模。
 >
 > **Goal：** 工业元宇宙平台能够根据用户需求层次对用户场景进行高效的精准的自动化建模。<br>
 > **Reference：** <https://zhuanlan.zhihu.com/p/606321816>
 
-#### 3.4 数据流接口
+### 3.4 数据流接口
 
 > 在工业元宇宙平台上，任何某一场景、流程的仿真运行，本质上都是各种各样的数据在平台上抽象的网络节点间进行流动。因此，在复杂的工作场景中，需要对各个网络节点间数据流的格式进行规范和统一，能够实现对不同场景，不同对象的适应性。
 
-#### 3.5 平台数字化管理
+### 3.5 平台数字化管理
 
 > 在工业元宇宙平台上，我们通过不同场景建模和仿真，会产生大量的有用数据，这些数据会指导或直接参与生产流程，因此需要对这些数据（模型、场景、工作流）进行管理。通过构建数字化管理系统，基于不同级别，不同权限等来对生产流程中的数据进行管理。
 >
-> ##### （1）Omniverse微服务架构简介
+> #### （1）Omniverse微服务架构简介
 >
 > Nvidia Omniverse Microservices有如下特点：<br>
 >（1）模块化，易组合；<br>
@@ -832,7 +832,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >（7）OpenAPI：将微服务封装后给应用来调用<br>
 >（8）Apps：大型应用集合了多种微服务，如Farm Agent，Farm Queue<br>
 > 
-> ##### （2）仿真平台的微服务架构设计
+> #### （2）仿真平台的微服务架构设计
 >
 > 当前，随着社会活动和企业业务的增加，主流的商业实体都会构建自己的云平台（公有云/私有云），云服务也成为支撑公司的庞大的研发和运营的基础。为面向企业的应用场景和业务，云服务衍生出多种形态XaaS，其表示针对任何...aaS的解决方案。目前，比较常用的流行的云服务有：<br>
 > IaaS(Infrastructure as a Service)：基础架构即服务，用于构建云平台的基础设施，如云端虚拟机；<br>
@@ -875,19 +875,19 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >    b. 测试用例自动回归测试，CICD接口服务<br>
 >    c. 测试结果输出报表，自定义报表服务<br>
 >
-> ##### （3）仿真平台的微服务模块实现
+> #### （3）仿真平台的微服务模块实现
 >
-> ##### （4）交互式仿真接口实现
+> #### （4）交互式仿真接口实现
 
-## Digital Twin
+# Digital Twin
 
 > Docs and Applications for Digital Twin.
 
-### (1) Basic Principles
+## (1) Basic Principles
 
-### (2) Methods and Algorithms
+## (2) Methods and Algorithms
 
-### (3) Applications
+## (3) Applications
 
 Continue reading [X-Technologies](X-Technologies.md){:.heading.flip-title}
 {:.read-more}

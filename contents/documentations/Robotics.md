@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-08-04
+last_modified_at: 2024-11-17
 
 hide_description: true
 hide_image: false
@@ -49,42 +49,42 @@ Based on classical robotics, we construct a robot form these steps as follows: *
 **JadeCong(GitHub):** [Awesome-Robotics](https://github.com/JadeCong/Awesome-Robotics)
 {:.note}
 
-## Robot Mechanics
+# Robot Mechanics
 
-### (1) Collaborative Robot
+## (1) Collaborative Robot
 
-### (2) Legged Robot
+## (2) Legged Robot
 
-### (3) Mechanical Hand
+## (3) Mechanical Hand
 
-### (4) Humanoid Robot
+## (4) Humanoid Robot
 
-### (5) Soft Robot
+## (5) Soft Robot
 
-### (6) Tactile Sensor
+## (6) Tactile Sensor
 
-## Robot Calibration
+# Robot Calibration
 
-### (1) Basic Principles
+## (1) Basic Principles
 
-### (2) Methods and Algorithms
+## (2) Methods and Algorithms
 
-### (3) Applications
+## (3) Applications
 
-## Robot Planning
+# Robot Planning
 
-### (1) Collision Avoidance
+## (1) Collision Avoidance
 
 - Vision-Based Collision Avoidance
 
-### (2) Motion Planning
+## (2) Motion Planning
 
 - A Star
 - RRT(Rapidly Exploring Random Tree)
 - RRT-Connect
 - Vision-Servo Realtime Planning
 
-### (3) Task Manipulation
+## (3) Task Manipulation
 
 1. Hand Grasp Dexterous Manipulation
 - soft robotics
@@ -124,13 +124,13 @@ Based on classical robotics, we construct a robot form these steps as follows: *
 > 3. CNN
 >> 通过CNN对未知的数据进行估计，从而减轻对标签数据的依赖。
 
-## Robot Control
+# Robot Control
 
-### (1) Position Control
+## (1) Position Control
 
 - Trajectory Tracking
 
-### (2) Velocity Control
+## (2) Velocity Control
 
 - PD Control
 - PID Control
@@ -138,7 +138,7 @@ Based on classical robotics, we construct a robot form these steps as follows: *
 - S形曲线
 - 多项式曲线（3/5次）
 
-### (3) Force Control
+## (3) Force Control
 
 - Active Control
   - Impedance Control
@@ -146,13 +146,13 @@ Based on classical robotics, we construct a robot form these steps as follows: *
 - Passive Control
 	- Structure Setting
 
-### (4) Hybrid Position-Force Control
+## (4) Hybrid Position-Force Control
 
 - Active Control
 	- Configure Space Control
 - Passive Control
 
-### (5) Compliance Control
+## (5) Compliance Control
 
 Continue reading [AIRobotics](AIRobotics.md){:.heading.flip-title}
 {:.read-more}

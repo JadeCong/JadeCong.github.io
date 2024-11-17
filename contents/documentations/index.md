@@ -25,7 +25,7 @@ permalink: /contents/documentations/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-08-04
+last_modified_at: 2024-11-17
 
 hide_description: false
 hide_image: false
@@ -49,37 +49,37 @@ Here are documentation archives for the site as follows: **[AI]**, **[Robotics]*
 The documents are temporarily classified into the above categories which will be gradually added, deleted, and modified according to actual needs in the future.
 {:.note}
 
-## AI
+# AI
 
 * [AI]{:.heading.flip-title} --- Introductions and applications for Artificial Intelligence.
 {:.related-posts.faded}
 
-## Robotics
+# Robotics
 
 * [Robotics]{:.heading.flip-title} --- Introductions and applications for Robotics.
 {:.related-posts.faded}
 
-## AIRobotics
+# AIRobotics
 
 * [AIRobotics]{:.heading.flip-title} --- Introductions and applications for AI-powered Robotics.
 {:.related-posts.faded}
 
-## Metaverse
+# Metaverse
 
 * [Metaverse]{:.heading.flip-title} --- Introductions and applications for Metaverse and Simulations.
 {:.related-posts.faded}
 
-## X-Technologies
+# X-Technologies
 
 * [X-Technologies]{:.heading.flip-title} --- Introductions and applications for X-Technologies.
 {:.related-posts.faded}
 
-## Utilities
+# Utilities
 
 * [Utilities]{:.heading.flip-title} --- Introductions and applications for Utilities.
 {:.related-posts.faded}
 
-## Startups
+# Startups
 
 * [Startups]{:.heading.flip-title} --- Introductions and applications for Startups.
 {:.related-posts.faded}

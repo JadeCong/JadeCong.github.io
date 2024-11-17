@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-08-04
+last_modified_at: 2024-11-17
 
 hide_description: true
 hide_image: false
@@ -49,9 +49,9 @@ The block is created for some utilities which are used in routine works. The doc
 **JadeCong(GitHub Gist):** [Utilities](https://gist.github.com/JadeCong/4289d9171ab907fb3064266083298752)
 {:.note}
 
-## Shell
+# Shell
 
-### 1. Shell Regular Command
+## 1. Shell Regular Command
 
 References:
 > (1) <https://www.gnu.org/software/bash/manual/bash.html><br>
@@ -61,7 +61,7 @@ References:
 > (5) <https://www.tutorialspoint.com/unix/shell_scripting.htm><br>
 > (6) <https://www.runoob.com/linux/linux-shell.html><br>
 
-### 2. Shell Command Template
+## 2. Shell Command Template
 
 ```shell
 #!/bin/bash
@@ -108,9 +108,9 @@ mktemp -u -t -d tmp.XXXXXX  # 在系统/tmp目录而不是当前目录下创建�
 exit $?  # 显示最后命令的退出状态。0表示没有错误，其他任何值表明有错误(Reference: https://www.runoob.com/linux/linux-shell-passing-arguments.html)
 ```
 
-## Git
+# Git
 
-### 1. Regular Usage(init, add, commit, status, log, push, pull, merge, remote, github, etc.)
+## 1. Regular Usage(init, add, commit, status, log, push, pull, merge, remote, github, etc.)
 
 1. 首先在某个文件夹下建立github远程存储服务器，并初始化github服务
 > cd github_path
@@ -228,16 +228,16 @@ exit $?  # 显示最后命令的退出状态。0表示没有错误，其他任�
 > git reset --hard origin/master
 > git pull
 
-### 2. References
+## 2. References
 
 (1) <https://geekhall.cn/><br>
 (2) <https://geek-docs.com/git/git-questions/154_git_what_are_all_available_git_special_files_that_can_be_committed_to_a_repository.html>
 
-## CMake
+# CMake
 
 > Reference: [CMake Reference Documentation](https://cmake.org/cmake/help/latest/)
 
-### 1. CMakeLists.txt
+## 1. CMakeLists.txt
 
 ```shell
 ###################
@@ -328,7 +328,7 @@ message(STATUS "Include the test configuration for the project...")
 include(cmake/test_config.cmake)
 ```
 
-### 2. general_config.cmake
+## 2. general_config.cmake
 
 ```shell
 ###########################
@@ -341,7 +341,7 @@ set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 ```
 
-### 3. general_options.cmake
+## 3. general_options.cmake
 
 ```shell
 #####################
@@ -395,7 +395,7 @@ option(BUILD_EXE_EXAMPLE_MR_META_SKILL "Build executable example_mr_meta_skill" 
 option(BUILD_EXE_RELEASE_MR "Build executable release_mr" ON)
 ```
 
-### 4. build_config.cmake
+## 4. build_config.cmake
 
 ```shell
 #########################
@@ -440,7 +440,7 @@ if(BUILD_DOCUMENTATION)
 endif()
 ```
 
-### 5. set_dirs.cmake
+## 5. set_dirs.cmake
 
 ```shell
 #####################
@@ -461,7 +461,7 @@ if(BUILD_LIB_PYTHON)
 endif()
 ```
 
-### 6. set_depends.cmake
+## 6. set_depends.cmake
 
 ```shell
 ######################
@@ -555,7 +555,7 @@ if(BUILD_LIB_PYTHON)
 endif()
 ```
 
-### 7. set_libs.cmake
+## 7. set_libs.cmake
 
 ```shell
 ###################
@@ -815,7 +815,7 @@ if(BUILD_LIB_MR_LOGGING)
 endif()
 ```
 
-### 8. set_exes.cmake
+## 8. set_exes.cmake
 
 ```shell
 #####################
@@ -1056,7 +1056,7 @@ if(BUILD_EXE_RELEASE_MR)
 endif()
 ```
 
-### 9. install_config.cmake
+## 9. install_config.cmake
 
 ```shell
 ###########################
@@ -1066,7 +1066,7 @@ endif()
 # Configure the installation
 ```
 
-### 10. test_config.cmake
+## 10. test_config.cmake
 
 ```shell
 ########################
@@ -1076,9 +1076,9 @@ endif()
 # Configure the testing
 ```
 
-## Anaconda
+# Anaconda
 
-### 1. conda常用指令
+## 1. conda常用指令
 
 > 1. 更新anaconda： conda update anaconda
 > 2. 更新conda: conda update conda
@@ -1102,7 +1102,7 @@ endif()
 > 20. 清理环境中的缓存垃圾(conda): conda clean -p/ conda clean -t/ conda clean --all
 > 21. 清理环境中的缓存垃圾(pip): pip cache purge
 
-### 2. Ubuntu安装anaconda
+## 2. Ubuntu安装anaconda
 
 > 1. 安装命令(根据安装过程给予指令)：bash Anaconda3-2023.03-1-Linux-x86_64.sh
 > 
@@ -1124,7 +1124,7 @@ endif()
 > # <<< conda initialize <<<
 > ```
 
-### 3. Ubuntu卸载anaconda
+## 3. Ubuntu卸载anaconda
 
 > 1. 下载并执行anaconda-clean：conda activate base && conda install anaconda-clean && anaconda-clean --yes
 > 2. 查看anaconda残余的文件夹并全部删除：conda info && conda deactivate && sudo rm -rf ~/anaconda3 && sudo rm -rf ~/.condarc ~/.conda ~/.continuum ~/.anaconda_backup
