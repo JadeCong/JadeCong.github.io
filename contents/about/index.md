@@ -25,7 +25,7 @@ permalink: /contents/about/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-08-04
+last_modified_at: 2024-11-17
 
 hide_description: false
 hide_image: false
@@ -44,7 +44,7 @@ featured: false
 - Table of Contents
 {:toc}
 
-## Who I am
+# Who I am
 
 I'm an algorithm engineer and my job focuses on robotics and artificial intelligence, mostly working on robot motion control, motion planning, teleoperation and robot learning. And I am committed to making robots more intelligent and agile with artificial intelligence.
 
@@ -52,7 +52,7 @@ I'm an algorithm engineer and my job focuses on robotics and artificial intellig
 Jade Cong
 {:.figcaption}
 
-## What I do/have done
+# What I do/have done
 
 Currently I am working as an **Algorithm Engineer** for developing **Industrial Metaverse Platform** based on NVIDIA **[Omniverse](https://www.nvidia.com/en-us/omniverse/)** Platform. Based on the Industrial Metaverse Platform, the whole processes of industrial production which include requirement, design, development, testing, deployment and operating could be accelerated serval times for high efficiency and more convenience.
 
@@ -69,11 +69,11 @@ Robot Applications
 
 I think that summarizes a bit what I have done so far. **Time flies by!**
 
-## My Resume/CV
+# My Resume/CV
 
 In case you will be looking for **more details** about my work, [you can do that by accessing and/or downloading my Resume/CV.](/contents/resume/)
 
-## How to approach me
+# How to approach me
 
 **Being social and helping in any way I can, is one of the things I like and enjoy the most!** You can find me here:
 - [Email](mailto:jade.cong@qq.com)
@@ -87,6 +87,6 @@ In case you will be looking for **more details** about my work, [you can do that
 - [ZhiHu](https://www.zhihu.com/people/Jade_Cong)
 - [WeChat Public](/assets/images/about/wechat-public.jpg)
 
-## Help and Support
+# Help and Support
 
 If you need help, please one more time, don’t be shy and drop me a line, and I’m more than happy to establish a connection/conversation. **Thanks for visiting!!!**
