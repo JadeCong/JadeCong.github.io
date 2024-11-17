@@ -25,7 +25,7 @@ permalink: /contents/researches/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-08-04
+last_modified_at: 2024-11-17
 
 hide_description: false
 hide_image: false
@@ -46,7 +46,7 @@ featured: false
 
 Based on my major, interests and skills, there are serval research categories for me as follows: **Robotics**, **Artificial Intelligence**, **AIRobotics**, **Metaverse** and **X-Technologies**.
 
-## Robotics
+# Robotics
 
 What I'm focusing and working on Robotics are as follows:
 - [ROS](https://www.ros.org/)
@@ -71,7 +71,7 @@ MuJoCo Application
 Teleoperation Application
 {:.figcaption}
 
-## Artificial Intelligence
+# Artificial Intelligence
 
 What I'm focusing and working on Artificial Intelligence are as follows:
 - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
@@ -91,7 +91,7 @@ Reinforcement Learning Application
 Agents Application
 {:.figcaption}
 
-## AIRobotics
+# AIRobotics
 
 What I'm focusing and working on AIRobotics are as follows:
 - [Robot Learning](https://github.com/JadeCong/Awesome-Robot-Learning)
@@ -108,7 +108,7 @@ Robot Learning Application
 Embodied Intelligence Application
 {:.figcaption}
 
-## Metaverse
+# Metaverse
 
 What I'm focusing and working on Metaverse are as follows:
 - [Omniverse](https://www.nvidia.com/en-us/omniverse/)
@@ -125,7 +125,7 @@ Omniverse Application
 Isaac Sim Application
 {:.figcaption}
 
-## X-Technologies
+# X-Technologies
 
 What I'm focusing and working on X-Technologies are as follows:
 - [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
