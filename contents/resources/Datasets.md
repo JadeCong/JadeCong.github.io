@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-09-17
+last_modified_at: 2024-11-17
 
 hide_description: true
 hide_image: false
@@ -44,7 +44,7 @@ featured: false
 - Table of Contents
 {:toc}
 
-## Human Pose Estimation
+# Human Pose Estimation
 
 > 1. **Human3.6M**: <http://vision.imar.ro/human3.6m/description.php>
 > 2. **MS COCO**: <https://cocodataset.org/#home>

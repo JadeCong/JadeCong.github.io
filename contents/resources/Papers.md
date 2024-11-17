@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-09-17
+last_modified_at: 2024-11-17
 
 hide_description: true
 hide_image: false
@@ -44,7 +44,7 @@ featured: false
 - Table of Contents
 {:toc}
 
-## Artificial Intelligence
+# Artificial Intelligence
 
 > 1. **ADAS(Automated Design of Agentic Systems)**: <https://arxiv.org/abs/2408.08435>
 > 2. **Mini-Omni**: <https://arxiv.org/abs/2408.16725>
@@ -52,5 +52,5 @@ featured: false
 > 4. **Mamba**: <https://arxiv.org/abs/2312.00752>
 > 5. **Buffer of Thoughts**: <https://arxiv.org/abs/2406.04271>
 
-Continue reading [Codes](Codes.md){:.heading.flip-title}
+Continue reading [Models](Models.md){:.heading.flip-title}
 {:.read-more}

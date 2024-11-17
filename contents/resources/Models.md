@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-09-17
+last_modified_at: 2024-11-17
 
 hide_description: true
 hide_image: false
@@ -44,7 +44,7 @@ featured: false
 - Table of Contents
 {:toc}
 
-## Large Model
+# Large Model
 
 > 1. **OpenAI o1**: <https://openai.com/index/introducing-openai-o1-preview/>
 > 2. **GPT-4o**: <https://openai.com/index/hello-gpt-4o/>

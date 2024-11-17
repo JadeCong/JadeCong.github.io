@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-09-17
+last_modified_at: 2024-11-17
 
 hide_description: true
 hide_image: false
@@ -44,7 +44,41 @@ featured: false
 - Table of Contents
 {:toc}
 
-## Robot Learning
+# Artificial Intelligence
+
+## (1) LMs
+
+> 1. **The Rhythm In Anything**: <https://oreillyp.github.io/tria/>
+> 2. **DriveDreamer4D**: <https://drivedreamer4d.github.io/>
+> 3. **TokenFormer**: <https://haiyang-w.github.io/tokenformer.github.io/>
+
+## (2) Agents
+
+> 1. **UFO**: <https://github.com/microsoft/UFO>
+> 2. **ell**: <https://github.com/MadcowD/ell>
+> 3. **SWE-agent**: <https://github.com/princeton-nlp/SWE-agent>
+> 4. **autogen**: <https://github.com/microsoft/autogen>
+> 5. **CharacterGen**: <https://github.com/zjp-shadow/CharacterGen>
+> 6. **Qwen2.5-Coder**: <https://qwenlm.github.io/zh/blog/qwen2.5-coder/>
+
+## (3) AIGC
+
+> 1. **MikuDance**: <https://kebii.github.io/MikuDance/>
+> 2. **DanceFusion**: <https://th-mlab.github.io/DanceFusion/>
+
+# Robotics
+
+## (1) Hardware
+
+> 1. **Zeroth**: <https://docs.zeroth.bot/>
+
+## (2) Software
+
+> 1. **ROS2**: <https://docs.ros.org/en/jazzy/index.html>
+
+# AIRobotics
+
+## (1) Robot Learning
 
 > 1. **UMI(Universal Manipulation Interface)**: <https://umi-gripper.github.io/>
 > 2. **PSAG**: <https://www.jianrenw.com/PSAG/>
@@ -53,6 +87,26 @@ featured: false
 > 5. **RoboStudio**: <https://robostudioapp.com/>
 > 6. **ReKep**: <https://rekep-robot.github.io/>
 > 7. **DeformGS**: <https://deformgs.github.io/>
+> 8. **NeuralFeels**: <https://suddhu.github.io/neural-feels/>
+> 9. **ALOHA**: <https://tonyzhaozh.github.io/aloha/>
+> 10. **LucidSim**: <https://lucidsim.github.io/>
+
+## (2) Autonomous Driving
+
+## (3) Embodied Intelligence
+
+# Metaverse
+
+## (1) Omniverse
+
+## (2) Digital Twin
+
+# Utilities
+
+## (1) Computer Vision
+
+> 1. **OpenCV**: <https://opencv.org/>
+> 2. **roboflow**: <https://roboflow.com/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}

@@ -25,7 +25,7 @@ permalink: /contents/resources/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-09-17
+last_modified_at: 2024-11-17
 
 hide_description: false
 hide_image: false
@@ -44,38 +44,32 @@ featured: false
 - Table of Contents
 {:toc}
 
-Here are resource archives for the site as follows: **[Projects]**, **[Papers]**, **[Codes]**, **[Models]** and **[Datasets]**. You can browse and explore the details in each category for getting awesome and useful resources.
+Here are resource archives for the site as follows: **[Projects]**, **[Papers]**, **[Models]** and **[Datasets]**. You can browse and explore the details in each category for getting awesome and useful resources.
 
 The resources are temporarily classified into the above categories which will be gradually added, deleted, and updated according to actual needs in the future.
 {:.note}
 
-## Projects
+# Projects
 
 * [Projects]{:.heading.flip-title} --- Archive List for Awesome Projects.
 {:.related-posts.faded}
 
-## Papers
+# Papers
 
 * [Papers]{:.heading.flip-title} --- Archive List for Awesome Papers.
 {:.related-posts.faded}
 
-## Codes
-
-* [Codes]{:.heading.flip-title} --- Archive List for Awesome Codes.
-{:.related-posts.faded}
-
-## Models
+# Models
 
 * [Models]{:.heading.flip-title} --- Archive List for Awesome Models.
 {:.related-posts.faded}
 
-## Datasets
+# Datasets
 
 * [Datasets]{:.heading.flip-title} --- Archive List for Awesome Datasets.
 {:.related-posts.faded}
 
 [Projects]: Projects.md
 [Papers]: Papers.md
-[Codes]: Codes.md
 [Models]: Models.md
 [Datasets]: Datasets.md
