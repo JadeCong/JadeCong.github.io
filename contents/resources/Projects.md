@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-17
+last_modified_at: 2024-11-18
 
 hide_description: true
 hide_image: false
@@ -51,6 +51,9 @@ featured: false
 > 1. **The Rhythm In Anything**: <https://oreillyp.github.io/tria/>
 > 2. **DriveDreamer4D**: <https://drivedreamer4d.github.io/>
 > 3. **TokenFormer**: <https://haiyang-w.github.io/tokenformer.github.io/>
+> 4. **hertz-dev**: <https://si.inc/hertz-dev/>
+> 5. **PointLLM**: <https://runsenxu.com/projects/PointLLM/>
+> 6. **Aria**: <https://www.rhymes.ai/blog-details/aria-first-open-multimodal-native-moe-model>
 
 ## (2) Agents
 
@@ -60,17 +63,38 @@ featured: false
 > 4. **autogen**: <https://github.com/microsoft/autogen>
 > 5. **CharacterGen**: <https://github.com/zjp-shadow/CharacterGen>
 > 6. **Qwen2.5-Coder**: <https://qwenlm.github.io/zh/blog/qwen2.5-coder/>
+> 7. **Skyvern**: <https://www.skyvern.com/>
 
 ## (3) AIGC
 
 > 1. **MikuDance**: <https://kebii.github.io/MikuDance/>
 > 2. **DanceFusion**: <https://th-mlab.github.io/DanceFusion/>
+> 3. **StdGEN**: <https://stdgen.github.io/>
+> 4. **URAvatar**: <https://junxuan-li.github.io/urgca-website/>
+> 5. **Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications**: <https://hahminlew.github.io/changer/>
+> 6. **ReCapture**: <https://generative-video-camera-controls.github.io/>
+> 7. **DimensionX**: <https://chenshuo20.github.io/DimensionX/>
+> 8. **Fashion-VDM**: <https://johannakarras.github.io/Fashion-VDM/>
+> 9. **X-Portrait 2**: <https://byteaigc.github.io/X-Portrait2/>
+> 10. **GameGen-X**: <https://gamegen-x.github.io/>
+> 11. **HelloMeme**: <https://songkey.github.io/hellomeme/>
+> 12. **DreamVideo-2**: <https://dreamvideo2.github.io/>
+> 13. **VidPanos**: <https://vidpanos.github.io/>
+> 14. **DAWN**: <https://hanbo-cheng.github.io/DAWN/>
+> 15. **Interstice**: <https://www.interstice.cloud/>
+> 16. **LongVU**: <https://vision-cair.github.io/LongVU/>
+> 17. **DreamCraft3D++**: <https://dreamcraft3dplus.github.io/>
+> 18. **Hallo2**: <https://fudan-generative-vision.github.io/hallo2/#/>
 
 # Robotics
 
 ## (1) Hardware
 
 > 1. **Zeroth**: <https://docs.zeroth.bot/>
+> 2. **Power-over-Skin**: <https://www.figlab.com/research/2024/poweroverskin>
+> 3. **RoboDuet**: <https://locomanip-duet.github.io/>
+> 4. **The snake that saves lives**: <https://ethz.ch/en/news-and-events/eth-news/news/2024/11/the-snake-that-saves-lives.html>
+> 5. **XGO-Rider**: <https://www.kickstarter.com/projects/xgorobot/xgo-rider-desktop-two-wheel-legged-robot-with-ai>
 
 ## (2) Software
 
@@ -90,6 +114,31 @@ featured: false
 > 8. **NeuralFeels**: <https://suddhu.github.io/neural-feels/>
 > 9. **ALOHA**: <https://tonyzhaozh.github.io/aloha/>
 > 10. **LucidSim**: <https://lucidsim.github.io/>
+> 11. **RoPotter**: <https://robot-pottery.github.io/>
+> 12. **HOVER**: <https://hover-versatile-humanoid.github.io/>
+> 13. **DexMimicGen**: <https://dexmimicgen.github.io/>
+> 14. **Eurekaverse**: <https://eureka-research.github.io/eurekaverse/>
+> 15. **HIL-SERL**: <https://hil-serl.github.io/>
+> 16. **OrbitGrasp**: <https://orbitgrasp.github.io/>
+> 17. **3D-ViTac**: <https://binghao-huang.github.io/3D-ViTac/>
+> 18. **Physical Intelligence**: <https://www.physicalintelligence.company/blog/pi0>
+> 19. **HuDOR**: <https://object-rewards.github.io/>
+> 20. **LAPA**: <https://latentactionpretraining.github.io/>
+> 21. **ManipGen**: <https://mihdalal.github.io/manipgen/>
+> 22. **Robots Pre-Train Robots**: <https://robots-pretrain-robots.github.io/>
+> 23. **ARNOLD**: <https://arnold-benchmark.github.io/>
+> 24. **GPT-4V(ision) for Robotics**: <https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/>
+> 25. **VoxAct-B**: <https://voxact-b.github.io/>
+> 26. **ARCap**: <https://stanford-tml.github.io/ARCap/>
+> 27. **Harmon**: <https://ut-austin-rpl.github.io/Harmon/>
+> 28. **Data Scaling Laws**: <https://data-scaling-laws.github.io/>
+> 29. **Dynamic 3D Gaussian Tracking**: <https://gs-dynamics.github.io/>
+> 30. **OKAMI**: <https://ut-austin-rpl.github.io/OKAMI/>
+> 31. **UniHSI**: <https://xizaoqu.github.io/unihsi/>
+> 32. **SDS**: <https://rpl-cs-ucl.github.io/SDSweb/>
+> 33. **EgoAllo**: <https://egoallo.github.io/>
+> 34. **DART**: <https://zkf1997.github.io/DART/>
+> 35. **FürElise**: <https://for-elise.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -107,6 +156,14 @@ featured: false
 
 > 1. **OpenCV**: <https://opencv.org/>
 > 2. **roboflow**: <https://roboflow.com/>
+> 3. **MoGe**: <https://wangrc.site/MoGePage/>
+> 4. **Cloth-Splatting**: <https://kth-rpl.github.io/cloth-splatting/>
+> 5. **SpectroMotion**: <https://cdfan0627.github.io/spectromotion/>
+> 6. **SMITE**: <https://segment-me-in-time.github.io/>
+> 7. **VistaDream**: <https://vistadream-project-page.github.io/index.html>
+> 8. **InterMask**: <https://gohar-malik.github.io/intermask/>
+> 9. **Dessie**: <https://celiali.github.io/Dessie/>
+> 10. **CoTracker3**: <https://cotracker3.github.io/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
