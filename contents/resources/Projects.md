@@ -54,6 +54,10 @@ featured: false
 > 4. **hertz-dev**: <https://si.inc/hertz-dev/>
 > 5. **PointLLM**: <https://runsenxu.com/projects/PointLLM/>
 > 6. **Aria**: <https://www.rhymes.ai/blog-details/aria-first-open-multimodal-native-moe-model>
+> 7. **SiT**: <https://scalable-interpolant.github.io/>
+> 8. **Rhymes AI**: <https://rhymes.ai/>
+> 9. **nemotron-4-340b-instruct**: <https://build.nvidia.com/nvidia/nemotron-4-340b-instruct>
+> 10. **EgoLM**: <https://hongfz16.github.io/projects/EgoLM>
 
 ## (2) Agents
 
@@ -64,6 +68,8 @@ featured: false
 > 5. **CharacterGen**: <https://github.com/zjp-shadow/CharacterGen>
 > 6. **Qwen2.5-Coder**: <https://qwenlm.github.io/zh/blog/qwen2.5-coder/>
 > 7. **Skyvern**: <https://www.skyvern.com/>
+> 8. **Ichigo**: <https://github.com/homebrewltd/ichigo>
+> 9. **AI for Grant Writing**: <https://www.lizseckel.com/ai-for-grant-writing/>
 
 ## (3) AIGC
 
@@ -85,6 +91,21 @@ featured: false
 > 16. **LongVU**: <https://vision-cair.github.io/LongVU/>
 > 17. **DreamCraft3D++**: <https://dreamcraft3dplus.github.io/>
 > 18. **Hallo2**: <https://fudan-generative-vision.github.io/hallo2/#/>
+> 19. **MVideo**: <https://mvideo-v1.github.io/>
+> 20. **UniMuMo**: <https://hanyangclarence.github.io/unimumo_demo/>
+> 21. **TextToon**: <https://songluchuan.github.io/TextToon/>
+> 22. **eye-contact-correction**: <https://www.sievedata.com/functions/sieve/eye-contact-correction>
+> 23. **TANGO**: <https://pantomatrix.github.io/TANGO/>
+> 24. **Animate-X**: <https://lucaria-academy.github.io/Animate-X/>
+> 25. **ACE**: <https://ali-vilab.github.io/ace-page/>
+> 26. **PhysGen**: <https://stevenlsw.github.io/physgen/>
+> 27. **EdgeRunner**: <https://research.nvidia.com/labs/dir/edgerunner/>
+> 28. **Movie Gen**: <https://ai.meta.com/research/movie-gen/>
+> 29. **Inverse Painting**: <https://inversepainting.github.io/>
+> 30. **Disco4D**: <https://disco-4d.github.io/>
+> 31. **MimicTalk**: <https://mimictalk.github.io/>
+> 32. **DIAMOND**: <https://diamond-wm.github.io/>
+> 33. **JoyHallo**: <https://jdh-algo.github.io/JoyHallo/>
 
 # Robotics
 
@@ -139,6 +160,24 @@ featured: false
 > 33. **EgoAllo**: <https://egoallo.github.io/>
 > 34. **DART**: <https://zkf1997.github.io/DART/>
 > 35. **FürElise**: <https://for-elise.github.io/>
+> 36. **PourIt**: <https://hetolin.github.io/PourIt/>
+> 37. **Cherrybot**: <https://goodcherrybot.github.io/>
+> 38. **AnyCar to Anywhere**: <https://lecar-lab.github.io/anycar/>
+> 39. **Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies**: <https://lipschitz-constrained-policy.github.io/>
+> 40. **HumanoidOlympics**: <https://humanoidolympics.github.io/>
+> 41. **OmniH2O**: <https://omni.human2humanoid.com/>
+> 42. **Continuously Improving Mobile Manipulation with Autonomous Real-World RL**: <https://continual-mobile-manip.github.io/>
+> 43. **MotIF**: <https://motif-1k.github.io/>
+> 44. **Helpful DoggyBot**: <https://helpful-doggybot.github.io/>
+> 45. **Blox-Net**: <https://bloxnet.org/>
+> 46. **GR-MG**: <https://gr-mg.github.io/>
+> 47. **Real-World Cooking Robot System from Recipes**: <https://kanazawanaoaki.github.io/cook-from-recipe-pddl/>
+> 48. **Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**: <https://gr1-manipulation.github.io/>
+> 49. **GR-2**: <https://gr2-manipulation.github.io/>
+> 50. **CLoSD**: <https://guytevet.github.io/CLoSD-page/>
+> 51. **RDT-1B**: <https://rdt-robotics.github.io/rdt-robotics/>
+> 52. **Agile Continuous Jumping in Discontinuous Terrains**: <https://yxyang.github.io/jumping_cod/>
+> 53. **Humanoid Manipulation**: <https://humanoid-manipulation.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -164,6 +203,11 @@ featured: false
 > 8. **InterMask**: <https://gohar-malik.github.io/intermask/>
 > 9. **Dessie**: <https://celiali.github.io/Dessie/>
 > 10. **CoTracker3**: <https://cotracker3.github.io/>
+> 11. **PointCloud Conditioned Mesh Generation**: <https://research.nvidia.com/labs/dir/edgerunner/gallery/point_cond_4.html>
+> 12. **Depth Any Video with Scalable Synthetic Data**: <https://depthanyvideo.github.io/>
+> 13. **MonST3R**: <https://monst3r-project.github.io/>
+> 14. **EVER**: <https://half-potato.gitlab.io/posts/ever/>
+> 15. **CoTracker**: <https://co-tracker.github.io/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
