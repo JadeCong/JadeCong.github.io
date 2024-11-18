@@ -58,6 +58,7 @@ featured: false
 > 8. **Rhymes AI**: <https://rhymes.ai/>
 > 9. **nemotron-4-340b-instruct**: <https://build.nvidia.com/nvidia/nemotron-4-340b-instruct>
 > 10. **EgoLM**: <https://hongfz16.github.io/projects/EgoLM>
+> 11. **Small Language Models (SLM)**: <https://www.jetson-ai-lab.com/tutorial_slm.html>
 
 ## (2) Agents
 
@@ -106,6 +107,12 @@ featured: false
 > 31. **MimicTalk**: <https://mimictalk.github.io/>
 > 32. **DIAMOND**: <https://diamond-wm.github.io/>
 > 33. **JoyHallo**: <https://jdh-algo.github.io/JoyHallo/>
+> 34. **SF3D**: <https://stable-fast-3d.github.io/>
+> 35. **GaussianCube**: <https://gaussiancube.github.io/>
+> 36. **Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing**: <https://pei-xu.github.io/guitar>
+> 37. **SPARK**: <https://kelianb.github.io/SPARK/>
+> 38. **LVCD**: <https://luckyhzt.github.io/lvcd>
+> 39. **PortraitGen**: <https://ustc3dv.github.io/PortraitGen/>
 
 # Robotics
 
@@ -116,6 +123,7 @@ featured: false
 > 3. **RoboDuet**: <https://locomanip-duet.github.io/>
 > 4. **The snake that saves lives**: <https://ethz.ch/en/news-and-events/eth-news/news/2024/11/the-snake-that-saves-lives.html>
 > 5. **XGO-Rider**: <https://www.kickstarter.com/projects/xgorobot/xgo-rider-desktop-two-wheel-legged-robot-with-ai>
+> 6. **7X**: <https://7xr.tech/>
 
 ## (2) Software
 
@@ -178,6 +186,15 @@ featured: false
 > 51. **RDT-1B**: <https://rdt-robotics.github.io/rdt-robotics/>
 > 52. **Agile Continuous Jumping in Discontinuous Terrains**: <https://yxyang.github.io/jumping_cod/>
 > 53. **Humanoid Manipulation**: <https://humanoid-manipulation.github.io/>
+> 54. **Diff-Control**: <https://diff-control.github.io/>
+> 55. **Catch It**: <https://mobile-dex-catch.github.io/>
+> 56. **Robot See Robot Do**: <https://robot-see-robot-do.github.io/>
+> 57. **Gen2Act**: <https://homangab.github.io/gen2act/>
+> 58. **Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing**: <https://lecar-lab.github.io/dial-mpc/>
+> 59. **ReMEmbR**: <https://nvidia-ai-iot.github.io/remembr/>
+> 60. **ReMEmbR**: <https://developer.nvidia.com/blog/using-generative-ai-to-enable-robots-to-reason-and-act-with-remembr/>
+> 61. **MaskedMimic**: <https://research.nvidia.com/labs/par/maskedmimic/>
+> 62. **Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation**: <https://human2humanoid.com/>
 
 ## (2) Autonomous Driving
 
@@ -208,6 +225,8 @@ featured: false
 > 13. **MonST3R**: <https://monst3r-project.github.io/>
 > 14. **EVER**: <https://half-potato.gitlab.io/posts/ever/>
 > 15. **CoTracker**: <https://co-tracker.github.io/>
+> 16. **WiLoR**: <https://rolpotamias.github.io/WiLoR/>
+> 17. **MIMO**: <https://menyifang.github.io/projects/MIMO/index.html>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
