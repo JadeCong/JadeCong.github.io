@@ -59,6 +59,13 @@ featured: false
 > 9. **nemotron-4-340b-instruct**: <https://build.nvidia.com/nvidia/nemotron-4-340b-instruct>
 > 10. **EgoLM**: <https://hongfz16.github.io/projects/EgoLM>
 > 11. **Small Language Models (SLM)**: <https://www.jetson-ai-lab.com/tutorial_slm.html>
+> 12. **MiniMind**: <https://jingyaogong.github.io/minimind/>
+> 13. **ell**: <https://docs.ell.so/#>
+> 14. **CogVLM2-Video**: <https://cogvlm2-video.github.io/>
+> 15. **InternVL**: <https://internvl.github.io/>
+> 16. **Chroma**: <https://generatebiomedicines.com/chroma>
+> 17. **GameNGen**: <https://gamengen.github.io/>
+> 18. **Husky**: <https://agent-husky.github.io/>
 
 ## (2) Agents
 
@@ -71,6 +78,18 @@ featured: false
 > 7. **Skyvern**: <https://www.skyvern.com/>
 > 8. **Ichigo**: <https://github.com/homebrewltd/ichigo>
 > 9. **AI for Grant Writing**: <https://www.lizseckel.com/ai-for-grant-writing/>
+> 10. **Large Language Model Agents**: <https://llmagents-learning.org/f24>
+> 11. **OpenAGI**: <https://openagi.aiplanet.com/>
+> 12. **HyperWrite**: <https://www.hyperwriteai.com/>
+> 13. **FastGPT**: <https://tryfastgpt.ai/>
+> 14. **ADAS**: <https://www.shengranhu.com/ADAS/>
+> 15. **AI Town**: <https://www.convex.dev/ai-town>
+> 16. **Comflowy**: <https://www.comflowy.com/>
+> 17. **Altera**: <https://altera.al/>
+> 18. **Firecrawl**: <https://www.firecrawl.dev/>
+> 19. **Artificial LIfe ENvironment (ALIEN)**: <https://www.alien-project.org/index.html>
+> 20. **AutoGen Studio 2.0**: <https://autogen-studio.com/>
+> 21. **SuperCraft**: <https://supercraft.ai/>
 
 ## (3) AIGC
 
@@ -113,6 +132,30 @@ featured: false
 > 37. **SPARK**: <https://kelianb.github.io/SPARK/>
 > 38. **LVCD**: <https://luckyhzt.github.io/lvcd>
 > 39. **PortraitGen**: <https://ustc3dv.github.io/PortraitGen/>
+> 40. **NeRF**: <https://www.matthewtancik.com/nerf>
+> 41. **HIT**: <https://hit.is.tue.mpg.de/#video>
+> 42. **3DTopia-XL**: <https://3dtopia.github.io/3DTopia-XL/>
+> 43. **DrawingSpinUp**: <https://lordliang.github.io/DrawingSpinUp/>
+> 44. **Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos**: <https://nowheretrix.github.io/DualGS/>
+> 45. **PoseTalk**: <https://junleen.github.io/projects/posetalk/>
+> 46. **GVHMR**: <https://zju3dv.github.io/gvhmr/>
+> 47. **PersonaTalk**: <https://grisoon.github.io/PersonaTalk/>
+> 48. **EscherNet**: <https://kxhit.github.io/EscherNet>
+> 49. **Gaussian Garments**: <https://ribosome-rbx.github.io/Gaussian-Garments/>
+> 50. **CyberHost**: <https://cyberhost.github.io/>
+> 51. **Draw an Audio**: <https://yannqi.github.io/Draw-an-Audio/>
+> 52. **3DGRT**: <https://gaussiantracer.github.io/>
+> 53. **ViewCrafter**: <https://drexubery.github.io/ViewCrafter/>
+> 54. **ReconX**: <https://liuff19.github.io/ReconX/>
+> 55. **FaceSwap**: <https://faceswap.so/>
+> 56. **Civitai**: <https://civitai.com/>
+> 57. **Loopy**: <https://loopyavatar.github.io/>
+> 58. **PhotoMaker**: <https://huggingface.co/spaces/TencentARC/PhotoMaker>
+> 59. **InterTrack**: <https://virtualhumans.mpi-inf.mpg.de/InterTrack/>
+> 60. **Build-A-Scene**: <https://abdo-eldesokey.github.io/build-a-scene/>
+> 61. **MagicMan**: <https://thuhcsi.github.io/MagicMan/>
+> 62. **LayerPano3D**: <https://ys-imtech.github.io/projects/LayerPano3D/>
+> 63. **DreamCinema**: <https://liuff19.github.io/DreamCinema/>
 
 # Robotics
 
@@ -128,6 +171,8 @@ featured: false
 ## (2) Software
 
 > 1. **ROS2**: <https://docs.ros.org/en/jazzy/index.html>
+> 2. **SAFER-Splat**: <https://chengine.github.io/safer-splat/>
+> 3. **Neural MP**: <https://mihdalal.github.io/neuralmotionplanner/>
 
 # AIRobotics
 
@@ -195,6 +240,21 @@ featured: false
 > 60. **ReMEmbR**: <https://developer.nvidia.com/blog/using-generative-ai-to-enable-robots-to-reason-and-act-with-remembr/>
 > 61. **MaskedMimic**: <https://research.nvidia.com/labs/par/maskedmimic/>
 > 62. **Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation**: <https://human2humanoid.com/>
+> 63. **Theia**: <https://theia.theaiinstitute.com/>
+> 64. **Robot Motion Diffusion Model: Motion Generation for Robotic Characters**: <https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/>
+> 65. **Identifying Terrain Physical Parameters from Vision**: <https://leggedrobotics.github.io/identifying_terrain_physical_parameters_webpage/>
+> 66. **One-shot Video Imitation via Parameterized Symbolic Abstraction Graphs**: <https://www.jianrenw.com/PSAG/>
+> 67. **RGBManip**: <https://rgbmanip.github.io/>
+> 68. **ALOHA Unleashed**: <https://aloha-unleashed.github.io/>
+> 69. **PianoMime**: <https://pianomime.github.io/>
+> 70. **Robot Utility Models**: <https://robotutilitymodels.com/#>
+> 71. **Polaris**: <https://star-uu-wang.github.io/Polaris/>
+> 72. **RoboStudio**: <https://robostudioapp.com/>
+> 73. **ICRT**: <https://icrt.dev/>
+> 74. **SkillMimic**: <https://ingrid789.github.io/SkillMimic/>
+> 75. **VoicePilot**: <https://sites.google.com/andrew.cmu.edu/voicepilot/>
+> 76. **ReKep**: <https://rekep-robot.github.io/>
+> 77. **DeformGS**: <https://deformgs.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -227,6 +287,16 @@ featured: false
 > 15. **CoTracker**: <https://co-tracker.github.io/>
 > 16. **WiLoR**: <https://rolpotamias.github.io/WiLoR/>
 > 17. **MIMO**: <https://menyifang.github.io/projects/MIMO/index.html>
+> 18. **M2Mapping**: <https://jianhengliu.github.io/Projects/M2Mapping/>
+> 19. **3D Gaussian Splatting for Real-Time Radiance Field Rendering**: <https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/>
+> 20. **StableNormal**: <https://stable-x.github.io/StableNormal/>
+> 21. **EmbodiedSAM**: <https://xuxw98.github.io/ESAM/>
+> 22. **Large Étendue 3D Holographic Display with Content-adpative Dynamic Fourier Modulation**: <https://bchao1.github.io/holo_dfm/>
+> 23. **Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos**: <https://geometry.stanford.edu/projects/dynamic-gaussian-marbles.github.io/>
+> 24. **EgoHDM**: <https://handiyin.github.io/EgoHDM/>
+> 25. **DepthCrafter**: <https://depthcrafter.github.io/>
+> 26. **Spann3R**: <https://hengyiwang.github.io/projects/spanner>
+> 27. **OpenIns3D**: <https://zheninghuang.github.io/OpenIns3D/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
