@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-18
+last_modified_at: 2024-11-19
 
 hide_description: true
 hide_image: false
@@ -66,6 +66,32 @@ featured: false
 > 16. **Chroma**: <https://generatebiomedicines.com/chroma>
 > 17. **GameNGen**: <https://gamengen.github.io/>
 > 18. **Husky**: <https://agent-husky.github.io/>
+> 19. **Sapiens**: <https://about.meta.com/realitylabs/codecavatars/sapiens>
+> 20. **MeshFormer**: <https://meshformer3d.github.io/>
+> 21. **Genie**: <https://sites.google.com/view/genie-2024/home>
+> 22. **Llama Tour**: <https://llamatutor.together.ai/>
+> 23. **CogVideo**: <https://cogvideo.pka.moe/>
+> 24. **Awesome ChatGPT Prompts**: <https://prompts.chat/>
+> 25. **Opening up ChatGPT**: <https://opening-up-chatgpt.github.io/>
+> 26. **AI Home Tab**: <https://aihometab.com/>
+> 27. **Groq**: <https://groq.com/>
+> 28. **NextChat**: <https://nextchat.dev/>
+> 29. **MaxKB**: <https://maxkb.cn/>
+> 30. **OpenDatalab**: <https://opendatalab.com/OpenSourceTools>
+> 31. **Segment Anything Model 2 (SAM 2)**: <https://ai.meta.com/sam2/>
+> 32. **LLaMA-Factory**: <https://qwen.readthedocs.io/en/latest/training/SFT/llama_factory.html>
+> 33. **FunAudioLLM**: <https://funaudiollm.github.io/>
+> 34. **KLING**: <https://kling.kuaishou.com/>
+> 35. **AlphaGeometry**: <https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/>
+> 36. **Prompt Engineering Guide**: <https://www.promptingguide.ai/>
+> 37. **AskManyAI**: <https://askmanyai.cn/login>
+> 38. **Meet PathChat 2**: <https://www.modella.ai/intro.html>
+> 39. **PaintsUndo**: <https://lllyasviel.github.io/pages/paints_undo/>
+> 40. **Artificial Analysis**: <https://artificialanalysis.ai/>
+> 41. **Transformer Explainer**: <https://poloclub.github.io/transformer-explainer/>
+> 42. **Moshi**: <https://moshi.chat/?queue_id=talktomoshi>
+> 43. **AI Graveyard**: <https://dang.ai/ai-graveyard>
+> 44. **GraphRAG**: <https://microsoft.github.io/graphrag/>
 
 ## (2) Agents
 
@@ -90,6 +116,25 @@ featured: false
 > 19. **Artificial LIfe ENvironment (ALIEN)**: <https://www.alien-project.org/index.html>
 > 20. **AutoGen Studio 2.0**: <https://autogen-studio.com/>
 > 21. **SuperCraft**: <https://supercraft.ai/>
+> 22. **Pipecat**: <https://www.pipecat.ai/>
+> 23. **Neo4j**: <https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/>
+> 24. **Lumina**: <https://www.lumina.sh/c5bbe32b-4fb7-476a-81aa-fe269f67f283?ref=www.lumina-chat.com>
+> 25. **RAGFlow**: <https://ragflow.io/>
+> 26. **OmniParse**: <https://docs.cognitivelab.in/>
+> 27. **Supermemory**: <https://supermemory.ai/>
+> 28. **MindSearch**: <https://mindsearch.netlify.app/>
+> 29. **ChatDev**: <https://chatdev.toscl.com/>
+> 30. **LlamaCoder**: <https://llamacoder.together.ai/>
+> 31. **GPTs Works**: <https://gpts.works/>
+> 32. **V2A-Mapper**: <https://v2a-mapper.github.io/>
+> 33. **MultiOn**: <https://www.multion.ai/>
+> 34. **ThinkAny**: <https://thinkany.ai/zh>
+> 35. **Mem0**: <https://docs.mem0.ai/overview>
+> 36. **Cradle**: <https://baai-agents.github.io/Cradle/>
+> 37. **Devv**: <https://devv.ai/zh>
+> 38. **Co-STORM**: <https://storm.genie.stanford.edu/>
+> 39. **Bubble**: <https://bubble.io/>
+> 40. **Humanize AI text**: <https://www.humanizeai.pro/>
 
 ## (3) AIGC
 
@@ -156,6 +201,54 @@ featured: false
 > 61. **MagicMan**: <https://thuhcsi.github.io/MagicMan/>
 > 62. **LayerPano3D**: <https://ys-imtech.github.io/projects/LayerPano3D/>
 > 63. **DreamCinema**: <https://liuff19.github.io/DreamCinema/>
+> 64. **TurboEdit**: <https://betterze.github.io/TurboEdit/>
+> 65. **Scaling Up Dynamic Human-Scene Interaction Modeling**: <https://jnnan.github.io/trumans/>
+> 66. **DiPIR**: <https://research.nvidia.com/labs/toronto-ai/DiPIR/>
+> 67. **TurboEdit**: <https://turboedit-paper.github.io/>
+> 68. **DEGAS**: <https://initialneil.github.io/DEGAS>
+> 69. **Audio Match Cutting**: <https://denfed.github.io/audiomatchcut/>
+> 70. **Subsurface Scattering for Gaussian Splatting**: <https://sss.jdihlmann.com/>
+> 71. **Tavus**: <https://www.tavus.io/>
+> 72. **Media2Face**: <https://sites.google.com/view/media2face>
+> 73. **FruitNeRF**: <https://meyerls.github.io/fruit_nerf/>
+> 74. **Puppet-Master**: <https://vgg-puppetmaster.github.io/>
+> 75. **ernerf**: <https://zhuanlan.zhihu.com/p/675131165>
+> 76. **An Object is Worth 64x64 Pixels**: <https://omages.github.io/>
+> 77. **VideoDoodles**: <https://em-yu.github.io/research/videodoodles/>
+> 78. **ReSyncer**: <https://guanjz20.github.io/projects/ReSyncer/>
+> 79. **KEEP**: <https://jnjaby.github.io/projects/KEEP/>
+> 80. **MoMask**: <https://ericguo5513.github.io/momask/>
+> 81. **Tora**: <https://ali-videoai.github.io/tora_video/>
+> 82. **EmoTalk3D**: <https://nju-3dv.github.io/projects/EmoTalk3D/>
+> 83. **Cycle3D**: <https://pku-yuangroup.github.io/Cycle3D/>
+> 84. **Swapface**: <https://www.swapface.org/#/home>
+> 85. **ExAvatar**: <https://mks0601.github.io/ExAvatar/>
+> 86. **MotionClone**: <https://bujiazi.github.io/motionclone.github.io/>
+> 87. **Outfit Anyone**: <https://humanaigc.github.io/outfit-anyone/>
+> 88. **Vidu**: <https://www.vidu.studio/zh>
+> 89. **Temporal Residual Jacobians for Rig-free Motion Transfer**: <https://temporaljacobians.github.io/>
+> 90. **Cinemo**: <https://maxin-cn.github.io/cinemo_project/>
+> 91. **HumanVid**: <https://humanvid.github.io/>
+> 92. **Diffree**: <https://opengvlab.github.io/Diffree/>
+> 93. **SMooDi**: <https://neu-vi.github.io/SMooDi/>
+> 94. **Lite2Relight**: <https://vcai.mpi-inf.mpg.de/projects/Lite2Relight/>
+> 95. ***Noise Calibration**: <https://yangqy1110.github.io/NC-SDEdit/>
+> 96. **Diff-Foley**: <https://diff-foley.github.io/>
+> 97. **Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity**: <https://maskvat.github.io/>
+> 98. **vozo**: <https://www.vozo.ai/>
+> 99. **MoA**: <https://snap-research.github.io/mixture-of-attention/>
+> 100. **Magic Insert**: <https://magicinsert.github.io/>
+> 101. **CharacterGen**: <https://charactergen.github.io/>
+> 102. **Live2Diff**: <https://live2diff.github.io/>
+> 103. **RodinHD**: <https://rodinhd.github.io/>
+> 104. **StickerBaker**: <https://stickerbaker.com/>
+> 105. **Still-Moving**: <https://still-moving.github.io/>
+> 106. **Tripo3D**: <https://www.tripo3d.ai/>
+> 107. **Hedra**: <https://www.hedra.com/>
+> 108. **RenderNet**: <https://rendernet.ai/index.html>
+> 109. **LivePortrait**: <https://liveportrait.github.io/>
+> 110. **Image Conductor**: <https://liyaowei-stu.github.io/project/ImageConductor/>
+> 111. **MOTIA**: <https://be-your-outpainter.github.io/>
 
 # Robotics
 
@@ -167,12 +260,22 @@ featured: false
 > 4. **The snake that saves lives**: <https://ethz.ch/en/news-and-events/eth-news/news/2024/11/the-snake-that-saves-lives.html>
 > 5. **XGO-Rider**: <https://www.kickstarter.com/projects/xgorobot/xgo-rider-desktop-two-wheel-legged-robot-with-ai>
 > 6. **7X**: <https://7xr.tech/>
+> 7. **Berkeley Humanoid**: <https://berkeley-humanoid.com/>
+> 8. **Torobo**: <https://robotics.tokyo/products/torobo/>
+> 9. **DexHand**: <https://www.dexhand.org/>
 
 ## (2) Software
 
 > 1. **ROS2**: <https://docs.ros.org/en/jazzy/index.html>
 > 2. **SAFER-Splat**: <https://chengine.github.io/safer-splat/>
 > 3. **Neural MP**: <https://mihdalal.github.io/neuralmotionplanner/>
+> 4. **AirSLAM**: <https://xukuanhit.github.io/airslam/>
+> 5. **SimTK**: <https://simtk.org/>
+> 6. **MyoSuite**: <https://sites.google.com/view/myosuite/myosuite>
+> 7. **Hyfydy**: <https://hyfydy.com/>
+> 8. **LVCP**: <https://sites.google.com/view/lvcp>
+> 9. **Hello**: <https://www.hello-algo.com/>
+> 10. **Skild AI**: <https://www.skild.ai/>
 
 # AIRobotics
 
@@ -255,6 +358,30 @@ featured: false
 > 75. **VoicePilot**: <https://sites.google.com/andrew.cmu.edu/voicepilot/>
 > 76. **ReKep**: <https://rekep-robot.github.io/>
 > 77. **DeformGS**: <https://deformgs.github.io/>
+> 78. **ATM**: <https://xingyu-lin.github.io/atm/>
+> 79. **Universal Manipulation Interface**: <https://umi-gripper.github.io/>
+> 80. **ACE**: <https://ace-teleop.github.io/>
+> 81. **Summarize the Past to Predict the Future**: <https://eth-ait.github.io/transfusion-proj/>
+> 82. **TacSL**: <https://iakinola23.github.io/tacsl/>
+> 83. **RoCo**: <https://project-roco.github.io/>
+> 84. **UniT**: <https://zhengtongxu.github.io/unifiedtactile.github.io/>
+> 85. **PhysHOI**: <https://wyhuai.github.io/physhoi-page/>
+> 86. **UMI on Legs**: <https://umi-on-legs.github.io/>
+> 87. **Lifelike Agility and Play in Quadrupedal Robots**: <https://tencent-roboticsx.github.io/lifelike-agility-and-play/>
+> 88. **RoboCasa**: <https://robocasa.ai/>
+> 89. **GET-Zero**: <https://get-zero-paper.github.io/>
+> 90. **DextrAH-G**: <https://sites.google.com/view/dextrah-g>
+> 91. **Surgical Robot Transformer**: <https://surgical-robot-transformer.github.io/>
+> 92. **Grasping Diverse Objects with Simulated Humanoids**: <https://www.zhengyiluo.com/Omnigrasp-Site/>
+> 93. **PoliFormer**: <https://poliformer.allen.ai/>
+> 94. **This&That**: <https://cfeng16.github.io/this-and-that/>
+> 95. **RoboCat**: <https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/>
+> 96. **RoboGen**: <https://robogen-ai.github.io/>
+> 97. **EquiBot**: <https://equi-bot.github.io/>
+> 98. **Policy Composition From and For Heterogeneous Robot Learning**: <https://liruiw.github.io/policycomp/>
+> 99. **GenSim**: <https://gen-sim.github.io/>
+> 100. **Bunny-VisionPro**: <https://dingry.github.io/projects/bunny_visionpro.html>
+> 101. **Open-TeleVision**: <https://robot-tv.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -297,6 +424,12 @@ featured: false
 > 25. **DepthCrafter**: <https://depthcrafter.github.io/>
 > 26. **Spann3R**: <https://hengyiwang.github.io/projects/spanner>
 > 27. **OpenIns3D**: <https://zheninghuang.github.io/OpenIns3D/>
+> 28. **Bilateral Reference for High-Resolution Dichotomous Image Segmentation**: <https://www.birefnet.top/>
+> 29. **ObjectCarver**: <https://objectcarver.github.io/>
+> 30. **Improving 2D Feature Representations by 3D-Aware Fine-Tuning**: <https://ywyue.github.io/FiT3D/>
+> 31. **Shape of Motion**: <https://shape-of-motion.github.io/>
+> 32. **DINO-Tracker**: <https://dino-tracker.github.io/>
+> 33. **DiffIR2VR-Zero**: <https://jimmycv07.github.io/DiffIR2VR_web/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
