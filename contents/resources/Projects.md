@@ -103,6 +103,10 @@ featured: false
 > 53. **LLM Visualization**: <https://bbycroft.net/llm>
 > 54. **MLX**: <https://ml-explore.github.io/mlx/build/html/index.html>
 > 55. **COSTAR Prompt Engineering**: <https://medium.com/@frugalzentennial/unlocking-the-power-of-costar-prompt-engineering-a-guide-and-example-on-converting-goals-into-dc5751ce9875>
+> 56. **Cohere**: <https://cohere.com/>
+> 57. **DeepSpeed**: <https://www.deepspeed.ai/>
+> 58. **AI Mind**: <https://www.aimind.so/>
+> 59. **flowith**: <https://flowith.io/conv/51c05bc8-92f3-4644-869d-35fd22dbfb71>
 
 ## (2) Agents
 
@@ -324,6 +328,25 @@ featured: false
 > 156. **Generative Camera Dolly**: <https://gcd.cs.columbia.edu/>
 > 157. **ReVideo**: <https://mc-e.github.io/project/ReVideo/>
 > 158. **Text-to-Vector Generation with Neural Path Representation**: <https://intchous.github.io/T2V-NPR/>
+> 159. **CAT3D**: <https://cat3d.github.io/>
+> 160. **StructLDM**: <https://taohuumd.github.io/projects/StructLDM/>
+> 161. **AniTalker**: <https://x-lance.github.io/AniTalker/>
+> 162. **Dual3D**: <https://dual3d.github.io/>
+> 163. **X-Oscar**: <https://xmu-xiaoma666.github.io/Projects/X-Oscar/>
+> 164. **HiDiffusion**: <https://hidiffusion.github.io/>
+> 165. **Tunnel Try-on**: <https://mengtingchen.github.io/tunnel-try-on-page/>
+> 166. **STAG4D**: <https://nju-3dv.github.io/projects/STAG4D/>
+> 167. **GS-LRM**: <https://sai-bi.github.io/project/gs-lrm/>
+> 168. **GScream**: <https://w-ted.github.io/publications/gscream/>
+> 169. **MotionMaster**: <https://sjtuplayer.github.io/projects/MotionMaster/>
+> 170. **PhysDreamer**: <https://physdreamer.github.io/>
+> 171. **SwapAnything**: <https://swap-anything.github.io/>
+> 172. **MagicPose**: <https://boese0601.github.io/magicdance/>
+> 173. **ZeST**: <https://ttchengab.github.io/zest/>
+> 174. **EMOPortraits**: <https://neeek2303.github.io/EMOPortraits/>
+> 175. **StoryDiffusion**: <https://storydiffusion.github.io/>
+> 176. **Automatic Controllable Colorization via Imagination**: <https://xy-cong.github.io/imagine-colorization/>
+> 177. **MaPa**: <https://zhanghe3z.github.io/MaPa/>
 
 # Robotics
 
@@ -465,6 +488,11 @@ featured: false
 > 105. **MS-Human-700**: <https://lnsgroup.cc/research/MS-Human-700>
 > 106. **HumanPlus**: <https://humanoid-ai.github.io/>
 > 107. **Octo**: <https://octo-models.github.io/>
+> 108. **HOI-M3**: <https://juzezhang.github.io/HOIM3_ProjectPage/>
+> 109. **DrEureka**: <https://eureka-research.github.io/dr-eureka/>
+> 110. **FLD**: <https://sites.google.com/view/iclr2024-fld/home>
+> 111. **SATO**: <https://sato-team.github.io/Stable-Text-to-Motion-Framework/>
+> 112. **ViPlanner**: <https://leggedrobotics.github.io/viplanner.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -517,6 +545,10 @@ featured: false
 > 35. **RaDe-GS**: <https://baowenz.github.io/radegs/>
 > 36. **Semantic Gaussians**: <https://sharinka0715.github.io/semantic-gaussians/>
 > 37. **FoundationPose**: <https://nvlabs.github.io/FoundationPose/>
+> 38. **InstantSplat**: <https://instantsplat.github.io/>
+> 39. **GS-Pose**: <https://dingdingcai.github.io/gs-pose/>
+> 40. **I'M HOI**: <https://afterjourney00.github.io/IM-HOI.github.io/>
+> 41. **MeshLRM**: <https://sarahweiii.github.io/meshlrm/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
