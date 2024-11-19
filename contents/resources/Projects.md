@@ -137,6 +137,13 @@ featured: false
 > 87. **Speaking AI**: <https://speaking.ai/>
 > 88. **GPT-4 Is Too Smart To Be Safe**: <https://llmcipherchat.github.io/>
 > 89. **Character AI**: <https://character.ai/>
+> 90. **Whisper**: <https://openai.com/index/whisper/>
+> 91. **Imagica AI**: <https://www.imagica.ai/>
+> 92. **LangGPT**: <https://community.openai.com/t/langgpt-empowering-everyone-to-become-a-prompt-expert/207880>
+> 93. **vLLM**: <https://docs.vllm.ai/en/latest/>
+> 94. **DeepAI**: <https://deepai.org/>
+> 95. **Midjourney**: <https://www.midjourney.com/home>
+> 96. **Beautiful AI**: <https://www.beautiful.ai/>
 
 ## (2) Agents
 
@@ -212,6 +219,7 @@ featured: false
 > 70. **An Embodied Generalist Agent in 3D World**: <https://embodied-generalist.github.io/>
 > 71. **Voyager**: <https://voyager.minedojo.org/>
 > 72. **XAgent**: <https://xagent-doc.readthedocs.io/en/latest/>
+> 73. **SuperAGI**: <https://superagi.com/>
 
 ## (3) AIGC
 
@@ -411,6 +419,10 @@ featured: false
 > 194. **3D-GPT**: <https://chuny1.github.io/3DGPT/3dgpt.html>
 > 195. **SynthID**: <https://deepmind.google/technologies/synthid/>
 > 196. **Palette**: <https://palette.fm/>
+> 197. **Upscayl**: <https://upscayl.org/>
+> 198. **CLIP-NeRF**: <https://cassiepython.github.io/clipnerf/>
+> 199. **Scaling up GANs for Text-to-Image Synthesis**: <https://mingukkang.github.io/GigaGAN/>
+> 200. **CoDeF**: <https://qiuyu96.github.io/CoDeF/>
 
 # Robotics
 
@@ -427,6 +439,8 @@ featured: false
 > 9. **DexHand**: <https://www.dexhand.org/>
 > 10. **NAVER LABS**: <https://www.naverlabs.com/>
 > 11. **Surena Humanoid Robot**: <https://surenahumanoid.com/>
+> 12. **NEO Home Humanoid**: <https://www.1x.tech/>
+> 13. **Digit - Dexterous Manipulation and Touch Perception**: <https://digit.ml/>
 
 ## (2) Software
 
@@ -443,6 +457,7 @@ featured: false
 > 11. **NVIDIA Project GR00T**: <https://developer.nvidia.com/project-gr00t>
 > 12. **OpenWorm**: <https://openworm.org/>
 > 13. **NVIDIA Isaac ROS**: <https://nvidia-isaac-ros.github.io/>
+> 14. **VehicleSim**: <https://www.carsim.com/>
 
 # AIRobotics
 
@@ -574,6 +589,18 @@ featured: false
 > 124. **From Text to Motion**: <https://tnoinkwms.github.io/ALTER-LLM/>
 > 125. **MimicGen**: <https://mimicgen.github.io/>
 > 126. **NOIR**: <https://noir-corl.github.io/>
+> 127. **BC-Z**: <https://sites.google.com/view/bc-z/home>
+> 128. **Open-World Object Manipulation using Pre-Trained Vision-Language Models**: <https://robot-moo.github.io/>
+> 129. **Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**: <https://instructionaugmentation.github.io/>
+> 130. **VIMA**: <https://vimalabs.github.io/>
+> 131. **CLIPort**: <https://cliport.github.io/>
+> 132. **EmbodiedGPT**: <https://embodiedgpt.github.io/>
+> 133. **ASE**: <https://xbpeng.github.io/projects/ASE/index.html>
+> 134. **RoboAgent**: <https://robopen.github.io/>
+> 135. **RT-2**: <https://robotics-transformer2.github.io/>
+> 136. **Do As I Can, Not As I Say**: <https://say-can.github.io/>
+> 137. **Perceiver-Actor**: <https://peract.github.io/>
+> 138. **VoxPoser**: <https://voxposer.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -636,6 +663,7 @@ featured: false
 > 45. **SpatialTracker**: <https://henry123-boy.github.io/SpaTracker/>
 > 46. **Key2Mesh**: <https://key2mesh.github.io/>
 > 47. **Ultralytics YOLO11**: <https://docs.ultralytics.com/>
+> 48. **Neuralangelo**: <https://research.nvidia.com/labs/dir/neuralangelo/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
