@@ -92,6 +92,9 @@ featured: false
 > 42. **Moshi**: <https://moshi.chat/?queue_id=talktomoshi>
 > 43. **AI Graveyard**: <https://dang.ai/ai-graveyard>
 > 44. **GraphRAG**: <https://microsoft.github.io/graphrag/>
+> 45. **Luma Dream Machine**: <https://lumalabs.ai/dream-machine>
+> 46. **Open-Sora**: <https://hpcaitech.github.io/Open-Sora/>
+> 47. **Cambrian-1**: <https://cambrian-mllm.github.io/>
 
 ## (2) Agents
 
@@ -135,6 +138,14 @@ featured: false
 > 38. **Co-STORM**: <https://storm.genie.stanford.edu/>
 > 39. **Bubble**: <https://bubble.io/>
 > 40. **Humanize AI text**: <https://www.humanizeai.pro/>
+> 41. **Aider**: <https://aider.chat/>
+> 42. **Agently AI**: <https://agently.tech/>
+> 43. **DeepSeek Coder**: <https://deepseekcoder.github.io/>
+> 44. **AgentScope**: <https://doc.agentscope.io/en/index.html>
+> 45. **CrewAI**: <https://docs.crewai.com/introduction>
+> 46. **Humaan AI**: <https://humaan.ai/>
+> 47. **FlowiseAI**: <https://flowiseai.com/>
+> 48. **Chainlit**: <https://docs.chainlit.io/get-started/overview>
 
 ## (3) AIGC
 
@@ -249,6 +260,23 @@ featured: false
 > 109. **LivePortrait**: <https://liveportrait.github.io/>
 > 110. **Image Conductor**: <https://liyaowei-stu.github.io/project/ImageConductor/>
 > 111. **MOTIA**: <https://be-your-outpainter.github.io/>
+> 112. **Meta 3D AssetGen**: <https://assetgen.github.io/>
+> 113. **Portrait3D**: <https://jinkun-hao.github.io/Portrait3D/>
+> 114. **GaussianDreamerPro**: <https://taoranyi.com/gaussiandreamerpro/>
+> 115. **MimicMotion**: <https://tencent.github.io/MimicMotion/>
+> 116. **Text-Animator**: <https://laulampaul.github.io/text-animator.html>
+> 117. **YouDream**: <https://youdream3d.github.io/>
+> 118. **FoleyCrafter**: <https://foleycrafter.github.io/>
+> 119. **Wonder Studio**: <https://wonderdynamics.com/>
+> 120. **TripoSR**: <https://stability.ai/news/triposr-3d-generation>
+> 121. **MeshAnything**: <https://buaacyw.github.io/mesh-anything/>
+> 122. **EvTexture**: <https://dachunkai.github.io/evtexture.github.io/>
+> 123. **ScoreHypo**: <https://xy02-05.github.io/ScoreHypo/>
+> 124. **AniFusion**: <https://anifusion.ai/>
+> 125. **Style-NeRF2NeRF**: <https://haruolabs.github.io/style-n2n/>
+> 126. **4K4DGen**: <https://4k4dgen.github.io/>
+> 127. **ExVideo**: <https://ecnu-cilab.github.io/ExVideoProjectPage/>
+> 128. **Diffutoon**: <https://ecnu-cilab.github.io/DiffutoonProjectPage/>
 
 # Robotics
 
@@ -276,6 +304,7 @@ featured: false
 > 8. **LVCP**: <https://sites.google.com/view/lvcp>
 > 9. **Hello**: <https://www.hello-algo.com/>
 > 10. **Skild AI**: <https://www.skild.ai/>
+> 11. **NVIDIA Project GR00T**: <https://developer.nvidia.com/project-gr00t>
 
 # AIRobotics
 
@@ -382,6 +411,7 @@ featured: false
 > 99. **GenSim**: <https://gen-sim.github.io/>
 > 100. **Bunny-VisionPro**: <https://dingry.github.io/projects/bunny_visionpro.html>
 > 101. **Open-TeleVision**: <https://robot-tv.github.io/>
+> 102. **DexGraspNet**: <https://pku-epic.github.io/DexGraspNet/>
 
 ## (2) Autonomous Driving
 
@@ -430,6 +460,7 @@ featured: false
 > 31. **Shape of Motion**: <https://shape-of-motion.github.io/>
 > 32. **DINO-Tracker**: <https://dino-tracker.github.io/>
 > 33. **DiffIR2VR-Zero**: <https://jimmycv07.github.io/DiffIR2VR_web/>
+> 34. **Vidu4D**: <https://vidu4d-dgs.github.io/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
