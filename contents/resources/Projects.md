@@ -107,6 +107,14 @@ featured: false
 > 57. **DeepSpeed**: <https://www.deepspeed.ai/>
 > 58. **AI Mind**: <https://www.aimind.so/>
 > 59. **flowith**: <https://flowith.io/conv/51c05bc8-92f3-4644-869d-35fd22dbfb71>
+> 60. **LeanDojo**: <https://leandojo.org/>
+> 61. **GPT4All**: <https://www.nomic.ai/gpt4all>
+> 62. **MiniGPT4-Video**: <https://vision-cair.github.io/MiniGPT4-video/>
+> 63. **Mira**: <https://mira-space.github.io/>
+> 64. **ModelScope**: <https://www.modelscope.cn/home>
+> 65. **Osmo**: <https://www.osmo.ai/>
+> 66. **Hume**: <https://www.hume.ai/>
+> 67. **Reka**: <https://www.reka.ai/>
 
 ## (2) Agents
 
@@ -167,6 +175,11 @@ featured: false
 > 55. **QAnything**: <https://qanything.ai/>
 > 56. **Synthflow AI Voice Assistants**: <https://synthflow.ai/>
 > 57. **Tavily**: <https://tavily.com/>
+> 58. **Dify**: <https://dify.ai/>
+> 59. **LangChain**: <https://www.langchain.com/>
+> 60. **LlamaIndex**: <https://www.llamaindex.ai/>
+> 61. **SWE-agent**: <https://swe-agent.com/>
+> 62. **MemGPT**: <https://memgpt.ai/>
 
 ## (3) AIGC
 
@@ -347,6 +360,19 @@ featured: false
 > 175. **StoryDiffusion**: <https://storydiffusion.github.io/>
 > 176. **Automatic Controllable Colorization via Imagination**: <https://xy-cong.github.io/imagine-colorization/>
 > 177. **MaPa**: <https://zhanghe3z.github.io/MaPa/>
+> 178. **EMO**: <https://humanaigc.github.io/emote-portrait-alive/>
+> 179. **StreamingT2V**: <https://streamingt2v.github.io/>
+> 180. **IDM-VTON**: <https://idm-vton.github.io/>
+> 181. **IntrinsicAnything**: <https://zju3dv.github.io/IntrinsicAnything/>
+> 182. **Interactive3D**: <https://interactive-3d.github.io/>
+> 183. **in2IN**: <https://pabloruizponce.github.io/in2IN/>
+> 184. **synthesia**: <https://www.synthesia.io/>
+> 185. **DreamWalk**: <https://mshu1.github.io/dreamwalk.github.io/>
+> 186. **MagicTime**: <https://pku-yuangroup.github.io/MagicTime/>
+> 187. **Gaussian Head Avatar**: <https://yuelangx.github.io/gaussianheadavatar/>
+> 188. **Champ**: <https://fudan-generative-vision.github.io/champ/#/>
+> 189. **ObjectDrop**: <https://objectdrop.github.io/>
+> 190. **HeyGen**: <https://www.heygen.com/>
 
 # Robotics
 
@@ -361,6 +387,7 @@ featured: false
 > 7. **Berkeley Humanoid**: <https://berkeley-humanoid.com/>
 > 8. **Torobo**: <https://robotics.tokyo/products/torobo/>
 > 9. **DexHand**: <https://www.dexhand.org/>
+> 10. **NAVER LABS**: <https://www.naverlabs.com/>
 
 ## (2) Software
 
@@ -493,6 +520,7 @@ featured: false
 > 110. **FLD**: <https://sites.google.com/view/iclr2024-fld/home>
 > 111. **SATO**: <https://sato-team.github.io/Stable-Text-to-Motion-Framework/>
 > 112. **ViPlanner**: <https://leggedrobotics.github.io/viplanner.github.io/>
+> 113. **HumanoidBench**: <https://humanoid-bench.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -549,6 +577,11 @@ featured: false
 > 39. **GS-Pose**: <https://dingdingcai.github.io/gs-pose/>
 > 40. **I'M HOI**: <https://afterjourney00.github.io/IM-HOI.github.io/>
 > 41. **MeshLRM**: <https://sarahweiii.github.io/meshlrm/>
+> 42. **LGM**: <https://me.kiui.moe/lgm/>
+> 43. **Efficient LoFTR**: <https://zju3dv.github.io/efficientloftr/>
+> 44. **VideoGigaGAN**: <https://videogigagan.github.io/>
+> 45. **SpatialTracker**: <https://henry123-boy.github.io/SpaTracker/>
+> 46. **Key2Mesh**: <https://key2mesh.github.io/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
