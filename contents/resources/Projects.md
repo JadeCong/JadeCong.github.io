@@ -115,6 +115,28 @@ featured: false
 > 65. **Osmo**: <https://www.osmo.ai/>
 > 66. **Hume**: <https://www.hume.ai/>
 > 67. **Reka**: <https://www.reka.ai/>
+> 68. **Suno**: <https://suno.com/>
+> 69. **Kimi**: <https://kimi.moonshot.cn/>
+> 70. **SeamlessM4T**: <https://ai.meta.com/blog/seamless-m4t/>
+> 71. **ElevenLabs**: <https://elevenlabs.io/>
+> 72. **ChatLaw**: <https://chatlaw.cloud/>
+> 73. **Gemma**: <https://ai.google.dev/gemma?hl=zh-cn>
+> 74. **Stable Diffusion Art**: <https://stable-diffusion-art.com/comfyui/>
+> 75. **OpenRouter**: <https://openrouter.ai/>
+> 76. **ChatRTX**: <https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/>
+> 77. **Runway AI**: <https://runwayml.com/>
+> 78. **Stable Video**: <https://www.stablevideo.com/welcome>
+> 79. **Stability AI**: <https://stability.ai/>
+> 80. **Multi-Agent Transformer**: <https://sites.google.com/view/multi-agent-transformer>
+> 81. **DreamerV3**: <https://danijar.com/project/dreamerv3/>
+> 82. **Imagen 2**: <https://deepmind.google/technologies/imagen-2/>
+> 83. **Gemini Models**: <https://deepmind.google/technologies/gemini/#introduction>
+> 84. **Anthropic AI**: <https://www.anthropic.com/>
+> 85. **Grok**: <https://x.ai/>
+> 86. **LLaVA**: <https://llava-vl.github.io/>
+> 87. **Speaking AI**: <https://speaking.ai/>
+> 88. **GPT-4 Is Too Smart To Be Safe**: <https://llmcipherchat.github.io/>
+> 89. **Character AI**: <https://character.ai/>
 
 ## (2) Agents
 
@@ -180,6 +202,16 @@ featured: false
 > 60. **LlamaIndex**: <https://www.llamaindex.ai/>
 > 61. **SWE-agent**: <https://swe-agent.com/>
 > 62. **MemGPT**: <https://memgpt.ai/>
+> 63. **SIMA**: <https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/>
+> 64. **Durable**: <https://durable.co/>
+> 65. **Cognition**: <https://www.cognition.ai/>
+> 66. **LTX Studio**: <https://ltx.studio/>
+> 67. **vellum**: <https://www.vellum.ai/>
+> 68. **DetectGPT**: <https://detectgpt.ai/index.html>
+> 69. **Dora AI**: <https://www.dora.run/ai>
+> 70. **An Embodied Generalist Agent in 3D World**: <https://embodied-generalist.github.io/>
+> 71. **Voyager**: <https://voyager.minedojo.org/>
+> 72. **XAgent**: <https://xagent-doc.readthedocs.io/en/latest/>
 
 ## (3) AIGC
 
@@ -373,6 +405,12 @@ featured: false
 > 188. **Champ**: <https://fudan-generative-vision.github.io/champ/#/>
 > 189. **ObjectDrop**: <https://objectdrop.github.io/>
 > 190. **HeyGen**: <https://www.heygen.com/>
+> 191. **DomoAI**: <https://domoai.app/>
+> 192. **Pebblely**: <https://pebblely.com/>
+> 193. **Photorealistic Video Generation with Diffusion Models**: <https://walt-video-diffusion.github.io/>
+> 194. **3D-GPT**: <https://chuny1.github.io/3DGPT/3dgpt.html>
+> 195. **SynthID**: <https://deepmind.google/technologies/synthid/>
+> 196. **Palette**: <https://palette.fm/>
 
 # Robotics
 
@@ -388,6 +426,7 @@ featured: false
 > 8. **Torobo**: <https://robotics.tokyo/products/torobo/>
 > 9. **DexHand**: <https://www.dexhand.org/>
 > 10. **NAVER LABS**: <https://www.naverlabs.com/>
+> 11. **Surena Humanoid Robot**: <https://surenahumanoid.com/>
 
 ## (2) Software
 
@@ -403,6 +442,7 @@ featured: false
 > 10. **Skild AI**: <https://www.skild.ai/>
 > 11. **NVIDIA Project GR00T**: <https://developer.nvidia.com/project-gr00t>
 > 12. **OpenWorm**: <https://openworm.org/>
+> 13. **NVIDIA Isaac ROS**: <https://nvidia-isaac-ros.github.io/>
 
 # AIRobotics
 
@@ -521,6 +561,19 @@ featured: false
 > 111. **SATO**: <https://sato-team.github.io/Stable-Text-to-Motion-Framework/>
 > 112. **ViPlanner**: <https://leggedrobotics.github.io/viplanner.github.io/>
 > 113. **HumanoidBench**: <https://humanoid-bench.github.io/>
+> 114. **DexCap**: <https://dex-cap.github.io/>
+> 115. **RT-Sketch**: <https://rt-sketch.github.io/>
+> 116. **SARA**: <https://sites.google.com/view/rtsara/?pli=1>
+> 117. **AutoRT**: <https://auto-rt.github.io/>
+> 118. **RT-Trajectory**: <https://rt-trajectory.github.io/>
+> 119. **iGibson**: <https://svl.stanford.edu/igibson/>
+> 120. **GOAT**: <https://theophilegervet.github.io/projects/goat/>
+> 121. **Dynamic Handover**: <https://binghao-huang.github.io/dynamic_handover/>
+> 122. **Eureka**: <https://eureka-research.github.io/>
+> 123. **Sequential Dexterity**: <https://sequential-dexterity.github.io/>
+> 124. **From Text to Motion**: <https://tnoinkwms.github.io/ALTER-LLM/>
+> 125. **MimicGen**: <https://mimicgen.github.io/>
+> 126. **NOIR**: <https://noir-corl.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -582,6 +635,7 @@ featured: false
 > 44. **VideoGigaGAN**: <https://videogigagan.github.io/>
 > 45. **SpatialTracker**: <https://henry123-boy.github.io/SpaTracker/>
 > 46. **Key2Mesh**: <https://key2mesh.github.io/>
+> 47. **Ultralytics YOLO11**: <https://docs.ultralytics.com/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
