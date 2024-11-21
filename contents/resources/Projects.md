@@ -431,6 +431,7 @@ featured: false
 > 200. **CoDeF**: <https://qiuyu96.github.io/CoDeF/>
 > 201. **MVideo**: <https://mvideo-v1.github.io/>
 > 202. **edify-3d**: <https://build.nvidia.com/shutterstock/edify-3d>
+> 203. **JoyVASA**: <https://jdh-algo.github.io/JoyVASA/>
 
 # Robotics
 
