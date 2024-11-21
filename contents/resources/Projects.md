@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-19
+last_modified_at: 2024-11-21
 
 hide_description: true
 hide_image: false
@@ -144,6 +144,7 @@ featured: false
 > 94. **DeepAI**: <https://deepai.org/>
 > 95. **Midjourney**: <https://www.midjourney.com/home>
 > 96. **Beautiful AI**: <https://www.beautiful.ai/>
+> 97. **Qwen2.5-Turbo**: <https://qwen2.org/qwen2-5-turbo/>
 
 ## (2) Agents
 
@@ -220,6 +221,11 @@ featured: false
 > 71. **Voyager**: <https://voyager.minedojo.org/>
 > 72. **XAgent**: <https://xagent-doc.readthedocs.io/en/latest/>
 > 73. **SuperAGI**: <https://superagi.com/>
+> 74. **ima.copilot**: <https://ima.qq.com/>
+> 75. **Supermaven**: <https://supermaven.com/>
+> 76. **Accio**: <https://www.accio.com/>
+> 77. **excalidraw**: <https://excalidraw.com/>
+> 78. **Tencent Yuanqi**: <https://yuanqi.tencent.com/agent-shop>
 
 ## (3) AIGC
 
@@ -423,6 +429,8 @@ featured: false
 > 198. **CLIP-NeRF**: <https://cassiepython.github.io/clipnerf/>
 > 199. **Scaling up GANs for Text-to-Image Synthesis**: <https://mingukkang.github.io/GigaGAN/>
 > 200. **CoDeF**: <https://qiuyu96.github.io/CoDeF/>
+> 201. **MVideo**: <https://mvideo-v1.github.io/>
+> 202. **edify-3d**: <https://build.nvidia.com/shutterstock/edify-3d>
 
 # Robotics
 
@@ -601,6 +609,9 @@ featured: false
 > 136. **Do As I Can, Not As I Say**: <https://say-can.github.io/>
 > 137. **Perceiver-Actor**: <https://peract.github.io/>
 > 138. **VoxPoser**: <https://voxposer.github.io/>
+> 139. **Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware**: <https://tonyzhaozh.github.io/aloha/>
+> 140. **Soft Robotic Dynamic In-Hand Pen Spinning**: <https://soft-spin.github.io/>
+> 141. **Bimanual Dexterity for Complex Tasks**: <https://bidex-teleop.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -664,6 +675,7 @@ featured: false
 > 46. **Key2Mesh**: <https://key2mesh.github.io/>
 > 47. **Ultralytics YOLO11**: <https://docs.ultralytics.com/>
 > 48. **Neuralangelo**: <https://research.nvidia.com/labs/dir/neuralangelo/>
+> 49. **SAMURAI**: <https://yangchris11.github.io/samurai/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
