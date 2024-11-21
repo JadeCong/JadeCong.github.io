@@ -432,6 +432,8 @@ featured: false
 > 201. **MVideo**: <https://mvideo-v1.github.io/>
 > 202. **edify-3d**: <https://build.nvidia.com/shutterstock/edify-3d>
 > 203. **JoyVASA**: <https://jdh-algo.github.io/JoyVASA/>
+> 204. **EchoMimicV1**: <https://antgroup.github.io/ai/echomimic/>
+> 205. **EchoMimicV2**: <https://antgroup.github.io/ai/echomimic_v2/>
 
 # Robotics
 
