@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-21
+last_modified_at: 2024-11-28
 
 hide_description: true
 hide_image: false
@@ -439,6 +439,7 @@ featured: false
 > 204. **EchoMimicV1**: <https://antgroup.github.io/ai/echomimic/>
 > 205. **EchoMimicV2**: <https://antgroup.github.io/ai/echomimic_v2/>
 > 206. **DiffusionGS**: <https://caiyuanhao1998.github.io/project/DiffusionGS/>
+> 207. **AnchorCrafter**: <https://cangcz.github.io/Anchor-Crafter/>
 
 # Robotics
 
