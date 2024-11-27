@@ -226,6 +226,10 @@ featured: false
 > 76. **Accio**: <https://www.accio.com/>
 > 77. **excalidraw**: <https://excalidraw.com/>
 > 78. **Tencent Yuanqi**: <https://yuanqi.tencent.com/agent-shop>
+> 79. **PicMenu**: <https://www.picmenu.co/>
+> 80. **AgentBench**: <https://llmbench.ai/agent>
+> 81. **SafetyBench**: <https://llmbench.ai/safety>
+> 82. **AlignBench**: <https://llmbench.ai/align>
 
 ## (3) AIGC
 
@@ -434,6 +438,7 @@ featured: false
 > 203. **JoyVASA**: <https://jdh-algo.github.io/JoyVASA/>
 > 204. **EchoMimicV1**: <https://antgroup.github.io/ai/echomimic/>
 > 205. **EchoMimicV2**: <https://antgroup.github.io/ai/echomimic_v2/>
+> 206. **DiffusionGS**: <https://caiyuanhao1998.github.io/project/DiffusionGS/>
 
 # Robotics
 
@@ -452,6 +457,7 @@ featured: false
 > 11. **Surena Humanoid Robot**: <https://surenahumanoid.com/>
 > 12. **NEO Home Humanoid**: <https://www.1x.tech/>
 > 13. **Digit - Dexterous Manipulation and Touch Perception**: <https://digit.ml/>
+> 14. **TidyBot**: <https://tidybot.cs.princeton.edu/>
 
 ## (2) Software
 
@@ -615,6 +621,8 @@ featured: false
 > 139. **Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware**: <https://tonyzhaozh.github.io/aloha/>
 > 140. **Soft Robotic Dynamic In-Hand Pen Spinning**: <https://soft-spin.github.io/>
 > 141. **Bimanual Dexterity for Complex Tasks**: <https://bidex-teleop.github.io/>
+> 142. **WildLMA**: <https://wildlma.github.io/>
+> 143. **Learning Purely Tactile In-Hand Manipulation**: <https://aidx-lab.org/manipulation/humanoids24>
 
 ## (2) Autonomous Driving
 
