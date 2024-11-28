@@ -145,6 +145,7 @@ featured: false
 > 95. **Midjourney**: <https://www.midjourney.com/home>
 > 96. **Beautiful AI**: <https://www.beautiful.ai/>
 > 97. **Qwen2.5-Turbo**: <https://qwen2.org/qwen2-5-turbo/>
+> 98. **DINO-X**: <https://deepdataspace.com/home>
 
 ## (2) Agents
 
@@ -230,6 +231,7 @@ featured: false
 > 80. **AgentBench**: <https://llmbench.ai/agent>
 > 81. **SafetyBench**: <https://llmbench.ai/safety>
 > 82. **AlignBench**: <https://llmbench.ai/align>
+> 83. **AutoGLM**: <https://xiao9905.github.io/AutoGLM/?utm_source=ai-bot.cn>
 
 ## (3) AIGC
 
@@ -688,6 +690,7 @@ featured: false
 > 47. **Ultralytics YOLO11**: <https://docs.ultralytics.com/>
 > 48. **Neuralangelo**: <https://research.nvidia.com/labs/dir/neuralangelo/>
 > 49. **SAMURAI**: <https://yangchris11.github.io/samurai/>
+> 50. **YOLO**: <https://docs.ultralytics.com/zh>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
