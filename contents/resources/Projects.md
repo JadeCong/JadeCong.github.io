@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-28
+last_modified_at: 2024-11-29
 
 hide_description: true
 hide_image: false
@@ -442,6 +442,9 @@ featured: false
 > 205. **EchoMimicV2**: <https://antgroup.github.io/ai/echomimic_v2/>
 > 206. **DiffusionGS**: <https://caiyuanhao1998.github.io/project/DiffusionGS/>
 > 207. **AnchorCrafter**: <https://cangcz.github.io/Anchor-Crafter/>
+> 208. **Generative Omnimatte**: <https://gen-omnimatte.github.io/>
+> 209. **MultiFoley**: <https://ificl.github.io/MultiFoley/>
+> 210. **ConsisID**: <https://pku-yuangroup.github.io/ConsisID/>
 
 # Robotics
 
@@ -626,6 +629,7 @@ featured: false
 > 141. **Bimanual Dexterity for Complex Tasks**: <https://bidex-teleop.github.io/>
 > 142. **WildLMA**: <https://wildlma.github.io/>
 > 143. **Learning Purely Tactile In-Hand Manipulation**: <https://aidx-lab.org/manipulation/humanoids24>
+> 144. **FoAR**: <https://tonyfang.net/FoAR/>
 
 ## (2) Autonomous Driving
 
