@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-29
+last_modified_at: 2024-12-04
 
 hide_description: true
 hide_image: false
@@ -146,6 +146,9 @@ featured: false
 > 96. **Beautiful AI**: <https://www.beautiful.ai/>
 > 97. **Qwen2.5-Turbo**: <https://qwen2.org/qwen2-5-turbo/>
 > 98. **DINO-X**: <https://deepdataspace.com/home>
+> 99. **ChatExcel**: <https://chatexcel.com/#/>
+> 100. **World Labs**: <https://www.worldlabs.ai/blog>
+> 101. **Prime Intellect**: <https://www.primeintellect.ai/>
 
 ## (2) Agents
 
@@ -232,6 +235,10 @@ featured: false
 > 81. **SafetyBench**: <https://llmbench.ai/safety>
 > 82. **AlignBench**: <https://llmbench.ai/align>
 > 83. **AutoGLM**: <https://xiao9905.github.io/AutoGLM/?utm_source=ai-bot.cn>
+> 84. **OmniParser**: <https://microsoft.github.io/OmniParser/>
+> 85. **ResearchFlow**: <https://rflow.ai/>
+> 86. **Semantic Scholar**: <https://www.semanticscholar.org/>
+> 87. **Ant Design X**: <https://x.ant.design/index-cn>
 
 ## (3) AIGC
 
@@ -445,6 +452,12 @@ featured: false
 > 208. **Generative Omnimatte**: <https://gen-omnimatte.github.io/>
 > 209. **MultiFoley**: <https://ificl.github.io/MultiFoley/>
 > 210. **ConsisID**: <https://pku-yuangroup.github.io/ConsisID/>
+> 211. **CAT4D**: <https://cat-4d.github.io/>
+> 212. **Sonic**: <https://jixiaozhong.github.io/Sonic/>
+> 213. **MyTimeMachine**: <https://mytimemachine.github.io/>
+> 214. **FLOAT**: <https://deepbrainai-research.github.io/float/>
+> 215. **SelfSplat**: <https://gynjn.github.io/selfsplat/>
+> 216. **I2VControl**: <https://wanquanf.github.io/I2VControl>
 
 # Robotics
 
@@ -630,6 +643,8 @@ featured: false
 > 142. **WildLMA**: <https://wildlma.github.io/>
 > 143. **Learning Purely Tactile In-Hand Manipulation**: <https://aidx-lab.org/manipulation/humanoids24>
 > 144. **FoAR**: <https://tonyfang.net/FoAR/>
+> 145. **3D Diffusion Policy**: <https://3d-diffusion-policy.github.io/>
+> 146. **Dex-Net**: <https://berkeleyautomation.github.io/dex-net/>
 
 ## (2) Autonomous Driving
 
@@ -695,6 +710,9 @@ featured: false
 > 48. **Neuralangelo**: <https://research.nvidia.com/labs/dir/neuralangelo/>
 > 49. **SAMURAI**: <https://yangchris11.github.io/samurai/>
 > 50. **YOLO**: <https://docs.ultralytics.com/zh>
+> 51. **Buffer Anytime**: <https://bufferanytime.github.io/index.html>
+> 52. **RollingDepth**: <https://rollingdepth.github.io/>
+> 53. **Efficient Track Anything**: <https://yformer.github.io/efficient-track-anything/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
