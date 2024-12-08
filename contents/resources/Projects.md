@@ -149,6 +149,8 @@ featured: false
 > 99. **ChatExcel**: <https://chatexcel.com/#/>
 > 100. **World Labs**: <https://www.worldlabs.ai/blog>
 > 101. **Prime Intellect**: <https://www.primeintellect.ai/>
+> 102. **DeepSeek**: <https://www.deepseek.com/>
+> 103. **HunyuanVideo**: <https://aivideo.hunyuan.tencent.com/>
 
 ## (2) Agents
 
@@ -239,6 +241,9 @@ featured: false
 > 85. **ResearchFlow**: <https://rflow.ai/>
 > 86. **Semantic Scholar**: <https://www.semanticscholar.org/>
 > 87. **Ant Design X**: <https://x.ant.design/index-cn>
+> 88. **HAKE**: <http://hake-mvig.cn/home/>
+> 89. **AIOS Foundation**: <https://aios.foundation/>
+> 90. **CosmOS**: <https://humane.com/cosmos>
 
 ## (3) AIGC
 
@@ -458,6 +463,9 @@ featured: false
 > 214. **FLOAT**: <https://deepbrainai-research.github.io/float/>
 > 215. **SelfSplat**: <https://gynjn.github.io/selfsplat/>
 > 216. **I2VControl**: <https://wanquanf.github.io/I2VControl>
+> 217. **One Shot, One Talk**: <https://ustc3dv.github.io/OneShotOneTalk/>
+> 218. **MEMO**: <https://memoavatar.github.io/>
+> 219. **MIDI**: <https://huanngzh.github.io/MIDI-Page/>
 
 # Robotics
 
@@ -494,6 +502,7 @@ featured: false
 > 12. **OpenWorm**: <https://openworm.org/>
 > 13. **NVIDIA Isaac ROS**: <https://nvidia-isaac-ros.github.io/>
 > 14. **VehicleSim**: <https://www.carsim.com/>
+> 15. **GraspNet**: <https://graspnet.net/>
 
 # AIRobotics
 
@@ -713,6 +722,9 @@ featured: false
 > 51. **Buffer Anytime**: <https://bufferanytime.github.io/index.html>
 > 52. **RollingDepth**: <https://rollingdepth.github.io/>
 > 53. **Efficient Track Anything**: <https://yformer.github.io/efficient-track-anything/>
+> 54. **MegaSaM**: <https://mega-sam.github.io/>
+> 55. **DualPM**: <https://dualpm.github.io/>
+> 56. **Align3R**: <https://igl-hkust.github.io/Align3R.github.io/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
