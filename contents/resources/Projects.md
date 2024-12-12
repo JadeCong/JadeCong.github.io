@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-12-04
+last_modified_at: 2024-12-12
 
 hide_description: true
 hide_image: false
@@ -151,6 +151,8 @@ featured: false
 > 101. **Prime Intellect**: <https://www.primeintellect.ai/>
 > 102. **DeepSeek**: <https://www.deepseek.com/>
 > 103. **HunyuanVideo**: <https://aivideo.hunyuan.tencent.com/>
+> 104. **Navigation World Models**: <https://www.amirbar.net/nwm/>
+> 105. **Polymathic**: <https://polymathic-ai.org/>
 
 ## (2) Agents
 
@@ -466,6 +468,10 @@ featured: false
 > 217. **One Shot, One Talk**: <https://ustc3dv.github.io/OneShotOneTalk/>
 > 218. **MEMO**: <https://memoavatar.github.io/>
 > 219. **MIDI**: <https://huanngzh.github.io/MIDI-Page/>
+> 220. **AnyDressing**: <https://crayon-shinchan.github.io/AnyDressing/>
+> 221. **StableAnimator**: <https://francis-rings.github.io/StableAnimator/>
+> 222. **MotionShop**: <https://motionshop-diffusion.github.io/>
+> 223. **You See it,You Got it**: <https://vision.baai.ac.cn/see3d>
 
 # Robotics
 
@@ -485,6 +491,8 @@ featured: false
 > 12. **NEO Home Humanoid**: <https://www.1x.tech/>
 > 13. **Digit - Dexterous Manipulation and Touch Perception**: <https://digit.ml/>
 > 14. **TidyBot**: <https://tidybot.cs.princeton.edu/>
+> 15. **EyeSight Hand**: <https://eyesighthand.github.io/>
+> 16. **Carpentopod:A walking table project**: <https://www.decarpentier.nl/carpentopod>
 
 ## (2) Software
 
@@ -654,6 +662,8 @@ featured: false
 > 144. **FoAR**: <https://tonyfang.net/FoAR/>
 > 145. **3D Diffusion Policy**: <https://3d-diffusion-policy.github.io/>
 > 146. **Dex-Net**: <https://berkeleyautomation.github.io/dex-net/>
+> 147. **See, Hear, Feel**: <https://ai.stanford.edu/~rhgao/see_hear_feel/>
+> 148. **DenseMatcher**: <https://tea-lab.github.io/DenseMatcher/>
 
 ## (2) Autonomous Driving
 
@@ -725,6 +735,7 @@ featured: false
 > 54. **MegaSaM**: <https://mega-sam.github.io/>
 > 55. **DualPM**: <https://dualpm.github.io/>
 > 56. **Align3R**: <https://igl-hkust.github.io/Align3R.github.io/>
+> 57. **SAMa**: <https://mfischer-ucl.github.io/sama/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
