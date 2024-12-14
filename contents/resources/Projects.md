@@ -153,6 +153,8 @@ featured: false
 > 103. **HunyuanVideo**: <https://aivideo.hunyuan.tencent.com/>
 > 104. **Navigation World Models**: <https://www.amirbar.net/nwm/>
 > 105. **Polymathic**: <https://polymathic-ai.org/>
+> 106. **Gemini 2.0**: <https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message>
+> 107. **AlphaFold Server**: <https://alphafoldserver.com/welcome>
 
 ## (2) Agents
 
@@ -472,6 +474,8 @@ featured: false
 > 221. **StableAnimator**: <https://francis-rings.github.io/StableAnimator/>
 > 222. **MotionShop**: <https://motionshop-diffusion.github.io/>
 > 223. **You See it,You Got it**: <https://vision.baai.ac.cn/see3d>
+> 224. **StyleMaster**: <https://zixuan-ye.github.io/stylemaster/>
+> 225. **DisPose**: <https://lihxxx.github.io/DisPose/>
 
 # Robotics
 
@@ -664,6 +668,8 @@ featured: false
 > 146. **Dex-Net**: <https://berkeleyautomation.github.io/dex-net/>
 > 147. **See, Hear, Feel**: <https://ai.stanford.edu/~rhgao/see_hear_feel/>
 > 148. **DenseMatcher**: <https://tea-lab.github.io/DenseMatcher/>
+> 149. **Mobile-TeleVision**: <https://mobile-tv.github.io/>
+> 150. **TidyBot++**: <https://tidybot2.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -736,6 +742,7 @@ featured: false
 > 55. **DualPM**: <https://dualpm.github.io/>
 > 56. **Align3R**: <https://igl-hkust.github.io/Align3R.github.io/>
 > 57. **SAMa**: <https://mfischer-ucl.github.io/sama/>
+> 58. **NLF:Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation**: <https://istvansarandi.com/nlf/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
