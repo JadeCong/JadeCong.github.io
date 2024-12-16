@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-12-12
+last_modified_at: 2024-12-16
 
 hide_description: true
 hide_image: false
@@ -248,6 +248,8 @@ featured: false
 > 88. **HAKE**: <http://hake-mvig.cn/home/>
 > 89. **AIOS Foundation**: <https://aios.foundation/>
 > 90. **CosmOS**: <https://humane.com/cosmos>
+> 91. **letta**: <https://www.letta.com/>
+> 92. **aisuite**: <https://github.com/andrewyng/aisuite>
 
 ## (3) AIGC
 
@@ -476,6 +478,8 @@ featured: false
 > 223. **You See it,You Got it**: <https://vision.baai.ac.cn/see3d>
 > 224. **StyleMaster**: <https://zixuan-ye.github.io/stylemaster/>
 > 225. **DisPose**: <https://lihxxx.github.io/DisPose/>
+> 226. **ClearerVoice-Studio**: <https://stable-learn.com/en/clearvoice-studio-tutorial/>
+> 227. **Video Seal**: <https://aidemos.meta.com/videoseal>
 
 # Robotics
 
@@ -497,6 +501,7 @@ featured: false
 > 14. **TidyBot**: <https://tidybot.cs.princeton.edu/>
 > 15. **EyeSight Hand**: <https://eyesighthand.github.io/>
 > 16. **Carpentopod:A walking table project**: <https://www.decarpentier.nl/carpentopod>
+> 17. **MouthPad**: <https://www.augmental.tech/>
 
 ## (2) Software
 
@@ -743,6 +748,9 @@ featured: false
 > 56. **Align3R**: <https://igl-hkust.github.io/Align3R.github.io/>
 > 57. **SAMa**: <https://mfischer-ucl.github.io/sama/>
 > 58. **NLF:Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation**: <https://istvansarandi.com/nlf/>
+> 59. **Using Diffusion Priors for Video Amodal Segmentation**: <https://diffusion-vas.github.io/>
+> 60. **LongVolCap**: <https://zju3dv.github.io/longvolcap/>
+> 61. **Multiview Scene Graph**: <https://ai4ce.github.io/MSG/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
