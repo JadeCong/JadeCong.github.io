@@ -209,7 +209,7 @@ exit $?  # 显示最后命令的退出状态。0表示没有错误，其他任�
 >> (4) rm .git/modules/submodule 删除模块下的子模块目录，每个子模块对应一个目录，注意只删除对应的子模块目录即可<br>
 >> (5) git rm --cached submodule 执行完成后，再执行添加子模块命令即可，如果仍然报错，执行该命令<br>
 >> (6) 添加提交并推送变动内容即可<br>
->> 或者：
+>> 或者：<br>
 >> (1) git submodule deinit submodule 解除子模块跟踪<br>
 >> (2) git rm submodule 删除子模块目录及源码<br>
 >> (3) git commit -m "remove submodule" 提交删除子模块的更改<br>
