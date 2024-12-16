@@ -250,6 +250,7 @@ featured: false
 > 90. **CosmOS**: <https://humane.com/cosmos>
 > 91. **letta**: <https://www.letta.com/>
 > 92. **aisuite**: <https://github.com/andrewyng/aisuite>
+> 93. **FlyFlow**: <https://www.flyflow.cc/>
 
 ## (3) AIGC
 
@@ -480,6 +481,7 @@ featured: false
 > 225. **DisPose**: <https://lihxxx.github.io/DisPose/>
 > 226. **ClearerVoice-Studio**: <https://stable-learn.com/en/clearvoice-studio-tutorial/>
 > 227. **Video Seal**: <https://aidemos.meta.com/videoseal>
+> 228. **Animated Drawings**: <https://fairanimateddrawings.com/site/home>
 
 # Robotics
 
