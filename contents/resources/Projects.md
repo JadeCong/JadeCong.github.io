@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-12-16
+last_modified_at: 2024-12-19
 
 hide_description: true
 hide_image: false
@@ -155,6 +155,7 @@ featured: false
 > 105. **Polymathic**: <https://polymathic-ai.org/>
 > 106. **Gemini 2.0**: <https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message>
 > 107. **AlphaFold Server**: <https://alphafoldserver.com/welcome>
+> 108. **Veo 2**: <https://deepmind.google/technologies/veo/veo-2/>
 
 ## (2) Agents
 
@@ -482,6 +483,12 @@ featured: false
 > 226. **ClearerVoice-Studio**: <https://stable-learn.com/en/clearvoice-studio-tutorial/>
 > 227. **Video Seal**: <https://aidemos.meta.com/videoseal>
 > 228. **Animated Drawings**: <https://fairanimateddrawings.com/site/home>
+> 229. **DiffGS**: <https://junshengzhou.github.io/DiffGS/>
+> 230. **FlipSketch**: <https://hmrishavbandy.github.io/flipsketch-web/>
+> 231. **Motion Prompting**: <https://motion-prompting.github.io/>
+> 232. **Wonderland**: <https://snap-research.github.io/wonderland/>
+> 233. **BrushEdit**: <https://liyaowei-stu.github.io/project/BrushEdit/index.html>
+> 234. **Whisk**: <https://labs.google/fx/zh/tools/whisk/unsupported-country>
 
 # Robotics
 
@@ -504,6 +511,8 @@ featured: false
 > 15. **EyeSight Hand**: <https://eyesighthand.github.io/>
 > 16. **Carpentopod:A walking table project**: <https://www.decarpentier.nl/carpentopod>
 > 17. **MouthPad**: <https://www.augmental.tech/>
+> 18. **MiniRHex**: <https://robomechanics.github.io/MiniRHex/>
+> 19. **DRAGON**: <https://interestingengineering.com/videos/ep-13-how-dragons-and-insects-are-inspiring-drones-of-the-future>
 
 ## (2) Software
 
@@ -522,6 +531,10 @@ featured: false
 > 13. **NVIDIA Isaac ROS**: <https://nvidia-isaac-ros.github.io/>
 > 14. **VehicleSim**: <https://www.carsim.com/>
 > 15. **GraspNet**: <https://graspnet.net/>
+> 16. **Quad-SDK**: <https://robomechanics.github.io/quad-sdk/>
+> 17. **MASt3R-SLAM**: <https://edexheim.github.io/mast3r-slam/>
+> 18. **Genesis**: <https://genesis-embodied-ai.github.io/>
+> 19. **Exbody2**: <https://exbody2.github.io/>
 
 # AIRobotics
 
@@ -677,6 +690,7 @@ featured: false
 > 148. **DenseMatcher**: <https://tea-lab.github.io/DenseMatcher/>
 > 149. **Mobile-TeleVision**: <https://mobile-tv.github.io/>
 > 150. **TidyBot++**: <https://tidybot2.github.io/>
+> 151. **Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**: <https://glide-manip.github.io/>
 
 ## (2) Autonomous Driving
 
