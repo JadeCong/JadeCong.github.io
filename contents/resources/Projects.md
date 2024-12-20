@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-12-19
+last_modified_at: 2024-12-20
 
 hide_description: true
 hide_image: false
@@ -489,6 +489,7 @@ featured: false
 > 232. **Wonderland**: <https://snap-research.github.io/wonderland/>
 > 233. **BrushEdit**: <https://liyaowei-stu.github.io/project/BrushEdit/index.html>
 > 234. **Whisk**: <https://labs.google/fx/zh/tools/whisk/unsupported-country>
+> 235. **AniDoc**: <https://yihao-meng.github.io/AniDoc_demo/>
 
 # Robotics
 
@@ -691,6 +692,7 @@ featured: false
 > 149. **Mobile-TeleVision**: <https://mobile-tv.github.io/>
 > 150. **TidyBot++**: <https://tidybot2.github.io/>
 > 151. **Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**: <https://glide-manip.github.io/>
+> 152. **You Only Plan Once**: <https://tju-air-lab.github.io/projects/YOPO/>
 
 ## (2) Autonomous Driving
 
@@ -767,6 +769,7 @@ featured: false
 > 59. **Using Diffusion Priors for Video Amodal Segmentation**: <https://diffusion-vas.github.io/>
 > 60. **LongVolCap**: <https://zju3dv.github.io/longvolcap/>
 > 61. **Multiview Scene Graph**: <https://ai4ce.github.io/MSG/>
+> 62. **Prompting Depth Anything**: <https://promptda.github.io/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
