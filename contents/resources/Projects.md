@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-12-20
+last_modified_at: 2024-12-30
 
 hide_description: true
 hide_image: false
@@ -156,6 +156,16 @@ featured: false
 > 106. **Gemini 2.0**: <https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message>
 > 107. **AlphaFold Server**: <https://alphafoldserver.com/welcome>
 > 108. **Veo 2**: <https://deepmind.google/technologies/veo/veo-2/>
+> 109. **Odyssey**: <https://odyssey.systems/introducing-explorer?utm_source=ai-bot.cn>
+> 110. **Jina AI**: <https://jina.ai/reader/>
+> 111. **Thinking in Space**: <https://vision-x-nyu.github.io/thinking-in-space.github.io/>
+> 112. **Automating the Search for Artificial Life with Foundation Models**: <https://pub.sakana.ai/asal/>
+> 113. **GPTsCopilot**: <https://chat.openai-now.com/zh>
+> 114. **Unstract**: <https://unstract.com/>
+> 115. **Decomposing Predictions by Modeling Model Computation**: <https://gradientscience.org/modelcomponents/>
+> 116. **Hands-On Large Language Models**: <https://www.llm-book.com/>
+> 117. **ZeroGPT**: <https://www.zerogpt.com/>
+> 118. **SCENIC**: <https://virtualhumans.mpi-inf.mpg.de/scenic/>
 
 ## (2) Agents
 
@@ -252,6 +262,9 @@ featured: false
 > 91. **letta**: <https://www.letta.com/>
 > 92. **aisuite**: <https://github.com/andrewyng/aisuite>
 > 93. **FlyFlow**: <https://www.flyflow.cc/>
+> 94. **Building effective agents**: <https://www.anthropic.com/research/building-effective-agents>
+> 95. **Automa**: <https://www.automa.site/>
+> 96. **AG2**: <https://ag2.ai/>
 
 ## (3) AIGC
 
@@ -490,6 +503,21 @@ featured: false
 > 233. **BrushEdit**: <https://liyaowei-stu.github.io/project/BrushEdit/index.html>
 > 234. **Whisk**: <https://labs.google/fx/zh/tools/whisk/unsupported-country>
 > 235. **AniDoc**: <https://yihao-meng.github.io/AniDoc_demo/>
+> 236. **Stag-1**: <https://wzzheng.net/Stag/>
+> 237. **PanoDreamer**: <https://people.engr.tamu.edu/nimak/Papers/PanoDreamer/index.html>
+> 238. **DI-PCG**: <https://thuzhaowang.github.io/projects/DI-PCG/>
+> 239. **Sketch2Sound**: <https://hugofloresgarcia.art/sketch2sound/>
+> 240. **INFP**: <https://grisoon.github.io/INFP/?utm_source=ai-bot.cn>
+> 241. **Feat2GS**: <https://fanegg.github.io/Feat2GS/>
+> 242. **AI Sound Effect Generator**: <https://www.sound-effect-generator.com/>
+> 243. **ElevenLabs**: <https://elevenlabs.io/sound-effects>
+> 244. **MotiF**: <https://wang-sj16.github.io/motif/>
+> 245. **DrivingForward**: <https://fangzhou2000.github.io/projects/drivingforward/>
+> 246. **Birth and Death of a Rose**: <https://chen-geng.com/rose4d/>
+> 247. **ZeroHSI**: <https://awfuact.github.io/zerohsi/>
+> 248. **Dora**: <https://www.dora.run/ai/?ref=aihub.cn>
+> 249. **FaceLift**: <https://www.wlyu.me/FaceLift/>
+> 250. **SynCamMaster**: <https://jianhongbai.github.io/SynCamMaster/>
 
 # Robotics
 
@@ -536,6 +564,8 @@ featured: false
 > 17. **MASt3R-SLAM**: <https://edexheim.github.io/mast3r-slam/>
 > 18. **Genesis**: <https://genesis-embodied-ai.github.io/>
 > 19. **Exbody2**: <https://exbody2.github.io/>
+> 20. **HO-Cap**: <https://irvlutd.github.io/HOCap/>
+> 21. **ARMOR**: <https://daehwakim.com/armor/>
 
 # AIRobotics
 
@@ -693,6 +723,11 @@ featured: false
 > 150. **TidyBot++**: <https://tidybot2.github.io/>
 > 151. **Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**: <https://glide-manip.github.io/>
 > 152. **You Only Plan Once**: <https://tju-air-lab.github.io/projects/YOPO/>
+> 153. **Human-Object Interaction from Human-Level Instructions**: <https://hoifhli.github.io/>
+> 154. **Video Prediction Policy**: <https://video-prediction-policy.github.io/>
+> 155. **HYPERmotion**: <https://hy-motion.github.io/>
+> 156. **RoboMIND**: <https://x-humanoid-robomind.github.io/>
+> 157. **ForceMimic**: <https://forcemimic.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -770,6 +805,11 @@ featured: false
 > 60. **LongVolCap**: <https://zju3dv.github.io/longvolcap/>
 > 61. **Multiview Scene Graph**: <https://ai4ce.github.io/MSG/>
 > 62. **Prompting Depth Anything**: <https://promptda.github.io/>
+> 63. **MVLift**: <https://lijiaman.github.io/projects/mvlift/>
+> 64. **SAT-HMR**: <https://chisu001.github.io/SAT-HMR/>
+> 65. **DEIM**: <https://www.shihuahuang.cn/DEIM/>
+> 66. **PartGen**: <https://silent-chen.github.io/PartGen/>
+> 67. **GenHMR**: <https://m-usamasaleem.github.io/publication/GenHMR/GenHMR.html>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
