@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-12-30
+last_modified_at: 2025-01-04
 
 hide_description: true
 hide_image: false
@@ -166,6 +166,10 @@ featured: false
 > 116. **Hands-On Large Language Models**: <https://www.llm-book.com/>
 > 117. **ZeroGPT**: <https://www.zerogpt.com/>
 > 118. **SCENIC**: <https://virtualhumans.mpi-inf.mpg.de/scenic/>
+> 119. **LobeChat**: <https://chat-preview.lobehub.com/chat>
+> 120. **Farfalle**: <https://www.farfalle.dev/>
+> 121. **TypingMind**: <https://www.typingmind.com/?ref=trackbes>
+> 122. **LangGPT**: <https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe>
 
 ## (2) Agents
 
@@ -265,6 +269,8 @@ featured: false
 > 94. **Building effective agents**: <https://www.anthropic.com/research/building-effective-agents>
 > 95. **Automa**: <https://www.automa.site/>
 > 96. **AG2**: <https://ag2.ai/>
+> 97. **Running Llama on Windows 98**: <https://blog.exolabs.net/day-4/>
+> 98. **n8n**: <https://n8n.io/>
 
 ## (3) AIGC
 
@@ -518,6 +524,8 @@ featured: false
 > 248. **Dora**: <https://www.dora.run/ai/?ref=aihub.cn>
 > 249. **FaceLift**: <https://www.wlyu.me/FaceLift/>
 > 250. **SynCamMaster**: <https://jianhongbai.github.io/SynCamMaster/>
+> 251. **PDP**: <https://stanford-tml.github.io/PDP.github.io/>
+> 252. **TEXT-TO-CAD**: <https://zoo.dev/text-to-cad?ref=aihub.cn>
 
 # Robotics
 
@@ -542,6 +550,7 @@ featured: false
 > 17. **MouthPad**: <https://www.augmental.tech/>
 > 18. **MiniRHex**: <https://robomechanics.github.io/MiniRHex/>
 > 19. **DRAGON**: <https://interestingengineering.com/videos/ep-13-how-dragons-and-insects-are-inspiring-drones-of-the-future>
+> 20. **Velociraptor Robot**: <https://indiannerve.com/korean-velociraptor-robot-is-the-fastest-biped-that-can-outrun-usain-bolt-top-speed-46-kmhr-15584/>
 
 ## (2) Software
 
@@ -728,6 +737,9 @@ featured: false
 > 155. **HYPERmotion**: <https://hy-motion.github.io/>
 > 156. **RoboMIND**: <https://x-humanoid-robomind.github.io/>
 > 157. **ForceMimic**: <https://forcemimic.github.io/>
+> 158. **AgiBot World**: <https://agibot-world.com/?utm_source=ai-bot.cn>
+> 159. **NaVILA**: <https://navila-bot.github.io/>
+> 160. **Manipulate Anything**: <https://robot-ma.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -810,6 +822,9 @@ featured: false
 > 65. **DEIM**: <https://www.shihuahuang.cn/DEIM/>
 > 66. **PartGen**: <https://silent-chen.github.io/PartGen/>
 > 67. **GenHMR**: <https://m-usamasaleem.github.io/publication/GenHMR/GenHMR.html>
+> 68. **SuperGSeg**: <https://supergseg.github.io/>
+> 69. **DUSt3R**: <https://europe.naverlabs.com/research/publications/dust3r-geometric-3d-vision-made-easy/>
+> 70. **Orient Anything**: <https://orient-anything.github.io/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}

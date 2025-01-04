@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-17
+last_modified_at: 2025-01-04
 
 hide_description: true
 hide_image: false
@@ -51,6 +51,11 @@ featured: false
 > 3. **Claude 3.5**: <https://docs.anthropic.com/zh-CN/docs/intro-to-claude#claude-3-5>
 > 4. **Qwen**: <https://tongyi.aliyun.com/>
 > 5. **ERNIE**: <https://wenxin.baidu.com/wenxin>
+
+# Benchmark
+
+> 1. **AGI-Eval**: <https://agi-eval.cn/mvp/home?sourcePage=aihub.cn>
+> 2. **AI-Ceping**: <https://ai-ceping.com/>
 
 Continue reading [Datasets](Datasets.md){:.heading.flip-title}
 {:.read-more}

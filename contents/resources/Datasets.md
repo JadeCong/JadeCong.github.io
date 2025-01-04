@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-12-12
+last_modified_at: 2025-01-04
 
 hide_description: true
 hide_image: false
@@ -54,6 +54,11 @@ featured: false
 # Physics Simulation
 
 > 1. **The Well**: <https://polymathic-ai.org/the_well/>
+
+# Robot Learning
+
+> 1. **AgiBot World**: <https://agibot-world.com/?utm_source=ai-bot.cn>
+> 2. **RoboMIND**: <https://x-humanoid-robomind.github.io/>
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}
