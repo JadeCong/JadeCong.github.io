@@ -21,8 +21,8 @@ permalink: /
 selected_projects:
   - _projects/Tactile-Finger.md
   - _projects/Robot-Teleoperation.md
-  - _projects/Robotic-Softbody-Manipulation.md
   - _projects/Industrial-Metaverse-Platform.md
+  - _projects/Robotic-Softbody-Manipulation.md
 projects_page: /contents/projects/
 selected_posts:
   - contents/blogs/_posts/2025-01-06-New-Ideas-for-Achieving-AGI.md
