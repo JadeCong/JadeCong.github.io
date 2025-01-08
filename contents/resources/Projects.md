@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-01-04
+last_modified_at: 2025-01-08
 
 hide_description: true
 hide_image: false
@@ -271,6 +271,12 @@ featured: false
 > 96. **AG2**: <https://ag2.ai/>
 > 97. **Running Llama on Windows 98**: <https://blog.exolabs.net/day-4/>
 > 98. **n8n**: <https://n8n.io/>
+> 99. **Project IDX**: <https://idx.dev/>
+> 100. **Diagramming AI**: <https://diagrammingai.com/>
+> 101. **Windsurf**: <https://windsurfai.org/zh>
+> 102. **OpenSPG**: <https://spg.openkg.cn/>
+> 103. **WrenAI**: <https://getwren.ai/oss>
+> 104. **DB-GPT**: <http://docs.dbgpt.cn/docs/overview>
 
 ## (3) AIGC
 
@@ -526,6 +532,11 @@ featured: false
 > 250. **SynCamMaster**: <https://jianhongbai.github.io/SynCamMaster/>
 > 251. **PDP**: <https://stanford-tml.github.io/PDP.github.io/>
 > 252. **TEXT-TO-CAD**: <https://zoo.dev/text-to-cad?ref=aihub.cn>
+> 253. **Story-Adapter**: <https://jwmao1.github.io/storyadapter/?utm_source=ai-bot.cn>
+> 254. **PERSE**: <https://hyunsoocha.github.io/perse/>
+> 255. **SeedVR**: <https://iceclear.github.io/projects/seedvr/>
+> 256. **VideoAnydoor**: <https://videoanydoor.github.io/>
+> 257. **STAR**: <https://nju-pcalab.github.io/projects/STAR/>
 
 # Robotics
 
@@ -740,6 +751,7 @@ featured: false
 > 158. **AgiBot World**: <https://agibot-world.com/?utm_source=ai-bot.cn>
 > 159. **NaVILA**: <https://navila-bot.github.io/>
 > 160. **Manipulate Anything**: <https://robot-ma.github.io/>
+> 161. **Meta Motivo**: <https://metamotivo.metademolab.com/>
 
 ## (2) Autonomous Driving
 
@@ -825,6 +837,10 @@ featured: false
 > 68. **SuperGSeg**: <https://supergseg.github.io/>
 > 69. **DUSt3R**: <https://europe.naverlabs.com/research/publications/dust3r-geometric-3d-vision-made-easy/>
 > 70. **Orient Anything**: <https://orient-anything.github.io/>
+> 71. **Gaga**: <https://www.gaga.gallery/>
+> 72. **ProTracker**: <https://michaelszj.github.io/protracker/>
+> 73. **JOSH**: <https://genforce.github.io/JOSH/>
+> 74. **Dyn-HaMR**: <https://dyn-hamr.github.io/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
