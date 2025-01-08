@@ -21,15 +21,19 @@ permalink: /
 selected_projects:
   - _projects/Tactile-Finger.md
   - _projects/Robot-Teleoperation.md
+  - _projects/Robotic-Softbody-Manipulation.md
+  - _projects/Industrial-Metaverse-Platform.md
 projects_page: /contents/projects/
 selected_posts:
-  - contents/blogs/_posts/2019-08-02-Goal-of-AGI.md
+  - contents/blogs/_posts/2025-01-06-New-Ideas-for-Achieving-AGI.md
+  - contents/blogs/_posts/2024-12-14-In-Deep-Reflections-on-Humanoid-Robot-and-AI.md
   - contents/blogs/_posts/2019-08-09-Whats-AGI.md
+  - contents/blogs/_posts/2019-08-02-Goal-of-AGI.md
 posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-18
+last_modified_at: 2025-01-08
 
 hide_description: false
 hide_image: false
