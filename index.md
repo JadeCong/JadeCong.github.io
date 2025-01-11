@@ -33,7 +33,7 @@ posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-01-08
+last_modified_at: 2025-01-11
 
 hide_description: false
 hide_image: false
@@ -70,7 +70,7 @@ The newest and amazing posts will be published promptly here.
 
 # Contact With Me
 
-The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.com) as follows, then [LinkedIn](https://www.linkedin.com/in/jade-cong), [Twitter](https://twitter.com/JadeCong26), [Reddit](https://www.reddit.com/user/JadeCong), [GitHub](https://github.com/JadeCong), [ZhiHu](https://www.zhihu.com/people/Jade_Cong) or [WeChat Public](/assets/images/home/wechat-public.jpg).
+The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.com) as follows, then [LinkedIn](https://www.linkedin.com/in/jade-cong), [Twitter](https://twitter.com/JadeCong26), [Reddit](https://www.reddit.com/user/JadeCong), [GitHub](https://github.com/JadeCong), [Hugging Face](https://huggingface.co/JadeCong), [ZhiHu](https://www.zhihu.com/people/Jade_Cong) or [WeChat Public](/assets/images/home/wechat-public.jpg).
 {% include pro/newsletter.html %}
 
 <!-- buymeacoffee -->

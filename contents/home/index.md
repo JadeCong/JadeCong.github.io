@@ -21,15 +21,19 @@ permalink: /contents/home/
 selected_projects:
   - _projects/Tactile-Finger.md
   - _projects/Robot-Teleoperation.md
+  - _projects/Industrial-Metaverse-Platform.md
+  - _projects/Robotic-Softbody-Manipulation.md
 projects_page: /contents/projects/
 selected_posts:
-  - contents/blogs/_posts/2019-08-02-Goal-of-AGI.md
+  - contents/blogs/_posts/2025-01-06-New-Ideas-for-Achieving-AGI.md
+  - contents/blogs/_posts/2024-12-14-In-Deep-Reflections-on-Humanoid-Robot-and-AI.md
   - contents/blogs/_posts/2019-08-09-Whats-AGI.md
+  - contents/blogs/_posts/2019-08-02-Goal-of-AGI.md
 posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-18
+last_modified_at: 2025-01-11
 
 hide_description: false
 hide_image: false
@@ -66,7 +70,7 @@ The newest and amazing posts will be published promptly here.
 
 # Contact With Me
 
-The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.com) as follows, then [LinkedIn](https://www.linkedin.com/in/jade-cong), [Twitter](https://twitter.com/JadeCong26), [Reddit](https://www.reddit.com/user/JadeCong), [GitHub](https://github.com/JadeCong), [ZhiHu](https://www.zhihu.com/people/Jade_Cong) or [WeChat Public](/assets/images/home/wechat-public.jpg).
+The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.com) as follows, then [LinkedIn](https://www.linkedin.com/in/jade-cong), [Twitter](https://twitter.com/JadeCong26), [Reddit](https://www.reddit.com/user/JadeCong), [GitHub](https://github.com/JadeCong), [Hugging Face](https://huggingface.co/JadeCong), [ZhiHu](https://www.zhihu.com/people/Jade_Cong) or [WeChat Public](/assets/images/home/wechat-public.jpg).
 {% include pro/newsletter.html %}
 
 <!-- buymeacoffee -->
