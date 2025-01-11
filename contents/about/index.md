@@ -25,7 +25,7 @@ permalink: /contents/about/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-17
+last_modified_at: 2025-01-11
 
 hide_description: false
 hide_image: false
@@ -77,8 +77,8 @@ In case you will be looking for **more details** about my work, [you can do that
 
 **Being social and helping in any way I can, is one of the things I like and enjoy the most!** You can find me here:
 - [Email](mailto:jade.cong@qq.com)
-- [LinkedIn](https://www.linkedin.com/in/jade-cong)
-- [Twitter](https://twitter.com/JadeCong26)
+- ![linkedin](/assets/images/about/linkedin.svg) [LinkedIn](https://www.linkedin.com/in/jade-cong)
+- ![X](/assets/images/about/x.svg) [Twitter](https://twitter.com/JadeCong26)
 - [Reddit](https://www.reddit.com/user/JadeCong)
 - [GitHub](https://github.com/JadeCong)
 - [Hugging Face](https://huggingface.co/JadeCong)
