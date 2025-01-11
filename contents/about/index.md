@@ -76,16 +76,16 @@ In case you will be looking for **more details** about my work, [you can do that
 # How to approach me
 
 **Being social and helping in any way I can, is one of the things I like and enjoy the most!** You can find me here:
-- ![](/assets/images/about/email.svg=12x12) [Email](mailto:jade.cong@qq.com)
-- ![](/assets/images/about/linkedin.svg=12x12) [LinkedIn](https://www.linkedin.com/in/jade-cong)
-- ![](/assets/images/about/x.svg=12x12) [Twitter](https://twitter.com/JadeCong26)
-- ![](/assets/images/about/reddit.svg=12x12) [Reddit](https://www.reddit.com/user/JadeCong)
-- ![](/assets/images/about/github.svg=12x12) [GitHub](https://github.com/JadeCong)
-- ![](/assets/images/about/huggingface.svg=12x12) [Hugging Face](https://huggingface.co/JadeCong)
-- ![](/assets/images/about/youtube.svg=12x12) [YouTube](https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg)
-- ![](/assets/images/about/bilibili.svg=12x12) [BiliBili](https://space.bilibili.com/383666733)
-- ![](/assets/images/about/zhihu.svg=12x12) [ZhiHu](https://www.zhihu.com/people/Jade_Cong)
-- ![](/assets/images/about/wechat.svg=12x12) [WeChat Public](/assets/images/about/wechat-public.jpg)
+- ![ ](/assets/images/about/email.svg=12x12) [Email](mailto:jade.cong@qq.com)
+- ![ ](/assets/images/about/linkedin.svg=12x12) [LinkedIn](https://www.linkedin.com/in/jade-cong)
+- ![ ](/assets/images/about/x.svg=12x12) [Twitter](https://twitter.com/JadeCong26)
+- ![ ](/assets/images/about/reddit.svg=12x12) [Reddit](https://www.reddit.com/user/JadeCong)
+- ![ ](/assets/images/about/github.svg=12x12) [GitHub](https://github.com/JadeCong)
+- ![ ](/assets/images/about/huggingface.svg=12x12) [Hugging Face](https://huggingface.co/JadeCong)
+- ![ ](/assets/images/about/youtube.svg=12x12) [YouTube](https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg)
+- ![ ](/assets/images/about/bilibili.svg=12x12) [BiliBili](https://space.bilibili.com/383666733)
+- ![ ](/assets/images/about/zhihu.svg=12x12) [ZhiHu](https://www.zhihu.com/people/Jade_Cong)
+- ![ ](/assets/images/about/wechat.svg=12x12) [WeChat Public](/assets/images/about/wechat-public.jpg)
 
 # Help and Support
 
