@@ -78,7 +78,7 @@ In case you will be looking for **more details** about my work, [you can do that
 **Being social and helping in any way I can, is one of the things I like and enjoy the most!** You can find me here:
 - [Email](mailto:jade.cong@qq.com)
 - ![linkedin](/assets/images/about/linkedin.svg) [LinkedIn](https://www.linkedin.com/in/jade-cong)
-- ![X](/assets/images/about/x.svg) [Twitter](https://twitter.com/JadeCong26)
+- ![X](/assets/images/about/x.svg=12x12) [Twitter](https://twitter.com/JadeCong26)
 - [Reddit](https://www.reddit.com/user/JadeCong)
 - [GitHub](https://github.com/JadeCong)
 - [Hugging Face](https://huggingface.co/JadeCong)
