@@ -76,11 +76,11 @@ In case you will be looking for **more details** about my work, [you can do that
 # How to approach me
 
 **Being social and helping in any way I can, is one of the things I like and enjoy the most!** You can find me here:
-- <img src="/assets/images/about/email.svg" width="20px" height="20px" align=center /> [Email](mailto:jade.cong@qq.com)
-- <img src="/assets/images/about/linkedin.svg" width="20px" height="20px" align=center /> [LinkedIn](https://www.linkedin.com/in/jade-cong)
-- <img src="/assets/images/about/x.svg" width="20px" height="20px" align=center /> [Twitter](https://twitter.com/JadeCong26)
-- <img src="/assets/images/about/reddit.svg" width="20px" height="20px" align=center /> [Reddit](https://www.reddit.com/user/JadeCong)
-- <img src="/assets/images/about/github.svg" width="20px" height="20px" align=center /> [GitHub](https://github.com/JadeCong)
+- <img src="/assets/images/about/email.svg" width="18px" height="18px" align=center /> [Email](mailto:jade.cong@qq.com)
+- <img src="/assets/images/about/linkedin.svg" width="18px" height="18px" align=center /> [LinkedIn](https://www.linkedin.com/in/jade-cong)
+- <img src="/assets/images/about/x.svg" width="18px" height="18px" align=center /> [Twitter](https://twitter.com/JadeCong26)
+- <img src="/assets/images/about/reddit.svg" width="18px" height="18px" align=center /> [Reddit](https://www.reddit.com/user/JadeCong)
+- <img src="/assets/images/about/github.svg" width="18px" height="18px" align=center /> [GitHub](https://github.com/JadeCong)
 - <img src="/assets/images/about/huggingface.svg" width="20px" height="20px" align=center /> [Hugging Face](https://huggingface.co/JadeCong)
 - <img src="/assets/images/about/youtube.svg" width="20px" height="20px" align=center /> [YouTube](https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg)
 - <img src="/assets/images/about/bilibili.svg" width="20px" height="20px" align=center /> [BiliBili](https://space.bilibili.com/383666733)
