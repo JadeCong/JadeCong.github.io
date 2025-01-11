@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-01-04
+last_modified_at: 2025-01-11
 
 hide_description: true
 hide_image: false
@@ -57,7 +57,7 @@ featured: false
 
 # Robot Learning
 
-> 1. **AgiBot World**: <https://agibot-world.com/?utm_source=ai-bot.cn>
+> 1. **AgiBot World**: <https://agibot-world.com/>
 > 2. **RoboMIND**: <https://x-humanoid-robomind.github.io/>
 
 Return to [Resources](index.md){:.heading.flip-title}

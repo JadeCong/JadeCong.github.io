@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-01-08
+last_modified_at: 2025-01-11
 
 hide_description: true
 hide_image: false
@@ -170,6 +170,8 @@ featured: false
 > 120. **Farfalle**: <https://www.farfalle.dev/>
 > 121. **TypingMind**: <https://www.typingmind.com/?ref=trackbes>
 > 122. **LangGPT**: <https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe>
+> 123. **Sa2VA**: <https://lxtgh.github.io/project/sa2va/>
+> 124. **Blackbox AI**: <https://www.blackbox.ai/>
 
 ## (2) Agents
 
@@ -277,6 +279,9 @@ featured: false
 > 102. **OpenSPG**: <https://spg.openkg.cn/>
 > 103. **WrenAI**: <https://getwren.ai/oss>
 > 104. **DB-GPT**: <http://docs.dbgpt.cn/docs/overview>
+> 105. **Magentic-One**: <https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/>
+> 106. **Micro Agent**: <https://www.builder.io/blog/micro-agent>
+> 107. **Browserbase**: <https://www.browserbase.com/>
 
 ## (3) AIGC
 
@@ -537,6 +542,13 @@ featured: false
 > 255. **SeedVR**: <https://iceclear.github.io/projects/seedvr/>
 > 256. **VideoAnydoor**: <https://videoanydoor.github.io/>
 > 257. **STAR**: <https://nju-pcalab.github.io/projects/STAR/>
+> 258. **3DEnhancer**: <https://yihangluo.com/projects/3DEnhancer/>
+> 259. **Hallo3**: <https://fudan-generative-vision.github.io/hallo3/#/>
+> 260. **TransPixar**: <https://wileewang.github.io/TransPixar/>
+> 261. **DaS**: <https://igl-hkust.github.io/das/>
+> 262. **Sana**: <https://nvlabs.github.io/Sana/>
+> 263. **InfiniCube**: <https://research.nvidia.com/labs/toronto-ai/infinicube/>
+> 264. **apob**: <https://apob.ai/>
 
 # Robotics
 
@@ -752,6 +764,7 @@ featured: false
 > 159. **NaVILA**: <https://navila-bot.github.io/>
 > 160. **Manipulate Anything**: <https://robot-ma.github.io/>
 > 161. **Meta Motivo**: <https://metamotivo.metademolab.com/>
+> 162. **EnerVerse**: <https://sites.google.com/view/enerverse>
 
 ## (2) Autonomous Driving
 
@@ -841,6 +854,7 @@ featured: false
 > 72. **ProTracker**: <https://michaelszj.github.io/protracker/>
 > 73. **JOSH**: <https://genforce.github.io/JOSH/>
 > 74. **Dyn-HaMR**: <https://dyn-hamr.github.io/>
+> 75. **Depth Any Camera**: <https://yuliangguo.github.io/depth-any-camera/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
