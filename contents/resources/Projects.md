@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-01-11
+last_modified_at: 2025-04-15
 
 hide_description: true
 hide_image: false
@@ -172,6 +172,18 @@ featured: false
 > 122. **LangGPT**: <https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe>
 > 123. **Sa2VA**: <https://lxtgh.github.io/project/sa2va/>
 > 124. **Blackbox AI**: <https://www.blackbox.ai/>
+> 125. **Sky-T1**: <https://novasky-ai.github.io/posts/sky-t1/>
+> 126. **Instructor**: <https://useinstructor.com/>
+> 127. **VILA**: <https://vila.mit.edu/>
+> 128. **VideoLingo**: <https://videolingo.io/zh>
+> 129. **Omni-RGPT**: <https://miranheo.github.io/omni-rgpt/>
+> 130. **unwind ai**: <https://www.theunwindai.com/>
+> 131. **ReaderLM v2**: <https://jina.ai/news/readerlm-v2-frontier-small-language-model-for-html-to-markdown-and-json/>
+> 132. **cyanpuppets**: <https://cyanpuppets.com/>
+> 133. **MatterGen**: <https://www.microsoft.com/en-us/research/articles/mattergen-a-generative-model-for-materials-design/>
+> 134. **DrivingWorld**: <https://huxiaotaostasy.github.io/DrivingWorld/index.html>
+> 135. **GAN Lab**: <https://poloclub.github.io/ganlab/>
+> 136. **PoloClub**: <https://poloclub.github.io/>
 
 ## (2) Agents
 
@@ -282,6 +294,28 @@ featured: false
 > 105. **Magentic-One**: <https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/>
 > 106. **Micro Agent**: <https://www.builder.io/blog/micro-agent>
 > 107. **Browserbase**: <https://www.browserbase.com/>
+> 108. **Browser Use**: <https://browser-use.com/>
+> 109. **TXYZ**: <https://app.txyz.ai/library>
+> 110. **Agent Laboratory**: <https://agentlaboratory.github.io/>
+> 111. **WhisperTyping**: <https://whispertyping.com/>
+> 112. **Whisper Keyboard**: <https://wkd.market/>
+> 113. **Eko**: <https://eko.fellou.ai/>
+> 114. **ResearchFlow**: <https://rflow.ai/zh>
+> 115. **PDF Guru Anki**: <https://guru.kevin2li.top/>
+> 116. **RuleOS**: <https://ruleos.com/console/home>
+> 117. **AI Agent**: <https://www.cnblogs.com/lusuo/p/18663007>
+> 118. **Appwrite**: <https://appwrite.io/>
+> 119. **Litmaps**: <https://www.litmaps.com/>
+> 120. **PaSa**: <https://pasa-agent.ai/>
+> 121. **TinyEngine**: <https://opentiny.design/tiny-engine#/home>
+> 122. **AppAgent**: <https://appagent-official.github.io/>
+> 123. **PC Agent**: <https://gair-nlp.github.io/PC-Agent/>
+> 124. **ChatPaper**: <https://chatwithpaper.org/>
+> 125. **DesktopGPT**: <https://desktopgpt.hix.ai/>
+> 126. **Scholarcy**: <https://www.scholarcy.com/>
+> 127. **Open Interpreter**: <https://www.openinterpreter.com/>
+> 128. **Lumina**: <https://www.lumina.sh/c5bbe32b-4fb7-476a-81aa-fe269f67f283>
+> 129. **Humata**: <https://app.humata.ai/login>
 
 ## (3) AIGC
 
@@ -549,6 +583,32 @@ featured: false
 > 262. **Sana**: <https://nvlabs.github.io/Sana/>
 > 263. **InfiniCube**: <https://research.nvidia.com/labs/toronto-ai/infinicube/>
 > 264. **apob**: <https://apob.ai/>
+> 265. **Diffusion as Shader**: <https://igl-hkust.github.io/das/>
+> 266. **SVFR**: <https://wangzhiyaoo.github.io/SVFR/>
+> 267. **EnergyMoGen**: <https://jiro-zhang.github.io/EnergyMoGen/>
+> 268. **Labelme**: <https://labelme.io/>
+> 269. **Magic Mirror**: <https://julianjuaner.github.io/projects/MagicMirror/>
+> 270. **Video Alchemist**: <https://snap-research.github.io/open-set-video-personalization/>
+> 271. **SPAR3D**: <https://spar3d.github.io/>
+> 272. **ConceptMaster**: <https://yuzhou914.github.io/ConceptMaster/>
+> 273. **TOPVIEW**: <https://www.topview.ai/>
+> 274. **MangaNinja**: <https://johanan528.github.io/MangaNinjia/>
+> 275. **LeviTor**: <https://ppetrichor.github.io/levitor.github.io/>
+> 276. **Turbo-GS**: <https://ivl.cs.brown.edu/research/turbo-gs.html>
+> 277. **RAIN**: <https://pscgylotti.github.io/pages/RAIN/>
+> 278. **SynthLight**: <https://vrroom.github.io/synthlight/>
+> 279. **Piktochart**: <https://piktochart.com/>
+> 280. **Medio.Cool**: <https://www.medio.cool/en/>
+> 281. **VTON**: <https://ningshuliang.github.io/2023/Arxiv/index.html>
+> 282. **FlexiClip**: <https://creative-gen.github.io/flexiclip.github.io/>
+> 283. **CaPa**: <https://ncsoft.github.io/CaPa/>
+> 284. **AniGS**: <https://lingtengqiu.github.io/2024/AniGS/>
+> 285. **Arc2Avatar**: <https://arc2avatar.github.io/>
+> 286. **GaussianAvatar-Editor**: <https://xiangyueliu.github.io/GaussianAvatar-Editor/>
+> 287. **MoDec-GS**: <https://kaist-viclab.github.io/MoDecGS-site/>
+> 288. **X-Dyna**: <https://x-dyna.github.io/xdyna.github.io/>
+> 289. **Textoon**: <https://human3daigc.github.io/Textoon_webpage/>
+> 290. **EMO2**: <https://humanaigc.github.io/emote-portrait-alive-2/>
 
 # Robotics
 
@@ -574,6 +634,7 @@ featured: false
 > 18. **MiniRHex**: <https://robomechanics.github.io/MiniRHex/>
 > 19. **DRAGON**: <https://interestingengineering.com/videos/ep-13-how-dragons-and-insects-are-inspiring-drones-of-the-future>
 > 20. **Velociraptor Robot**: <https://indiannerve.com/korean-velociraptor-robot-is-the-fastest-biped-that-can-outrun-usain-bolt-top-speed-46-kmhr-15584/>
+> 21. **RoboPanoptes**: <https://robopanoptes.github.io/>
 
 ## (2) Software
 
@@ -765,6 +826,8 @@ featured: false
 > 160. **Manipulate Anything**: <https://robot-ma.github.io/>
 > 161. **Meta Motivo**: <https://metamotivo.metademolab.com/>
 > 162. **EnerVerse**: <https://sites.google.com/view/enerverse>
+> 163. **OmniManip**: <https://omnimanip.github.io/>
+> 164. **MuJoCo Playground**: <https://playground.mujoco.org/>
 
 ## (2) Autonomous Driving
 
@@ -855,6 +918,16 @@ featured: false
 > 73. **JOSH**: <https://genforce.github.io/JOSH/>
 > 74. **Dyn-HaMR**: <https://dyn-hamr.github.io/>
 > 75. **Depth Any Camera**: <https://yuliangguo.github.io/depth-any-camera/>
+> 76. **DepthLab**: <https://johanan528.github.io/depthlab_web/>
+> 77. **MatchAnything**: <https://zju3dv.github.io/MatchAnything/>
+> 78. **OmniFusion**: <https://yuyanli0831.github.io/OmniFusion-Website/>
+> 79. **Reconstructing People, Places, and Cameras**: <https://muelea.github.io/hsfm/>
+> 80. **BioPose**: <https://m-usamasaleem.github.io/publication/BioPose/BioPose.html>
+> 81. **SplatMAP**: <https://arxiv.org/html/2501.07015v1>
+> 82. **FoundationStereo**: <https://nvlabs.github.io/FoundationStereo/>
+> 83. **Video Depth Anything**: <https://videodepthanything.github.io/>
+> 84. **Depth Anything V2**: <https://depth-anything-v2.github.io/>
+> 85. **GausSurf**: <https://jiepengwang.github.io/GausSurf/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}

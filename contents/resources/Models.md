@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-01-04
+last_modified_at: 2025-04-15
 
 hide_description: true
 hide_image: false
@@ -51,11 +51,13 @@ featured: false
 > 3. **Claude 3.5**: <https://docs.anthropic.com/zh-CN/docs/intro-to-claude#claude-3-5>
 > 4. **Qwen**: <https://tongyi.aliyun.com/>
 > 5. **ERNIE**: <https://wenxin.baidu.com/wenxin>
+> 6. **NVIDIA Cosmos**: <https://www.nvidia.com/en-us/ai/cosmos/>
 
 # Benchmark
 
 > 1. **AGI-Eval**: <https://agi-eval.cn/mvp/home?sourcePage=aihub.cn>
 > 2. **AI-Ceping**: <https://ai-ceping.com/>
+> 3. **WebWalker**: <https://alibaba-nlp.github.io/WebWalker/>
 
 Continue reading [Datasets](Datasets.md){:.heading.flip-title}
 {:.read-more}
