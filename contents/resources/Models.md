@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-04-15
+last_modified_at: 2025-04-16
 
 hide_description: true
 hide_image: false
@@ -52,6 +52,7 @@ featured: false
 > 4. **Qwen**: <https://tongyi.aliyun.com/>
 > 5. **ERNIE**: <https://wenxin.baidu.com/wenxin>
 > 6. **NVIDIA Cosmos**: <https://www.nvidia.com/en-us/ai/cosmos/>
+> 7. **KTransformers**: <https://kvcache-ai.github.io/ktransformers/>
 
 # Benchmark
 

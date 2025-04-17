@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-04-15
+last_modified_at: 2025-04-16
 
 hide_description: true
 hide_image: false
@@ -156,7 +156,7 @@ featured: false
 > 106. **Gemini 2.0**: <https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message>
 > 107. **AlphaFold Server**: <https://alphafoldserver.com/welcome>
 > 108. **Veo 2**: <https://deepmind.google/technologies/veo/veo-2/>
-> 109. **Odyssey**: <https://odyssey.systems/introducing-explorer?utm_source=ai-bot.cn>
+> 109. **Odyssey**: <https://odyssey.systems/introducing-explorer>
 > 110. **Jina AI**: <https://jina.ai/reader/>
 > 111. **Thinking in Space**: <https://vision-x-nyu.github.io/thinking-in-space.github.io/>
 > 112. **Automating the Search for Artificial Life with Foundation Models**: <https://pub.sakana.ai/asal/>
@@ -184,6 +184,11 @@ featured: false
 > 134. **DrivingWorld**: <https://huxiaotaostasy.github.io/DrivingWorld/index.html>
 > 135. **GAN Lab**: <https://poloclub.github.io/ganlab/>
 > 136. **PoloClub**: <https://poloclub.github.io/>
+> 137. **3D Shape Tokenization**: <https://machinelearning.apple.com/research/3d-shape-tokenization>
+> 138. **Go-with-the-Flow**: <https://eyeline-research.github.io/Go-with-the-Flow/>
+> 139. **unsloth**: <https://unsloth.ai/>
+> 140. **Goku**: <https://saiyan-world.github.io/goku/>
+> 141. 
 
 ## (2) Agents
 
@@ -269,7 +274,7 @@ featured: false
 > 80. **AgentBench**: <https://llmbench.ai/agent>
 > 81. **SafetyBench**: <https://llmbench.ai/safety>
 > 82. **AlignBench**: <https://llmbench.ai/align>
-> 83. **AutoGLM**: <https://xiao9905.github.io/AutoGLM/?utm_source=ai-bot.cn>
+> 83. **AutoGLM**: <https://xiao9905.github.io/AutoGLM/>
 > 84. **OmniParser**: <https://microsoft.github.io/OmniParser/>
 > 85. **ResearchFlow**: <https://rflow.ai/>
 > 86. **Semantic Scholar**: <https://www.semanticscholar.org/>
@@ -316,6 +321,20 @@ featured: false
 > 127. **Open Interpreter**: <https://www.openinterpreter.com/>
 > 128. **Lumina**: <https://www.lumina.sh/c5bbe32b-4fb7-476a-81aa-fe269f67f283>
 > 129. **Humata**: <https://app.humata.ai/login>
+> 130. **Softgen**: <https://softgen.ai/>
+> 131. **Talo**: <https://www.taloai.com/zh>
+> 132. **Cofounder**: <https://cofounder.openinterface.ai/>
+> 133. **Potpie AI**: <https://potpie.ai/>
+> 134. **UndatasIO**: <https://undatas.io/>
+> 135. **Sakana AI**: <https://sakana.ai/ai-cuda-engineer/>
+> 136. **Docmost**: <https://docmost.com/>
+> 137. **Convergence**: <https://convergence.ai/welcome>
+> 138. **PyGPT**: <https://pygpt.net/>
+> 139. **PySpur**: <https://www.pyspur.com/>
+> 140. **Mobile-Agent-E**: <https://x-plug.github.io/MobileAgent/>
+> 141. **OpenHands**: <https://www.all-hands.dev/>
+> 142. **OctoTools**: <https://octotools.github.io/>
+> 143. **Power Automate**: <https://www.microsoft.com/en-us/power-platform/products/power-automate>
 
 ## (3) AIGC
 
@@ -558,7 +577,7 @@ featured: false
 > 237. **PanoDreamer**: <https://people.engr.tamu.edu/nimak/Papers/PanoDreamer/index.html>
 > 238. **DI-PCG**: <https://thuzhaowang.github.io/projects/DI-PCG/>
 > 239. **Sketch2Sound**: <https://hugofloresgarcia.art/sketch2sound/>
-> 240. **INFP**: <https://grisoon.github.io/INFP/?utm_source=ai-bot.cn>
+> 240. **INFP**: <https://grisoon.github.io/INFP/>
 > 241. **Feat2GS**: <https://fanegg.github.io/Feat2GS/>
 > 242. **AI Sound Effect Generator**: <https://www.sound-effect-generator.com/>
 > 243. **ElevenLabs**: <https://elevenlabs.io/sound-effects>
@@ -571,7 +590,7 @@ featured: false
 > 250. **SynCamMaster**: <https://jianhongbai.github.io/SynCamMaster/>
 > 251. **PDP**: <https://stanford-tml.github.io/PDP.github.io/>
 > 252. **TEXT-TO-CAD**: <https://zoo.dev/text-to-cad?ref=aihub.cn>
-> 253. **Story-Adapter**: <https://jwmao1.github.io/storyadapter/?utm_source=ai-bot.cn>
+> 253. **Story-Adapter**: <https://jwmao1.github.io/storyadapter/>
 > 254. **PERSE**: <https://hyunsoocha.github.io/perse/>
 > 255. **SeedVR**: <https://iceclear.github.io/projects/seedvr/>
 > 256. **VideoAnydoor**: <https://videoanydoor.github.io/>
@@ -609,6 +628,25 @@ featured: false
 > 288. **X-Dyna**: <https://x-dyna.github.io/xdyna.github.io/>
 > 289. **Textoon**: <https://human3daigc.github.io/Textoon_webpage/>
 > 290. **EMO2**: <https://humanaigc.github.io/emote-portrait-alive-2/>
+> 291. **MatAnyone**: <https://pq-yang.github.io/projects/MatAnyone/>
+> 292. **OmniHuman-1**: <https://omnihuman-lab.github.io/>
+> 293. **Scaling Up 3D Gaussian Splatting Training**: <https://daohanlu.github.io/scaling-up-3dgs/>
+> 294. **DynVFX**: <https://dynvfx.github.io/>
+> 295. **AuraFusion360**: <https://kkennethwu.github.io/aurafusion360/>
+> 296. **JOGG AI**: <https://www.jogg.ai/community/>
+> 297. **Animate Anyone 2**: <https://humanaigc.github.io/animate-anyone-2/>
+> 298. **Light-A-Video**: <https://bujiazi.github.io/light-a-video.github.io/>
+> 299. **CineMaster**: <https://cinemaster-dev.github.io/>
+> 300. **HumanDiT**: <https://agnjason.github.io/HumanDiT-page/>
+> 301. **Pippo**: <https://yashkant.github.io/pippo/>
+> 302. **MetaHuman**: <https://www.unrealengine.com/zh-CN/metahuman>
+> 303. **Phantom**: <https://phantom-video.github.io/Phantom/>
+> 304. **SkyReels**: <https://www.skyreels.ai/home>
+> 305. **Stockimg AI**: <https://stockimg.ai/>
+> 306. **FantasyID**: <https://fantasy-amap.github.io/fantasy-id/>
+> 307. **CAST**: <https://sites.google.com/view/cast4>
+> 308. **EmbodiedScan**: <https://tai-wang.github.io/embodiedscan/>
+> 309. **Kiss3DGen**: <https://ltt-o.github.io/Kiss3dgen.github.io/>
 
 # Robotics
 
@@ -635,6 +673,10 @@ featured: false
 > 19. **DRAGON**: <https://interestingengineering.com/videos/ep-13-how-dragons-and-insects-are-inspiring-drones-of-the-future>
 > 20. **Velociraptor Robot**: <https://indiannerve.com/korean-velociraptor-robot-is-the-fastest-biped-that-can-outrun-usain-bolt-top-speed-46-kmhr-15584/>
 > 21. **RoboPanoptes**: <https://robopanoptes.github.io/>
+> 22. **ToddlerBot**: <https://toddlerbot.github.io/>
+> 23. **DOGlove**: <https://do-glove.github.io/>
+> 24. **Torobo Hand**: <https://robotics.tokyo/products/hand/>
+> 25. **COVVI Robotics**: <https://www.covvi-robotics.com/>
 
 ## (2) Software
 
@@ -659,6 +701,8 @@ featured: false
 > 19. **Exbody2**: <https://exbody2.github.io/>
 > 20. **HO-Cap**: <https://irvlutd.github.io/HOCap/>
 > 21. **ARMOR**: <https://daehwakim.com/armor/>
+> 22. **HugWBC**: <https://hugwbc.github.io/>
+> 23. **Dexterity Gen**: <https://zhaohengyin.github.io/dexteritygen/>
 
 # AIRobotics
 
@@ -821,13 +865,34 @@ featured: false
 > 155. **HYPERmotion**: <https://hy-motion.github.io/>
 > 156. **RoboMIND**: <https://x-humanoid-robomind.github.io/>
 > 157. **ForceMimic**: <https://forcemimic.github.io/>
-> 158. **AgiBot World**: <https://agibot-world.com/?utm_source=ai-bot.cn>
+> 158. **AgiBot World**: <https://agibot-world.com/>
 > 159. **NaVILA**: <https://navila-bot.github.io/>
 > 160. **Manipulate Anything**: <https://robot-ma.github.io/>
 > 161. **Meta Motivo**: <https://metamotivo.metademolab.com/>
 > 162. **EnerVerse**: <https://sites.google.com/view/enerverse>
 > 163. **OmniManip**: <https://omnimanip.github.io/>
 > 164. **MuJoCo Playground**: <https://playground.mujoco.org/>
+> 165. **Embrace Collisions**: <https://project-instinct.github.io/>
+> 166. **SPA**: <https://haoyizhu.github.io/spa/>
+> 167. **ASAP**: <https://agile.human2humanoid.com/>
+> 168. **Visuomotor Policies to Grasp Anything with Dexterous Hands**: <https://dextrah-rgb.github.io/>
+> 169. **HAMSTER**: <https://hamster-robot.github.io/>
+> 170. **DexVLA**: <https://dex-vla.github.io/>
+> 171. **Humanoid-Getup**: <https://humanoid-getup.github.io/>
+> 172. **RHINO**: <https://humanoid-interaction.github.io/>
+> 173. **SoFar**: <https://qizekun.github.io/sofar/>
+> 174. **BeamDojo**: <https://why618188.github.io/beamdojo/>
+> 175. **Helix**: <https://www.figure.ai/news/helix>
+> 176. **Reflective Planning**: <https://reflect-vlm.github.io/>
+> 177. **AnyPlace**: <https://any-place.github.io/>
+> 178. **AnyTop**: <https://anytop2025.github.io/Anytop-page/>
+> 179. **Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning**: <https://whole-body-loco.github.io/>
+> 180. **OpenRobotLab**: <https://grutopia.github.io/>
+> 181. **Learning 3D Dynamic Scene Representations for Robot Manipulation**: <https://dsr-net.cs.columbia.edu/>
+> 182. **Hybrid Internal Model for Legged Locomotion**: <https://junfeng-long.github.io/HIMLoco/>
+> 183. **DexGraspVLA**: <https://dexgraspvla.github.io/>
+> 184. **Discrete-Time Hybrid Automata Learning**: <https://umich-curly.github.io/DHAL/>
+> 185. **Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**: <https://toruowo.github.io/recipe/>
 
 ## (2) Autonomous Driving
 
@@ -928,6 +993,7 @@ featured: false
 > 83. **Video Depth Anything**: <https://videodepthanything.github.io/>
 > 84. **Depth Anything V2**: <https://depth-anything-v2.github.io/>
 > 85. **GausSurf**: <https://jiepengwang.github.io/GausSurf/>
+> 86. **FLARE**: <https://zhanghe3z.github.io/FLARE/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
