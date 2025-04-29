@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-04-16
+last_modified_at: 2025-04-29
 
 hide_description: true
 hide_image: false
@@ -188,7 +188,7 @@ featured: false
 > 138. **Go-with-the-Flow**: <https://eyeline-research.github.io/Go-with-the-Flow/>
 > 139. **unsloth**: <https://unsloth.ai/>
 > 140. **Goku**: <https://saiyan-world.github.io/goku/>
-> 141. 
+> 141. **Inception**: <https://www.inceptionlabs.ai/>
 
 ## (2) Agents
 
@@ -647,6 +647,8 @@ featured: false
 > 307. **CAST**: <https://sites.google.com/view/cast4>
 > 308. **EmbodiedScan**: <https://tai-wang.github.io/embodiedscan/>
 > 309. **Kiss3DGen**: <https://ltt-o.github.io/Kiss3dgen.github.io/>
+> 310. **Avat3r**: <https://tobias-kirschstein.github.io/avat3r/>
+> 311. **Raphael AI**: <https://raphael.app/zh>
 
 # Robotics
 
@@ -677,6 +679,9 @@ featured: false
 > 23. **DOGlove**: <https://do-glove.github.io/>
 > 24. **Torobo Hand**: <https://robotics.tokyo/products/hand/>
 > 25. **COVVI Robotics**: <https://www.covvi-robotics.com/>
+> 26. **Hannes Hand**: <https://rehab.iit.it/hannes>
+> 27. **Vega**: <https://www.dexmate.ai/vega>
+> 28. **FIRST Tech Challenge**: <https://ftc-docs.firstinspires.org/en/latest/index.html>
 
 ## (2) Software
 
@@ -703,6 +708,7 @@ featured: false
 > 21. **ARMOR**: <https://daehwakim.com/armor/>
 > 22. **HugWBC**: <https://hugwbc.github.io/>
 > 23. **Dexterity Gen**: <https://zhaohengyin.github.io/dexteritygen/>
+> 24. **MJINX**: <https://based-robotics.github.io/mjinx/index.html>
 
 # AIRobotics
 
@@ -994,6 +1000,10 @@ featured: false
 > 84. **Depth Anything V2**: <https://depth-anything-v2.github.io/>
 > 85. **GausSurf**: <https://jiepengwang.github.io/GausSurf/>
 > 86. **FLARE**: <https://zhanghe3z.github.io/FLARE/>
+
+## (2) Tools
+
+> 1. **JSON For You**: <https://json4u.cn/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}

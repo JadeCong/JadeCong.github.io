@@ -25,7 +25,7 @@ permalink: /contents/resources/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-17
+last_modified_at: 2025-04-29
 
 hide_description: false
 hide_image: false
