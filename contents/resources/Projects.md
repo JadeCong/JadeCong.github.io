@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-04-29
+last_modified_at: 2025-05-04
 
 hide_description: true
 hide_image: false
@@ -189,6 +189,30 @@ featured: false
 > 139. **unsloth**: <https://unsloth.ai/>
 > 140. **Goku**: <https://saiyan-world.github.io/goku/>
 > 141. **Inception**: <https://www.inceptionlabs.ai/>
+> 142. **Magma**: <https://microsoft.github.io/Magma/>
+> 143. **WorldModelBench**: <https://worldmodelbench-team.github.io/>
+> 144. **OLMo Trace**: <https://allenai.org/>
+> 145. **Model Context Protocol**: <https://www.anthropic.com/news/model-context-protocol>
+> 146. **Awesome MCP Servers**: <https://mcpservers.org/>
+> 147. **Glama**: <https://glama.ai/mcp/servers>
+> 148. **MiniMax**:  <https://chat.minimaxi.com/>
+> 149. **SpatialLM**: <https://manycore-research.github.io/SpatialLM/>
+> 150. **Wanzhi**: <https://www.wanzhi.com/>
+> 151. **Zapier MCP**: <https://zapier.com/mcp>
+> 152. **MCP.so**: <https://mcp.so/zh>
+> 153. **Qwen2.5 Omni**: <https://qwenlm.github.io/zh/blog/qwen2.5-omni/>
+> 154. **Mureka**: <https://www.mureka.ai/home>
+> 155. **Google AI Studio**: <https://aistudio.google.com/prompts/new_chat>
+> 156. **MGX**: <https://mgx.dev/>
+> 157. **Spark TTS**: <https://sparktts.io/zh>
+> 158. **Llama Models**: <https://www.llama.com/docs/model-cards-and-prompt-formats/>
+> 159. **WorldScore**: <https://haoyi-duan.github.io/WorldScore/>
+> 160. **Agent2Agent Protocol**: <https://google.github.io/A2A/#/>
+> 161. **Lyria**: <https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/>
+> 162. **Magi-1**: <https://sand.ai/>
+> 163. **InternVL**: <https://internvl.readthedocs.io/en/latest/>
+> 164. **Niantic**: <https://www.nianticlabs.com/>
+> 165. **Lemon Slice Live**: <https://lemonslice.com/live>
 
 ## (2) Agents
 
@@ -335,6 +359,47 @@ featured: false
 > 141. **OpenHands**: <https://www.all-hands.dev/>
 > 142. **OctoTools**: <https://octotools.github.io/>
 > 143. **Power Automate**: <https://www.microsoft.com/en-us/power-platform/products/power-automate>
+> 144. **PySpur**: <https://www.pyspur.dev/>
+> 145. **Manus**: <https://manus.monica.cn/>
+> 146. **Glean**: <https://www.glean.com/>
+> 147. **AppAgentX**: <https://appagentx.github.io/>
+> 148. **LangBot**: <https://docs.langbot.app/insight/guide>
+> 149. **TheySaid**: <https://www.theysaid.io/>
+> 150. **Relume**: <https://www.relume.io/>
+> 151. **ChatTTS**: <https://www.chattts.co/zh>
+> 152. **Flourish**: <https://flourish.studio/>
+> 153. **CopyWeb**: <https://copyweb.ai/>
+> 154. ***AFFiNE**: <https://affine.pro/>
+> 155. **Agent TARS**: <https://agent-tars.com/>
+> 156. **TalkMe**: <https://www.talkme.ai/>
+> 157. **Anysphere**: <https://anysphere.inc/>
+> 158. **screenpipe**: <https://screenpi.pe/>
+> 159. **Genspark**: <https://www.genspark.ai/>
+> 160. **Agno**: <https://www.agno.com/>
+> 161. **Khoj AI**: <https://khoj.dev/>
+> 162. **Crawl4AI**: <https://docs.crawl4ai.com/>
+> 163. **Drawatoon**: <https://drawatoon.com/>
+> 164. **Cline**: <https://cline.bot/>
+> 165. **Roo Code**: <https://roocode.com/>
+> 166. **PandaAI**: <https://getpanda.ai/>
+> 167. **Agent Development Kit**: <https://google.github.io/adk-docs/>
+> 168. **Industrial Copilots**: <https://www.siemens.com/global/en/products/automation/topic-areas/industrial-ai/industrial-copilot.html#DiscoverourIndustrialCopilots>
+> 169. **meetily**: <https://meetily.zackriya.com/>
+> 170. **Liam ERD**: <https://liambx.com/>
+> 171. **Droidrun**: <https://www.droidrun.ai/>
+> 172. **AingDesk**: <https://www.aingdesk.com/>
+> 173. **MindsDB**: <https://mindsdb.com/>
+> 174. **Vanna.AI**: <https://vanna.ai/>
+> 175. **Outrank**: <https://www.outrank.so/>
+> 176. **Maxun**: <https://www.maxun.dev/>
+> 177. **Simular AI**: <https://www.simular.ai/>
+> 178. **FunASR**: <https://www.funasr.com/#/>
+> 179. **Graphiti**: <https://help.getzep.com/graphiti/graphiti/overview>
+> 180. **Suna**: <https://www.suna.so/>
+> 181. **Chat2DB**: <https://chat2db-ai.com/>
+> 182. **OpenBB**: <https://openbb.co/>
+> 183. **SigLens**: <https://www.siglens.com/>
+> 184. **Readdy**: <https://readdy.ai/>
 
 ## (3) AIGC
 
@@ -585,11 +650,11 @@ featured: false
 > 245. **DrivingForward**: <https://fangzhou2000.github.io/projects/drivingforward/>
 > 246. **Birth and Death of a Rose**: <https://chen-geng.com/rose4d/>
 > 247. **ZeroHSI**: <https://awfuact.github.io/zerohsi/>
-> 248. **Dora**: <https://www.dora.run/ai/?ref=aihub.cn>
+> 248. **Dora**: <https://www.dora.run/ai/>
 > 249. **FaceLift**: <https://www.wlyu.me/FaceLift/>
 > 250. **SynCamMaster**: <https://jianhongbai.github.io/SynCamMaster/>
 > 251. **PDP**: <https://stanford-tml.github.io/PDP.github.io/>
-> 252. **TEXT-TO-CAD**: <https://zoo.dev/text-to-cad?ref=aihub.cn>
+> 252. **TEXT-TO-CAD**: <https://zoo.dev/text-to-cad>
 > 253. **Story-Adapter**: <https://jwmao1.github.io/storyadapter/>
 > 254. **PERSE**: <https://hyunsoocha.github.io/perse/>
 > 255. **SeedVR**: <https://iceclear.github.io/projects/seedvr/>
@@ -649,6 +714,61 @@ featured: false
 > 309. **Kiss3DGen**: <https://ltt-o.github.io/Kiss3dgen.github.io/>
 > 310. **Avat3r**: <https://tobias-kirschstein.github.io/avat3r/>
 > 311. **Raphael AI**: <https://raphael.app/zh>
+> 312. **UniScene**: <https://arlo0o.github.io/uniscene/>
+> 313. **MeshPad**: <https://derkleineli.github.io/meshpad/>
+> 314. **Vid2Avatar-Pro**: <https://moygcc.github.io/vid2avatar-pro/>
+> 315. **Heygem**: <https://github.com/GuijiAI/HeyGem.ai>
+> 316. **TrajectoryCrafter**: <https://trajectorycrafter.github.io/>
+> 317. **DreamRelation**: <https://dreamrelation.github.io/>
+> 318. **ObjectMover**: <https://xinyu-andy.github.io/ObjMover/>
+> 319. **Motion Anything**: <https://steve-zeyu-zhang.github.io/MotionAnything/>
+> 320. **NotaGen**: <https://electricalexis.github.io/notagen-demo/>
+> 321. **Phase**: <https://www.phase.com/>
+> 322. **VACE**: <https://ali-vilab.github.io/VACE-Page/>
+> 323. **Flux AI**: <https://flux-ai.io/cn/>
+> 324. **Klingai**: <https://app.klingai.com/cn/>
+> 325. **miaohua**: <https://miaohua.sensetime.com/>
+> 326. **PIKA AI**: <https://pikaai.org/cn/>
+> 327. **EchoMimic**: <https://badtobest.github.io/echomimic.html>
+> 328. **EchoMimicV2**: <https://antgroup.github.io/ai/echomimic_v2/>
+> 329. **Uthana**: <https://uthana.com/>
+> 330. **jimeng**: <https://jimeng.jianying.com/ai-tool/home>
+> 331. **chanjing**: <https://www.chanjing.cc/>
+> 332. **AIPPT**: <https://www.aippt.cn/>
+> 333. **ETCH**: <https://boqian-li.github.io/ETCH/>
+> 334. **Bolt3D**: <https://szymanowiczs.github.io/bolt3d>
+> 335. **MTV-Inpaint**: <https://mtv-inpaint.github.io/>
+> 336. **Hunyuan3D**: <https://www.hunyuan-3d.com/>
+> 337. **Gamma**: <https://gamma.app/zh-cn>
+> 338. **DeepMesh**: <https://zhaorw02.github.io/DeepMesh/>
+> 339. **SynCity**: <https://research.paulengstler.com/syncity/>
+> 340. **MagicMotion**: <https://quanhaol.github.io/magicmotion-site/?ref=aiartweekly>
+> 341. **RASA**: <https://alice01010101.github.io/RASA/>
+> 342. **A Recipe for Generating 3D Worlds From a Single Image**: <https://katjaschwarz.github.io/worlds/>
+> 343. **TaoAvatar**: <https://pixelai-team.github.io/TaoAvatar/> or <https://taoavatar.org/>
+> 344. **MoDGS**: <https://modgs.github.io/>
+> 345. **MoCha**: <https://congwei1230.github.io/MoCha/>
+> 346. **PhysGen3D**: <https://by-luckk.github.io/PhysGen3D/>
+> 347. **GroomLight**: <https://syntec-research.github.io/GroomLight/>
+> 348. **ChatAnyone**: <https://humanaigc.github.io/chat-anyone/>
+> 349. **DreamActor-M1**: <https://grisoon.github.io/DreamActor-M1/>
+> 350. **InfiniteYou**: <https://bytedance.github.io/InfiniteYou/>
+> 351. **ACTalker**: <https://harlanhong.github.io/publications/actalker/index.html>
+> 352. **LAM**: <https://aigc3d.github.io/projects/LAM/>
+> 353. **One-Minute Video Generation with Test-Time Training**: <https://test-time-training.github.io/video-dit/>
+> 354. **Comprehensive Relighting**: <https://junyingw.github.io/paper/relighting/>
+> 355. **OmniSVG**: <https://omnisvg.github.io/>
+> 356. **FantasyTalking**: <https://fantasy-amap.github.io/fantasy-talking/>
+> 357. **lipsync2**: <https://taneemishere.github.io/projects/lipsync2.html>
+> 358. **Move AI**: <https://www.move.ai/>
+> 359. **Uni3C**: <https://ewrfcas.github.io/Uni3C/>
+> 360. **Event-Enhanced Blurry Video Super-Resolution**: <https://dachunkai.github.io/ev-deblurvsr.github.io/>
+> 361. **Infinite Mobility**: <https://infinite-mobility.github.io/>
+> 362. **DeepCAD**: <http://www.cs.columbia.edu/cg/deepcad/>
+> 363. **3DV-TON**: <https://2y7c3.github.io/3DV-TON/>
+> 364. **Insert Anything**: <https://song-wensong.github.io/insert-anything/>
+> 365. **Varjo**: <https://varjo.com/company-news/varjo-launches-teleport-2-0-a-generational-leap-in-photorealistic-3d-capture-for-creators/>
+> 366. **MotionCritic**: <https://motioncritic.github.io/>
 
 # Robotics
 
@@ -682,6 +802,19 @@ featured: false
 > 26. **Hannes Hand**: <https://rehab.iit.it/hannes>
 > 27. **Vega**: <https://www.dexmate.ai/vega>
 > 28. **FIRST Tech Challenge**: <https://ftc-docs.firstinspires.org/en/latest/index.html>
+> 29. **Sanctuary AI**: <https://www.sanctuary.ai/>
+> 30. **Linkerbot**: <https://www.linkerbot.cn/index>
+> 31. **DexHand**: <https://www.dex-robot.com/productionDexhand>
+> 32. **Booster T1**: <https://www.boosterobotics.com/zh/>
+> 33. **OpenArm**: <https://open-arm.org/>
+> 34. **XGO-Rider**: <https://wiki.elecfreaks.com/en/microbit/robot/xgo-rider-kit/introduction/>
+> 35. **BamBot**: <https://bambot.org/>
+> 36. **ORCA Hand**: <https://www.orcahand.com/>
+> 37. **DG-5F Hand**: <https://en.tesollo.com/dg-5f/>
+> 38. **Poppy Humanoid**: <https://www.poppy-project.org/en/robots/poppy-humanoid/>
+> 39. **agibot**: <http://agibot.cn/>
+> 40. **X1-PDG**: <https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG>
+> 41. **Fourier-GRX-N1**: <http://support.fftai.cn/main/en/concepts/overview/>
 
 ## (2) Software
 
@@ -709,6 +842,11 @@ featured: false
 > 22. **HugWBC**: <https://hugwbc.github.io/>
 > 23. **Dexterity Gen**: <https://zhaohengyin.github.io/dexteritygen/>
 > 24. **MJINX**: <https://based-robotics.github.io/mjinx/index.html>
+> 25. **Newton**: <https://developer.nvidia.com/blog/announcing-newton-an-open-source-physics-engine-for-robotics-simulation>
+> 26. **RUKA**: <https://ruka-hand.github.io/>
+> 27. **Genie Sim Benchmark**: <https://agibot-world.com/sim-evaluation>
+> 28. **Geometric Retargeting**: <https://zhaohengyin.github.io/geort/#>
+> 29. **LangWBC**: <https://langwbc.github.io/>
 
 # AIRobotics
 
@@ -899,6 +1037,62 @@ featured: false
 > 183. **DexGraspVLA**: <https://dexgraspvla.github.io/>
 > 184. **Discrete-Time Hybrid Automata Learning**: <https://umich-curly.github.io/DHAL/>
 > 185. **Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**: <https://toruowo.github.io/recipe/>
+> 186. **Humanoid Parkour Learning**: <https://humanoid4parkour.github.io/>
+> 187. **Robot Parkour Learning**: <https://robot-parkour.github.io/>
+> 188. **InterMimic**: <https://sirui-xu.github.io/InterMimic/>
+> 189. **Reactive Diffusion Policy**: <https://reactive-diffusion-policy.github.io/>
+> 190. **BEHAVIOR Robot Suite**: <https://behavior-robot-suite.github.io/>
+> 191. **Gemini Robotics**: <https://deepmind.google/technologies/gemini-robotics/>
+> 192. **DemoGen**: <https://demo-generation.github.io/>
+> 193. **Robo-ABC**: <https://tea-lab.github.io/Robo-ABC/>
+> 194. **MimicPlay**: <https://mimic-play.github.io/>
+> 195. **Soft and Compliant Contact-Rich Hair Manipulation and Care**: <https://moehair.github.io/>
+> 196. **RT-1**: <https://robotics-transformer1.github.io/>
+> 197. **Heterogeneous Pre-trained Transformers**: <https://liruiw.github.io/hpt/>
+> 198. **GraspNet**: <https://graspnet.net/anygrasp.html>
+> 199. **RoboDreamer**: <https://robovideo.github.io/>
+> 200. **UniSim**: <https://universal-simulator.github.io/unisim/>
+> 201. **Visuomotor Policy Learning via Action Diffusion**: <https://diffusion-policy.cs.columbia.edu/>
+> 202. **RoboAgent**: <https://robopen.github.io/index.html>
+> 203. **Learning to Act from Actionless Videos through Dense Correspondences**: <https://flow-diffusion.github.io/>
+> 204. **OK-Robot**: <https://ok-robot.github.io/>
+> 205. **Learning Universal Policies via Text-Guided Video Generation**: <https://universal-policy.github.io/unipi/>
+> 206. **Helix**: <https://www.figure.ai/news/helix>
+> 207. **Bi-DexHands**: <https://pku-marl.github.io/DexterousHands/>
+> 208. **PhysTwin**: <https://jianghanxiao.github.io/phystwin-web/>
+> 209. **RoboFactory**: <https://iranqin.github.io/robofactory/>
+> 210. **TokenHSI**: <https://liangpan99.github.io/TokenHSI/>
+> 211. **RoboBrain**: <https://superrobobrain.github.io/>
+> 212. **NeuPAN**: <https://hanruihua.github.io/neupan_project/>
+> 213. **Embodied Reasoner**: <https://embodied-reasoner.github.io/>
+> 214. **ManipTrans**: <https://maniptrans.github.io/>
+> 215. **ReBot**: <https://yuffish.github.io/rebot/>
+> 216. **Scalable Real2Sim**: <https://scalable-real2sim.github.io/>
+> 217. **RoboGSim**: <https://robogsim.github.io/>
+> 218. **LEGATO**: <https://ut-hcrl.github.io/LEGATO/>
+> 219. **RobustDexGrasp**: <https://zdchan.github.io/Robust_DexGrasp/>
+> 220. **DexTrack**: <https://meowuu7.github.io/DexTrack/>
+> 221. **Sequential Multi-Object Grasping with One Dexterous Hand**: <https://hesic73.github.io/SeqMultiGrasp/>
+> 222. **Real-is-Sim**: <https://realissim.rai-inst.com/>
+> 223. **AnyDexGrasp**: <https://graspnet.net/anydexgrasp/>
+> 224. **AnyTouch**: <https://gewu-lab.github.io/AnyTouch/>
+> 225. **RoboTwin**: <https://robotwin-benchmark.github.io/index.html>
+> 226. **RoboSplat**: <https://yangsizhe.github.io/robosplat/>
+> 227. **ZeroGrasp**: <https://sh8.io/#/zerograsp>
+> 228. **Chain-of-Modality**: <https://chain-of-modality.github.io/>
+> 229. **DexGraspNet 2.0**: <https://pku-epic.github.io/DexGraspNet2.0/>
+> 230. **AffordDexGrasp**: <https://isee-laboratory.github.io/AffordDexGrasp/index.html>
+> 231. **Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies**: <https://cxu-tri.github.io/FAIL-Detect-Website/>
+> 232. **RoboVerse**: <https://roboverseorg.github.io/>
+> 233. **ArticuBot**: <https://articubot.github.io/>
+> 234. **Manual2Skill**: <https://owensun2004.github.io/Furniture-Assembly-Web/>
+> 235. **SERL**: <https://serl-robot.github.io/>
+> 236. **Limitations in Visuo-Motor Robot Learning**: <https://tsagkas.github.io/pvrobo/>
+> 237. **DeepMimic**: <https://xbpeng.github.io/projects/DeepMimic/index.html>
+> 238. **ET-SEED**: <https://et-seed.github.io/>
+> 239. **Human2Sim2Robot**: <https://human2sim2robot.github.io/>
+> 240. **TesserAct**: <https://tesseractworld.github.io/>
+> 241. **Learning to Learn Faster from Human Feedback with Language Model Predictive Control**: <https://robot-teaching.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1000,10 +1194,36 @@ featured: false
 > 84. **Depth Anything V2**: <https://depth-anything-v2.github.io/>
 > 85. **GausSurf**: <https://jiepengwang.github.io/GausSurf/>
 > 86. **FLARE**: <https://zhanghe3z.github.io/FLARE/>
+> 87. **Aether**: <https://aether-world.github.io/>
+> 88. **Easi3R**: <https://easi3r.github.io/>
+> 89. **SceneScript**: <https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/>
+> 90. **HSMR**: <https://isshikihugh.github.io/HSMR/>
+> 91. **Multi-view Reconstruction via SfM-guided Monocular Depth Estimation**: <https://zju3dv.github.io/murre/>
+> 92. **NormalCrafter**: <https://normalcrafter.github.io/>
+> 93. **FRAME**: <https://vcai.mpi-inf.mpg.de/projects/FRAME/>
+> 94. **TAPIP3D**: <https://tapip3d.github.io/>
+> 95. **ShowMak3r**: <https://nstar1125.github.io/showmak3r/>
+> 96. **Matching 2D Images in 3D**: <https://nianticlabs.github.io/mickey/>
+> 97. **Scene Coordinate Reconstruction**: <https://nianticlabs.github.io/acezero/>
+> 98. **Clinica**: <https://www.clinica.run/>
 
 ## (2) Tools
 
 > 1. **JSON For You**: <https://json4u.cn/>
+> 2. **Readdy**: <https://readdy.ai/>
+> 3. **APILayer**: <https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo>
+> 4. **Free for Developers**: <https://free-for.dev/#/>
+> 5. **System for AI**: <https://microsoft.github.io/AI-System/>
+> 6. **Prompt Optimizer**: <https://prompt.always200.com/>
+> 7. **Dotfiles**: <https://dotfiles.github.io/>
+> 8. **Hacker News**: <https://news.ycombinator.com/>
+> 9. **NewsNow**: <https://newsnow.busiyi.world/>
+> 10. **Inspira UI**: <https://inspira-ui.com/>
+> 11. **kkFileView**: <https://kkview.cn/zh-cn/index.html>
+> 12. **numpy-ml**: <https://numpy-ml.readthedocs.io/en/latest/>
+> 13. **PDFMathTranslate**: <https://pdf2zh.com/>
+> 14. **DeepChem**: <https://deepchem.io/>
+> 15. **OpenAI Cookbook**: <https://cookbook.openai.com/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
