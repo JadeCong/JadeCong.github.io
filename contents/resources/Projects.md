@@ -769,6 +769,7 @@ featured: false
 > 364. **Insert Anything**: <https://song-wensong.github.io/insert-anything/>
 > 365. **Varjo**: <https://varjo.com/company-news/varjo-launches-teleport-2-0-a-generational-leap-in-photorealistic-3d-capture-for-creators/>
 > 366. **MotionCritic**: <https://motioncritic.github.io/>
+> 367. **Pixel3DMM**: <https://simongiebenhain.github.io/pixel3dmm/>
 
 # Robotics
 
@@ -815,6 +816,7 @@ featured: false
 > 39. **agibot**: <http://agibot.cn/>
 > 40. **X1-PDG**: <https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG>
 > 41. **Fourier-GRX-N1**: <http://support.fftai.cn/main/en/concepts/overview/>
+> 42. **Tactile-Readtive Roller Grasper**: <https://yuanshenli.com/tactile_reactive_roller_grasper.html>
 
 ## (2) Software
 
@@ -1224,6 +1226,8 @@ featured: false
 > 13. **PDFMathTranslate**: <https://pdf2zh.com/>
 > 14. **DeepChem**: <https://deepchem.io/>
 > 15. **OpenAI Cookbook**: <https://cookbook.openai.com/>
+> 16. **Nodezator**: <https://nodezator.com/>
+> 17. **Micro**: <https://micro-editor.github.io/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
