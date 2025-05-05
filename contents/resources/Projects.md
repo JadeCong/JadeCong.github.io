@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-04
+last_modified_at: 2025-05-05
 
 hide_description: true
 hide_image: false
@@ -770,6 +770,8 @@ featured: false
 > 365. **Varjo**: <https://varjo.com/company-news/varjo-launches-teleport-2-0-a-generational-leap-in-photorealistic-3d-capture-for-creators/>
 > 366. **MotionCritic**: <https://motioncritic.github.io/>
 > 367. **Pixel3DMM**: <https://simongiebenhain.github.io/pixel3dmm/>
+> 368. **CycleGAN**: <https://junyanz.github.io/CycleGAN/>
+> 369. **Semantic Image Synthesis with Spatially-Adaptive Normalization**: <https://nvlabs.github.io/SPADE/>
 
 # Robotics
 
@@ -849,6 +851,7 @@ featured: false
 > 27. **Genie Sim Benchmark**: <https://agibot-world.com/sim-evaluation>
 > 28. **Geometric Retargeting**: <https://zhaohengyin.github.io/geort/#>
 > 29. **LangWBC**: <https://langwbc.github.io/>
+> 30. **Dynamics-Guided Diffusion Model for Sensor-less Robot Manipulator Design**: <https://dgdm-robot.github.io/>
 
 # AIRobotics
 
@@ -1095,8 +1098,19 @@ featured: false
 > 239. **Human2Sim2Robot**: <https://human2sim2robot.github.io/>
 > 240. **TesserAct**: <https://tesseractworld.github.io/>
 > 241. **Learning to Learn Faster from Human Feedback with Language Model Predictive Control**: <https://robot-teaching.github.io/>
+> 242. **NVIDIA Robotics Research and Development Digest**: <https://developer.nvidia.com/blog/r2d2-advancing-robot-mobility-whole-body-control-with-ai-from-nvidia-research/>
+> 243. **Adaptive Compliance Policy**: <https://adaptive-compliance.github.io/>
+> 244. **DoughNet**: <https://dough-net.github.io/>
+> 245. **ManiWAV**: <https://maniwav.github.io/>
+> 246. **GROOT**: <https://ut-austin-rpl.github.io/GROOT/>
+> 247. **Flow as the Cross-domain Manipulation Interface**: <https://im-flow-act.github.io/>
+> 248. **Robotic Control via Embodied Chain-of-Thought Reasoning**: <https://embodied-cot.github.io/>
+> 249. **Bridging Adaptivity and Safety**: <https://adaptive-safe-locomotion.github.io/>
+> 250. **COMPASS**: <https://nvlabs.github.io/COMPASS/>
 
 ## (2) Autonomous Driving
+
+> 1. **X-Mobility**: <https://nvlabs.github.io/X-MOBILITY/>
 
 ## (3) Embodied Intelligence
 
@@ -1208,6 +1222,8 @@ featured: false
 > 96. **Matching 2D Images in 3D**: <https://nianticlabs.github.io/mickey/>
 > 97. **Scene Coordinate Reconstruction**: <https://nianticlabs.github.io/acezero/>
 > 98. **Clinica**: <https://www.clinica.run/>
+> 99. **DenseFusion**: <https://sites.google.com/view/densefusion>
+> 100. **PoseCNN**: <https://rse-lab.cs.washington.edu/projects/posecnn/>
 
 ## (2) Tools
 
@@ -1229,6 +1245,7 @@ featured: false
 > 16. **Nodezator**: <https://nodezator.com/>
 > 17. **Micro**: <https://micro-editor.github.io/>
 > 18. **Convertio**: <https://developers.convertio.co/>
+> 19. **OpenRL**: <https://openrl-docs.readthedocs.io/en/latest/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
