@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-05
+last_modified_at: 2025-05-06
 
 hide_description: true
 hide_image: false
@@ -819,6 +819,7 @@ featured: false
 > 40. **X1-PDG**: <https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG>
 > 41. **Fourier-GRX-N1**: <http://support.fftai.cn/main/en/concepts/overview/>
 > 42. **Tactile-Readtive Roller Grasper**: <https://yuanshenli.com/tactile_reactive_roller_grasper.html>
+> 43. **PP-Tac**: <https://peilin-666.github.io/projects/PP-Tac/>
 
 ## (2) Software
 
@@ -1224,6 +1225,7 @@ featured: false
 > 98. **Clinica**: <https://www.clinica.run/>
 > 99. **DenseFusion**: <https://sites.google.com/view/densefusion>
 > 100. **PoseCNN**: <https://rse-lab.cs.washington.edu/projects/posecnn/>
+> 101. **MP-SfM**: <https://opencv.org/blog/mp-sfm/>
 
 ## (2) Tools
 
