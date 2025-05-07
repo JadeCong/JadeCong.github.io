@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-06
+last_modified_at: 2025-05-07
 
 hide_description: true
 hide_image: false
@@ -853,6 +853,7 @@ featured: false
 > 28. **Geometric Retargeting**: <https://zhaohengyin.github.io/geort/#>
 > 29. **LangWBC**: <https://langwbc.github.io/>
 > 30. **Dynamics-Guided Diffusion Model for Sensor-less Robot Manipulator Design**: <https://dgdm-robot.github.io/>
+> 31. **AMO**: <https://amo-humanoid.github.io/>
 
 # AIRobotics
 
@@ -1108,6 +1109,7 @@ featured: false
 > 248. **Robotic Control via Embodied Chain-of-Thought Reasoning**: <https://embodied-cot.github.io/>
 > 249. **Bridging Adaptivity and Safety**: <https://adaptive-safe-locomotion.github.io/>
 > 250. **COMPASS**: <https://nvlabs.github.io/COMPASS/>
+> 251. **TWIST**: <https://yanjieze.com/TWIST/>
 
 ## (2) Autonomous Driving
 
