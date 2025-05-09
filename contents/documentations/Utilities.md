@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-12-16
+last_modified_at: 2025-05-10
 
 hide_description: true
 hide_image: false
@@ -46,7 +46,7 @@ featured: false
 
 The block is created for some utilities which are used in routine works. The docs are mainly targeted for basic principles and applications in the fields of **Shell**, **Git**, **CMake** and **Anaconda** etc.
 
-**JadeCong(GitHub Gist):** [Utilities](https://gist.github.com/JadeCong/4289d9171ab907fb3064266083298752)
+**JadeCong(GitHub):** [Awesome-Utilities](https://github.com/JadeCong/Awesome-Utilities)
 {:.note}
 
 # Shell

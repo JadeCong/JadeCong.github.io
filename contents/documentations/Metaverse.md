@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-17
+last_modified_at: 2025-05-10
 
 hide_description: true
 hide_image: false
@@ -531,8 +531,8 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > Omniverse Digital Twins（用于构建数字孪生仓库的例程）：<https://docs.omniverse.nvidia.com/digital-twins/latest/index.html><br>
 
 6. Appendix
-> [Building Microservices For Omniverse](https://github.com/JadeCong/Resources/blob/master/Documents/Nvidia/S32071-JozefvanEenbergen-NicBranker-BuildingMicroservicesForOmniverse_1617757618199001vlUt.pdf)<br>
-> [Deep-dive-into-building-microservices-with-Omniverse](https://github.com/JadeCong/Resources/blob/master/Documents/Nvidia/GTC2021-A31204-Deep-dive-into-building-microservices-with-Omniverse.pdf)<br>
+> [Building Microservices For Omniverse](https://github.com/JadeCong/Resources/blob/main/Assets/Documents/Nvidia/S32071-JozefvanEenbergen-NicBranker-BuildingMicroservicesForOmniverse_1617757618199001vlUt.pdf)<br>
+> [Deep-dive-into-building-microservices-with-Omniverse](https://github.com/JadeCong/Resources/blob/main/Assets/Documents/Nvidia/GTC2021-A31204-Deep-dive-into-building-microservices-with-Omniverse.pdf)<br>
 
 ### 2.3 Nvidia Developer Center
 
@@ -593,7 +593,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > 该网址为Nvidia技术支持的相关资源：<https://www.nvidia.com/en-us/training/resources/>
 
 7. Appendix
-> [nvidia-learning-learning-path-developers-it-administrators](https://github.com/JadeCong/Resources/blob/master/Documents/Nvidia/nvidia-learning-learning-path-developers-it-administrators.pdf)
+> [nvidia-learning-learning-path-developers-it-administrators](https://github.com/JadeCong/Resources/blob/main/Assets/Documents/Nvidia/nvidia-learning-learning-path-developers-it-administrators.pdf)
 
 ### 2.5 Nvidia Downloads Center
 
