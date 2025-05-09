@@ -15,14 +15,15 @@ ehthumbs.db
 # Project Config Misc
 _site/
 _gh_pages/
-.ruby-version
 .jekyll
 .jekyll-cache
 .jekyll-metadata
 .sass-cache
 .bundle
 .vagrant
+.wrangler
 *.gem
+Gemfile.lock
 vendor
 node_modules
 package*.json
