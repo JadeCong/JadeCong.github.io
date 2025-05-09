@@ -1112,6 +1112,7 @@ featured: false
 > 249. **Bridging Adaptivity and Safety**: <https://adaptive-safe-locomotion.github.io/>
 > 250. **COMPASS**: <https://nvlabs.github.io/COMPASS/>
 > 251. **TWIST**: <https://yanjieze.com/TWIST/>
+> 252. **PARC**: <https://michaelx.io/parc/>
 
 ## (2) Autonomous Driving
 
