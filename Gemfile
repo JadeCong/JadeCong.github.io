@@ -37,6 +37,7 @@ group :jekyll_plugins do
   gem "kramdown-syntax-coderay"
   gem "faraday-retry"
   gem "jekyll-avatar"
+  gem "csv"
   
   # Non-Github Pages plugins
   gem "jekyll-last-modified-at"
