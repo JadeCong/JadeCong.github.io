@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-07
+last_modified_at: 2025-05-09
 
 hide_description: true
 hide_image: false
@@ -772,6 +772,7 @@ featured: false
 > 367. **Pixel3DMM**: <https://simongiebenhain.github.io/pixel3dmm/>
 > 368. **CycleGAN**: <https://junyanz.github.io/CycleGAN/>
 > 369. **Semantic Image Synthesis with Spatially-Adaptive Normalization**: <https://nvlabs.github.io/SPADE/>
+> 370. **DeepLiveCam**: <https://deeplivecam.net/>
 
 # Robotics
 
@@ -854,6 +855,7 @@ featured: false
 > 29. **LangWBC**: <https://langwbc.github.io/>
 > 30. **Dynamics-Guided Diffusion Model for Sensor-less Robot Manipulator Design**: <https://dgdm-robot.github.io/>
 > 31. **AMO**: <https://amo-humanoid.github.io/>
+> 32. **PyRoki**: <https://pyroki-toolkit.github.io/>
 
 # AIRobotics
 
