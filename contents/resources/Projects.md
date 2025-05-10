@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-09
+last_modified_at: 2025-05-10
 
 hide_description: true
 hide_image: false
@@ -1253,6 +1253,8 @@ featured: false
 > 17. **Micro**: <https://micro-editor.github.io/>
 > 18. **Convertio**: <https://developers.convertio.co/>
 > 19. **OpenRL**: <https://openrl-docs.readthedocs.io/en/latest/>
+> 20. **ALLinSSL**: <https://allinssl.com/>
+> 21. **Material for MkDocs**: <https://squidfunk.github.io/mkdocs-material/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
