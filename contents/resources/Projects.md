@@ -400,6 +400,7 @@ featured: false
 > 182. **OpenBB**: <https://openbb.co/>
 > 183. **SigLens**: <https://www.siglens.com/>
 > 184. **Readdy**: <https://readdy.ai/>
+> 185. **LegoGPT**: <https://avalovelace1.github.io/LegoGPT/>
 
 ## (3) AIGC
 
@@ -773,6 +774,7 @@ featured: false
 > 368. **CycleGAN**: <https://junyanz.github.io/CycleGAN/>
 > 369. **Semantic Image Synthesis with Spatially-Adaptive Normalization**: <https://nvlabs.github.io/SPADE/>
 > 370. **DeepLiveCam**: <https://deeplivecam.net/>
+> 371. **AnimateAnywhere**: <https://animateanywhere.github.io/>
 
 # Robotics
 
