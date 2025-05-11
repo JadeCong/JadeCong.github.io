@@ -434,6 +434,7 @@ plugins:
   - jekyll-avatar
   - jekyll-last-modified-at
   - jekyll-compose
+  - csv
 
 # Jekyll plugins configurations.
 # Front matter plugin.

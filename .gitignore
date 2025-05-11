@@ -1,6 +1,12 @@
 # Windows OS Misc
+*.db
+*.ini
+*.dll
+*.exe
 
 # Linux OS Misc
+*.so
+*.out
 
 # macOS Misc
 .DS_Store

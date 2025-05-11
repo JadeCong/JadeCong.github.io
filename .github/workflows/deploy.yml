@@ -1,0 +1,68 @@
+name: Deploy Jekyll Site to Server - Oracle
+
+run-name: Deploy Jekyll Site to Server - Oracle
+
+on:
+  push:
+    branches:
+      - main # Runs on pushes targeting the default branch
+  workflow_dispatch: # Manual dispatch
+
+permissions:
+  contents: read
+
+env:
+  GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  deploy-jekyll-site-to-server:
+    name: Deploy Jekyll Site to Server
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout the Repository to Runner
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for all branches and tags
+          submodules: true # Fetch all submodules
+          persist-credentials: false # Do not persist credentials to the runner
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3
+          bundler-cache: true
+      
+      - name: Build Jekyll Site
+        run: |
+          bundle install
+          bundle exec jekyll build --trace
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      
+      - name: Push Build Results to Server
+        uses: appleboy/scp-action@v1
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USERNAME }}
+          password: ${{ secrets.SERVER_PASSWORD }}
+          port: ${{ secrets.SERVER_PORT }}
+          source: "_site/"
+          target: ${{ secrets.SERVER_PUSH_PATH }}
+          rm: true
+        
+      # - name: Deploy Build Results to Server
+      #   uses: appleboy/scp-action@v1
+      #   with:
+      #     host: ${{ secrets.SERVER_HOST }}
+      #     username: ${{ secrets.SERVER_USERNAME }}
+      #     password: ${{ secrets.SERVER_PASSWORD }}
+      #     port: ${{ secrets.SERVER_PORT }}
+      #     source: "_site/*"
+      #     target: ${{ secrets.SERVER_DEPLOY_PATH }}
+      #     rm: true
