@@ -45,7 +45,7 @@ jobs:
           echo "Workflow Configurations: $WORKFLOW_CONFIGS"
       
       - name: Check Configurations
-        if: steps.load-configs.ouptuts.PUSH_TO_SERVER == 'true'
+        if: steps.load-configs.ouptuts.push_to_server == 'true'
         run: |
           echo "Well Done!"
       
