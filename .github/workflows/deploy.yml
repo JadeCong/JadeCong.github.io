@@ -38,14 +38,17 @@ jobs:
           sudo apt-get install -y yq
       
       - name: Load Workflow Configs
-        id: load-configs
+        # id: load-configs
         run: |
           echo "Loading workflow configurations..."
           WORKFLOW_CONFIGS=$(yq '.config' .github/config.yml)
           echo "Workflow Configurations: $WORKFLOW_CONFIGS"
+          echo "PUSH_TO_SERVER=$(echo $WORKFLOW_CONFIGS | yq '.push_to_server')" >> $GITHUB_ENV
+          echo "DEPLOY_TO_SERVER=$(echo $WORKFLOW_CONFIGS | yq '.deploy_to_server')" >> $GITHUB_ENV
       
       - name: Check Configurations
-        if: steps.load-configs.ouptuts.push_to_server == 'true'
+        # if: steps.load-configs.ouptuts.push_to_server == 'true'
+        if: env.PUSH_TO_SERVER == 'true'
         run: |
           echo "Well Done!"
       
