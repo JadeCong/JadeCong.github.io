@@ -1,0 +1,4 @@
+# Confgiurations for workflows actions of push and deployment to server
+config:
+  push_to_server: true
+  deploy_to_server: true
