@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-10
+last_modified_at: 2025-05-11
 
 hide_description: true
 hide_image: false
@@ -401,6 +401,7 @@ featured: false
 > 183. **SigLens**: <https://www.siglens.com/>
 > 184. **Readdy**: <https://readdy.ai/>
 > 185. **LegoGPT**: <https://avalovelace1.github.io/LegoGPT/>
+> 186. **DeerFlow**: <https://deerflow.tech/>
 
 ## (3) AIGC
 
