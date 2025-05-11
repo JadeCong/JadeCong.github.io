@@ -41,7 +41,7 @@ jobs:
         id: load-configs
         run: |
           echo "Loading workflow configurations..."
-          WORKFLOW_CONFIGS=$(yq eval '.config' .github/config.yml)
+          WORKFLOW_CONFIGS=$(yq '.config' .github/config.yml)
           echo "Workflow Configurations: $WORKFLOW_CONFIGS"
       
       - name: Check Configurations
