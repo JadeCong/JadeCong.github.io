@@ -52,11 +52,11 @@ jobs:
           bundler-cache: true
       
       - name: Build Jekyll Site
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           bundle install
           bundle exec jekyll build --trace
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Push Build Results to Server
         if: env.PUSH_TO_SERVER == 'true'
