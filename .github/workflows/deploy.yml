@@ -69,8 +69,8 @@ jobs:
           source: "_site/*"
           target: ${{ secrets.SERVER_PUSH_PATH }}
           rm: true
-          use_rsync: true
-        
+          strip_components: 1
+      
       - name: Deploy Build Results to Server
         if: env.DEPLOY_TO_SERVER == 'true'
         uses: appleboy/scp-action@v1
@@ -82,4 +82,4 @@ jobs:
           source: "_site/*"
           target: ${{ secrets.SERVER_DEPLOY_PATH }}
           rm: true
-          use_rsync: true
+          strip_components: 1
