@@ -12,7 +12,7 @@ permissions:
   contents: read
 
 env:
-  GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -30,7 +30,7 @@ jobs:
           fetch-depth: 0 # Fetch all history for all branches and tags
           submodules: true # Fetch all submodules
           persist-credentials: false # Do not persist credentials to the runner
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -43,7 +43,7 @@ jobs:
           bundle install
           bundle exec jekyll build --trace
         env:
-          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Push Build Results to Server
         uses: appleboy/scp-action@v1
