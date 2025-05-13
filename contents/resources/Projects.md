@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-11
+last_modified_at: 2025-05-13
 
 hide_description: true
 hide_image: false
@@ -824,6 +824,7 @@ featured: false
 > 41. **Fourier-GRX-N1**: <http://support.fftai.cn/main/en/concepts/overview/>
 > 42. **Tactile-Readtive Roller Grasper**: <https://yuanshenli.com/tactile_reactive_roller_grasper.html>
 > 43. **PP-Tac**: <https://peilin-666.github.io/projects/PP-Tac/>
+> 44. **HOMIE**: <https://homietele.github.io/>
 
 ## (2) Software
 
@@ -859,6 +860,7 @@ featured: false
 > 30. **Dynamics-Guided Diffusion Model for Sensor-less Robot Manipulator Design**: <https://dgdm-robot.github.io/>
 > 31. **AMO**: <https://amo-humanoid.github.io/>
 > 32. **PyRoki**: <https://pyroki-toolkit.github.io/>
+> 33. **GELLO**: <https://wuphilipp.github.io/gello_site/>
 
 # AIRobotics
 
@@ -1116,6 +1118,10 @@ featured: false
 > 250. **COMPASS**: <https://nvlabs.github.io/COMPASS/>
 > 251. **TWIST**: <https://yanjieze.com/TWIST/>
 > 252. **PARC**: <https://michaelx.io/parc/>
+> 253. **AgiBot GO-1**: <https://agibot-world.com/blog/go1>
+> 254. **TRILL**: <https://ut-austin-rpl.github.io/TRILL/>
+> 255. **Learning Force Control for Legged Manipulation**: <https://tif-twirl-13.github.io/learning-compliance>
+> 256. **HuB**: <https://hub-robot.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1234,6 +1240,7 @@ featured: false
 > 99. **DenseFusion**: <https://sites.google.com/view/densefusion>
 > 100. **PoseCNN**: <https://rse-lab.cs.washington.edu/projects/posecnn/>
 > 101. **MP-SfM**: <https://opencv.org/blog/mp-sfm/>
+> 102. **REWIND**: <https://jyunlee.github.io/projects/rewind/>
 
 ## (2) Tools
 
