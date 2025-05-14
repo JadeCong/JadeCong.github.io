@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-13
+last_modified_at: 2025-05-14
 
 hide_description: true
 hide_image: false
@@ -776,6 +776,8 @@ featured: false
 > 369. **Semantic Image Synthesis with Spatially-Adaptive Normalization**: <https://nvlabs.github.io/SPADE/>
 > 370. **DeepLiveCam**: <https://deeplivecam.net/>
 > 371. **AnimateAnywhere**: <https://animateanywhere.github.io/>
+> 372. **HunyuanCustom**: <https://hunyuancustom.github.io/>
+> 373. **Step1X-3D**: <https://stepfun-ai.github.io/Step1X-3D/>
 
 # Robotics
 
@@ -1122,6 +1124,10 @@ featured: false
 > 254. **TRILL**: <https://ut-austin-rpl.github.io/TRILL/>
 > 255. **Learning Force Control for Legged Manipulation**: <https://tif-twirl-13.github.io/learning-compliance>
 > 256. **HuB**: <https://hub-robot.github.io/>
+> 257. **DexWild**: <https://dexwild.github.io/>
+> 258. **Diffusion Policy Policy Optimization**: <https://diffusion-ppo.github.io/>
+> 259. **DROID**: <https://droid-dataset.github.io/>
+> 260. **Open X-Embodiment**: <https://robotics-transformer-x.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1241,6 +1247,7 @@ featured: false
 > 100. **PoseCNN**: <https://rse-lab.cs.washington.edu/projects/posecnn/>
 > 101. **MP-SfM**: <https://opencv.org/blog/mp-sfm/>
 > 102. **REWIND**: <https://jyunlee.github.io/projects/rewind/>
+> 103. **GENMO**: <https://research.nvidia.com/labs/dair/genmo/>
 
 ## (2) Tools
 
