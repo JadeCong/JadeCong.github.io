@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-14
+last_modified_at: 2025-05-16
 
 hide_description: true
 hide_image: false
@@ -213,6 +213,7 @@ featured: false
 > 163. **InternVL**: <https://internvl.readthedocs.io/en/latest/>
 > 164. **Niantic**: <https://www.nianticlabs.com/>
 > 165. **Lemon Slice Live**: <https://lemonslice.com/live>
+> 166. **OpenXLA**: <https://openxla.org/?hl=zh-cn>
 
 ## (2) Agents
 
@@ -404,6 +405,9 @@ featured: false
 > 186. **DeerFlow**: <https://deerflow.tech/>
 > 187. **OpenMemory MCP**: <https://mem0.ai/openmemory-mcp>
 > 188. **Camera Interaction App**: <https://github.ngxson.com/smolvlm-realtime-webcam/>
+> 189. **CodeRabbit**: <https://www.coderabbit.ai/>
+> 190. **AlphaEvolve**: <https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/>
+> 191. **AG-UI Protocol**: <https://docs.ag-ui.com/introduction>
 
 ## (3) AIGC
 
@@ -1276,6 +1280,8 @@ featured: false
 > 19. **OpenRL**: <https://openrl-docs.readthedocs.io/en/latest/>
 > 20. **ALLinSSL**: <https://allinssl.com/>
 > 21. **Material for MkDocs**: <https://squidfunk.github.io/mkdocs-material/>
+> 22. **Hoppscotch**: <https://hoppscotch.io/>
+> 23. **SimpleMindMap**: <https://wanglin2.github.io/mind-map-docs/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
