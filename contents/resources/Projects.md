@@ -402,6 +402,8 @@ featured: false
 > 184. **Readdy**: <https://readdy.ai/>
 > 185. **LegoGPT**: <https://avalovelace1.github.io/LegoGPT/>
 > 186. **DeerFlow**: <https://deerflow.tech/>
+> 187. **OpenMemory MCP**: <https://mem0.ai/openmemory-mcp>
+> 188. **Camera Interaction App**: <https://github.ngxson.com/smolvlm-realtime-webcam/>
 
 ## (3) AIGC
 
@@ -778,6 +780,7 @@ featured: false
 > 371. **AnimateAnywhere**: <https://animateanywhere.github.io/>
 > 372. **HunyuanCustom**: <https://hunyuancustom.github.io/>
 > 373. **Step1X-3D**: <https://stepfun-ai.github.io/Step1X-3D/>
+> 374. **Articulate AnyMesh**: <https://articulateanymesh.github.io/>
 
 # Robotics
 
@@ -1248,6 +1251,7 @@ featured: false
 > 101. **MP-SfM**: <https://opencv.org/blog/mp-sfm/>
 > 102. **REWIND**: <https://jyunlee.github.io/projects/rewind/>
 > 103. **GENMO**: <https://research.nvidia.com/labs/dair/genmo/>
+> 104. **Matrix3D**: <https://nju-3dv.github.io/projects/matrix3d/>
 
 ## (2) Tools
 
