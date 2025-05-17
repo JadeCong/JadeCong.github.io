@@ -788,6 +788,8 @@ featured: false
 > 373. **Step1X-3D**: <https://stepfun-ai.github.io/Step1X-3D/>
 > 374. **Articulate AnyMesh**: <https://articulateanymesh.github.io/>
 > 375. **LightLab**: <https://nadmag.github.io/LightLab/>
+> 376. **SOAP**: <https://tingtingliao.github.io/soap/>
+> 377. **DICE-Talk**: <https://toto222.github.io/DICE-Talk/>
 
 # Robotics
 
@@ -1140,6 +1142,7 @@ featured: false
 > 260. **Open X-Embodiment**: <https://robotics-transformer-x.github.io/>
 > 261. **H3DP**: <https://lyy-iiis.github.io/h3dp/>
 > 262. **UAD**: <https://unsup-affordance.github.io/>
+> 263. **Real2Render2Real**: <https://real2render2real.com/>
 
 ## (2) Autonomous Driving
 
