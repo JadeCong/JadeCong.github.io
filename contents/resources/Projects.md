@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-16
+last_modified_at: 2025-05-17
 
 hide_description: true
 hide_image: false
@@ -408,6 +408,8 @@ featured: false
 > 189. **CodeRabbit**: <https://www.coderabbit.ai/>
 > 190. **AlphaEvolve**: <https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/>
 > 191. **AG-UI Protocol**: <https://docs.ag-ui.com/introduction>
+> 192. **ListenHub**: <https://listenhub.ai/zh>
+> 193. **Comet**: <https://www.perplexity.ai/comet>
 
 ## (3) AIGC
 
@@ -785,6 +787,7 @@ featured: false
 > 372. **HunyuanCustom**: <https://hunyuancustom.github.io/>
 > 373. **Step1X-3D**: <https://stepfun-ai.github.io/Step1X-3D/>
 > 374. **Articulate AnyMesh**: <https://articulateanymesh.github.io/>
+> 375. **LightLab**: <https://nadmag.github.io/LightLab/>
 
 # Robotics
 
@@ -1135,6 +1138,8 @@ featured: false
 > 258. **Diffusion Policy Policy Optimization**: <https://diffusion-ppo.github.io/>
 > 259. **DROID**: <https://droid-dataset.github.io/>
 > 260. **Open X-Embodiment**: <https://robotics-transformer-x.github.io/>
+> 261. **H3DP**: <https://lyy-iiis.github.io/h3dp/>
+> 262. **UAD**: <https://unsup-affordance.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1282,6 +1287,7 @@ featured: false
 > 21. **Material for MkDocs**: <https://squidfunk.github.io/mkdocs-material/>
 > 22. **Hoppscotch**: <https://hoppscotch.io/>
 > 23. **SimpleMindMap**: <https://wanglin2.github.io/mind-map-docs/>
+> 24. **GrapesJS**: <https://grapesjs.com/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
