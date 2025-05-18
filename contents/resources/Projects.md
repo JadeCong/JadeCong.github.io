@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-17
+last_modified_at: 2025-05-18
 
 hide_description: true
 hide_image: false
@@ -790,6 +790,7 @@ featured: false
 > 375. **LightLab**: <https://nadmag.github.io/LightLab/>
 > 376. **SOAP**: <https://tingtingliao.github.io/soap/>
 > 377. **DICE-Talk**: <https://toto222.github.io/DICE-Talk/>
+> 378. **Sketch2Anim**: <https://zhongleilz.github.io/Sketch2Anim/>
 
 # Robotics
 
