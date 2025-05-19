@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-18
+last_modified_at: 2025-05-19
 
 hide_description: true
 hide_image: false
@@ -840,6 +840,7 @@ featured: false
 > 42. **Tactile-Readtive Roller Grasper**: <https://yuanshenli.com/tactile_reactive_roller_grasper.html>
 > 43. **PP-Tac**: <https://peilin-666.github.io/projects/PP-Tac/>
 > 44. **HOMIE**: <https://homietele.github.io/>
+> 45. **K-Bot**: <https://docs.kscale.dev/docs/kbot>
 
 ## (2) Software
 
@@ -1144,6 +1145,7 @@ featured: false
 > 261. **H3DP**: <https://lyy-iiis.github.io/h3dp/>
 > 262. **UAD**: <https://unsup-affordance.github.io/>
 > 263. **Real2Render2Real**: <https://real2render2real.com/>
+> 264. **PTP**: <https://ptp-robot.github.io/>
 
 ## (2) Autonomous Driving
 
