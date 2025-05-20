@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-19
+last_modified_at: 2025-05-20
 
 hide_description: true
 hide_image: false
@@ -106,7 +106,7 @@ featured: false
 > 56. **Cohere**: <https://cohere.com/>
 > 57. **DeepSpeed**: <https://www.deepspeed.ai/>
 > 58. **AI Mind**: <https://www.aimind.so/>
-> 59. **flowith**: <https://flowith.io/conv/51c05bc8-92f3-4644-869d-35fd22dbfb71>
+> 59. **flowith**: <https://flowith.net/blank>
 > 60. **LeanDojo**: <https://leandojo.org/>
 > 61. **GPT4All**: <https://www.nomic.ai/gpt4all>
 > 62. **MiniGPT4-Video**: <https://vision-cair.github.io/MiniGPT4-video/>
@@ -877,6 +877,7 @@ featured: false
 > 31. **AMO**: <https://amo-humanoid.github.io/>
 > 32. **PyRoki**: <https://pyroki-toolkit.github.io/>
 > 33. **GELLO**: <https://wuphilipp.github.io/gello_site/>
+> 34. **FACET**: <https://facet.pages.dev/#/>
 
 # AIRobotics
 
