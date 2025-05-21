@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-04-16
+last_modified_at: 2025-05-21
 
 hide_description: true
 hide_image: false
@@ -53,6 +53,7 @@ featured: false
 > 5. **ERNIE**: <https://wenxin.baidu.com/wenxin>
 > 6. **NVIDIA Cosmos**: <https://www.nvidia.com/en-us/ai/cosmos/>
 > 7. **KTransformers**: <https://kvcache-ai.github.io/ktransformers/>
+> 8. **Veo**: <https://deepmind.google/models/veo/>
 
 # Benchmark
 

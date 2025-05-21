@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-20
+last_modified_at: 2025-05-21
 
 hide_description: true
 hide_image: false
@@ -214,6 +214,7 @@ featured: false
 > 164. **Niantic**: <https://www.nianticlabs.com/>
 > 165. **Lemon Slice Live**: <https://lemonslice.com/live>
 > 166. **OpenXLA**: <https://openxla.org/?hl=zh-cn>
+> 167. **Veo**: <https://deepmind.google/models/veo/>
 
 ## (2) Agents
 
@@ -410,6 +411,7 @@ featured: false
 > 191. **AG-UI Protocol**: <https://docs.ag-ui.com/introduction>
 > 192. **ListenHub**: <https://listenhub.ai/zh>
 > 193. **Comet**: <https://www.perplexity.ai/comet>
+> 194. **Microsoft Copilot Studio**: <https://www.microsoft.com/zh-cn/microsoft-copilot/microsoft-copilot-studio>
 
 ## (3) AIGC
 
@@ -791,6 +793,7 @@ featured: false
 > 376. **SOAP**: <https://tingtingliao.github.io/soap/>
 > 377. **DICE-Talk**: <https://toto222.github.io/DICE-Talk/>
 > 378. **Sketch2Anim**: <https://zhongleilz.github.io/Sketch2Anim/>
+> 379. **MTVCrafter**: <https://dingyanb.github.io/MTVCtafter/>
 
 # Robotics
 
@@ -1147,6 +1150,8 @@ featured: false
 > 262. **UAD**: <https://unsup-affordance.github.io/>
 > 263. **Real2Render2Real**: <https://real2render2real.com/>
 > 264. **PTP**: <https://ptp-robot.github.io/>
+> 265. **GarmentPile**: <https://garmentpile.github.io/>
+> 266. **DreamGen**: <https://research.nvidia.com/labs/gear/dreamgen/>
 
 ## (2) Autonomous Driving
 
