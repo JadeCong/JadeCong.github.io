@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-21
+last_modified_at: 2025-05-22
 
 hide_description: true
 hide_image: false
@@ -844,6 +844,8 @@ featured: false
 > 43. **PP-Tac**: <https://peilin-666.github.io/projects/PP-Tac/>
 > 44. **HOMIE**: <https://homietele.github.io/>
 > 45. **K-Bot**: <https://docs.kscale.dev/docs/kbot>
+> 46. **Berkeley Humanoid Lite**: <https://lite.berkeley-humanoid.org/>
+> 47. **Robot Studio**: <https://www.therobotstudio.com/>
 
 ## (2) Software
 
@@ -1152,6 +1154,7 @@ featured: false
 > 264. **PTP**: <https://ptp-robot.github.io/>
 > 265. **GarmentPile**: <https://garmentpile.github.io/>
 > 266. **DreamGen**: <https://research.nvidia.com/labs/gear/dreamgen/>
+> 267. **VideoMimic**: <https://www.videomimic.net/>
 
 ## (2) Autonomous Driving
 
