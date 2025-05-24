@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-22
+last_modified_at: 2025-05-24
 
 hide_description: true
 hide_image: false
@@ -794,6 +794,7 @@ featured: false
 > 377. **DICE-Talk**: <https://toto222.github.io/DICE-Talk/>
 > 378. **Sketch2Anim**: <https://zhongleilz.github.io/Sketch2Anim/>
 > 379. **MTVCrafter**: <https://dingyanb.github.io/MTVCtafter/>
+> 380. **ISA4D**: <https://dsaurus.github.io/isa4d/>
 
 # Robotics
 
@@ -846,6 +847,7 @@ featured: false
 > 45. **K-Bot**: <https://docs.kscale.dev/docs/kbot>
 > 46. **Berkeley Humanoid Lite**: <https://lite.berkeley-humanoid.org/>
 > 47. **Robot Studio**: <https://www.therobotstudio.com/>
+> 48. **FastUMI**: <https://fastumi.com/>
 
 ## (2) Software
 
@@ -883,6 +885,7 @@ featured: false
 > 32. **PyRoki**: <https://pyroki-toolkit.github.io/>
 > 33. **GELLO**: <https://wuphilipp.github.io/gello_site/>
 > 34. **FACET**: <https://facet.pages.dev/#/>
+> 35. **MPlib**: <https://motion-planning-lib.readthedocs.io/latest/>
 
 # AIRobotics
 
@@ -1155,6 +1158,8 @@ featured: false
 > 265. **GarmentPile**: <https://garmentpile.github.io/>
 > 266. **DreamGen**: <https://research.nvidia.com/labs/gear/dreamgen/>
 > 267. **VideoMimic**: <https://www.videomimic.net/>
+> 268. **AdaManip**: <https://adamanip.github.io/>
+> 269. **D(R,O) Grasp**: <https://nus-lins-lab.github.io/drograspweb/>
 
 ## (2) Autonomous Driving
 
@@ -1276,6 +1281,8 @@ featured: false
 > 102. **REWIND**: <https://jyunlee.github.io/projects/rewind/>
 > 103. **GENMO**: <https://research.nvidia.com/labs/dair/genmo/>
 > 104. **Matrix3D**: <https://nju-3dv.github.io/projects/matrix3d/>
+> 105. **EVA**: <https://vcai.mpi-inf.mpg.de/projects/EVA/>
+> 106. **PromptHMR**: <https://yufu-wang.github.io/phmr-page/>
 
 ## (2) Tools
 
