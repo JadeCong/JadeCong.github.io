@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-24
+last_modified_at: 2025-05-26
 
 hide_description: true
 hide_image: false
@@ -412,6 +412,7 @@ featured: false
 > 192. **ListenHub**: <https://listenhub.ai/zh>
 > 193. **Comet**: <https://www.perplexity.ai/comet>
 > 194. **Microsoft Copilot Studio**: <https://www.microsoft.com/zh-cn/microsoft-copilot/microsoft-copilot-studio>
+> 195. **WildDoc**: <https://bytedance.github.io/WildDoc/>
 
 ## (3) AIGC
 
@@ -795,6 +796,9 @@ featured: false
 > 378. **Sketch2Anim**: <https://zhongleilz.github.io/Sketch2Anim/>
 > 379. **MTVCrafter**: <https://dingyanb.github.io/MTVCtafter/>
 > 380. **ISA4D**: <https://dsaurus.github.io/isa4d/>
+> 381. **JoyGen**: <https://joy-mm.github.io/JoyGen/>
+> 382. **The Way of Code**: <https://www.thewayofcode.com/>
+> 383. **Direct3D-S2**: <https://nju-3dv.github.io/projects/Direct3D-S2/>
 
 # Robotics
 
@@ -848,6 +852,7 @@ featured: false
 > 46. **Berkeley Humanoid Lite**: <https://lite.berkeley-humanoid.org/>
 > 47. **Robot Studio**: <https://www.therobotstudio.com/>
 > 48. **FastUMI**: <https://fastumi.com/>
+> 49. **Vision Tactile Manipulation**: <https://vision-tactile-manip.github.io/teleop/>
 
 ## (2) Software
 
@@ -1160,6 +1165,8 @@ featured: false
 > 267. **VideoMimic**: <https://www.videomimic.net/>
 > 268. **AdaManip**: <https://adamanip.github.io/>
 > 269. **D(R,O) Grasp**: <https://nus-lins-lab.github.io/drograspweb/>
+> 270. **LaMMA-P**: <https://lamma-p.github.io/>
+> 271. **RoBridge**: <https://abliao.github.io/RoBridge/>
 
 ## (2) Autonomous Driving
 
