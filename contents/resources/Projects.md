@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-26
+last_modified_at: 2025-05-27
 
 hide_description: true
 hide_image: false
@@ -1167,6 +1167,7 @@ featured: false
 > 269. **D(R,O) Grasp**: <https://nus-lins-lab.github.io/drograspweb/>
 > 270. **LaMMA-P**: <https://lamma-p.github.io/>
 > 271. **RoBridge**: <https://abliao.github.io/RoBridge/>
+> 272. **SPI-Active**: <https://lecar-lab.github.io/spi-active_/>
 
 ## (2) Autonomous Driving
 
