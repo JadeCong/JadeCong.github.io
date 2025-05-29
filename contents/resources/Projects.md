@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-27
+last_modified_at: 2025-05-29
 
 hide_description: true
 hide_image: false
@@ -413,6 +413,9 @@ featured: false
 > 193. **Comet**: <https://www.perplexity.ai/comet>
 > 194. **Microsoft Copilot Studio**: <https://www.microsoft.com/zh-cn/microsoft-copilot/microsoft-copilot-studio>
 > 195. **WildDoc**: <https://bytedance.github.io/WildDoc/>
+> 196. **Emergent Vibe Coding**: <https://app.emergent.sh/>
+> 197. **Stitch**: <https://stitch.withgoogle.com/?pli=1>
+> 198. **VideoTutor**: <https://videotutor.io/>
 
 ## (3) AIGC
 
@@ -799,6 +802,7 @@ featured: false
 > 381. **JoyGen**: <https://joy-mm.github.io/JoyGen/>
 > 382. **The Way of Code**: <https://www.thewayofcode.com/>
 > 383. **Direct3D-S2**: <https://nju-3dv.github.io/projects/Direct3D-S2/>
+> 384. **DUIX**: <https://duix.com/>
 
 # Robotics
 
@@ -1168,6 +1172,7 @@ featured: false
 > 270. **LaMMA-P**: <https://lamma-p.github.io/>
 > 271. **RoBridge**: <https://abliao.github.io/RoBridge/>
 > 272. **SPI-Active**: <https://lecar-lab.github.io/spi-active_/>
+> 273. **ConRFT**: <https://cccedric.github.io/conrft/>
 
 ## (2) Autonomous Driving
 
