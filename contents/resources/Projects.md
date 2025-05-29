@@ -1173,6 +1173,7 @@ featured: false
 > 271. **RoBridge**: <https://abliao.github.io/RoBridge/>
 > 272. **SPI-Active**: <https://lecar-lab.github.io/spi-active_/>
 > 273. **ConRFT**: <https://cccedric.github.io/conrft/>
+> 274. **FastTD3**: <https://younggyo.me/fast_td3/>
 
 ## (2) Autonomous Driving
 
@@ -1296,6 +1297,7 @@ featured: false
 > 104. **Matrix3D**: <https://nju-3dv.github.io/projects/matrix3d/>
 > 105. **EVA**: <https://vcai.mpi-inf.mpg.de/projects/EVA/>
 > 106. **PromptHMR**: <https://yufu-wang.github.io/phmr-page/>
+> 107. **SceneTracker**: <https://mp.weixin.qq.com/s/XRo605YrAKbQPlQP2dELsg>
 
 ## (2) Tools
 
