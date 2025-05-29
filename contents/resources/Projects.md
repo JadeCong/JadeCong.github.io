@@ -1174,6 +1174,7 @@ featured: false
 > 272. **SPI-Active**: <https://lecar-lab.github.io/spi-active_/>
 > 273. **ConRFT**: <https://cccedric.github.io/conrft/>
 > 274. **FastTD3**: <https://younggyo.me/fast_td3/>
+> 275. **DYNA-1**: <https://www.dyna.co/research>
 
 ## (2) Autonomous Driving
 
