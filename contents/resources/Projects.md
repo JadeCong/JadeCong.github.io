@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-29
+last_modified_at: 2025-05-30
 
 hide_description: true
 hide_image: false
@@ -857,6 +857,7 @@ featured: false
 > 47. **Robot Studio**: <https://www.therobotstudio.com/>
 > 48. **FastUMI**: <https://fastumi.com/>
 > 49. **Vision Tactile Manipulation**: <https://vision-tactile-manip.github.io/teleop/>
+> 50. **HOPEJr**: <https://github.com/TheRobotStudio/HOPEJr>
 
 ## (2) Software
 
@@ -1299,6 +1300,7 @@ featured: false
 > 105. **EVA**: <https://vcai.mpi-inf.mpg.de/projects/EVA/>
 > 106. **PromptHMR**: <https://yufu-wang.github.io/phmr-page/>
 > 107. **SceneTracker**: <https://mp.weixin.qq.com/s/XRo605YrAKbQPlQP2dELsg>
+> 108. **UP-SLAM**: <https://aczheng-cai.github.io/up_slam.github.io/>
 
 ## (2) Tools
 
