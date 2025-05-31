@@ -1181,6 +1181,7 @@ featured: false
 > 275. **DYNA-1**: <https://www.dyna.co/research>
 > 276. **VLAs that Train Fast, Run Fast, and Generalize Better**: <https://www.pi.website/research/knowledge_insulation>
 > 277. **HAND Me the Data**: <https://liralab.usc.edu/handretrieval/>
+> 278. **LocoTouch**: <https://linchangyi1.github.io/LocoTouch/>
 
 ## (2) Autonomous Driving
 
@@ -1306,6 +1307,7 @@ featured: false
 > 106. **PromptHMR**: <https://yufu-wang.github.io/phmr-page/>
 > 107. **SceneTracker**: <https://mp.weixin.qq.com/s/XRo605YrAKbQPlQP2dELsg>
 > 108. **UP-SLAM**: <https://aczheng-cai.github.io/up_slam.github.io/>
+> 109. **OphNet-3D**: <https://ophnet-3d.github.io/>
 
 ## (2) Tools
 
