@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-31
+last_modified_at: 2025-06-01
 
 hide_description: true
 hide_image: false
@@ -804,6 +804,7 @@ featured: false
 > 383. **Direct3D-S2**: <https://nju-3dv.github.io/projects/Direct3D-S2/>
 > 384. **DUIX**: <https://duix.com/>
 > 385. **MotionPro**: <https://zhw-zhang.github.io/MotionPro-page/>
+> 386. **MAGREF**: <https://magref-video.github.io/magref.github.io/>
 
 # Robotics
 
@@ -1182,6 +1183,8 @@ featured: false
 > 276. **VLAs that Train Fast, Run Fast, and Generalize Better**: <https://www.pi.website/research/knowledge_insulation>
 > 277. **HAND Me the Data**: <https://liralab.usc.edu/handretrieval/>
 > 278. **LocoTouch**: <https://linchangyi1.github.io/LocoTouch/>
+> 279. **HDC:Humanoid Diffusion Controller**: <https://humanoid-diffusion-controller.github.io/>
+> 280. **AMOR**: <https://la.disneyresearch.com/publication/amor-adaptive-character-control-through-multi-objective-reinforcement-learning/>
 
 ## (2) Autonomous Driving
 
