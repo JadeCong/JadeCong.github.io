@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-30
+last_modified_at: 2025-05-31
 
 hide_description: true
 hide_image: false
@@ -803,6 +803,7 @@ featured: false
 > 382. **The Way of Code**: <https://www.thewayofcode.com/>
 > 383. **Direct3D-S2**: <https://nju-3dv.github.io/projects/Direct3D-S2/>
 > 384. **DUIX**: <https://duix.com/>
+> 385. **MotionPro**: <https://zhw-zhang.github.io/MotionPro-page/>
 
 # Robotics
 
@@ -858,6 +859,8 @@ featured: false
 > 48. **FastUMI**: <https://fastumi.com/>
 > 49. **Vision Tactile Manipulation**: <https://vision-tactile-manip.github.io/teleop/>
 > 50. **HOPEJr**: <https://github.com/TheRobotStudio/HOPEJr>
+> 51. **Reachy 2**: <https://www.pollen-robotics.com/reachy/>
+> 52. **Xiaozhi**: <https://xiaozhi.me/>
 
 ## (2) Software
 
@@ -1176,6 +1179,8 @@ featured: false
 > 273. **ConRFT**: <https://cccedric.github.io/conrft/>
 > 274. **FastTD3**: <https://younggyo.me/fast_td3/>
 > 275. **DYNA-1**: <https://www.dyna.co/research>
+> 276. **VLAs that Train Fast, Run Fast, and Generalize Better**: <https://www.pi.website/research/knowledge_insulation>
+> 277. **HAND Me the Data**: <https://liralab.usc.edu/handretrieval/>
 
 ## (2) Autonomous Driving
 
