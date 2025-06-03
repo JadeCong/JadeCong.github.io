@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-01
+last_modified_at: 2025-06-03
 
 hide_description: true
 hide_image: false
@@ -805,6 +805,7 @@ featured: false
 > 384. **DUIX**: <https://duix.com/>
 > 385. **MotionPro**: <https://zhw-zhang.github.io/MotionPro-page/>
 > 386. **MAGREF**: <https://magref-video.github.io/magref.github.io/>
+> 387. **ATI**: <https://anytraj.github.io/>
 
 # Robotics
 
@@ -862,6 +863,7 @@ featured: false
 > 50. **HOPEJr**: <https://github.com/TheRobotStudio/HOPEJr>
 > 51. **Reachy 2**: <https://www.pollen-robotics.com/reachy/>
 > 52. **Xiaozhi**: <https://xiaozhi.me/>
+> 53. **Two-Stage Tentacle**: <https://hackaday.com/2016/10/05/two-stage-tentacle-mechanisms-part-ii-the-cable-controller/>
 
 ## (2) Software
 
