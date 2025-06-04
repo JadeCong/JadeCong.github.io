@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-03
+last_modified_at: 2025-06-04
 
 hide_description: true
 hide_image: false
@@ -1187,6 +1187,7 @@ featured: false
 > 278. **LocoTouch**: <https://linchangyi1.github.io/LocoTouch/>
 > 279. **HDC:Humanoid Diffusion Controller**: <https://humanoid-diffusion-controller.github.io/>
 > 280. **AMOR**: <https://la.disneyresearch.com/publication/amor-adaptive-character-control-through-multi-objective-reinforcement-learning/>
+> 281. **Agentic Robot**: <https://agentic-robot.github.io/>
 
 ## (2) Autonomous Driving
 
