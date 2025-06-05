@@ -1190,6 +1190,8 @@ featured: false
 > 280. **AMOR**: <https://la.disneyresearch.com/publication/amor-adaptive-character-control-through-multi-objective-reinforcement-learning/>
 > 281. **Agentic Robot**: <https://agentic-robot.github.io/>
 > 282. **SAM2Act**: <https://sam2act.github.io/>
+> 283. **Hold My Beer**: <https://lecar-lab.github.io/SoFTA/>
+> 284. **DexMachina**: <https://project-dexmachina.github.io/>
 
 ## (2) Autonomous Driving
 
