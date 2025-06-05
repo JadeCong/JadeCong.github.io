@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-04
+last_modified_at: 2025-06-05
 
 hide_description: true
 hide_image: false
@@ -806,6 +806,7 @@ featured: false
 > 385. **MotionPro**: <https://zhw-zhang.github.io/MotionPro-page/>
 > 386. **MAGREF**: <https://magref-video.github.io/magref.github.io/>
 > 387. **ATI**: <https://anytraj.github.io/>
+> 388. **Temporal In-Context Fine-Tuning**: <https://kinam0252.github.io/TIC-FT/>
 
 # Robotics
 
@@ -1188,6 +1189,7 @@ featured: false
 > 279. **HDC:Humanoid Diffusion Controller**: <https://humanoid-diffusion-controller.github.io/>
 > 280. **AMOR**: <https://la.disneyresearch.com/publication/amor-adaptive-character-control-through-multi-objective-reinforcement-learning/>
 > 281. **Agentic Robot**: <https://agentic-robot.github.io/>
+> 282. **SAM2Act**: <https://sam2act.github.io/>
 
 ## (2) Autonomous Driving
 
