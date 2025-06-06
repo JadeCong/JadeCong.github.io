@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-05
+last_modified_at: 2025-06-06
 
 hide_description: true
 hide_image: false
@@ -215,6 +215,7 @@ featured: false
 > 165. **Lemon Slice Live**: <https://lemonslice.com/live>
 > 166. **OpenXLA**: <https://openxla.org/?hl=zh-cn>
 > 167. **Veo**: <https://deepmind.google/models/veo/>
+> 168. **Fast-dLLM**: <https://nvlabs.github.io/Fast-dLLM/>
 
 ## (2) Agents
 
@@ -807,6 +808,7 @@ featured: false
 > 386. **MAGREF**: <https://magref-video.github.io/magref.github.io/>
 > 387. **ATI**: <https://anytraj.github.io/>
 > 388. **Temporal In-Context Fine-Tuning**: <https://kinam0252.github.io/TIC-FT/>
+> 389. **Modify Video**: <https://lumalabs.ai/blog/news/introducing-modify-video>
 
 # Robotics
 
@@ -1192,6 +1194,8 @@ featured: false
 > 282. **SAM2Act**: <https://sam2act.github.io/>
 > 283. **Hold My Beer**: <https://lecar-lab.github.io/SoFTA/>
 > 284. **DexMachina**: <https://project-dexmachina.github.io/>
+> 285. **Feel The Force**: <https://feel-the-force-ftf.github.io/>
+> 286. **TrackVLA**: <https://pku-epic.github.io/TrackVLA-web/>
 
 ## (2) Autonomous Driving
 
@@ -1345,6 +1349,7 @@ featured: false
 > 22. **Hoppscotch**: <https://hoppscotch.io/>
 > 23. **SimpleMindMap**: <https://wanglin2.github.io/mind-map-docs/>
 > 24. **GrapesJS**: <https://grapesjs.com/>
+> 25. **Kuzu Graph Database**: <https://kuzudb.com/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
