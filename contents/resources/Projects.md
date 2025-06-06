@@ -867,6 +867,7 @@ featured: false
 > 51. **Reachy 2**: <https://www.pollen-robotics.com/reachy/>
 > 52. **Xiaozhi**: <https://xiaozhi.me/>
 > 53. **Two-Stage Tentacle**: <https://hackaday.com/2016/10/05/two-stage-tentacle-mechanisms-part-ii-the-cable-controller/>
+> 54. **Unitree Qmini**: <https://github.com/unitreerobotics/Qmini>
 
 ## (2) Software
 
@@ -1350,6 +1351,7 @@ featured: false
 > 23. **SimpleMindMap**: <https://wanglin2.github.io/mind-map-docs/>
 > 24. **GrapesJS**: <https://grapesjs.com/>
 > 25. **Kuzu Graph Database**: <https://kuzudb.com/>
+> 26. **nb**: <https://xwmx.github.io/nb/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
