@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-06
+last_modified_at: 2025-06-08
 
 hide_description: true
 hide_image: false
@@ -417,6 +417,8 @@ featured: false
 > 196. **Emergent Vibe Coding**: <https://app.emergent.sh/>
 > 197. **Stitch**: <https://stitch.withgoogle.com/?pli=1>
 > 198. **VideoTutor**: <https://videotutor.io/>
+> 199. **hyperbrowser**: <https://www.hyperbrowser.ai/>
+> 200. **Auto-MCP**: <https://auto-mcp.com/>
 
 ## (3) AIGC
 
@@ -906,6 +908,7 @@ featured: false
 > 33. **GELLO**: <https://wuphilipp.github.io/gello_site/>
 > 34. **FACET**: <https://facet.pages.dev/#/>
 > 35. **MPlib**: <https://motion-planning-lib.readthedocs.io/latest/>
+> 36. **Newton Physics**: <https://newton-physics.github.io/newton/guide/overview.html>
 
 # AIRobotics
 
@@ -1197,6 +1200,8 @@ featured: false
 > 284. **DexMachina**: <https://project-dexmachina.github.io/>
 > 285. **Feel The Force**: <https://feel-the-force-ftf.github.io/>
 > 286. **TrackVLA**: <https://pku-epic.github.io/TrackVLA-web/>
+> 287. **CrossFormer**: <https://crossformer-model.github.io/>
+> 288. **Sim2Remote-Real**: <https://s2r2-ig.github.io/>
 
 ## (2) Autonomous Driving
 
