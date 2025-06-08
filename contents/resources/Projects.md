@@ -1202,6 +1202,7 @@ featured: false
 > 286. **TrackVLA**: <https://pku-epic.github.io/TrackVLA-web/>
 > 287. **CrossFormer**: <https://crossformer-model.github.io/>
 > 288. **Sim2Remote-Real**: <https://s2r2-ig.github.io/>
+> 209. **CLONE**: <https://humanoid-clone.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1357,6 +1358,7 @@ featured: false
 > 24. **GrapesJS**: <https://grapesjs.com/>
 > 25. **Kuzu Graph Database**: <https://kuzudb.com/>
 > 26. **nb**: <https://xwmx.github.io/nb/>
+> 27. **Vosk**: <https://alphacephei.com/vosk/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
