@@ -811,6 +811,7 @@ featured: false
 > 387. **ATI**: <https://anytraj.github.io/>
 > 388. **Temporal In-Context Fine-Tuning**: <https://kinam0252.github.io/TIC-FT/>
 > 389. **Modify Video**: <https://lumalabs.ai/blog/news/introducing-modify-video>
+> 390. **MiniMax-Remover**: <https://minimax-remover.github.io/>
 
 # Robotics
 
