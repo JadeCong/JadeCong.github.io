@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-08
+last_modified_at: 2025-06-09
 
 hide_description: true
 hide_image: false
@@ -870,6 +870,8 @@ featured: false
 > 52. **Xiaozhi**: <https://xiaozhi.me/>
 > 53. **Two-Stage Tentacle**: <https://hackaday.com/2016/10/05/two-stage-tentacle-mechanisms-part-ii-the-cable-controller/>
 > 54. **Unitree Qmini**: <https://github.com/unitreerobotics/Qmini>
+> 55. **lerobot**: <https://huggingface.co/docs/lerobot/index>
+> 56. **XLeRobot**: <https://github.com/Vector-Wangel/XLeRobot>
 
 ## (2) Software
 
@@ -1359,6 +1361,7 @@ featured: false
 > 25. **Kuzu Graph Database**: <https://kuzudb.com/>
 > 26. **nb**: <https://xwmx.github.io/nb/>
 > 27. **Vosk**: <https://alphacephei.com/vosk/>
+> 28. **Machinekit**: <https://machinekoder.com/machinekit-ros-industrial-robot/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
