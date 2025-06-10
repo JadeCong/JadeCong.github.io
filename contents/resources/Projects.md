@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-09
+last_modified_at: 2025-06-10
 
 hide_description: true
 hide_image: false
@@ -216,6 +216,7 @@ featured: false
 > 166. **OpenXLA**: <https://openxla.org/?hl=zh-cn>
 > 167. **Veo**: <https://deepmind.google/models/veo/>
 > 168. **Fast-dLLM**: <https://nvlabs.github.io/Fast-dLLM/>
+> 169. **ThetaWave AI**: <https://thetawave.ai/>
 
 ## (2) Agents
 
@@ -1206,6 +1207,8 @@ featured: false
 > 287. **CrossFormer**: <https://crossformer-model.github.io/>
 > 288. **Sim2Remote-Real**: <https://s2r2-ig.github.io/>
 > 209. **CLONE**: <https://humanoid-clone.github.io/>
+> 210. **HoMeR**: <https://homer-manip.github.io/>
+> 211. **R2S2**: <https://zzk273.github.io/R2S2/>
 
 ## (2) Autonomous Driving
 
