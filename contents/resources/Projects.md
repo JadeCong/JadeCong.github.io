@@ -1209,6 +1209,8 @@ featured: false
 > 209. **CLONE**: <https://humanoid-clone.github.io/>
 > 210. **HoMeR**: <https://homer-manip.github.io/>
 > 211. **R2S2**: <https://zzk273.github.io/R2S2/>
+> 212. **RoboRefer**: <https://zhoues.github.io/RoboRefer/>
+> 213. **Real-Time Action Chunking with Large Models**: <https://www.physicalintelligence.company/research/real_time_chunking>
 
 ## (2) Autonomous Driving
 
