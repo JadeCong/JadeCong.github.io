@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-10
+last_modified_at: 2025-06-11
 
 hide_description: true
 hide_image: false
@@ -874,6 +874,8 @@ featured: false
 > 54. **Unitree Qmini**: <https://github.com/unitreerobotics/Qmini>
 > 55. **lerobot**: <https://huggingface.co/docs/lerobot/index>
 > 56. **XLeRobot**: <https://github.com/Vector-Wangel/XLeRobot>
+> 57. **NuExo**: <https://nubot-nuexo.github.io/>
+> 58. **DexUMI**: <https://dex-umi.github.io/>
 
 ## (2) Software
 
@@ -1211,6 +1213,7 @@ featured: false
 > 211. **R2S2**: <https://zzk273.github.io/R2S2/>
 > 212. **RoboRefer**: <https://zhoues.github.io/RoboRefer/>
 > 213. **Real-Time Action Chunking with Large Models**: <https://www.physicalintelligence.company/research/real_time_chunking>
+> 214. **Redwood AI**: <https://www.1x.tech/discover/redwood-ai>
 
 ## (2) Autonomous Driving
 
