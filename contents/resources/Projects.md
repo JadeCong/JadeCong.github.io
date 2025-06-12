@@ -1220,6 +1220,7 @@ featured: false
 > 215. **Mobi-π**: <https://mobipi.github.io/>
 > 216. **ViSA-Flow**: <https://visaflow-web.github.io/ViSAFLOW/>
 > 217. **Fast-in-Slow**: <https://fast-in-slow.github.io/>
+> 218. **CogACT**: <https://cogact.github.io/>
 
 ## (2) Autonomous Driving
 
