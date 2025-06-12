@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-11
+last_modified_at: 2025-06-12
 
 hide_description: true
 hide_image: false
@@ -217,6 +217,7 @@ featured: false
 > 167. **Veo**: <https://deepmind.google/models/veo/>
 > 168. **Fast-dLLM**: <https://nvlabs.github.io/Fast-dLLM/>
 > 169. **ThetaWave AI**: <https://thetawave.ai/>
+> 170. **V-JEPA 2**: <https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/>
 
 ## (2) Agents
 
@@ -813,6 +814,8 @@ featured: false
 > 388. **Temporal In-Context Fine-Tuning**: <https://kinam0252.github.io/TIC-FT/>
 > 389. **Modify Video**: <https://lumalabs.ai/blog/news/introducing-modify-video>
 > 390. **MiniMax-Remover**: <https://minimax-remover.github.io/>
+> 391. **PartCrafter**: <https://wgsxm.github.io/projects/partcrafter/>
+> 392. **MonkeyOCR**: <http://vlrlabmonkey.xyz:7685/>
 
 # Robotics
 
@@ -1214,6 +1217,9 @@ featured: false
 > 212. **RoboRefer**: <https://zhoues.github.io/RoboRefer/>
 > 213. **Real-Time Action Chunking with Large Models**: <https://www.physicalintelligence.company/research/real_time_chunking>
 > 214. **Redwood AI**: <https://www.1x.tech/discover/redwood-ai>
+> 215. **Mobi-π**: <https://mobipi.github.io/>
+> 216. **ViSA-Flow**: <https://visaflow-web.github.io/ViSAFLOW/>
+> 217. **Fast-in-Slow**: <https://fast-in-slow.github.io/>
 
 ## (2) Autonomous Driving
 
