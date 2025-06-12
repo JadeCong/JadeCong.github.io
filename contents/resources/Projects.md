@@ -816,6 +816,7 @@ featured: false
 > 390. **MiniMax-Remover**: <https://minimax-remover.github.io/>
 > 391. **PartCrafter**: <https://wgsxm.github.io/projects/partcrafter/>
 > 392. **MonkeyOCR**: <http://vlrlabmonkey.xyz:7685/>
+> 393. **OmniSync**: <https://ziqiaopeng.github.io/OmniSync/>
 
 # Robotics
 
