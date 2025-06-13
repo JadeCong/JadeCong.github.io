@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-12
+last_modified_at: 2025-06-13
 
 hide_description: true
 hide_image: false
@@ -919,6 +919,7 @@ featured: false
 > 34. **FACET**: <https://facet.pages.dev/#/>
 > 35. **MPlib**: <https://motion-planning-lib.readthedocs.io/latest/>
 > 36. **Newton Physics**: <https://newton-physics.github.io/newton/guide/overview.html>
+> 37. **Holistic Mobile Manipulation**: <https://jhavl.github.io/holistic/>
 
 # AIRobotics
 
