@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-13
+last_modified_at: 2025-06-14
 
 hide_description: true
 hide_image: false
@@ -880,6 +880,7 @@ featured: false
 > 56. **XLeRobot**: <https://github.com/Vector-Wangel/XLeRobot>
 > 57. **NuExo**: <https://nubot-nuexo.github.io/>
 > 58. **DexUMI**: <https://dex-umi.github.io/>
+> 59. **PolyTouch**: <https://polytouch.alanz.info/>
 
 ## (2) Software
 
@@ -1224,6 +1225,7 @@ featured: false
 > 217. **Fast-in-Slow**: <https://fast-in-slow.github.io/>
 > 218. **CogACT**: <https://cogact.github.io/>
 > 219. **3D Motion Field**: <https://zhaohengyin.github.io/3DMF/>
+> 220. **ReLIC**: <https://relic-locoman.rai-inst.com/>
 
 ## (2) Autonomous Driving
 
