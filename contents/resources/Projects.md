@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-14
+last_modified_at: 2025-06-15
 
 hide_description: true
 hide_image: false
@@ -1226,6 +1226,8 @@ featured: false
 > 218. **CogACT**: <https://cogact.github.io/>
 > 219. **3D Motion Field**: <https://zhaohengyin.github.io/3DMF/>
 > 220. **ReLIC**: <https://relic-locoman.rai-inst.com/>
+> 221. **BridgeVLA**: <https://bridgevla.github.io/home_page.html>
+> 222. **RoboVLMs**: <https://robovlms.github.io/>
 
 ## (2) Autonomous Driving
 
