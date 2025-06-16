@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-15
+last_modified_at: 2025-06-16
 
 hide_description: true
 hide_image: false
@@ -421,6 +421,7 @@ featured: false
 > 198. **VideoTutor**: <https://videotutor.io/>
 > 199. **hyperbrowser**: <https://www.hyperbrowser.ai/>
 > 200. **Auto-MCP**: <https://auto-mcp.com/>
+> 201. **Parakeet TDT**: <https://parakeettdt.com/>
 
 ## (3) AIGC
 
@@ -1385,6 +1386,7 @@ featured: false
 > 26. **nb**: <https://xwmx.github.io/nb/>
 > 27. **Vosk**: <https://alphacephei.com/vosk/>
 > 28. **Machinekit**: <https://machinekoder.com/machinekit-ros-industrial-robot/>
+> 29. **MAZANOKE**: <https://mazanoke.com/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
