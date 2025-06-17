@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-16
+last_modified_at: 2025-06-17
 
 hide_description: true
 hide_image: false
@@ -818,6 +818,7 @@ featured: false
 > 391. **PartCrafter**: <https://wgsxm.github.io/projects/partcrafter/>
 > 392. **MonkeyOCR**: <http://vlrlabmonkey.xyz:7685/>
 > 393. **OmniSync**: <https://ziqiaopeng.github.io/OmniSync/>
+> 394. **DreamActor-H1**: <https://submit2025-dream.github.io/DreamActor-H1/>
 
 # Robotics
 
@@ -882,6 +883,7 @@ featured: false
 > 57. **NuExo**: <https://nubot-nuexo.github.io/>
 > 58. **DexUMI**: <https://dex-umi.github.io/>
 > 59. **PolyTouch**: <https://polytouch.alanz.info/>
+> 60. **RoTipBot**: <https://sites.google.com/view/rotipbot>
 
 ## (2) Software
 
