@@ -218,6 +218,7 @@ featured: false
 > 168. **Fast-dLLM**: <https://nvlabs.github.io/Fast-dLLM/>
 > 169. **ThetaWave AI**: <https://thetawave.ai/>
 > 170. **V-JEPA 2**: <https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/>
+> 171. **AdaWorld**: <https://adaptable-world-model.github.io/>
 
 ## (2) Agents
 
@@ -819,6 +820,7 @@ featured: false
 > 392. **MonkeyOCR**: <http://vlrlabmonkey.xyz:7685/>
 > 393. **OmniSync**: <https://ziqiaopeng.github.io/OmniSync/>
 > 394. **DreamActor-H1**: <https://submit2025-dream.github.io/DreamActor-H1/>
+> 395. **MagicTryOn**: <https://vivocameraresearch.github.io/magictryon/>
 
 # Robotics
 
