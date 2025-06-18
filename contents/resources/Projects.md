@@ -1234,6 +1234,7 @@ featured: false
 > 220. **ReLIC**: <https://relic-locoman.rai-inst.com/>
 > 221. **BridgeVLA**: <https://bridgevla.github.io/home_page.html>
 > 222. **RoboVLMs**: <https://robovlms.github.io/>
+> 223. **Generalist**: <https://generalistai.com/>
 
 ## (2) Autonomous Driving
 
