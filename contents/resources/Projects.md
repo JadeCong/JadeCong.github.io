@@ -888,6 +888,9 @@ featured: false
 > 59. **PolyTouch**: <https://polytouch.alanz.info/>
 > 60. **RoTipBot**: <https://sites.google.com/view/rotipbot>
 > 61. **eFlesh**: <https://e-flesh.com/>
+> 62. **ALOHA 2**: <https://aloha-2.github.io/>
+> 63. **Mobile ALOHA**: <https://mobile-aloha.github.io/cn.html>
+> 64. **AirExo**: <https://airexo.github.io/https://airexo.github.io/>
 
 ## (2) Software
 
@@ -1237,6 +1240,7 @@ featured: false
 > 222. **RoboVLMs**: <https://robovlms.github.io/>
 > 223. **Generalist**: <https://generalistai.com/>
 > 224. **RH20T**: <https://rh20t.github.io/>
+> 225. **AutoVLA**: <https://autovla.github.io/>
 
 ## (2) Autonomous Driving
 
