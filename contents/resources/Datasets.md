@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-19
+last_modified_at: 2025-06-19
 
 hide_description: true
 hide_image: false
@@ -62,6 +62,7 @@ featured: false
 > 3. **DROID**: <https://droid-dataset.github.io/>
 > 4. **Open X-Embodiment**: <https://robotics-transformer-x.github.io/>
 > 5. **HUMOTO**: <https://jiaxin-lu.github.io/humoto/>
+> 6. **RH20T**: <https://rh20t.github.io/>
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}
