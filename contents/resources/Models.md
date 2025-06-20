@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-21
+last_modified_at: 2025-06-20
 
 hide_description: true
 hide_image: false
@@ -54,6 +54,7 @@ featured: false
 > 6. **NVIDIA Cosmos**: <https://www.nvidia.com/en-us/ai/cosmos/>
 > 7. **KTransformers**: <https://kvcache-ai.github.io/ktransformers/>
 > 8. **Veo**: <https://deepmind.google/models/veo/>
+> 9. **Alpaca**: <https://crfm.stanford.edu/2023/03/13/alpaca.html>
 
 # Benchmark
 

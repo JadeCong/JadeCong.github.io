@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-19
+last_modified_at: 2025-06-20
 
 hide_description: true
 hide_image: false
@@ -219,6 +219,7 @@ featured: false
 > 169. **ThetaWave AI**: <https://thetawave.ai/>
 > 170. **V-JEPA 2**: <https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/>
 > 171. **AdaWorld**: <https://adaptable-world-model.github.io/>
+> 172. **Alpaca**: <https://crfm.stanford.edu/2023/03/13/alpaca.html>
 
 ## (2) Agents
 
