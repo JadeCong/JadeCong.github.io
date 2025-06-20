@@ -1242,6 +1242,9 @@ featured: false
 > 223. **Generalist**: <https://generalistai.com/>
 > 224. **RH20T**: <https://rh20t.github.io/>
 > 225. **AutoVLA**: <https://autovla.github.io/>
+> 226. **Particle-Grid Neural Dynamics**: <https://kywind.github.io/pgnd>
+> 227. **Vision in Action**: <https://vision-in-action.github.io/>
+> 228. **AMPLIFY Robotics**: <https://amplify-robotics.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1368,6 +1371,7 @@ featured: false
 > 107. **SceneTracker**: <https://mp.weixin.qq.com/s/XRo605YrAKbQPlQP2dELsg>
 > 108. **UP-SLAM**: <https://aczheng-cai.github.io/up_slam.github.io/>
 > 109. **OphNet-3D**: <https://ophnet-3d.github.io/>
+> 110. **Hand-held Object Reconstruction from RGB Video with Dynamic Interaction**: <https://east-j.github.io/dynhor/>
 
 ## (2) Tools
 
