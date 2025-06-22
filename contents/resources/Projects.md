@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-20
+last_modified_at: 2025-06-22
 
 hide_description: true
 hide_image: false
@@ -425,6 +425,9 @@ featured: false
 > 200. **Auto-MCP**: <https://auto-mcp.com/>
 > 201. **Parakeet TDT**: <https://parakeettdt.com/>
 > 202. **Onlook**: <https://onlook.com/>
+> 203. **AgenticSeek**: <https://fosowl.github.io/agenticSeek.html>
+> 204. **Void**: <https://voideditor.com/>
+> 205. **Cool-Admin**: <https://admin.cool-js.com/>
 
 ## (3) AIGC
 
@@ -823,6 +826,7 @@ featured: false
 > 393. **OmniSync**: <https://ziqiaopeng.github.io/OmniSync/>
 > 394. **DreamActor-H1**: <https://submit2025-dream.github.io/DreamActor-H1/>
 > 395. **MagicTryOn**: <https://vivocameraresearch.github.io/magictryon/>
+> 396. **ImmerseGen**: <https://immersegen.github.io/>
 
 # Robotics
 
@@ -1245,6 +1249,10 @@ featured: false
 > 226. **Particle-Grid Neural Dynamics**: <https://kywind.github.io/pgnd>
 > 227. **Vision in Action**: <https://vision-in-action.github.io/>
 > 228. **AMPLIFY Robotics**: <https://amplify-robotics.github.io/>
+> 229. **Embodied Web Agents**: <https://embodied-web-agent.github.io/>
+> 230. **VR-Robo**: <https://vr-robo.github.io/>
+> 231. **RoboTwin 2.0**: <https://robotwin-platform.github.io/>
+> 232. **Forward Dynamics Model**: <https://leggedrobotics.github.io/fdm.github.io/>
 
 ## (2) Autonomous Driving
 
