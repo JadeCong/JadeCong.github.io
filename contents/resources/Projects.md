@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-22
+last_modified_at: 2025-06-23
 
 hide_description: true
 hide_image: false
@@ -1253,6 +1253,15 @@ featured: false
 > 230. **VR-Robo**: <https://vr-robo.github.io/>
 > 231. **RoboTwin 2.0**: <https://robotwin-platform.github.io/>
 > 232. **Forward Dynamics Model**: <https://leggedrobotics.github.io/fdm.github.io/>
+> 233. **Dex1B**: <https://jiyuezh.github.io/research/dex1b>
+> 234. **GaussianProperty**: <https://gaussian-property.github.io/>
+> 235. **ManiBox**: <https://thkkk.github.io/manibox>
+> 236. **EMOS**: <https://emos-project.github.io/>
+> 237. **Tiny-VLA**: <https://tiny-vla.github.io/>
+> 238. **CoVLA**: <https://turingmotors.github.io/covla-ad/>
+> 239. **GMT**: <https://gmt-humanoid.github.io/>
+> 240. **CLIP**: <https://openai.com/index/clip/>
+> 241. **OpenVLA-OFT**: <https://openvla-oft.github.io/>
 
 ## (2) Autonomous Driving
 
