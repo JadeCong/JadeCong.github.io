@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-23
+last_modified_at: 2025-06-24
 
 hide_description: true
 hide_image: false
@@ -1262,6 +1262,8 @@ featured: false
 > 239. **GMT**: <https://gmt-humanoid.github.io/>
 > 240. **CLIP**: <https://openai.com/index/clip/>
 > 241. **OpenVLA-OFT**: <https://openvla-oft.github.io/>
+> 242. **ControlVLA**: <https://controlvla.github.io/>
+> 243. **LeVERB**: <https://ember-lab-berkeley.github.io/LeVERB-Website/>
 
 ## (2) Autonomous Driving
 
