@@ -429,6 +429,7 @@ featured: false
 > 203. **AgenticSeek**: <https://fosowl.github.io/agenticSeek.html>
 > 204. **Void**: <https://voideditor.com/>
 > 205. **Cool-Admin**: <https://admin.cool-js.com/>
+> 206. **Pocket Flow**: <https://the-pocket.github.io/PocketFlow/>
 
 ## (3) AIGC
 
@@ -1265,6 +1266,7 @@ featured: false
 > 241. **OpenVLA-OFT**: <https://openvla-oft.github.io/>
 > 242. **ControlVLA**: <https://controlvla.github.io/>
 > 243. **LeVERB**: <https://ember-lab-berkeley.github.io/LeVERB-Website/>
+> 244. **Gemini Robotics On-Device**: <https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/>
 
 ## (2) Autonomous Driving
 
