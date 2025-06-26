@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-25
+last_modified_at: 2025-06-26
 
 hide_description: true
 hide_image: false
@@ -430,6 +430,7 @@ featured: false
 > 204. **Void**: <https://voideditor.com/>
 > 205. **Cool-Admin**: <https://admin.cool-js.com/>
 > 206. **Pocket Flow**: <https://the-pocket.github.io/PocketFlow/>
+> 207. **Gemini CLI**: <https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/>
 
 ## (3) AIGC
 
@@ -1267,6 +1268,7 @@ featured: false
 > 242. **ControlVLA**: <https://controlvla.github.io/>
 > 243. **LeVERB**: <https://ember-lab-berkeley.github.io/LeVERB-Website/>
 > 244. **Gemini Robotics On-Device**: <https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/>
+> 245. **An Affordance-Aware Hierarchical Model for General Robotic Manipulation**: <https://a-embodied.github.io/A0/>
 
 ## (2) Autonomous Driving
 
