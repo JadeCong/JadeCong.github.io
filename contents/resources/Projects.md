@@ -832,6 +832,7 @@ featured: false
 > 395. **MagicTryOn**: <https://vivocameraresearch.github.io/magictryon/>
 > 396. **ImmerseGen**: <https://immersegen.github.io/>
 > 397. **OmniGen2**: <https://vectorspacelab.github.io/OmniGen2/>
+> 398. **NexusGS**: <https://usmizuki.github.io/NexusGS/>
 
 # Robotics
 
@@ -1272,6 +1273,9 @@ featured: false
 > 243. **LeVERB**: <https://ember-lab-berkeley.github.io/LeVERB-Website/>
 > 244. **Gemini Robotics On-Device**: <https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/>
 > 245. **An Affordance-Aware Hierarchical Model for General Robotic Manipulation**: <https://a-embodied.github.io/A0/>
+> 246. **CUPID**: <https://cupid-curation.github.io/>
+> 247. **DemoDiffusion**: <https://demodiffusion.github.io/>
+> 248. **LAMARL**: <https://windylab.github.io/LAMARL/>
 
 ## (2) Autonomous Driving
 
