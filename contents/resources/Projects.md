@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-26
+last_modified_at: 2025-06-27
 
 hide_description: true
 hide_image: false
@@ -431,6 +431,7 @@ featured: false
 > 205. **Cool-Admin**: <https://admin.cool-js.com/>
 > 206. **Pocket Flow**: <https://the-pocket.github.io/PocketFlow/>
 > 207. **Gemini CLI**: <https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/>
+> 208. **OpenManus**: <https://openmanus.github.io/>
 
 ## (3) AIGC
 
@@ -830,6 +831,7 @@ featured: false
 > 394. **DreamActor-H1**: <https://submit2025-dream.github.io/DreamActor-H1/>
 > 395. **MagicTryOn**: <https://vivocameraresearch.github.io/magictryon/>
 > 396. **ImmerseGen**: <https://immersegen.github.io/>
+> 397. **OmniGen2**: <https://vectorspacelab.github.io/OmniGen2/>
 
 # Robotics
 
@@ -899,6 +901,7 @@ featured: false
 > 62. **ALOHA 2**: <https://aloha-2.github.io/>
 > 63. **Mobile ALOHA**: <https://mobile-aloha.github.io/cn.html>
 > 64. **AirExo**: <https://airexo.github.io/https://airexo.github.io/>
+> 65. **DexHub and DART**: <https://dexhub.ai/project>
 
 ## (2) Software
 
