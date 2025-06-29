@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-28
+last_modified_at: 2025-06-29
 
 hide_description: true
 hide_image: false
@@ -432,6 +432,7 @@ featured: false
 > 206. **Pocket Flow**: <https://the-pocket.github.io/PocketFlow/>
 > 207. **Gemini CLI**: <https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/>
 > 208. **OpenManus**: <https://openmanus.github.io/>
+> 209. **Strands Agents**: <https://strandsagents.com/latest/>
 
 ## (3) AIGC
 
@@ -833,6 +834,7 @@ featured: false
 > 396. **ImmerseGen**: <https://immersegen.github.io/>
 > 397. **OmniGen2**: <https://vectorspacelab.github.io/OmniGen2/>
 > 398. **NexusGS**: <https://usmizuki.github.io/NexusGS/>
+> 399. **SwapAnyHead**: <https://humanaigc.github.io/SwapAnyHead/>
 
 # Robotics
 
@@ -943,6 +945,7 @@ featured: false
 > 35. **MPlib**: <https://motion-planning-lib.readthedocs.io/latest/>
 > 36. **Newton Physics**: <https://newton-physics.github.io/newton/guide/overview.html>
 > 37. **Holistic Mobile Manipulation**: <https://jhavl.github.io/holistic/>
+> 38. **Judo**: <https://bdaiinstitute.github.io/judo/>
 
 # AIRobotics
 
@@ -1276,6 +1279,10 @@ featured: false
 > 246. **CUPID**: <https://cupid-curation.github.io/>
 > 247. **DemoDiffusion**: <https://demodiffusion.github.io/>
 > 248. **LAMARL**: <https://windylab.github.io/LAMARL/>
+> 249. **AMP**: <https://xbpeng.github.io/projects/AMP/index.html>
+> 250. **PHC**: <https://www.zhengyiluo.com/PHC-Site/>
+> 251. **PULSE**: <https://www.zhengyiluo.com/PULSE-Site/>
+> 252. **PDC**: <https://www.zhengyiluo.com/PDC-Site/>
 
 ## (2) Autonomous Driving
 
@@ -1403,6 +1410,7 @@ featured: false
 > 108. **UP-SLAM**: <https://aczheng-cai.github.io/up_slam.github.io/>
 > 109. **OphNet-3D**: <https://ophnet-3d.github.io/>
 > 110. **Hand-held Object Reconstruction from RGB Video with Dynamic Interaction**: <https://east-j.github.io/dynhor/>
+> 111. **Embodied Scene-aware Human Pose Estimation**: <https://www.zhengyiluo.com/projects/embodied_pose/>
 
 ## (2) Tools
 
