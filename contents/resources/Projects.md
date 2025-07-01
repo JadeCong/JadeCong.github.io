@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-29
+last_modified_at: 2025-07-01
 
 hide_description: true
 hide_image: false
@@ -221,6 +221,8 @@ featured: false
 > 171. **AdaWorld**: <https://adaptable-world-model.github.io/>
 > 172. **Alpaca**: <https://crfm.stanford.edu/2023/03/13/alpaca.html>
 > 173. **Spatial-MLLM**: <https://diankun-wu.github.io/Spatial-MLLM/>
+> 174. **Gemma 3n**: <https://deepmind.google/models/gemma/gemma-3n/>
+> 175. **AlphaGenome**: <https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/>
 
 ## (2) Agents
 
@@ -433,6 +435,8 @@ featured: false
 > 207. **Gemini CLI**: <https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/>
 > 208. **OpenManus**: <https://openmanus.github.io/>
 > 209. **Strands Agents**: <https://strandsagents.com/latest/>
+> 210. **Augment Code**: <https://www.augmentcode.com/>
+> 211. **Claude Code**: <https://www.claudecode.io/>
 
 ## (3) AIGC
 
@@ -835,6 +839,7 @@ featured: false
 > 397. **OmniGen2**: <https://vectorspacelab.github.io/OmniGen2/>
 > 398. **NexusGS**: <https://usmizuki.github.io/NexusGS/>
 > 399. **SwapAnyHead**: <https://humanaigc.github.io/SwapAnyHead/>
+> 400. **FairyGen**: <https://jayleejia.github.io/FairyGen/>
 
 # Robotics
 
@@ -946,6 +951,7 @@ featured: false
 > 36. **Newton Physics**: <https://newton-physics.github.io/newton/guide/overview.html>
 > 37. **Holistic Mobile Manipulation**: <https://jhavl.github.io/holistic/>
 > 38. **Judo**: <https://bdaiinstitute.github.io/judo/>
+> 39. **AnimaX**: <https://anima-x.github.io/>
 
 # AIRobotics
 
@@ -1283,6 +1289,7 @@ featured: false
 > 250. **PHC**: <https://www.zhengyiluo.com/PHC-Site/>
 > 251. **PULSE**: <https://www.zhengyiluo.com/PULSE-Site/>
 > 252. **PDC**: <https://www.zhengyiluo.com/PDC-Site/>
+> 253. **Hume**: <https://hume-vla.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1411,6 +1418,7 @@ featured: false
 > 109. **OphNet-3D**: <https://ophnet-3d.github.io/>
 > 110. **Hand-held Object Reconstruction from RGB Video with Dynamic Interaction**: <https://east-j.github.io/dynhor/>
 > 111. **Embodied Scene-aware Human Pose Estimation**: <https://www.zhengyiluo.com/projects/embodied_pose/>
+> 112. **PEVA**: <https://dannytran123.github.io/PEVA/>
 
 ## (2) Tools
 
