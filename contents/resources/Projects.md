@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-01
+last_modified_at: 2025-07-03
 
 hide_description: true
 hide_image: false
@@ -223,6 +223,9 @@ featured: false
 > 173. **Spatial-MLLM**: <https://diankun-wu.github.io/Spatial-MLLM/>
 > 174. **Gemma 3n**: <https://deepmind.google/models/gemma/gemma-3n/>
 > 175. **AlphaGenome**: <https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/>
+> 176. **Happy-LLM**: <https://datawhalechina.github.io/happy-llm/#/>
+> 177. **Chai-2**: <https://www.chaidiscovery.com/>
+> 178. **Context7**: <https://context7.com/>
 
 ## (2) Agents
 
@@ -437,6 +440,7 @@ featured: false
 > 209. **Strands Agents**: <https://strandsagents.com/latest/>
 > 210. **Augment Code**: <https://www.augmentcode.com/>
 > 211. **Claude Code**: <https://www.claudecode.io/>
+> 212. **NoteGen**: <https://notegen.top/zh/>
 
 ## (3) AIGC
 
@@ -840,6 +844,7 @@ featured: false
 > 398. **NexusGS**: <https://usmizuki.github.io/NexusGS/>
 > 399. **SwapAnyHead**: <https://humanaigc.github.io/SwapAnyHead/>
 > 400. **FairyGen**: <https://jayleejia.github.io/FairyGen/>
+> 401. **Shape-for-Motion**: <https://shapeformotion.github.io/>
 
 # Robotics
 
@@ -1290,6 +1295,9 @@ featured: false
 > 251. **PULSE**: <https://www.zhengyiluo.com/PULSE-Site/>
 > 252. **PDC**: <https://www.zhengyiluo.com/PDC-Site/>
 > 253. **Hume**: <https://hume-vla.github.io/>
+> 254. **FACTR**: <https://jasonjzliu.com/factr/>
+> 255. **myolab**: <https://demo.myolab.ai/demo>
+> 256. **VITAL**: <https://vitalprecise.github.io/>
 
 ## (2) Autonomous Driving
 
