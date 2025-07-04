@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-03
+last_modified_at: 2025-07-04
 
 hide_description: true
 hide_image: false
@@ -1298,6 +1298,7 @@ featured: false
 > 254. **FACTR**: <https://jasonjzliu.com/factr/>
 > 255. **myolab**: <https://demo.myolab.ai/demo>
 > 256. **VITAL**: <https://vitalprecise.github.io/>
+> 257. **FEAST**: <https://emprise.cs.cornell.edu/feast/>
 
 ## (2) Autonomous Driving
 
