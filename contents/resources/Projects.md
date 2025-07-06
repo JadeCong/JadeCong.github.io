@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-04
+last_modified_at: 2025-07-06
 
 hide_description: true
 hide_image: false
@@ -441,6 +441,11 @@ featured: false
 > 210. **Augment Code**: <https://www.augmentcode.com/>
 > 211. **Claude Code**: <https://www.claudecode.io/>
 > 212. **NoteGen**: <https://notegen.top/zh/>
+> 213. **Skywork**: <https://skywork.ai>
+> 214. **Opencode**: <https://opencode.ai/>
+> 215. **AmpCode**: <https://ampcode.com/>
+> 216. **openai-codex**: <https://openai.com/index/openai-codex/>
+> 217. **Magic Agent**: <https://21st.dev/magic>
 
 ## (3) AIGC
 
@@ -845,6 +850,7 @@ featured: false
 > 399. **SwapAnyHead**: <https://humanaigc.github.io/SwapAnyHead/>
 > 400. **FairyGen**: <https://jayleejia.github.io/FairyGen/>
 > 401. **Shape-for-Motion**: <https://shapeformotion.github.io/>
+> 402. **LangScene-X**: <https://liuff19.github.io/LangScene-X/>
 
 # Robotics
 
@@ -915,6 +921,9 @@ featured: false
 > 63. **Mobile ALOHA**: <https://mobile-aloha.github.io/cn.html>
 > 64. **AirExo**: <https://airexo.github.io/https://airexo.github.io/>
 > 65. **DexHub and DART**: <https://dexhub.ai/project>
+> 66. **SharpaWave**: <https://www.sharpa.com/>
+> 67. **FlexTail**: <https://minktec.com/>
+> 68. **Metal Gel**: <https://www.liquidwire.com/metal-gel>
 
 ## (2) Software
 
@@ -957,6 +966,9 @@ featured: false
 > 37. **Holistic Mobile Manipulation**: <https://jhavl.github.io/holistic/>
 > 38. **Judo**: <https://bdaiinstitute.github.io/judo/>
 > 39. **AnimaX**: <https://anima-x.github.io/>
+> 40. **CI-MPC**: <https://approximating-global-ci-mpc.github.io/>
+> 41. **ros2-urdf-web-converter**: <https://ros2-urdf-web-converter.onrender.com/>
+> 42. **Pyrender**: <https://pyrender.readthedocs.io/en/latest/>
 
 # AIRobotics
 
@@ -1299,6 +1311,11 @@ featured: false
 > 255. **myolab**: <https://demo.myolab.ai/demo>
 > 256. **VITAL**: <https://vitalprecise.github.io/>
 > 257. **FEAST**: <https://emprise.cs.cornell.edu/feast/>
+> 258. **Human2LocoMan**: <https://human2bots.github.io/>
+> 259. **WSRL**: <https://zhouzypaul.github.io/wsrl/>
+> 260. **SAPIEN**: <https://sapien.ucsd.edu/>
+> 261. **RoboTransfer**: <https://horizonrobotics.github.io/robot_lab/robotransfer/>
+> 262. **ForceVLA**: <https://sites.google.com/view/forcevla2025/>
 
 ## (2) Autonomous Driving
 
