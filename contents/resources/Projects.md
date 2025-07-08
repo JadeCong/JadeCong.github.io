@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-06
+last_modified_at: 2025-07-08
 
 hide_description: true
 hide_image: false
@@ -226,6 +226,7 @@ featured: false
 > 176. **Happy-LLM**: <https://datawhalechina.github.io/happy-llm/#/>
 > 177. **Chai-2**: <https://www.chaidiscovery.com/>
 > 178. **Context7**: <https://context7.com/>
+> 179. **MemOS**: <https://memos.openmem.net/>
 
 ## (2) Agents
 
@@ -446,6 +447,8 @@ featured: false
 > 215. **AmpCode**: <https://ampcode.com/>
 > 216. **openai-codex**: <https://openai.com/index/openai-codex/>
 > 217. **Magic Agent**: <https://21st.dev/magic>
+> 218. **Memos**: <https://www.usememos.com/>
+> 219. **PandaWiki**: <https://pandawiki.docs.baizhi.cloud/welcome>
 
 ## (3) AIGC
 
@@ -924,6 +927,8 @@ featured: false
 > 66. **SharpaWave**: <https://www.sharpa.com/>
 > 67. **FlexTail**: <https://minktec.com/>
 > 68. **Metal Gel**: <https://www.liquidwire.com/metal-gel>
+> 69. **DexWrist**: <https://dexwrist.csail.mit.edu/>
+> 70. **Vicarious Surgical Robotic System**: <https://www.vicarioussurgical.com/>
 
 ## (2) Software
 
@@ -1445,6 +1450,8 @@ featured: false
 > 110. **Hand-held Object Reconstruction from RGB Video with Dynamic Interaction**: <https://east-j.github.io/dynhor/>
 > 111. **Embodied Scene-aware Human Pose Estimation**: <https://www.zhengyiluo.com/projects/embodied_pose/>
 > 112. **PEVA**: <https://dannytran123.github.io/PEVA/>
+> 113. **SpatialTracker**: <https://zju3dv.github.io/SpaTracker/>
+> 114. **SpatialTrackerV2**: <https://spatialtracker.github.io/>
 
 ## (2) Tools
 
