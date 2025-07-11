@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-08
+last_modified_at: 2025-07-11
 
 hide_description: true
 hide_image: false
@@ -929,6 +929,8 @@ featured: false
 > 68. **Metal Gel**: <https://www.liquidwire.com/metal-gel>
 > 69. **DexWrist**: <https://dexwrist.csail.mit.edu/>
 > 70. **Vicarious Surgical Robotic System**: <https://www.vicarioussurgical.com/>
+> 71. **FORTE**: <https://merge-lab.github.io/FORTE/>
+> 72. **PAPRAS**: <https://uiuckimlab.github.io/papras-pages/>
 
 ## (2) Software
 
@@ -1321,6 +1323,10 @@ featured: false
 > 260. **SAPIEN**: <https://sapien.ucsd.edu/>
 > 261. **RoboTransfer**: <https://horizonrobotics.github.io/robot_lab/robotransfer/>
 > 262. **ForceVLA**: <https://sites.google.com/view/forcevla2025/>
+> 263. **DexVLG**: <https://jiaweihe.com/dexvlg>
+> 264. **TypeTele**: <https://isee-laboratory.github.io/TypeTele/>
+> 265. **ArtVIP**: <https://x-humanoid-artvip.github.io/>
+> 266. **ViTacFormer**: <https://roboverseorg.github.io/ViTacFormerPage/>
 
 ## (2) Autonomous Driving
 
@@ -1452,6 +1458,7 @@ featured: false
 > 112. **PEVA**: <https://dannytran123.github.io/PEVA/>
 > 113. **SpatialTracker**: <https://zju3dv.github.io/SpaTracker/>
 > 114. **SpatialTrackerV2**: <https://spatialtracker.github.io/>
+> 115. **LiteReality**: <https://litereality.github.io/>
 
 ## (2) Tools
 
