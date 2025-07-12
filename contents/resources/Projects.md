@@ -227,6 +227,7 @@ featured: false
 > 177. **Chai-2**: <https://www.chaidiscovery.com/>
 > 178. **Context7**: <https://context7.com/>
 > 179. **MemOS**: <https://memos.openmem.net/>
+> 180. **Meshcapade**: <https://meshcapade.com/>
 
 ## (2) Agents
 
@@ -1329,6 +1330,7 @@ featured: false
 > 266. **ViTacFormer**: <https://roboverseorg.github.io/ViTacFormerPage/>
 > 267. **Q-chunking**: <https://colinqiyangli.github.io/qc/>
 > 268. **UniTac**: <https://ivl.cs.brown.edu/research/unitac>
+> 269. **Beyond Robustness**: <https://leixinjonaschang.github.io/leggedloadadapt.github.io/>
 
 ## (2) Autonomous Driving
 
