@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-11
+last_modified_at: 2025-07-12
 
 hide_description: true
 hide_image: false
@@ -1327,6 +1327,8 @@ featured: false
 > 264. **TypeTele**: <https://isee-laboratory.github.io/TypeTele/>
 > 265. **ArtVIP**: <https://x-humanoid-artvip.github.io/>
 > 266. **ViTacFormer**: <https://roboverseorg.github.io/ViTacFormerPage/>
+> 267. **Q-chunking**: <https://colinqiyangli.github.io/qc/>
+> 268. **UniTac**: <https://ivl.cs.brown.edu/research/unitac>
 
 ## (2) Autonomous Driving
 
