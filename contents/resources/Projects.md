@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-12
+last_modified_at: 2025-07-13
 
 hide_description: true
 hide_image: false
@@ -1463,6 +1463,7 @@ featured: false
 > 113. **SpatialTracker**: <https://zju3dv.github.io/SpaTracker/>
 > 114. **SpatialTrackerV2**: <https://spatialtracker.github.io/>
 > 115. **LiteReality**: <https://litereality.github.io/>
+> 116. **GaVS**: <https://sinoyou.github.io/gavs/>
 
 ## (2) Tools
 
