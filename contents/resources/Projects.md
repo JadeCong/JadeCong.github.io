@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-13
+last_modified_at: 2025-07-15
 
 hide_description: true
 hide_image: false
@@ -855,6 +855,7 @@ featured: false
 > 400. **FairyGen**: <https://jayleejia.github.io/FairyGen/>
 > 401. **Shape-for-Motion**: <https://shapeformotion.github.io/>
 > 402. **LangScene-X**: <https://liuff19.github.io/LangScene-X/>
+> 403. **PhysRig**: <https://physrig.github.io/>
 
 # Robotics
 
@@ -932,6 +933,7 @@ featured: false
 > 70. **Vicarious Surgical Robotic System**: <https://www.vicarioussurgical.com/>
 > 71. **FORTE**: <https://merge-lab.github.io/FORTE/>
 > 72. **PAPRAS**: <https://uiuckimlab.github.io/papras-pages/>
+> 73. **AmazingHand**: <https://github.com/pollen-robotics/AmazingHand>
 
 ## (2) Software
 
@@ -1331,6 +1333,7 @@ featured: false
 > 267. **Q-chunking**: <https://colinqiyangli.github.io/qc/>
 > 268. **UniTac**: <https://ivl.cs.brown.edu/research/unitac>
 > 269. **Beyond Robustness**: <https://leixinjonaschang.github.io/leggedloadadapt.github.io/>
+> 270. **SimLingo**: <https://www.katrinrenz.de/simlingo/>
 
 ## (2) Autonomous Driving
 
@@ -1496,6 +1499,7 @@ featured: false
 > 27. **Vosk**: <https://alphacephei.com/vosk/>
 > 28. **Machinekit**: <https://machinekoder.com/machinekit-ros-industrial-robot/>
 > 29. **MAZANOKE**: <https://mazanoke.com/>
+> 30. **XFlow**: <https://xrender.fun/xflow>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
