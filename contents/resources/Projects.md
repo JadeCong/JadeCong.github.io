@@ -1334,6 +1334,7 @@ featured: false
 > 268. **UniTac**: <https://ivl.cs.brown.edu/research/unitac>
 > 269. **Beyond Robustness**: <https://leixinjonaschang.github.io/leggedloadadapt.github.io/>
 > 270. **SimLingo**: <https://www.katrinrenz.de/simlingo/>
+> 271. **FALCON**: <http://lecar-lab.github.io/falcon-huma>
 
 ## (2) Autonomous Driving
 
