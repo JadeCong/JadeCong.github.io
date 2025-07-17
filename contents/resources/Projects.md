@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-15
+last_modified_at: 2025-07-17
 
 hide_description: true
 hide_image: false
@@ -228,6 +228,7 @@ featured: false
 > 178. **Context7**: <https://context7.com/>
 > 179. **MemOS**: <https://memos.openmem.net/>
 > 180. **Meshcapade**: <https://meshcapade.com/>
+> 181. **SceneScript**: <https://www.projectaria.com/scenescript/>
 
 ## (2) Agents
 
@@ -450,6 +451,7 @@ featured: false
 > 217. **Magic Agent**: <https://21st.dev/magic>
 > 218. **Memos**: <https://www.usememos.com/>
 > 219. **PandaWiki**: <https://pandawiki.docs.baizhi.cloud/welcome>
+> 220. **Stagewise**: <https://stagewise.io/>
 
 ## (3) AIGC
 
@@ -1335,6 +1337,7 @@ featured: false
 > 269. **Beyond Robustness**: <https://leixinjonaschang.github.io/leggedloadadapt.github.io/>
 > 270. **SimLingo**: <https://www.katrinrenz.de/simlingo/>
 > 271. **FALCON**: <http://lecar-lab.github.io/falcon-huma>
+> 272. **EmbodieDreamer**: <https://embodiedreamer.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1468,6 +1471,7 @@ featured: false
 > 114. **SpatialTrackerV2**: <https://spatialtracker.github.io/>
 > 115. **LiteReality**: <https://litereality.github.io/>
 > 116. **GaVS**: <https://sinoyou.github.io/gavs/>
+> 117. **Cameras as Relative Positional Encoding**: <https://www.liruilong.cn/prope/>
 
 ## (2) Tools
 
