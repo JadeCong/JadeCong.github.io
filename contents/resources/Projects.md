@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-17
+last_modified_at: 2025-07-18
 
 hide_description: true
 hide_image: false
@@ -1338,6 +1338,7 @@ featured: false
 > 270. **SimLingo**: <https://www.katrinrenz.de/simlingo/>
 > 271. **FALCON**: <http://lecar-lab.github.io/falcon-huma>
 > 272. **EmbodieDreamer**: <https://embodiedreamer.github.io/>
+> 273. **EgoVLA**: <https://rchalyang.github.io/EgoVLA/>
 
 ## (2) Autonomous Driving
 
