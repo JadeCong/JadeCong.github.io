@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-18
+last_modified_at: 2025-07-19
 
 hide_description: true
 hide_image: false
@@ -858,6 +858,7 @@ featured: false
 > 401. **Shape-for-Motion**: <https://shapeformotion.github.io/>
 > 402. **LangScene-X**: <https://liuff19.github.io/LangScene-X/>
 > 403. **PhysRig**: <https://physrig.github.io/>
+> 404. **MOSPA**: <https://frank-zy-dou.github.io/projects/MOSPA/index.html>
 
 # Robotics
 
@@ -918,7 +919,7 @@ featured: false
 > 53. **Two-Stage Tentacle**: <https://hackaday.com/2016/10/05/two-stage-tentacle-mechanisms-part-ii-the-cable-controller/>
 > 54. **Unitree Qmini**: <https://github.com/unitreerobotics/Qmini>
 > 55. **lerobot**: <https://huggingface.co/docs/lerobot/index>
-> 56. **XLeRobot**: <https://github.com/Vector-Wangel/XLeRobot>
+> 56. **XLeRobot**: <https://github.com/Vector-Wangel/XLeRobot> & <https://xlerobot.readthedocs.io/en/latest/>
 > 57. **NuExo**: <https://nubot-nuexo.github.io/>
 > 58. **DexUMI**: <https://dex-umi.github.io/>
 > 59. **PolyTouch**: <https://polytouch.alanz.info/>
@@ -936,6 +937,8 @@ featured: false
 > 71. **FORTE**: <https://merge-lab.github.io/FORTE/>
 > 72. **PAPRAS**: <https://uiuckimlab.github.io/papras-pages/>
 > 73. **AmazingHand**: <https://github.com/pollen-robotics/AmazingHand>
+> 74. **Vision-based Proximity and Tactile Sensing for Robot Arms**: <https://quan-luu.github.io/protac-website/>
+> 75. **Manus Quantum**: <https://www.cnbytool.com/productinfo/2836553.html>
 
 ## (2) Software
 
@@ -1339,6 +1342,9 @@ featured: false
 > 271. **FALCON**: <http://lecar-lab.github.io/falcon-huma>
 > 272. **EmbodieDreamer**: <https://embodiedreamer.github.io/>
 > 273. **EgoVLA**: <https://rchalyang.github.io/EgoVLA/>
+> 274. **Touch in the Wild**: <https://binghao-huang.github.io/touch_in_the_wild/>
+> 275. **ModSkill**: <https://yh2371.github.io/modskill/>
+> 276. **Walk These Ways**: <https://gmargo11.github.io/walk-these-ways/>
 
 ## (2) Autonomous Driving
 
