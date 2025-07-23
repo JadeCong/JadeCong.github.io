@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-19
+last_modified_at: 2025-07-23
 
 hide_description: true
 hide_image: false
@@ -229,6 +229,7 @@ featured: false
 > 179. **MemOS**: <https://memos.openmem.net/>
 > 180. **Meshcapade**: <https://meshcapade.com/>
 > 181. **SceneScript**: <https://www.projectaria.com/scenescript/>
+> 182. **NVIDIA TensorRT**: <https://developer.nvidia.com/tensorrt#>
 
 ## (2) Agents
 
@@ -1345,6 +1346,8 @@ featured: false
 > 274. **Touch in the Wild**: <https://binghao-huang.github.io/touch_in_the_wild/>
 > 275. **ModSkill**: <https://yh2371.github.io/modskill/>
 > 276. **Walk These Ways**: <https://gmargo11.github.io/walk-these-ways/>
+> 277. **VidBot**: <https://hanzhic.github.io/vidbot-project/>
+> 278. **What Matters in Learning from Large-Scale Datasets for Robot Manipulation**: <https://robo-mimiclabs.github.io/>
 
 ## (2) Autonomous Driving
 
