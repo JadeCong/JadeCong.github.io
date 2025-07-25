@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-23
+last_modified_at: 2025-07-25
 
 hide_description: true
 hide_image: false
@@ -1348,6 +1348,9 @@ featured: false
 > 276. **Walk These Ways**: <https://gmargo11.github.io/walk-these-ways/>
 > 277. **VidBot**: <https://hanzhic.github.io/vidbot-project/>
 > 278. **What Matters in Learning from Large-Scale Datasets for Robot Manipulation**: <https://robo-mimiclabs.github.io/>
+> 279. **RAMBO**: <https://jin-cheng.me/rambo.github.io/>
+> 280. **GraspGen**: <https://graspgen.github.io/>
+> 201. **TriVLA**: <https://zhenyangliu.github.io/TriVLA/>
 
 ## (2) Autonomous Driving
 
