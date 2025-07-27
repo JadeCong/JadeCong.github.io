@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-25
+last_modified_at: 2025-07-27
 
 hide_description: true
 hide_image: false
@@ -1351,6 +1351,7 @@ featured: false
 > 279. **RAMBO**: <https://jin-cheng.me/rambo.github.io/>
 > 280. **GraspGen**: <https://graspgen.github.io/>
 > 201. **TriVLA**: <https://zhenyangliu.github.io/TriVLA/>
+> 202. **ThinkAct**: <https://jasper0314-huang.github.io/thinkact-vla/>
 
 ## (2) Autonomous Driving
 
