@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-07-27
+last_modified_at: 2025-08-01
 
 hide_description: true
 hide_image: false
@@ -1519,6 +1519,7 @@ featured: false
 > 28. **Machinekit**: <https://machinekoder.com/machinekit-ros-industrial-robot/>
 > 29. **MAZANOKE**: <https://mazanoke.com/>
 > 30. **XFlow**: <https://xrender.fun/xflow>
+> 31. **Viser**: <https://viser.studio/main/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
