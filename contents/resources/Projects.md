@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-08-01
+last_modified_at: 2025-08-02
 
 hide_description: true
 hide_image: false
@@ -985,6 +985,7 @@ featured: false
 > 40. **CI-MPC**: <https://approximating-global-ci-mpc.github.io/>
 > 41. **ros2-urdf-web-converter**: <https://ros2-urdf-web-converter.onrender.com/>
 > 42. **Pyrender**: <https://pyrender.readthedocs.io/en/latest/>
+> 43. **OSCBF**: <https://stanfordasl.github.io/oscbf/>
 
 # AIRobotics
 
