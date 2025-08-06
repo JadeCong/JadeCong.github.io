@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-08-02
+last_modified_at: 2025-08-06
 
 hide_description: true
 hide_image: false
@@ -230,6 +230,7 @@ featured: false
 > 180. **Meshcapade**: <https://meshcapade.com/>
 > 181. **SceneScript**: <https://www.projectaria.com/scenescript/>
 > 182. **NVIDIA TensorRT**: <https://developer.nvidia.com/tensorrt#>
+> 183. **OpenAI Open Models**: <https://openai.com/zh-Hans-CN/open-models/>
 
 ## (2) Agents
 
@@ -453,6 +454,7 @@ featured: false
 > 218. **Memos**: <https://www.usememos.com/>
 > 219. **PandaWiki**: <https://pandawiki.docs.baizhi.cloud/welcome>
 > 220. **Stagewise**: <https://stagewise.io/>
+> 221. **Zread**: <https://zread.ai/>
 
 ## (3) AIGC
 
