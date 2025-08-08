@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-08-06
+last_modified_at: 2025-08-08
 
 hide_description: true
 hide_image: false
@@ -231,6 +231,8 @@ featured: false
 > 181. **SceneScript**: <https://www.projectaria.com/scenescript/>
 > 182. **NVIDIA TensorRT**: <https://developer.nvidia.com/tensorrt#>
 > 183. **OpenAI Open Models**: <https://openai.com/zh-Hans-CN/open-models/>
+> 184. **LMArena**: <https://lmarena.ai/>
+> 185. **Genie 3**: <https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/>
 
 ## (2) Agents
 
@@ -862,6 +864,7 @@ featured: false
 > 402. **LangScene-X**: <https://liuff19.github.io/LangScene-X/>
 > 403. **PhysRig**: <https://physrig.github.io/>
 > 404. **MOSPA**: <https://frank-zy-dou.github.io/projects/MOSPA/index.html>
+> 405. **Diffuse-CLoC**: <https://diffusecloc.github.io/website/>
 
 # Robotics
 
@@ -1523,6 +1526,7 @@ featured: false
 > 29. **MAZANOKE**: <https://mazanoke.com/>
 > 30. **XFlow**: <https://xrender.fun/xflow>
 > 31. **Viser**: <https://viser.studio/main/>
+> 32. **MediaCrawler**: <https://nanmicoder.github.io/MediaCrawler/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
