@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-08-08
+last_modified_at: 2025-08-14
 
 hide_description: true
 hide_image: false
@@ -233,6 +233,7 @@ featured: false
 > 183. **OpenAI Open Models**: <https://openai.com/zh-Hans-CN/open-models/>
 > 184. **LMArena**: <https://lmarena.ai/>
 > 185. **Genie 3**: <https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/>
+> 186. **OLMo 2**: <https://allenai.org/olmo>
 
 ## (2) Agents
 
@@ -457,6 +458,7 @@ featured: false
 > 219. **PandaWiki**: <https://pandawiki.docs.baizhi.cloud/welcome>
 > 220. **Stagewise**: <https://stagewise.io/>
 > 221. **Zread**: <https://zread.ai/>
+> 222. **MiroMind**: <https://miromind.ai/>
 
 ## (3) AIGC
 
@@ -1358,6 +1360,7 @@ featured: false
 > 280. **GraspGen**: <https://graspgen.github.io/>
 > 201. **TriVLA**: <https://zhenyangliu.github.io/TriVLA/>
 > 202. **ThinkAct**: <https://jasper0314-huang.github.io/thinkact-vla/>
+> 203. **BeyondMimic**: <https://beyondmimic.github.io/>
 
 ## (2) Autonomous Driving
 

@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-06-19
+last_modified_at: 2025-08-14
 
 hide_description: true
 hide_image: false
@@ -50,6 +50,16 @@ featured: false
 > 2. **MS COCO**: <https://cocodataset.org/#home>
 > 3. **MPII**: <http://human-pose.mpi-inf.mpg.de>
 > 4. **CrowdPose**: <https://drive.google.com/file/d/1VprytECcLtU4tKP32SYi_7oDRbw7yUTL/view>
+
+# Object Detection
+
+> 1. **Objects365**: <https://www.objects365.org/overview.html>
+> 2. **Open Images Dataset**: <https://storage.googleapis.com/openimages/web/index.html>
+
+# Large-scale Multi-modality Model
+
+> 1. **RefCOCO**: <https://huggingface.co/datasets/lmms-lab/RefCOCO>
+> 2. **Molmo**: <https://github.com/allenai/molmo>
 
 # Physics Simulation
 
