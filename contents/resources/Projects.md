@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-08-14
+last_modified_at: 2025-08-16
 
 hide_description: true
 hide_image: false
@@ -234,6 +234,7 @@ featured: false
 > 184. **LMArena**: <https://lmarena.ai/>
 > 185. **Genie 3**: <https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/>
 > 186. **OLMo 2**: <https://allenai.org/olmo>
+> 187. **DINOv3**: <https://ai.meta.com/dinov3/>
 
 ## (2) Agents
 
@@ -993,6 +994,7 @@ featured: false
 > 41. **ros2-urdf-web-converter**: <https://ros2-urdf-web-converter.onrender.com/>
 > 42. **Pyrender**: <https://pyrender.readthedocs.io/en/latest/>
 > 43. **OSCBF**: <https://stanfordasl.github.io/oscbf/>
+> 44. **Nullspace MPC**: <https://mizuhoaoki.github.io/projects/nullspace_mpc>
 
 # AIRobotics
 
@@ -1361,6 +1363,7 @@ featured: false
 > 201. **TriVLA**: <https://zhenyangliu.github.io/TriVLA/>
 > 202. **ThinkAct**: <https://jasper0314-huang.github.io/thinkact-vla/>
 > 203. **BeyondMimic**: <https://beyondmimic.github.io/>
+> 204. **GeoVLA**: <https://linsun449.github.io/GeoVLA/>
 
 ## (2) Autonomous Driving
 
@@ -1530,6 +1533,7 @@ featured: false
 > 30. **XFlow**: <https://xrender.fun/xflow>
 > 31. **Viser**: <https://viser.studio/main/>
 > 32. **MediaCrawler**: <https://nanmicoder.github.io/MediaCrawler/>
+> 33. **Mechaverse**: <https://mechaverse.dev/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
