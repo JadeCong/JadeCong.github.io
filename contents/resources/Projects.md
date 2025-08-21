@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-08-16
+last_modified_at: 2025-08-21
 
 hide_description: true
 hide_image: false
@@ -948,6 +948,7 @@ featured: false
 > 73. **AmazingHand**: <https://github.com/pollen-robotics/AmazingHand>
 > 74. **Vision-based Proximity and Tactile Sensing for Robot Arms**: <https://quan-luu.github.io/protac-website/>
 > 75. **Manus Quantum**: <https://www.cnbytool.com/productinfo/2836553.html>
+> 76. **Humanoid Occupancy**: <https://humanoid-occupancy.github.io/>
 
 ## (2) Software
 
@@ -1364,6 +1365,12 @@ featured: false
 > 202. **ThinkAct**: <https://jasper0314-huang.github.io/thinkact-vla/>
 > 203. **BeyondMimic**: <https://beyondmimic.github.io/>
 > 204. **GeoVLA**: <https://linsun449.github.io/GeoVLA/>
+> 205. **Hand-Eye Autonomous Delivery**: <https://stanford-tml.github.io/HEAD/>
+> 206. **Robot Trains Robot**: <https://robot-trains-robot.github.io/>
+> 207. **HannesImitation**: <https://hsp-iit.github.io/HannesImitation/>
+> 208. **MolmoAct**: <https://allenai.org/blog/molmoact>
+> 209. **Evaluating Pi0 in the Wild**: <https://penn-pal-lab.github.io/Pi0-Experiment-in-the-Wild/>
+> 210. **Large Behavior Models and Atlas Find New Footing**: <https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/>
 
 ## (2) Autonomous Driving
 
@@ -1498,6 +1505,8 @@ featured: false
 > 115. **LiteReality**: <https://litereality.github.io/>
 > 116. **GaVS**: <https://sinoyou.github.io/gavs/>
 > 117. **Cameras as Relative Positional Encoding**: <https://www.liruilong.cn/prope/>
+> 263. **Real2Render2Real**: <https://real2render2real.com/>
+> 118. **ViPE**: <https://research.nvidia.com/labs/toronto-ai/vipe/>
 
 ## (2) Tools
 
