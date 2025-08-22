@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-08-21
+last_modified_at: 2025-08-22
 
 hide_description: true
 hide_image: false
@@ -1371,6 +1371,7 @@ featured: false
 > 208. **MolmoAct**: <https://allenai.org/blog/molmoact>
 > 209. **Evaluating Pi0 in the Wild**: <https://penn-pal-lab.github.io/Pi0-Experiment-in-the-Wild/>
 > 210. **Large Behavior Models and Atlas Find New Footing**: <https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/>
+> 211. **The Lazy Robot**: <https://levevictor.github.io/thelazyrobot/>
 
 ## (2) Autonomous Driving
 
