@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-08-22
+last_modified_at: 2025-08-28
 
 hide_description: true
 hide_image: false
@@ -235,6 +235,7 @@ featured: false
 > 185. **Genie 3**: <https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/>
 > 186. **OLMo 2**: <https://allenai.org/olmo>
 > 187. **DINOv3**: <https://ai.meta.com/dinov3/>
+> 188. **Getting Good Results from Claude Code**: <https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/>
 
 ## (2) Agents
 
@@ -444,7 +445,7 @@ featured: false
 > 204. **Void**: <https://voideditor.com/>
 > 205. **Cool-Admin**: <https://admin.cool-js.com/>
 > 206. **Pocket Flow**: <https://the-pocket.github.io/PocketFlow/>
-> 207. **Gemini CLI**: <https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/>
+> 207. **Gemini CLI**: <https://gemini-cli.dev/>
 > 208. **OpenManus**: <https://openmanus.github.io/>
 > 209. **Strands Agents**: <https://strandsagents.com/latest/>
 > 210. **Augment Code**: <https://www.augmentcode.com/>
@@ -460,6 +461,9 @@ featured: false
 > 220. **Stagewise**: <https://stagewise.io/>
 > 221. **Zread**: <https://zread.ai/>
 > 222. **MiroMind**: <https://miromind.ai/>
+> 223. **Qoder**: <https://qoder.com/>
+> 224. **Sim**: <https://www.sim.ai/>
+> 225. **MCP**: <https://modelcontextprotocol.io/docs/getting-started/intro>
 
 ## (3) AIGC
 
@@ -868,6 +872,7 @@ featured: false
 > 403. **PhysRig**: <https://physrig.github.io/>
 > 404. **MOSPA**: <https://frank-zy-dou.github.io/projects/MOSPA/index.html>
 > 405. **Diffuse-CLoC**: <https://diffusecloc.github.io/website/>
+> 406. **SyncTalk**: <https://ziqiaopeng.github.io/synctalk/>
 
 # Robotics
 
@@ -949,6 +954,8 @@ featured: false
 > 74. **Vision-based Proximity and Tactile Sensing for Robot Arms**: <https://quan-luu.github.io/protac-website/>
 > 75. **Manus Quantum**: <https://www.cnbytool.com/productinfo/2836553.html>
 > 76. **Humanoid Occupancy**: <https://humanoid-occupancy.github.io/>
+> 77. **MEVITA**: <https://haraduka.github.io/mevita-hardware/>
+> 78. **Morpheus**: <https://jiawenyang-ch.github.io/Morpheus-Hardware-Design/>
 
 ## (2) Software
 
@@ -1372,6 +1379,10 @@ featured: false
 > 209. **Evaluating Pi0 in the Wild**: <https://penn-pal-lab.github.io/Pi0-Experiment-in-the-Wild/>
 > 210. **Large Behavior Models and Atlas Find New Footing**: <https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/>
 > 211. **The Lazy Robot**: <https://levevictor.github.io/thelazyrobot/>
+> 212. **ReWiND**: <https://rewind-reward.github.io/>
+> 213. **RLDG**: <https://generalist-distillation.github.io/>
+> 214. **RIPT-VLA**: <https://ariostgx.github.io/ript_vla/>
+> 215. **ECoT-Lite**: <https://ecot-lite.github.io/>
 
 ## (2) Autonomous Driving
 
