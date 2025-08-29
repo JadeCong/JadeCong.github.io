@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-08-28
+last_modified_at: 2025-08-29
 
 hide_description: true
 hide_image: false
@@ -236,6 +236,7 @@ featured: false
 > 186. **OLMo 2**: <https://allenai.org/olmo>
 > 187. **DINOv3**: <https://ai.meta.com/dinov3/>
 > 188. **Getting Good Results from Claude Code**: <https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/>
+> 189. **VibeVoice**: <https://microsoft.github.io/VibeVoice/>
 
 ## (2) Agents
 
@@ -464,6 +465,7 @@ featured: false
 > 223. **Qoder**: <https://qoder.com/>
 > 224. **Sim**: <https://www.sim.ai/>
 > 225. **MCP**: <https://modelcontextprotocol.io/docs/getting-started/intro>
+> 226. **Project AIRI**: <https://airi.moeru.ai/docs/zh-Hans/>
 
 ## (3) AIGC
 
@@ -873,6 +875,7 @@ featured: false
 > 404. **MOSPA**: <https://frank-zy-dou.github.io/projects/MOSPA/index.html>
 > 405. **Diffuse-CLoC**: <https://diffusecloc.github.io/website/>
 > 406. **SyncTalk**: <https://ziqiaopeng.github.io/synctalk/>
+> 407. **EgoTwin**: <https://egotwin.pages.dev/>
 
 # Robotics
 
@@ -956,6 +959,7 @@ featured: false
 > 76. **Humanoid Occupancy**: <https://humanoid-occupancy.github.io/>
 > 77. **MEVITA**: <https://haraduka.github.io/mevita-hardware/>
 > 78. **Morpheus**: <https://jiawenyang-ch.github.io/Morpheus-Hardware-Design/>
+> 79. **Tactile beyond pixels**: <https://akashsharma02.github.io/sparsh-x-ssl/>
 
 ## (2) Software
 
@@ -1383,6 +1387,7 @@ featured: false
 > 213. **RLDG**: <https://generalist-distillation.github.io/>
 > 214. **RIPT-VLA**: <https://ariostgx.github.io/ript_vla/>
 > 215. **ECoT-Lite**: <https://ecot-lite.github.io/>
+> 216. **HITTER**: <https://humanoid-table-tennis.github.io/>
 
 ## (2) Autonomous Driving
 
