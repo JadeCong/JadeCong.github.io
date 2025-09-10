@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-09-03
+last_modified_at: 2025-09-10
 
 hide_description: true
 hide_image: false
@@ -467,6 +467,8 @@ featured: false
 > 225. **MCP**: <https://modelcontextprotocol.io/docs/getting-started/intro>
 > 226. **Project AIRI**: <https://airi.moeru.ai/docs/zh-Hans/>
 > 227. **bytebot**: <https://www.bytebot.ai/>
+> 228. **Hyprnote**: <https://hyprnote.com/>
+> 229. **Visual Story-Writing**: <https://damienmasson.com/VisualStoryWriting/>
 
 ## (3) AIGC
 
@@ -961,6 +963,7 @@ featured: false
 > 77. **MEVITA**: <https://haraduka.github.io/mevita-hardware/>
 > 78. **Morpheus**: <https://jiawenyang-ch.github.io/Morpheus-Hardware-Design/>
 > 79. **Tactile beyond pixels**: <https://akashsharma02.github.io/sparsh-x-ssl/>
+> 80. **DEXOP**: <https://dex-op.github.io/>
 
 ## (2) Software
 
@@ -1008,6 +1011,7 @@ featured: false
 > 42. **Pyrender**: <https://pyrender.readthedocs.io/en/latest/>
 > 43. **OSCBF**: <https://stanfordasl.github.io/oscbf/>
 > 44. **Nullspace MPC**: <https://mizuhoaoki.github.io/projects/nullspace_mpc>
+> 45. **NeuralSVCD**: <https://neuralsvcd.github.io/>
 
 # AIRobotics
 
@@ -1391,6 +1395,11 @@ featured: false
 > 216. **HITTER**: <https://humanoid-table-tennis.github.io/>
 > 217. **Embodied-R1**: <https://embodied-r1.github.io/>
 > 218. **MemoryVLA**: <https://shihao1895.github.io/MemoryVLA/>
+> 219. **EMMA**: <https://ego-moma.github.io/>
+> 220. **ManiFlow**: <https://maniflow-policy.github.io/>
+> 221. **Robix**: <https://robix-seed.github.io/robix/>
+> 222. **Deep Reactive Policy**: <https://deep-reactive-policy.com/>
+> 223. **Gemini Robotics On-Device**: <https://deepmind.google/models/gemini-robotics/gemini-robotics-on-device/>
 
 ## (2) Autonomous Driving
 
