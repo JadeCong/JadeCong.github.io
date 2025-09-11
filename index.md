@@ -33,7 +33,7 @@ posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-01-11
+last_modified_at: 2025-09-11
 
 hide_description: false
 hide_image: false
@@ -104,4 +104,51 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
     ],
     stat: false
   }).init()
+</script>
+
+<!-- dynamic interactive earth -->
+<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<!-- <script type="text/javascript" src="assets/js/echarts.min.js"></script> -->
+<script type="text/javascript">
+  var dom = document.getElementById('container');
+  var myChart = echarts.init(dom, null, {
+    renderer: 'canvas',
+    useDirtyRect: false
+  });
+  var app = {};
+  var ROOT_PATH = 'https://echarts.apache.org/examples';
+  var option;
+  
+  option = {
+    backgroundColor: '#000',
+    globe: {
+      baseTexture: ROOT_PATH + '/data-gl/asset/world.topo.bathy.200401.jpg',
+      heightTexture: ROOT_PATH + '/data-gl/asset/world.topo.bathy.200401.jpg',
+      displacementScale: 0.04,
+      shading: 'realistic',
+      environment: ROOT_PATH + '/data-gl/asset/starfield.jpg',
+      realisticMaterial: {
+        roughness: 0.9
+      },
+      postEffect: {
+        enable: true
+      },
+      light: {
+        main: {
+          intensity: 5,
+          shadow: true
+        },
+        ambientCubemap: {
+          texture: ROOT_PATH + '/data-gl/asset/pisa.hdr',
+          diffuseIntensity: 0.2
+        }
+      }
+    }
+  };
+  
+  if (option && typeof option === 'object') {
+    myChart.setOption(option);
+  }
+  
+  window.addEventListener('resize', myChart.resize);
 </script>
