@@ -107,8 +107,8 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 </script>
 
 <!-- dynamic interactive earth -->
-<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
-<!-- <script type="text/javascript" src="assets/js/echarts.min.js"></script> -->
+<!-- <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script> -->
+<script type="text/javascript" src="assets/js/echarts.min.js"></script>
 <script type="text/javascript">
   var dom = document.getElementById('container');
   var myChart = echarts.init(dom, null, {
