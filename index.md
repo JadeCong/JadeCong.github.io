@@ -77,7 +77,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="jadecong" data-description="Support me on Buy me a coffee!" data-message="THANK YOU for visiting!!! I love COFFEE, so totally up for ONE!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 <!-- wechat, alipay and bitcoin sponsor -->
-<script src="assets/js/tctip-1.0.3.min.js"></script>
+<script src="assets/js/tctip/dist/tctip-1.0.3.min.js"></script>
 <script>
   new tctip({
     top: '54%',
@@ -107,8 +107,8 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 </script>
 
 <!-- dynamic interactive earth -->
-<!-- <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script> -->
-<script type="text/javascript" src="assets/js/echarts.min.js"></script>
+<script type="text/javascript" src="assets/js/echarts/dist/echarts.min.js"></script>
+<div id="container" style="width:600px;height:400px;"></div>
 <script type="text/javascript">
   var dom = document.getElementById('container');
   var myChart = echarts.init(dom, null, {
