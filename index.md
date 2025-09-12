@@ -107,8 +107,17 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 </script>
 
 <!-- dynamic interactive earth -->
+<!-- <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-gl/dist/echarts-gl.min.js"></script>
+<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/dataTool.min.js"></script>
+<script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-stat/dist/ecStat.min.js"></script>
+<script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-stat/dist/ecStat.min.js"></script>
+<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@4.9.0/map/js/world.js"></script>
+<script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=RjyYGkNlTImU7ioD7j3Iymq4CqBgQwO8"></script>
+<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/bmap.min.js"></script> -->
 <script type="text/javascript" src="assets/js/echarts/dist/echarts.min.js"></script>
-<div id="container" style="width:600px;height:400px;"></div>
+<script type="text/javascript" src="assets/js/echarts-gl/dist/echarts-gl.min.js"></script>
+<div id="container" style="width:100vh; height:50vh; margin:0 auto; display:flex; align-items:center; justify-content:center;"></div>
 <script type="text/javascript">
   var dom = document.getElementById('container');
   var myChart = echarts.init(dom, null, {
@@ -116,17 +125,17 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
     useDirtyRect: false
   });
   var app = {};
-  var ROOT_PATH = 'https://echarts.apache.org/examples';
+  var ROOT_PATH = 'assets/images/home/';
   var option;
   
   option = {
     backgroundColor: '#000',
     globe: {
-      baseTexture: ROOT_PATH + '/data-gl/asset/world.topo.bathy.200401.jpg',
-      heightTexture: ROOT_PATH + '/data-gl/asset/world.topo.bathy.200401.jpg',
+      baseTexture: ROOT_PATH + 'world.topo.bathy.200401.jpg',
+      heightTexture: ROOT_PATH + 'world.topo.bathy.200401.jpg',
       displacementScale: 0.04,
       shading: 'realistic',
-      environment: ROOT_PATH + '/data-gl/asset/starfield.jpg',
+      environment: ROOT_PATH + 'starfield.jpg',
       realisticMaterial: {
         roughness: 0.9
       },
@@ -139,7 +148,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
           shadow: true
         },
         ambientCubemap: {
-          texture: ROOT_PATH + '/data-gl/asset/pisa.hdr',
+          texture: ROOT_PATH + 'pisa.hdr',
           diffuseIntensity: 0.2
         }
       }

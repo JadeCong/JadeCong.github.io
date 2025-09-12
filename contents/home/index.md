@@ -105,3 +105,59 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
     stat: false
   }).init()
 </script>
+
+<!-- dynamic interactive earth -->
+<!-- <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-gl/dist/echarts-gl.min.js"></script>
+<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/dataTool.min.js"></script>
+<script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-stat/dist/ecStat.min.js"></script>
+<script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-stat/dist/ecStat.min.js"></script>
+<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@4.9.0/map/js/world.js"></script>
+<script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=RjyYGkNlTImU7ioD7j3Iymq4CqBgQwO8"></script>
+<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/bmap.min.js"></script> -->
+<script type="text/javascript" src="assets/js/echarts/dist/echarts.min.js"></script>
+<script type="text/javascript" src="assets/js/echarts-gl/dist/echarts-gl.min.js"></script>
+<div id="container" style="width:100vh; height:50vh; margin:0 auto; display:flex; align-items:center; justify-content:center;"></div>
+<script type="text/javascript">
+  var dom = document.getElementById('container');
+  var myChart = echarts.init(dom, null, {
+    renderer: 'canvas',
+    useDirtyRect: false
+  });
+  var app = {};
+  var ROOT_PATH = 'assets/images/home/';
+  var option;
+  
+  option = {
+    backgroundColor: '#000',
+    globe: {
+      baseTexture: ROOT_PATH + 'world.topo.bathy.200401.jpg',
+      heightTexture: ROOT_PATH + 'world.topo.bathy.200401.jpg',
+      displacementScale: 0.04,
+      shading: 'realistic',
+      environment: ROOT_PATH + 'starfield.jpg',
+      realisticMaterial: {
+        roughness: 0.9
+      },
+      postEffect: {
+        enable: true
+      },
+      light: {
+        main: {
+          intensity: 5,
+          shadow: true
+        },
+        ambientCubemap: {
+          texture: ROOT_PATH + 'pisa.hdr',
+          diffuseIntensity: 0.2
+        }
+      }
+    }
+  };
+  
+  if (option && typeof option === 'object') {
+    myChart.setOption(option);
+  }
+  
+  window.addEventListener('resize', myChart.resize);
+</script>
