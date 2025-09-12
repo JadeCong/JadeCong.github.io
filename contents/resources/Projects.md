@@ -879,6 +879,7 @@ featured: false
 > 405. **Diffuse-CLoC**: <https://diffusecloc.github.io/website/>
 > 406. **SyncTalk**: <https://ziqiaopeng.github.io/synctalk/>
 > 407. **EgoTwin**: <https://egotwin.pages.dev/>
+> 408. **RenderFormer**: <https://microsoft.github.io/renderformer/>
 
 # Robotics
 
@@ -964,6 +965,7 @@ featured: false
 > 78. **Morpheus**: <https://jiawenyang-ch.github.io/Morpheus-Hardware-Design/>
 > 79. **Tactile beyond pixels**: <https://akashsharma02.github.io/sparsh-x-ssl/>
 > 80. **DEXOP**: <https://dex-op.github.io/>
+> 81. **TRLC**: <https://docs.robot-learning.co/>
 
 ## (2) Software
 
@@ -1400,6 +1402,7 @@ featured: false
 > 221. **Robix**: <https://robix-seed.github.io/robix/>
 > 222. **Deep Reactive Policy**: <https://deep-reactive-policy.com/>
 > 223. **Gemini Robotics On-Device**: <https://deepmind.google/models/gemini-robotics/gemini-robotics-on-device/>
+> 224. **Align-Then-stEer**: <https://align-then-steer.github.io/>
 
 ## (2) Autonomous Driving
 
