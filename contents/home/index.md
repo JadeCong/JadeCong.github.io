@@ -33,7 +33,7 @@ posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-09-11
+last_modified_at: 2025-09-13
 
 hide_description: false
 hide_image: false

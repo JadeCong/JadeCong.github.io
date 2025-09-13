@@ -33,7 +33,7 @@ posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-09-11
+last_modified_at: 2025-09-13
 
 hide_description: false
 hide_image: false
@@ -117,7 +117,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/bmap.min.js"></script> -->
 <script type="text/javascript" src="assets/js/echarts/dist/echarts.min.js"></script>
 <script type="text/javascript" src="assets/js/echarts-gl/dist/echarts-gl.min.js"></script>
-<div id="container" style="width:56vw; height:50vh; margin:0 auto; display:flex; align-items:center; justify-content:center;"></div>
+<div id="container" style="width:100%; aspect-ratio:2/1; margin:0 auto; display:flex; align-items:center; justify-content:center;"></div>
 <script type="text/javascript">
   var dom = document.getElementById('container');
   var myChart = echarts.init(dom, null, {
