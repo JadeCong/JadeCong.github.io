@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-17
+last_modified_at: 2025-09-14
 
 hide_description: true
 hide_image: false
@@ -57,8 +57,8 @@ The block aims to integrate robotics and artificial intelligence for making robo
 
 > 物理引擎是一个计算机程序用来模拟牛顿动力学模型，使用质量、速度、摩擦力和空气阻力等变量，为刚性或柔性物体赋予真实的物理属性的方式来模拟物体的运动、旋转和碰撞等交互过程，使得仿真的效果更准确、更真实。基于牛顿三大定律，在计算机中通过物理引擎来模拟刚体运动的流程大致都是如下左图所示。其中显示结果这部分中，物理引擎驱动图形渲染的流程如下右图所示。
 > 
-> ![3D Engine Framework 1](/assets/images/documentations/3d-engine-framework-1.png){:width="380px" height="290px" loading="lazy"}
-> ![3D Engine Framework 2](/assets/images/documentations/3d-engine-framework-2.png){:width="380px" height="290px" loading="lazy"}
+> ![3D Engine Framework 1](/assets/images/documentations/3d-engine-framework-1.png){:width="380px" height="290px" style="border-radius:9px" loading="lazy"}
+> ![3D Engine Framework 2](/assets/images/documentations/3d-engine-framework-2.png){:width="380px" height="290px" style="border-radius:9px" loading="lazy"}
 >
 > 物理引擎有两种类型常见的型类：实时物理引擎和高精度物理引擎。高精度物理引擎需要更多的处理能力来计算非常精确的物理，侧重于精确计算，仿真结果精度高，通常使用在科学研究（计算物理学）和电脑动画电影制作，比如ADAMS、ANSYS等。实时物理引擎使用通常使用在电子游戏并且简化运算，降低精确度增以减少计算时间，得到在电子游戏当中可以接受的处理速度，比如UnrealEngine、Bullet等。
 >

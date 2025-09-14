@@ -25,7 +25,7 @@ permalink: /contents/researches/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-17
+last_modified_at: 2025-09-14
 
 hide_description: false
 hide_image: false
@@ -59,15 +59,15 @@ What I'm focusing and working on Robotics are as follows:
 
 Projects and blogs in Robotics category are as follows:
 
-![ROS Application](/assets/images/researches/ros-application.png){:width="1920" height="1080" loading="lazy"}
+![ROS Application](/assets/images/researches/ros-application.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 ROS Application
 {:.figcaption}
 
-![MuJoCo Application](/assets/images/researches/mujoco-application.png){:width="1920" height="1080" loading="lazy"}
+![MuJoCo Application](/assets/images/researches/mujoco-application.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 MuJoCo Application
 {:.figcaption}
 
-![Teleoperation Application](/assets/images/researches/teleoperation-application.jpg){:width="1920" height="1080" loading="lazy"}
+![Teleoperation Application](/assets/images/researches/teleoperation-application.jpg){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Teleoperation Application
 {:.figcaption}
 
@@ -83,11 +83,11 @@ What I'm focusing and working on Artificial Intelligence are as follows:
 
 Projects and blogs in Artificial Intelligence category are as follows:
 
-![Reinforcement Learning Application](/assets/images/researches/reinforcement-learning-application.png){:width="1920" height="1080" loading="lazy"}
+![Reinforcement Learning Application](/assets/images/researches/reinforcement-learning-application.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Reinforcement Learning Application
 {:.figcaption}
 
-![Agents Application](/assets/images/researches/agents-application.png){:width="1920" height="1080" loading="lazy"}
+![Agents Application](/assets/images/researches/agents-application.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Agents Application
 {:.figcaption}
 
@@ -100,11 +100,11 @@ What I'm focusing and working on AIRobotics are as follows:
 
 Projects and blogs in AIRobotics category are as follows:
 
-![Robot Learning Application](/assets/images/researches/robot-learning-application.png){:width="1920" height="1080" loading="lazy"}
+![Robot Learning Application](/assets/images/researches/robot-learning-application.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Robot Learning Application
 {:.figcaption}
 
-![Embodied Intelligence Application](/assets/images/researches/embodied-intelligence-application.png){:width="1920" height="1080" loading="lazy"}
+![Embodied Intelligence Application](/assets/images/researches/embodied-intelligence-application.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Embodied Intelligence Application
 {:.figcaption}
 
@@ -117,11 +117,11 @@ What I'm focusing and working on Metaverse are as follows:
 
 Projects and blogs in Metaverse category are as follows:
 
-![Omniverse Application](/assets/images/researches/omniverse-application.png){:width="1920" height="1080" loading="lazy"}
+![Omniverse Application](/assets/images/researches/omniverse-application.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Omniverse Application
 {:.figcaption}
 
-![Isaac Sim Application](/assets/images/researches/isaac-sim-application.png){:width="1920" height="1080" loading="lazy"}
+![Isaac Sim Application](/assets/images/researches/isaac-sim-application.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Isaac Sim Application
 {:.figcaption}
 
@@ -135,7 +135,7 @@ What I'm focusing and working on X-Technologies are as follows:
 
 Projects and blogs in X-Technologies category are as follows:
 
-![Anti-Gravity Application](/assets/images/researches/anti-gravity-application.jpg){:width="1920" height="1080" loading="lazy"}
+![Anti-Gravity Application](/assets/images/researches/anti-gravity-application.jpg){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Anti-Gravity Application
 {:.figcaption}
 

@@ -25,7 +25,7 @@ permalink: /contents/about/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-01-11
+last_modified_at: 2025-09-14
 
 hide_description: false
 hide_image: false
@@ -48,7 +48,7 @@ featured: false
 
 I'm an algorithm engineer and my job focuses on robotics and artificial intelligence, mostly working on robot motion control, motion planning, teleoperation and robot learning. And I am committed to making robots more intelligent and agile with artificial intelligence.
 
-![Jade Cong](/assets/images/about/jade-cong.jpeg){:width="1200px" height="640px" loading="lazy"}
+![Jade Cong](/assets/images/about/jade-cong.jpeg){:width="1200px" height="640px" style="border-radius:9px" loading="lazy"}
 Jade Cong
 {:.figcaption}
 
@@ -56,14 +56,14 @@ Jade Cong
 
 Currently I am working as an **Algorithm Engineer** for developing **Industrial Metaverse Platform** based on NVIDIA **[Omniverse](https://www.nvidia.com/en-us/omniverse/)** Platform. Based on the Industrial Metaverse Platform, the whole processes of industrial production which include requirement, design, development, testing, deployment and operating could be accelerated serval times for high efficiency and more convenience.
 
-![Nvidia Omniverse Platform](/assets/images/about/nvidia-omniverse-platform.png){:width="1200px" height="640px" loading="lazy"}
+![Nvidia Omniverse Platform](/assets/images/about/nvidia-omniverse-platform.png){:width="1200px" height="640px" style="border-radius:9px" loading="lazy"}
 Nvidia Omniverse Platform
 {:.figcaption}
 
 In the last 7 years I worked as a **Robot Algorithm Engineer** mainly focused on algorithm development and applications but also an **AI Development Engineer** as well. I'm also dedicated to integrating robotics and artificial intelligence to construct an intelligent humanoid robot for users.
 
-![Ultrasound Scanning](/assets/images/about/ultrasound-scanning.png){:width="465px" height="330px" loading="lazy"}
-![Robot Teleoperation](/assets/images/about/robot-teleoperation.png){:width="360px" height="250px" loading="lazy"}
+![Ultrasound Scanning](/assets/images/about/ultrasound-scanning.png){:width="465px" height="330px" style="border-radius:9px" " loading="lazy"}
+![Robot Teleoperation](/assets/images/about/robot-teleoperation.png){:width="360px" height="250px" style="border-radius:9px" loading="lazy"}
 Robot Applications
 {:.figcaption}
 

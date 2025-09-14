@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-05-10
+last_modified_at: 2025-09-14
 
 hide_description: true
 hide_image: false
@@ -71,27 +71,27 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > （1）GeForce RTX
 >
-> ![GeForce_RTX_1](/assets/images/documentations/GeForce_RTX_1.png){:width="800px" height="500px" loading="lazy"}
+> ![GeForce_RTX_1](/assets/images/documentations/GeForce_RTX_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![GeForce_RTX_2](/assets/images/documentations/GeForce_RTX_2.png){:width="800px" height="500px" loading="lazy"}
+> ![GeForce_RTX_2](/assets/images/documentations/GeForce_RTX_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > 目前，对于Omniverse Standard版本用户，其主要使用的GeForce RTX系列的显卡，具体的要求可参考如下：
 >
-> ![GeForce_RTX_3](/assets/images/documentations/GeForce_RTX_3.png){:width="800px" height="500px" loading="lazy"}
+> ![GeForce_RTX_3](/assets/images/documentations/GeForce_RTX_3.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > Enterprise版本的对硬件资源的要求如下：
 >
-> ![GeForce_RTX_4](/assets/images/documentations/GeForce_RTX_4.png){:width="800px" height="500px" loading="lazy"}
+> ![GeForce_RTX_4](/assets/images/documentations/GeForce_RTX_4.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > Cloud版本的硬件资源由Nvidia官方提供，可根据实际需要进行配置，需要联系相关客服，参考连接如下。
 >
 > （2）Nvidia OVX
 >
-> ![Nvidia_OVX_1](/assets/images/documentations/Nvidia_OVX_1.png){:width="800px" height="500px" loading="lazy"}
+> ![Nvidia_OVX_1](/assets/images/documentations/Nvidia_OVX_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Nvidia_OVX_2](/assets/images/documentations/Nvidia_OVX_2.png){:width="800px" height="500px" loading="lazy"}
+> ![Nvidia_OVX_2](/assets/images/documentations/Nvidia_OVX_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Nvidia_OVX_3](/assets/images/documentations/Nvidia_OVX_3.png){:width="800px" height="500px" loading="lazy"}
+> ![Nvidia_OVX_3](/assets/images/documentations/Nvidia_OVX_3.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://docs.omniverse.nvidia.com/materials-and-rendering/latest/common/technical-requirements.html><br>
@@ -108,15 +108,15 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > USD最开始由皮克斯动画公司生成的一种3D动画的描述格式，后面慢慢形成一个OpenUSD协议联盟（AOUSD），有不同大型图形、图像、动画等公司加入，随着发展壮大，Nvidia对USD进行了扩充丰富，如今便形成了构建元宇宙的场景描述的标准格式。
 >
-> ![OpenUSD_1](/assets/images/documentations/OpenUSD_1.png){:width="800px" height="500px" loading="lazy"}
+> ![OpenUSD_1](/assets/images/documentations/OpenUSD_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![OpenUSD_2](/assets/images/documentations/OpenUSD_2.png){:width="800px" height="500px" loading="lazy"}
+> ![OpenUSD_2](/assets/images/documentations/OpenUSD_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![OpenUSD_3](/assets/images/documentations/OpenUSD_3.png){:width="800px" height="500px" loading="lazy"}
+> ![OpenUSD_3](/assets/images/documentations/OpenUSD_3.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![OpenUSD_4](/assets/images/documentations/OpenUSD_4.png){:width="800px" height="500px" loading="lazy"}
+> ![OpenUSD_4](/assets/images/documentations/OpenUSD_4.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![OpenUSD_5](/assets/images/documentations/OpenUSD_5.png){:width="800px" height="500px" loading="lazy"}
+> ![OpenUSD_5](/assets/images/documentations/OpenUSD_5.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://www.nvidia.cn/omniverse/usd/><br>
@@ -128,13 +128,13 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > MDL是Nvidia对USD的功能扩展，是用来描述场景中对象的材质和光线，其是基于物理性质来描述材质且支持共享，能获得极佳的视觉渲染效果，而且高效便捷，所以成为Nvidia元宇宙布局中重要的核心技术。
 >
-> ![MDL_1](/assets/images/documentations/MDL_1.png){:width="800px" height="500px" loading="lazy"}
+> ![MDL_1](/assets/images/documentations/MDL_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![MDL_2](/assets/images/documentations/MDL_2.png){:width="800px" height="500px" loading="lazy"}
+> ![MDL_2](/assets/images/documentations/MDL_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![MDL_3](/assets/images/documentations/MDL_3.png){:width="800px" height="500px" loading="lazy"}
+> ![MDL_3](/assets/images/documentations/MDL_3.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![MDL_4](/assets/images/documentations/MDL_4.png){:width="800px" height="500px" loading="lazy"}
+> ![MDL_4](/assets/images/documentations/MDL_4.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://www.nvidia.cn/design-visualization/technologies/material-definition-language/><br>
@@ -146,11 +146,11 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > Nvidia RTX 平台融合了光线追踪、深度学习和光栅化，通过 NVIDIA Turing GPU 架构以及对行业领先工具和 API 的支持，从根本上改变了内容创作者和开发者的创作过程。基于 RTX 平台构建的应用程序带来了实时逼真渲染和 AI 增强的图形、视频和图像处理功能，使数百万设计师和艺术家能够以全新的方式创作令人惊叹的内容。RTX 平台提供在高级硬件上运行的软件 API 和 SDK，以提供能够加速和增强图形、照片、图像和视频处理的解决方案。
 >
-> ![RTX_1](/assets/images/documentations/RTX_1.png){:width="800px" height="500px" loading="lazy"}
+> ![RTX_1](/assets/images/documentations/RTX_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![RTX_2](/assets/images/documentations/RTX_2.png){:width="800px" height="500px" loading="lazy"}
+> ![RTX_2](/assets/images/documentations/RTX_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![RTX_3](/assets/images/documentations/RTX_3.png){:width="800px" height="500px" loading="lazy"}
+> ![RTX_3](/assets/images/documentations/RTX_3.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://www.nvidia.cn/design-visualization/technologies/rtx/><br>
@@ -161,19 +161,19 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > Nvidia PhysX 是一种可扩展的多平台物理仿真解决方案，可为智能手机、高端多核 CPU 和 GPU 等各类设备提供支持，Nvidia可提供三个核心物理模拟库：PhysX、Blast 和 Flow以用于不同的场景。另外FleX 是一种基于粒子的仿真技术，用于呈现实时视觉特效，主要应用在柔性变形体，流体，粒子系统等场景。
 >
-> ![PhysX_1](/assets/images/documentations/PhysX_1.png){:width="800px" height="500px" loading="lazy"}
+> ![PhysX_1](/assets/images/documentations/PhysX_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![PhysX_2](/assets/images/documentations/PhysX_2.png){:width="800px" height="500px" loading="lazy"}
+> ![PhysX_2](/assets/images/documentations/PhysX_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![PhysX_3](/assets/images/documentations/PhysX_3.png){:width="800px" height="500px" loading="lazy"}
+> ![PhysX_3](/assets/images/documentations/PhysX_3.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > PhysX 5 提供了一个统一框架，用于刚体、粒子和可变形物体仿真。PhysX 5 包含高级版 PhysX 4 功能，并融合了 FleX 的功能，FleX 是我们的 GPU 物理系统，可通过形状匹配实现离散粒子仿真、液体、布料、充气物体、质量弹簧系统、伪刚体和塑料变形。此外，PhysX 5 还为使用 Corotational FEM 模型进行的变形仿真带来支持。这些新功能与现有的 PhysX 刚体动力学无缝交互，可提供高效灵活的多物理模拟，从而仿真复杂的耦合问题。PhysX 5 由 NVIDIA Omniverse 平台面向公众独家提供。
 >
-> ![PhysX_4](/assets/images/documentations/PhysX_4.png){:width="800px" height="500px" loading="lazy"}
+> ![PhysX_4](/assets/images/documentations/PhysX_4.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![PhysX_5](/assets/images/documentations/PhysX_5.png){:width="800px" height="500px" loading="lazy"}
+> ![PhysX_5](/assets/images/documentations/PhysX_5.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![PhysX_6](/assets/images/documentations/PhysX_6.png){:width="800px" height="500px" loading="lazy"}
+> ![PhysX_6](/assets/images/documentations/PhysX_6.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://developer.nvidia.cn/physx-sdk><br>
@@ -185,11 +185,11 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 > Nvidia Omniverse的生态系统是Nvidia为了构建元宇宙平台而建立的一个软件生态，其将连接器、扩展程序、基础应用和第三方工具慢慢纳入到该生态中。连接器是一种插件或者服务来将Omniverse连接到各大行业中的建模图形渲染软件，从而丰富Omniverse的生态资源。扩展程序是基于Omniverse Kit SDK构建的有特定功能的基础模块，用于构建用户自己的工作流。
 > Omniverse Connect 允许您将自己喜欢的应用程序用作 Omniverse 平台的一流内容交付工具。借助Revit，Rhino，Maya，虚幻引擎等工具，这些已经功能强大的工具将超级充满Omniverse的所有潜力。实时协作、路径追踪并排渲染、核心快照和USD转换只是使用 Omniverse 连接器的一些直接好处。再加上这些好处，一个简单的集成UI，你会发现自己在全宇宙中为3D世界做出贡献比你想象的要容易。
 >
-> ![Ecosystem_1](/assets/images/documentations/Ecosystem_1.png){:width="800px" height="500px" loading="lazy"}
+> ![Ecosystem_1](/assets/images/documentations/Ecosystem_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Ecosystem_2](/assets/images/documentations/Ecosystem_2.png){:width="800px" height="500px" loading="lazy"}
+> ![Ecosystem_2](/assets/images/documentations/Ecosystem_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Ecosystem_3](/assets/images/documentations/Ecosystem_3.png){:width="800px" height="500px" loading="lazy"}
+> ![Ecosystem_3](/assets/images/documentations/Ecosystem_3.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://www.nvidia.cn/omniverse/ecosystem/><br>
@@ -199,7 +199,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 
 > 基础应用是一系列Nvidia基于Omniverse Kit SDK开发的应用软件，用于构建元宇宙平台及给普通用户构建自己的工作流。常用核心基础应用的软件包括：USD View，USD Presenter，USD Explorer，USD Composer，Scene Optimizer，Code，Isaac Sim，Drive Sim，Omniverse Streaming Client，Farm等。下面一一介绍其相关功能。
 >
-> ![Basic_Apps](/assets/images/documentations/Basic_Apps.png){:width="800px" height="500px" loading="lazy"}
+> ![Basic_Apps](/assets/images/documentations/Basic_Apps.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://docs.omniverse.nvidia.com/index.html><br>
@@ -213,7 +213,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 > Make It Real： View 由 NVIDIA Omniverse RTX 渲染器提供支持，这是一款支持多 GPU 的高级渲染器，可以实时输出超复杂的场景。渲染器具有两种模式：启用 RTX 的光线追踪可实现闪电般的性能，路径追踪可实现最高保真度的结果。通过拨动开关进行油门，以便在大型场景中快速导航。
 > 实时无缝协作：连接技术设计团队、项目经理、主管、建筑师、客户，以实现更顺畅的审查流程。
 >
-> ![USD_Presenter](/assets/images/documentations/USD_Presenter.png){:width="800px" height="500px" loading="lazy"}
+> ![USD_Presenter](/assets/images/documentations/USD_Presenter.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://docs.omniverse.nvidia.com/usdview/latest/index.html><br>
@@ -223,9 +223,9 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > USD Explorer 是一款 Omniverse™ 应用程序，用于审查和建造工厂、仓库等大型设施。它是使用 NVIDIA Omniverse™ 套件构建的。场景描述和内存模型基于皮克斯的USD。
 >
-> ![USD_Explorer_1](/assets/images/documentations/USD_Explorer_1.png){:width="800px" height="500px" loading="lazy"}
+> ![USD_Explorer_1](/assets/images/documentations/USD_Explorer_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![USD_Explorer_2](/assets/images/documentations/USD_Explorer_2.png){:width="800px" height="500px" loading="lazy"}
+> ![USD_Explorer_2](/assets/images/documentations/USD_Explorer_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<https://docs.omniverse.nvidia.com/explorer/latest/index.html>
 >
@@ -234,7 +234,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 > USD Composer 是一款用于世界构建的 Omniverse™ 应用程序，允许用户组装、打光、模拟和渲染大型场景。它是使用NVIDIA Omniverse™套件构建的。场景描述和内存模型基于皮克斯的USD。Omniverse USD Composer 利用 USD 的高级工作流程，如图层、变体、实例化等等。结合 MDL 材质描述和在 NVIDIA RTX 显卡上运行的基于 RTX 的渲染器，您可以生成视觉上引人注目且物理上准确的世界。Omniverse USD Composer与Pixar的Hydra集成在一起，因此可用于在任何Hydra渲染器（例如Storm，Embree，PRMan等）中显示USD内容，这些渲染器是针对适当的USD版本构建的。
 > USD Composer 允许您导航、修改和渲染 Pixar USD 内容。除了 USD，Omniverse USD Composer 还可以使用 Omniverse 连接器连接到许多应用程序，以将 3D 模型、材质、动画和光照发布为 USD 格式。连接器可用于许多现有工具，如Revit、Sketchup、3ds Max、Rhino、Grasshopper、Maya、Unreal、Blender等。如果您没有连接器，您还可以直接在应用程序中将 FBX、OBJ、Gltf、LXO 转换为 USD 格式。此外，许多没有原生支持 USD 的 Omniverse 连接器的工具都可以引入 Omniverse USD Composer。
 >
-> ![USD_Composer](/assets/images/documentations/USD_Composer.png){:width="800px" height="500px" loading="lazy"}
+> ![USD_Composer](/assets/images/documentations/USD_Composer.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<https://docs.omniverse.nvidia.com/composer/latest/index.html>
 >
@@ -242,7 +242,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > Scene Optimizer场景优化器是一个命令行工具，可以优化 USD 场景，允许将复杂场景转换为更轻量级的表示形式，从而可以更快地显示和评估。
 >
-> ![Scene_Optimizer](/assets/images/documentations/Scene_Optimizer.png){:width="800px" height="500px" loading="lazy"}
+> ![Scene_Optimizer](/assets/images/documentations/Scene_Optimizer.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<https://docs.omniverse.nvidia.com/scene-optimizer/latest/index.html>
 >
@@ -250,7 +250,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > Omniverse Code 是面向开发人员的集成开发环境 （IDE），使用户能够构建 Omniverse 扩展程序、应用和微服务。
 >
-> ![Omniverse_Code](/assets/images/documentations/Omniverse_Code.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Code](/assets/images/documentations/Omniverse_Code.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<https://docs.omniverse.nvidia.com/code/latest/index.html>
 >
@@ -258,13 +258,13 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > NVIDIA Omniverse Isaac Sim 是 NVIDIA Omniverse™ 平台的机器人模拟工具包。Isaac Sim具有构建虚拟机器人世界和实验的基本功能。它为研究人员和从业者提供了创建强大、物理上准确的模拟和合成数据集所需的工具和工作流程。Isaac Sim 通过 ROS/ROS2 支持导航和操作应用程序。它模拟来自 RGB-D、激光雷达和 IMU 等传感器的传感器数据，用于各种计算机视觉技术，例如域随机化、地面真实标记、分割和边界框。
 >
-> ![Isaac_Sim_1](/assets/images/documentations/Isaac_Sim_1.png){:width="800px" height="500px" loading="lazy"}
+> ![Isaac_Sim_1](/assets/images/documentations/Isaac_Sim_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > Isaac Sim作为Omniverse的仿真平台，其软件结构和工作流如下图所示：
 >
-> ![Isaac_Sim_2](/assets/images/documentations/Isaac_Sim_2.png){:width="800px" height="500px" loading="lazy"}
+> ![Isaac_Sim_2](/assets/images/documentations/Isaac_Sim_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Isaac_Sim_3](/assets/images/documentations/Isaac_Sim_3.png){:width="800px" height="500px" loading="lazy"}
+> ![Isaac_Sim_3](/assets/images/documentations/Isaac_Sim_3.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://docs.omniverse.nvidia.com/isaacsim/latest/index.html><br>
@@ -274,23 +274,23 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > NVIDIA DRIVE Sim™ 是一个端到端模拟平台，从头开始构建，用于运行基于物理的大规模多传感器模拟。它具有开放性、可扩展性和模块化，支持从概念到部署的自动驾驶汽车开发和验证，从而提高开发人员的工作效率并加快上市时间。其具有以下特性：
 >
-> ![Drive_Sim_1](/assets/images/documentations/Drive_Sim_1.png){:width="800px" height="500px" loading="lazy"}
+> ![Drive_Sim_1](/assets/images/documentations/Drive_Sim_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Drive_Sim_2](/assets/images/documentations/Drive_Sim_2.png){:width="800px" height="500px" loading="lazy"}
+> ![Drive_Sim_2](/assets/images/documentations/Drive_Sim_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Drive_Sim_3](/assets/images/documentations/Drive_Sim_3.png){:width="800px" height="500px" loading="lazy"}
+> ![Drive_Sim_3](/assets/images/documentations/Drive_Sim_3.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Drive_Sim_4](/assets/images/documentations/Drive_Sim_4.png){:width="800px" height="500px" loading="lazy"}
+> ![Drive_Sim_4](/assets/images/documentations/Drive_Sim_4.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Drive_Sim_5](/assets/images/documentations/Drive_Sim_5.png){:width="800px" height="500px" loading="lazy"}
+> ![Drive_Sim_5](/assets/images/documentations/Drive_Sim_5.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Drive_Sim_6](/assets/images/documentations/Drive_Sim_6.png){:width="800px" height="500px" loading="lazy"}
+> ![Drive_Sim_6](/assets/images/documentations/Drive_Sim_6.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Drive_Sim_7](/assets/images/documentations/Drive_Sim_7.png){:width="800px" height="500px" loading="lazy"}
+> ![Drive_Sim_7](/assets/images/documentations/Drive_Sim_7.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > 作为一个开放平台，NVIDIA DRIVE Sim 拥有丰富的合作伙伴生态系统，他们为开发者和其他生态系统成员创建和部署仿真模型，以加速大规模的自动驾驶汽车开发和测试。DRIVE Sim 基于 NVIDIA Omniverse（基于通用场景描述 （OpenUSD） 的可扩展开发平台）构建，还连接到构建和运营元宇宙应用程序和数字孪生的合作伙伴生态系统。
 >
-> ![Drive_Sim_8](/assets/images/documentations/Drive_Sim_8.png){:width="800px" height="500px" loading="lazy"}
+> ![Drive_Sim_8](/assets/images/documentations/Drive_Sim_8.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://www.nvidia.com/en-sg/self-driving-cars/simulation/><br>
@@ -302,7 +302,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 > 从低功耗设备或超极本访问 Omniverse 应用程序；
 > 促进通过网络或互联网共享资源，允许用户连接到由 IT 资源配置的 Omniverse 应用程序。
 >
-> ![Omniverse_Streaming_Client](/assets/images/documentations/Omniverse_Streaming_Client.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Streaming_Client](/assets/images/documentations/Omniverse_Streaming_Client.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<https://docs.omniverse.nvidia.com/streaming-client/latest/index.html>
 >
@@ -320,7 +320,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 生成USD场景以训练机器学习模型；
 将 AEC 项目中的 BIM 数据导出为USD图层；
 >
-> ![Omniverse_Farm](/assets/images/documentations/Omniverse_Farm.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Farm](/assets/images/documentations/Omniverse_Farm.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<https://docs.omniverse.nvidia.com/farm/latest/index.html>
 
@@ -328,17 +328,17 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 
 > Nvidia的云端主要是面向企业级用户，其主要不同在于数据安全性和管理，计算资源和专业的技术支持服务方面的优势。目前我们正在使用的是Standard的标准版本，Standard跟Enterprise和Cloud版本的具体区别如下：
 >
-> ![Omniverse_Cloud_1](/assets/images/documentations/Omniverse_Cloud_1.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Cloud_1](/assets/images/documentations/Omniverse_Cloud_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Omniverse_Cloud_2](/assets/images/documentations/Omniverse_Cloud_2.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Cloud_2](/assets/images/documentations/Omniverse_Cloud_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > Cloud版本的Omniverse的简介如下图所示，详细内容可查可参考链接。
 >
-> ![Omniverse_Cloud_3](/assets/images/documentations/Omniverse_Cloud_3.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Cloud_3](/assets/images/documentations/Omniverse_Cloud_3.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Omniverse_Cloud_4](/assets/images/documentations/Omniverse_Cloud_4.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Cloud_4](/assets/images/documentations/Omniverse_Cloud_4.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Omniverse_Cloud_5](/assets/images/documentations/Omniverse_Cloud_5.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Cloud_5](/assets/images/documentations/Omniverse_Cloud_5.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://www.nvidia.com/en-us/omniverse/download/><br>
@@ -349,17 +349,17 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 
 > NVIDIA Omniverse™ 是一个模块化开发平台（如下图所示），用于构建 3D 工作流程、工具、应用程序和服务。基于皮克斯的通用场景描述（OpenUSD）、NVIDIA RTX™ 和 NVIDIA AI 技术，开发人员使用 Omniverse 为工业数字化和感知 AI 应用构建实时 3D 仿真解决方案。
 >
-> ![Omniverse_Developer_1](/assets/images/documentations/Omniverse_Developer_1.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Developer_1](/assets/images/documentations/Omniverse_Developer_1.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > 下面是基于Omniverse Kit SDK开发的应用于Isaac Sim中的多种Extension（Simulation/Graph/Example/Services等）:
 >
-> ![Omniverse_Developer_2](/assets/images/documentations/Omniverse_Developer_2.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Developer_2](/assets/images/documentations/Omniverse_Developer_2.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > NVIDIA Omniverse 是一个完全可组合的平台，可从工作站扩展到云端，使开发人员能够以最少的编码构建高级、可扩展的解决方案。
 >
-> ![Omniverse_Developer_3](/assets/images/documentations/Omniverse_Developer_3.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Developer_3](/assets/images/documentations/Omniverse_Developer_3.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 > 
-> ![Omniverse_Developer_4](/assets/images/documentations/Omniverse_Developer_4.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Developer_4](/assets/images/documentations/Omniverse_Developer_4.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > Omniverse 项目由配置文件、源代码和资产组成，可用于使用 Omniverse Platform API 执行任务。使用这些组件，您可以开发：
 Extensions：用于增强应用程序功能和行为的扩展；
@@ -369,7 +369,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >
 > 开发 Omniverse 项目的过程通常涉及一系列步骤。开发人员的角色往往从创建 Omniverse 项目开始，通常以打包构建结束。从那里，可以将软件包发布到存储系统，然后存储系统将提供它以进行部署或安装。
 >
-> ![Omniverse_Developer_5](/assets/images/documentations/Omniverse_Developer_5.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Developer_5](/assets/images/documentations/Omniverse_Developer_5.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > **Reference：**<br>
 > <https://developer.nvidia.com/omniverse><br>
@@ -687,8 +687,8 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > 物理引擎，简单的说就是计算2D或者3D场景中，物体与场景之间，物体与角色之间、物体与物体之间的运动交互和动力学。物理引擎是一个计算机程序用来模拟牛顿动力学模型，使用质量、速度、摩擦力和空气阻力等变量，为刚性或柔性物体赋予真实的物理属性的方式来模拟物体的运动、旋转和碰撞等交互过程，使得仿真的效果更准确、更真实。物理引擎的基础是系统动力学，动力学是对现实世界中物体运动规律的数学描述，这种数学描述主要是基于常微分方程的，物理引擎核心的任务就在于求解常微分方程。
 >
 > 基于牛顿三大定律，在计算机中通过物理引擎来模拟刚体运动的流程大致都是如下左图所示。其中显示结果这部分中，物理引擎驱动图形渲染的流程如下右图所示。<br>
-> ![Physic_Engine_1](/assets/images/documentations/3d-engine-framework-1.png){:width="380px" height="290px" loading="lazy"}
-> ![Physic_Engine_2](/assets/images/documentations/3d-engine-framework-2.png){:width="380px" height="290px" loading="lazy"}
+> ![Physic_Engine_1](/assets/images/documentations/3d-engine-framework-1.png){:width="380px" height="290px" style="border-radius:9px" loading="lazy"}
+> ![Physic_Engine_2](/assets/images/documentations/3d-engine-framework-2.png){:width="380px" height="290px" style="border-radius:9px" loading="lazy"}
 >
 > 物理引擎有两种类型常见的型类：实时物理引擎和高精度物理引擎。高精度的物理引擎需要更多的处理能力来计算非常精确的物理，通常使用在科学研究（计算物理学）和电脑动画电影制作。实时物理引擎使用通常使用在电子游戏并且简化运算，降低精确度增以减少计算时间，得到在电子游戏当中可以接受的的处理速度。
 >
@@ -820,7 +820,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >（4）能够实现用例的大量变种；<br>
 >
 > Nvidia Omniverse Microservices平台的架构如下：<br>
-> ![Omniverse_Microservices](/assets/images/documentations/Omniverse_Microservices.png){:width="800px" height="500px" loading="lazy"}
+> ![Omniverse_Microservices](/assets/images/documentations/Omniverse_Microservices.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > Nvidia Omniverse Microservices平台有如下名词：<br>
 >（1）Routers：节点管理器，用于管理微服务注册<br>
@@ -851,7 +851,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >
 > 当前，Omniverse平台的服务化是基于Kit开发的一套微服务架构，用户可通过Service Extension开发自己的服务组件，从而构建自己的应用场景平台，然后可以将平台部署在云端或者本地服务器上以供公司成员和客户进行使用，同时研发人员可更新服务组件以实现升级服务功能。基于上述拟定的功能模块，我们可用到的云服务有IaaS、PaaS、SaaS、FaaS、DaaS、DBaaS、LaaS，然后基于Omniverse微服务架构的服务化功能模块如下图所示。<br>
 > 
-> ![Intelligent_Testing_Platform](/assets/images/documentations/Intelligent_Testing_Platform.png){:width="800px" height="500px" loading="lazy"}
+> ![Intelligent_Testing_Platform](/assets/images/documentations/Intelligent_Testing_Platform.png){:width="800px" height="500px" style="border-radius:9px" loading="lazy"}
 >
 > 根据公司智能测试平台的要求及具体的测试业务，初步拟定以下可服务化的功能模块，包括：快速3D对象建模、模型USD格式转换、构建加载工作场景、按要求运行测试仿真、输出并记录测试仿真结果、仿真结果数据库管理、测试用例配置数据库管理、USD模型数据库管理、面向研发管理系统、面向客户管理系统等。
 >
