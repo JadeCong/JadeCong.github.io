@@ -32,7 +32,7 @@ date: 23 July 2022
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-18
+last_modified_at: 2025-09-14
 
 hide_description: false
 hide_image: false
@@ -50,7 +50,7 @@ featured: false
 
 #### Demo of Tactile Finger
 
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+<video id="video" width="1920" height="1080" style="border-radius:9px" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/tactile-finger.mp4" type="video/mp4">
 </video>
 Demo for robot perception
@@ -58,7 +58,7 @@ Demo for robot perception
 
 #### Application of Tactile Finger
 
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+<video id="video" width="1920" height="1080" style="border-radius:9px" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/manual-force-teaching.mp4" type="video/mp4">
 </video>
 Application for manual force teaching

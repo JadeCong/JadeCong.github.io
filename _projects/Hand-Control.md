@@ -30,7 +30,7 @@ date: 22 January 2020
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-08-04
+last_modified_at: 2025-09-14
 
 hide_description: false
 hide_image: false
@@ -48,7 +48,7 @@ featured: false
 
 #### Demo of Hand Control(Master)
 
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+<video id="video" width="1920" height="1080" style="border-radius:9px" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/hand-control-master.mp4" type="video/mp4">
 </video>
 Demo for hand control master end
@@ -56,7 +56,7 @@ Demo for hand control master end
 
 #### Demo of Hand Control(Slave)
 
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+<video id="video" width="1920" height="1080" style="border-radius:9px" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/hand-control-slave.mp4" type="video/mp4">
 </video>
 Demo for hand control slave end

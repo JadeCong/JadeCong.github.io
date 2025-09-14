@@ -32,7 +32,7 @@ date: 11 November 2022
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-18
+last_modified_at: 2025-09-14
 
 hide_description: false
 hide_image: false
@@ -50,13 +50,13 @@ featured: false
 
 #### Design of Massage Meta Skill
 
-![Massage Meta Skill](/assets/images/projects/massage-meta-skill.png){:width="1920" height="1080" loading="lazy"}
+![Massage Meta Skill](/assets/images/projects/massage-meta-skill.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Abstraction for massage meta skill
 {:.figcaption}
 
 #### Simulation of MR
 
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+<video id="video" width="1920" height="1080" style="border-radius:9px" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/mr-simulation.mp4" type="video/mp4">
 </video>
 Simulation for massage robot
@@ -64,7 +64,7 @@ Simulation for massage robot
 
 #### Application of MR
 
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+<video id="video" width="1920" height="1080" style="border-radius:9px" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/massage-robot.mp4" type="video/mp4">
 </video>
 Application for massage robot

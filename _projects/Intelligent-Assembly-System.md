@@ -30,7 +30,7 @@ date: 22 January 2018
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-18
+last_modified_at: 2025-09-14
 
 hide_description: false
 hide_image: false
@@ -48,23 +48,23 @@ featured: false
 
 #### Prototype of Intelligent Assembly System
 
-![3C Assembly Prototype](/assets/images/projects/intelligent-assembly-3c.png){:width="1920" height="1080" loading="lazy"}
+![3C Assembly Prototype](/assets/images/projects/intelligent-assembly-3c.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Prototype for 3C Assembly
 {:.figcaption}
 
-![Reducer Assembly Prototype](/assets/images/projects/intelligent-assembly-reducer.png){:width="1920" height="1080" loading="lazy"}
+![Reducer Assembly Prototype](/assets/images/projects/intelligent-assembly-reducer.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Prototype for Reducer Assembly
 {:.figcaption}
 
 #### Simulation of Intelligent Assembly System
 
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+<video id="video" width="1920" height="1080" style="border-radius:9px" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/intelligent-assembly-3c.mp4" type="video/mp4">
 </video>
 Simulation for 3C intelligent assembly
 {:.figcaption}
 
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+<video id="video" width="1920" height="1080" style="border-radius:9px" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/intelligent-assembly-reducer.mp4" type="video/mp4">
 </video>
 Simulation for reducer intelligent assembly
@@ -72,10 +72,10 @@ Simulation for reducer intelligent assembly
 
 #### Demo of Intelligent Assembly System
 
-![3C Assembly Demo](/assets/images/projects/intelligent-assembly-3c-demo.png){:width="1920" height="1080" loading="lazy"}
+![3C Assembly Demo](/assets/images/projects/intelligent-assembly-3c-demo.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Demo for 3C Assembly
 {:.figcaption}
 
-![Reducer Assembly Demo](/assets/images/projects/intelligent-assembly-reducer-demo.png){:width="1920" height="1080" loading="lazy"}
+![Reducer Assembly Demo](/assets/images/projects/intelligent-assembly-reducer-demo.png){:width="1920" height="1080" style="border-radius:9px" loading="lazy"}
 Demo for Reducer Assembly
 {:.figcaption}

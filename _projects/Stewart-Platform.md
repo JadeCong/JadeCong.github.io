@@ -30,7 +30,7 @@ date: 24 June 2022
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-06-18
+last_modified_at: 2025-09-14
 
 hide_description: false
 hide_image: false
@@ -48,7 +48,7 @@ featured: false
 
 #### Prototype of Stewart Platform
 
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+<video id="video" width="1920" height="1080" style="border-radius:9px" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/stewart-platform-proto.mp4" type="video/mp4">
 </video>
 Prototype for stewart platform
@@ -56,7 +56,7 @@ Prototype for stewart platform
 
 #### Simulation of Stewart Platform
 
-<video id="video" width="1920" height="1080" controls="" preload="auto" autoplay="true" loop="true" poster="">
+<video id="video" width="1920" height="1080" style="border-radius:9px" controls="" preload="auto" autoplay="true" loop="true" poster="">
   <source id="mp4" src="../../../assets/videos/projects/stewart-platform.mp4" type="video/mp4">
 </video>
 ROS simulation for stewart platform

@@ -62,7 +62,7 @@ Nvidia Omniverse Platform
 
 In the last 7 years I worked as a **Robot Algorithm Engineer** mainly focused on algorithm development and applications but also an **AI Development Engineer** as well. I'm also dedicated to integrating robotics and artificial intelligence to construct an intelligent humanoid robot for users.
 
-![Ultrasound Scanning](/assets/images/about/ultrasound-scanning.png){:width="465px" height="330px" style="border-radius:9px" " loading="lazy"}
+![Ultrasound Scanning](/assets/images/about/ultrasound-scanning.png){:width="465px" height="330px" style="border-radius:9px" loading="lazy"}
 ![Robot Teleoperation](/assets/images/about/robot-teleoperation.png){:width="360px" height="250px" style="border-radius:9px" loading="lazy"}
 Robot Applications
 {:.figcaption}
