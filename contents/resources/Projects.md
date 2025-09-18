@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-09-10
+last_modified_at: 2025-09-18
 
 hide_description: true
 hide_image: false
@@ -79,7 +79,7 @@ featured: false
 > 29. **MaxKB**: <https://maxkb.cn/>
 > 30. **OpenDatalab**: <https://opendatalab.com/OpenSourceTools>
 > 31. **Segment Anything Model 2 (SAM 2)**: <https://ai.meta.com/sam2/>
-> 32. **LLaMA-Factory**: <https://qwen.readthedocs.io/en/latest/training/SFT/llama_factory.html>
+> 32. **LLaMA-Factory**: <https://llamafactory.readthedocs.io/zh-cn/latest/>
 > 33. **FunAudioLLM**: <https://funaudiollm.github.io/>
 > 34. **KLING**: <https://kling.kuaishou.com/>
 > 35. **AlphaGeometry**: <https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/>
@@ -237,6 +237,8 @@ featured: false
 > 187. **DINOv3**: <https://ai.meta.com/dinov3/>
 > 188. **Getting Good Results from Claude Code**: <https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/>
 > 189. **VibeVoice**: <https://microsoft.github.io/VibeVoice/>
+> 190. **verl**: <https://verl.readthedocs.io/en/latest/index.html>
+> 191. **Open Source LLM Development Landscape**: <https://antoss-landscape.my.canva.site/>
 
 ## (2) Agents
 
@@ -469,6 +471,10 @@ featured: false
 > 227. **bytebot**: <https://www.bytebot.ai/>
 > 228. **Hyprnote**: <https://hyprnote.com/>
 > 229. **Visual Story-Writing**: <https://damienmasson.com/VisualStoryWriting/>
+> 230. **IndexTTS 2**: <https://indextts.org/zh>
+> 231. **DeepMCPAgent**: <https://cryxnet.github.io/DeepMCPAgent/>
+> 232. **Zed**: <https://zed.dev/>
+> 233. **JeecgBoot**: <https://www.jeecg.com/>
 
 ## (3) AIGC
 
@@ -1403,12 +1409,20 @@ featured: false
 > 222. **Deep Reactive Policy**: <https://deep-reactive-policy.com/>
 > 223. **Gemini Robotics On-Device**: <https://deepmind.google/models/gemini-robotics/gemini-robotics-on-device/>
 > 224. **Align-Then-stEer**: <https://align-then-steer.github.io/>
+> 225. **MinD**: <https://manipulate-in-dream.github.io/>
+> 226. **UnifoLM-WMA-0**: <https://unigen-x.github.io/unifolm-world-model-action.github.io/>
+> 227. **StableMotion**: <https://yxmu.foo/stablemotion-page/>
+> 228. **VideoMimic**: <https://videomimic.github.io/>
+> 229. **Isaac Lab**: <https://isaac-sim.github.io/IsaacLab/main/index.html>
+> 230. **Dexplore**: <https://sirui-xu.github.io/dexplore/>
 
 ## (2) Autonomous Driving
 
 > 1. **X-Mobility**: <https://nvlabs.github.io/X-MOBILITY/>
 
 ## (3) Embodied Intelligence
+
+> 1. **Gymnasium**: <https://gymnasium.farama.org/>
 
 # Metaverse
 
