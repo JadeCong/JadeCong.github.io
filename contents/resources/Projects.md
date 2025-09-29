@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-09-18
+last_modified_at: 2025-09-29
 
 hide_description: true
 hide_image: false
@@ -239,6 +239,7 @@ featured: false
 > 189. **VibeVoice**: <https://microsoft.github.io/VibeVoice/>
 > 190. **verl**: <https://verl.readthedocs.io/en/latest/index.html>
 > 191. **Open Source LLM Development Landscape**: <https://antoss-landscape.my.canva.site/>
+> 192. **Unsloth**: <https://docs.unsloth.ai/>
 
 ## (2) Agents
 
@@ -475,6 +476,10 @@ featured: false
 > 231. **DeepMCPAgent**: <https://cryxnet.github.io/DeepMCPAgent/>
 > 232. **Zed**: <https://zed.dev/>
 > 233. **JeecgBoot**: <https://www.jeecg.com/>
+> 234. **FastbuildAI**: <https://www.fastbuildai.com/>
+> 235. **TEN Agent**: <https://agent.theten.ai/>
+> 236. **ROMA**: <https://blog.sentient.xyz/posts/recursive-open-meta-agent>
+> 237. **Super Magic**: <https://www.letsmagic.ai/>
 
 ## (3) AIGC
 
@@ -886,6 +891,7 @@ featured: false
 > 406. **SyncTalk**: <https://ziqiaopeng.github.io/synctalk/>
 > 407. **EgoTwin**: <https://egotwin.pages.dev/>
 > 408. **RenderFormer**: <https://microsoft.github.io/renderformer/>
+> 409. **Wan**: <https://wan.video/>
 
 # Robotics
 
@@ -972,6 +978,7 @@ featured: false
 > 79. **Tactile beyond pixels**: <https://akashsharma02.github.io/sparsh-x-ssl/>
 > 80. **DEXOP**: <https://dex-op.github.io/>
 > 81. **TRLC**: <https://docs.robot-learning.co/>
+> 82. **ByteWrist**:<https://bytewrist.github.io/>
 
 ## (2) Software
 
@@ -1020,6 +1027,7 @@ featured: false
 > 43. **OSCBF**: <https://stanfordasl.github.io/oscbf/>
 > 44. **Nullspace MPC**: <https://mizuhoaoki.github.io/projects/nullspace_mpc>
 > 45. **NeuralSVCD**: <https://neuralsvcd.github.io/>
+> 46. **Mink**: <https://kevinzakka.github.io/mink/>
 
 # AIRobotics
 
@@ -1415,6 +1423,22 @@ featured: false
 > 228. **VideoMimic**: <https://videomimic.github.io/>
 > 229. **Isaac Lab**: <https://isaac-sim.github.io/IsaacLab/main/index.html>
 > 230. **Dexplore**: <https://sirui-xu.github.io/dexplore/>
+> 231. **DreamControl**: <https://genrobo.github.io/DreamControl/>
+> 232. **Project Go-Big**: <https://www.figure.ai/news/project-go-big>
+> 233. **TrajBooster**: <https://jiachengliu3.github.io/TrajBooster/>
+> 234. **HDMI**: <https://hdmi-humanoid.github.io/#/>
+> 235. **MaskedManipulator**: <https://research.nvidia.com/labs/par/maskedmanipulator/>
+> 236. **Behavior Foundation Model for Humanoid Robots**: <https://bfm4humanoid.github.io/>
+> 237. **LightVLA**: <https://liauto-research.github.io/LightVLA/>
+> 238. **RoboDexVLM**: <https://henryhcliu.github.io/robodexvlm/>
+> 239. **Any2Track**: <https://zzk273.github.io/Any2Track/>
+> 240. **Motion Priors Reimagined**: <https://anymalprior.github.io/>
+> 241. **Residual Off-Policy RL for Finetuning Behavior Cloning Policies**: <https://residual-offpolicy-rl.github.io/>
+> 242. **BumbleBee**: <https://beingbeyond.github.io/BumbleBee/>
+> 243. **RDT2**: <https://rdt-robotics.github.io/rdt2/>
+> 244. **Gemini Robotics 1.5**: <https://deepmind.google/models/gemini-robotics/>
+> 245. **Expanding Our Data Engine for Physical AI**: <https://scale.com/blog/physical-ai>
+> 246. **Omni-Bodied**: <https://www.skild.ai/blogs/omni-bodied>
 
 ## (2) Autonomous Driving
 
@@ -1553,6 +1577,7 @@ featured: false
 > 117. **Cameras as Relative Positional Encoding**: <https://www.liruilong.cn/prope/>
 > 263. **Real2Render2Real**: <https://real2render2real.com/>
 > 118. **ViPE**: <https://research.nvidia.com/labs/toronto-ai/vipe/>
+> 119. **OmniMap**: <https://omni-map.github.io/>
 
 ## (2) Tools
 
@@ -1589,6 +1614,10 @@ featured: false
 > 31. **Viser**: <https://viser.studio/main/>
 > 32. **MediaCrawler**: <https://nanmicoder.github.io/MediaCrawler/>
 > 33. **Mechaverse**: <https://mechaverse.dev/>
+> 34. **Zenoh**: <https://zenoh.io/>
+> 35. **Rerun**: <https://rerun.io/>
+> 36. **Foxglove**: <https://foxglove.dev/>
+> 37. **MCAP**: <https://mcap.dev/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
