@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-09-29
+last_modified_at: 2025-10-07
 
 hide_description: true
 hide_image: false
@@ -480,6 +480,12 @@ featured: false
 > 235. **TEN Agent**: <https://agent.theten.ai/>
 > 236. **ROMA**: <https://blog.sentient.xyz/posts/recursive-open-meta-agent>
 > 237. **Super Magic**: <https://www.letsmagic.ai/>
+> 238. **Agent Zero**: <https://agent-zero.ai/#hero>
+> 239. **Dreamer 4**: <https://danijar.com/project/dreamer4/>
+> 240. **Jaaz**: <https://jaaz.app/>
+> 241. **Haystack**: <https://haystack.deepset.ai/>
+> 242. **Cherry Studio**: <https://www.cherry-ai.com/>
+> 243. **Supabase**: <https://supabase.com/>
 
 ## (3) AIGC
 
@@ -1439,6 +1445,14 @@ featured: false
 > 244. **Gemini Robotics 1.5**: <https://deepmind.google/models/gemini-robotics/>
 > 245. **Expanding Our Data Engine for Physical AI**: <https://scale.com/blog/physical-ai>
 > 246. **Omni-Bodied**: <https://www.skild.ai/blogs/omni-bodied>
+> 247. **ImMimic**: <https://sites.google.com/view/immimic>
+> 248. **UnifiedForce**: <https://unified-force.github.io/>
+> 249. **DemoGrasp**: <https://beingbeyond.github.io/DemoGrasp/>
+> 250. **Fabrica**: <https://fabrica.csail.mit.edu/>
+> 251. **DSRL**: <https://diffusion-steering.github.io/>
+> 252. **OmniRetarget**: <https://omniretarget.github.io/>
+> 253. **SARM**: <https://qianzhong-chen.github.io/sarm.github.io/>
+> 254. **VLM2VLA**: <https://vlm2vla.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1578,6 +1592,8 @@ featured: false
 > 263. **Real2Render2Real**: <https://real2render2real.com/>
 > 118. **ViPE**: <https://research.nvidia.com/labs/toronto-ai/vipe/>
 > 119. **OmniMap**: <https://omni-map.github.io/>
+> 120. **TTT3R**: <https://rover-xingyu.github.io/TTT3R/>
+> 121. **Instant4D**: <https://instant4d.github.io/>
 
 ## (2) Tools
 

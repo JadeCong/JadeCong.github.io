@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-08-14
+last_modified_at: 2025-10-07
 
 hide_description: true
 hide_image: false
@@ -60,6 +60,8 @@ featured: false
 
 > 1. **RefCOCO**: <https://huggingface.co/datasets/lmms-lab/RefCOCO>
 > 2. **Molmo**: <https://github.com/allenai/molmo>
+> 3. **Data Commons**: <https://datacommons.org/>
+> 4. **Wikidata Vector Database**: <https://wd-vectordb.wmcloud.org/>
 
 # Physics Simulation
 
@@ -73,6 +75,7 @@ featured: false
 > 4. **Open X-Embodiment**: <https://robotics-transformer-x.github.io/>
 > 5. **HUMOTO**: <https://jiaxin-lu.github.io/humoto/>
 > 6. **RH20T**: <https://rh20t.github.io/>
+> 7. **GraspFactory**: <https://graspfactory.github.io/>
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}
