@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-07
+last_modified_at: 2025-10-08
 
 hide_description: true
 hide_image: false
@@ -1453,6 +1453,7 @@ featured: false
 > 252. **OmniRetarget**: <https://omniretarget.github.io/>
 > 253. **SARM**: <https://qianzhong-chen.github.io/sarm.github.io/>
 > 254. **VLM2VLA**: <https://vlm2vla.github.io/>
+> 255. **ADD**: <https://add-moo.github.io/>
 
 ## (2) Autonomous Driving
 
