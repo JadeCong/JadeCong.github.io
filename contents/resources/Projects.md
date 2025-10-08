@@ -486,6 +486,7 @@ featured: false
 > 241. **Haystack**: <https://haystack.deepset.ai/>
 > 242. **Cherry Studio**: <https://www.cherry-ai.com/>
 > 243. **Supabase**: <https://supabase.com/>
+> 244. **Warp**: <https://www.warp.dev/>
 
 ## (3) AIGC
 
@@ -898,6 +899,7 @@ featured: false
 > 407. **EgoTwin**: <https://egotwin.pages.dev/>
 > 408. **RenderFormer**: <https://microsoft.github.io/renderformer/>
 > 409. **Wan**: <https://wan.video/>
+> 410. **VolSplat**: <https://lhmd.top/volsplat/>
 
 # Robotics
 
@@ -1454,6 +1456,7 @@ featured: false
 > 253. **SARM**: <https://qianzhong-chen.github.io/sarm.github.io/>
 > 254. **VLM2VLA**: <https://vlm2vla.github.io/>
 > 255. **ADD**: <https://add-moo.github.io/>
+> 256. **CDF**: <https://sites.google.com/view/cdfmp/home>
 
 ## (2) Autonomous Driving
 
