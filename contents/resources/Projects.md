@@ -240,6 +240,7 @@ featured: false
 > 190. **verl**: <https://verl.readthedocs.io/en/latest/index.html>
 > 191. **Open Source LLM Development Landscape**: <https://antoss-landscape.my.canva.site/>
 > 192. **Unsloth**: <https://docs.unsloth.ai/>
+> 193. **DiffusionNFT**: <https://research.nvidia.com/labs/dir/DiffusionNFT/>
 
 ## (2) Agents
 
@@ -1457,6 +1458,9 @@ featured: false
 > 254. **VLM2VLA**: <https://vlm2vla.github.io/>
 > 255. **ADD**: <https://add-moo.github.io/>
 > 256. **CDF**: <https://sites.google.com/view/cdfmp/home>
+> 257. **VLA-Adapter**: <https://vla-adapter.github.io/>
+> 258. **ResMimic**: <https://resmimic.github.io/>
+> 259. **EmbodiedCoder**: <https://anonymous.4open.science/w/Embodied-Coder/>
 
 ## (2) Autonomous Driving
 
