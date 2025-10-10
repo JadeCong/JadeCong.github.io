@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-08
+last_modified_at: 2025-10-10
 
 hide_description: true
 hide_image: false
@@ -988,6 +988,7 @@ featured: false
 > 80. **DEXOP**: <https://dex-op.github.io/>
 > 81. **TRLC**: <https://docs.robot-learning.co/>
 > 82. **ByteWrist**:<https://bytewrist.github.io/>
+> 83. **FlexiTac**: <https://flexitac.github.io/>
 
 ## (2) Software
 
@@ -1037,6 +1038,7 @@ featured: false
 > 44. **Nullspace MPC**: <https://mizuhoaoki.github.io/projects/nullspace_mpc>
 > 45. **NeuralSVCD**: <https://neuralsvcd.github.io/>
 > 46. **Mink**: <https://kevinzakka.github.io/mink/>
+> 47. **SLAM-Former**: <https://tsinghua-mars-lab.github.io/SLAM-Former/>
 
 # AIRobotics
 
@@ -1461,6 +1463,8 @@ featured: false
 > 257. **VLA-Adapter**: <https://vla-adapter.github.io/>
 > 258. **ResMimic**: <https://resmimic.github.io/>
 > 259. **EmbodiedCoder**: <https://anonymous.4open.science/w/Embodied-Coder/>
+> 260. **Advantage-Weighted Regression**: <https://xbpeng.github.io/projects/AWR/index.html>
+> 261. **VT-Refine**: <https://binghao-huang.github.io/vt_refine/>
 
 ## (2) Autonomous Driving
 
