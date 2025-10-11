@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-10
+last_modified_at: 2025-10-11
 
 hide_description: true
 hide_image: false
@@ -241,6 +241,7 @@ featured: false
 > 191. **Open Source LLM Development Landscape**: <https://antoss-landscape.my.canva.site/>
 > 192. **Unsloth**: <https://docs.unsloth.ai/>
 > 193. **DiffusionNFT**: <https://research.nvidia.com/labs/dir/DiffusionNFT/>
+> 194. **OpenRLHF**: <https://openrlhf.readthedocs.io/en/latest/>
 
 ## (2) Agents
 
@@ -1039,6 +1040,8 @@ featured: false
 > 45. **NeuralSVCD**: <https://neuralsvcd.github.io/>
 > 46. **Mink**: <https://kevinzakka.github.io/mink/>
 > 47. **SLAM-Former**: <https://tsinghua-mars-lab.github.io/SLAM-Former/>
+> 48. **Awesome Robotics Libraries**: <https://jslee02.github.io/awesome-robotics-libraries/>
+> 49. **trac_ik**: <https://bitbucket.org/traclabs/trac_ik/src/rolling/>
 
 # AIRobotics
 
