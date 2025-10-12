@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-12
+last_modified_at: 2025-10-13
 
 hide_description: true
 hide_image: false
@@ -490,6 +490,7 @@ featured: false
 > 243. **Supabase**: <https://supabase.com/>
 > 244. **Warp**: <https://www.warp.dev/>
 > 245. **ChopperBot**: <https://geniusay.github.io/ChopperBot-Doc/>
+> 246. **Paper2Video**: <https://showlab.github.io/Paper2Video/>
 
 ## (3) AIGC
 
