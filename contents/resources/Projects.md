@@ -904,6 +904,7 @@ featured: false
 > 409. **Wan**: <https://wan.video/>
 > 410. **VolSplat**: <https://lhmd.top/volsplat/>
 > 411. **Code2Video**: <https://showlab.github.io/Code2Video/>
+> 412. **HuMo**: <https://phantom-video.github.io/HuMo/>
 
 # Robotics
 
@@ -1471,6 +1472,8 @@ featured: false
 > 260. **Advantage-Weighted Regression**: <https://xbpeng.github.io/projects/AWR/index.html>
 > 261. **VT-Refine**: <https://binghao-huang.github.io/vt_refine/>
 > 262. **RL-augmented MPC**: <https://rl-augmented-mpc.github.io/rlaugmentedmpc/>
+> 263. **DexNDM**: <https://meowuu7.github.io/DexNDM/>
+> 264. **EgoBridge**: <https://ego-bridge.github.io/>
 
 ## (2) Autonomous Driving
 
