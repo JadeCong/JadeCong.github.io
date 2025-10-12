@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-11
+last_modified_at: 2025-10-12
 
 hide_description: true
 hide_image: false
@@ -489,6 +489,7 @@ featured: false
 > 242. **Cherry Studio**: <https://www.cherry-ai.com/>
 > 243. **Supabase**: <https://supabase.com/>
 > 244. **Warp**: <https://www.warp.dev/>
+> 245. **ChopperBot**: <https://geniusay.github.io/ChopperBot-Doc/>
 
 ## (3) AIGC
 
@@ -902,6 +903,7 @@ featured: false
 > 408. **RenderFormer**: <https://microsoft.github.io/renderformer/>
 > 409. **Wan**: <https://wan.video/>
 > 410. **VolSplat**: <https://lhmd.top/volsplat/>
+> 411. **Code2Video**: <https://showlab.github.io/Code2Video/>
 
 # Robotics
 
@@ -1468,6 +1470,7 @@ featured: false
 > 259. **EmbodiedCoder**: <https://anonymous.4open.science/w/Embodied-Coder/>
 > 260. **Advantage-Weighted Regression**: <https://xbpeng.github.io/projects/AWR/index.html>
 > 261. **VT-Refine**: <https://binghao-huang.github.io/vt_refine/>
+> 262. **RL-augmented MPC**: <https://rl-augmented-mpc.github.io/rlaugmentedmpc/>
 
 ## (2) Autonomous Driving
 
