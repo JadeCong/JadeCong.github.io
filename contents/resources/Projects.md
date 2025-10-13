@@ -491,6 +491,7 @@ featured: false
 > 244. **Warp**: <https://www.warp.dev/>
 > 245. **ChopperBot**: <https://geniusay.github.io/ChopperBot-Doc/>
 > 246. **Paper2Video**: <https://showlab.github.io/Paper2Video/>
+> 247. **Kirara AI**: <https://kirara-docs.app.lss233.com/>
 
 ## (3) AIGC
 
@@ -1475,6 +1476,7 @@ featured: false
 > 262. **RL-augmented MPC**: <https://rl-augmented-mpc.github.io/rlaugmentedmpc/>
 > 263. **DexNDM**: <https://meowuu7.github.io/DexNDM/>
 > 264. **EgoBridge**: <https://ego-bridge.github.io/>
+> 265. **MotionTrans**: <https://motiontrans.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1616,6 +1618,7 @@ featured: false
 > 119. **OmniMap**: <https://omni-map.github.io/>
 > 120. **TTT3R**: <https://rover-xingyu.github.io/TTT3R/>
 > 121. **Instant4D**: <https://instant4d.github.io/>
+> 122. **ARTDECO**: <https://city-super.github.io/artdeco/>
 
 ## (2) Tools
 
