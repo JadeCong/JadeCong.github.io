@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-13
+last_modified_at: 2025-10-14
 
 hide_description: true
 hide_image: false
@@ -1477,6 +1477,7 @@ featured: false
 > 263. **DexNDM**: <https://meowuu7.github.io/DexNDM/>
 > 264. **EgoBridge**: <https://ego-bridge.github.io/>
 > 265. **MotionTrans**: <https://motiontrans.github.io/>
+> 266. **FIPER**: <https://tum-lsy.github.io/fiper_website/>
 
 ## (2) Autonomous Driving
 
