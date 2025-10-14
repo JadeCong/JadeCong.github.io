@@ -1478,6 +1478,7 @@ featured: false
 > 264. **EgoBridge**: <https://ego-bridge.github.io/>
 > 265. **MotionTrans**: <https://motiontrans.github.io/>
 > 266. **FIPER**: <https://tum-lsy.github.io/fiper_website/>
+> 267. **VTLA**: <https://sites.google.com/view/vtla>
 
 ## (2) Autonomous Driving
 
