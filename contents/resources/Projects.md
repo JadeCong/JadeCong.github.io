@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-14
+last_modified_at: 2025-10-15
 
 hide_description: true
 hide_image: false
@@ -242,6 +242,7 @@ featured: false
 > 192. **Unsloth**: <https://docs.unsloth.ai/>
 > 193. **DiffusionNFT**: <https://research.nvidia.com/labs/dir/DiffusionNFT/>
 > 194. **OpenRLHF**: <https://openrlhf.readthedocs.io/en/latest/>
+> 195. **How To AI (Almost) Anything**: <https://mit-mi.github.io/how2ai-course/spring2025/>
 
 ## (2) Agents
 
@@ -492,6 +493,7 @@ featured: false
 > 245. **ChopperBot**: <https://geniusay.github.io/ChopperBot-Doc/>
 > 246. **Paper2Video**: <https://showlab.github.io/Paper2Video/>
 > 247. **Kirara AI**: <https://kirara-docs.app.lss233.com/>
+> 248. **iFlow**: <https://iflow.cn/>
 
 ## (3) AIGC
 
@@ -995,6 +997,7 @@ featured: false
 > 81. **TRLC**: <https://docs.robot-learning.co/>
 > 82. **ByteWrist**:<https://bytewrist.github.io/>
 > 83. **FlexiTac**: <https://flexitac.github.io/>
+> 84. **WAVE**: <https://omron-sinicx.github.io/wave/>
 
 ## (2) Software
 
