@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-15
+last_modified_at: 2025-10-16
 
 hide_description: true
 hide_image: false
@@ -998,6 +998,7 @@ featured: false
 > 82. **ByteWrist**:<https://bytewrist.github.io/>
 > 83. **FlexiTac**: <https://flexitac.github.io/>
 > 84. **WAVE**: <https://omron-sinicx.github.io/wave/>
+> 85. **M3D-skin**: <https://ssk-yoshimura.github.io/M3D-skin/>
 
 ## (2) Software
 
@@ -1482,6 +1483,8 @@ featured: false
 > 265. **MotionTrans**: <https://motiontrans.github.io/>
 > 266. **FIPER**: <https://tum-lsy.github.io/fiper_website/>
 > 267. **VTLA**: <https://sites.google.com/view/vtla>
+> 268. **What Can RL Bring to VLA Generalization**: <https://rlvla.github.io/>
+> 269. **TacRefineNet**: <https://sites.google.com/view/tacrefinenet>
 
 ## (2) Autonomous Driving
 
