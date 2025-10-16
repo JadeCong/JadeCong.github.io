@@ -1485,6 +1485,7 @@ featured: false
 > 267. **VTLA**: <https://sites.google.com/view/vtla>
 > 268. **What Can RL Bring to VLA Generalization**: <https://rlvla.github.io/>
 > 269. **TacRefineNet**: <https://sites.google.com/view/tacrefinenet>
+> 270. **Learning to Ball**: <https://pei-xu.github.io/Basketball>
 
 ## (2) Autonomous Driving
 
