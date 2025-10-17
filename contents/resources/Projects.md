@@ -1487,6 +1487,9 @@ featured: false
 > 269. **TacRefineNet**: <https://sites.google.com/view/tacrefinenet>
 > 270. **Learning to Ball**: <https://pei-xu.github.io/Basketball>
 > 271. **AdaMimic**: <https://taohuang13.github.io/adamimic.github.io/>
+> 272. **RL-100**: <https://lei-kun.github.io/RL-100/>
+> 273. **DEAS**: <https://changyeon.site/deas/>
+> 274. **Self-Improving Embodied Foundation Models**: <https://self-improving-efms.github.io/>
 
 ## (2) Autonomous Driving
 
