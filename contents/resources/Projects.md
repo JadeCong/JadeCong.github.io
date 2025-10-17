@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-16
+last_modified_at: 2025-10-17
 
 hide_description: true
 hide_image: false
@@ -1486,6 +1486,7 @@ featured: false
 > 268. **What Can RL Bring to VLA Generalization**: <https://rlvla.github.io/>
 > 269. **TacRefineNet**: <https://sites.google.com/view/tacrefinenet>
 > 270. **Learning to Ball**: <https://pei-xu.github.io/Basketball>
+> 271. **AdaMimic**: <https://taohuang13.github.io/adamimic.github.io/>
 
 ## (2) Autonomous Driving
 
