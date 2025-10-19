@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-17
+last_modified_at: 2025-10-19
 
 hide_description: true
 hide_image: false
@@ -243,6 +243,7 @@ featured: false
 > 193. **DiffusionNFT**: <https://research.nvidia.com/labs/dir/DiffusionNFT/>
 > 194. **OpenRLHF**: <https://openrlhf.readthedocs.io/en/latest/>
 > 195. **How To AI (Almost) Anything**: <https://mit-mi.github.io/how2ai-course/spring2025/>
+> 196. **HUMAN 3.0**: <https://thedankoe.com/letters/human-3-0-a-map-to-reach-the-top-1/>
 
 ## (2) Agents
 
@@ -494,6 +495,8 @@ featured: false
 > 246. **Paper2Video**: <https://showlab.github.io/Paper2Video/>
 > 247. **Kirara AI**: <https://kirara-docs.app.lss233.com/>
 > 248. **iFlow**: <https://iflow.cn/>
+> 249. **Color Fuse AI**: <https://colorfuseai.com/>
+> 250. **Openspec**: <https://openspec.dev/>
 
 ## (3) AIGC
 
@@ -1490,6 +1493,7 @@ featured: false
 > 272. **RL-100**: <https://lei-kun.github.io/RL-100/>
 > 273. **DEAS**: <https://changyeon.site/deas/>
 > 274. **Self-Improving Embodied Foundation Models**: <https://self-improving-efms.github.io/>
+> 275. **Spatial Forcing**: <https://spatial-forcing.github.io/https://spatial-forcing.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1632,6 +1636,8 @@ featured: false
 > 120. **TTT3R**: <https://rover-xingyu.github.io/TTT3R/>
 > 121. **Instant4D**: <https://instant4d.github.io/>
 > 122. **ARTDECO**: <https://city-super.github.io/artdeco/>
+> 123. **Trace Anything**: <https://trace-anything.github.io/>
+> 124. **NExF**: <https://m-niemeyer.github.io/nexf/index.html>
 
 ## (2) Tools
 
