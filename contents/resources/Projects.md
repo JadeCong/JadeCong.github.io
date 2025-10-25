@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-19
+last_modified_at: 2025-10-25
 
 hide_description: true
 hide_image: false
@@ -244,6 +244,8 @@ featured: false
 > 194. **OpenRLHF**: <https://openrlhf.readthedocs.io/en/latest/>
 > 195. **How To AI (Almost) Anything**: <https://mit-mi.github.io/how2ai-course/spring2025/>
 > 196. **HUMAN 3.0**: <https://thedankoe.com/letters/human-3-0-a-map-to-reach-the-top-1/>
+> 197. **Nof1**: <https://nof1.ai/>
+> 198. **Google Skills**: <https://www.skills.google/>
 
 ## (2) Agents
 
@@ -1347,153 +1349,158 @@ featured: false
 > 286. **TrackVLA**: <https://pku-epic.github.io/TrackVLA-web/>
 > 287. **CrossFormer**: <https://crossformer-model.github.io/>
 > 288. **Sim2Remote-Real**: <https://s2r2-ig.github.io/>
-> 209. **CLONE**: <https://humanoid-clone.github.io/>
-> 210. **HoMeR**: <https://homer-manip.github.io/>
-> 211. **R2S2**: <https://zzk273.github.io/R2S2/>
-> 212. **RoboRefer**: <https://zhoues.github.io/RoboRefer/>
-> 213. **Real-Time Action Chunking with Large Models**: <https://www.physicalintelligence.company/research/real_time_chunking>
-> 214. **Redwood AI**: <https://www.1x.tech/discover/redwood-ai>
-> 215. **Mobi-π**: <https://mobipi.github.io/>
-> 216. **ViSA-Flow**: <https://visaflow-web.github.io/ViSAFLOW/>
-> 217. **Fast-in-Slow**: <https://fast-in-slow.github.io/>
-> 218. **CogACT**: <https://cogact.github.io/>
-> 219. **3D Motion Field**: <https://zhaohengyin.github.io/3DMF/>
-> 220. **ReLIC**: <https://relic-locoman.rai-inst.com/>
-> 221. **BridgeVLA**: <https://bridgevla.github.io/home_page.html>
-> 222. **RoboVLMs**: <https://robovlms.github.io/>
-> 223. **Generalist**: <https://generalistai.com/>
-> 224. **RH20T**: <https://rh20t.github.io/>
-> 225. **AutoVLA**: <https://autovla.github.io/>
-> 226. **Particle-Grid Neural Dynamics**: <https://kywind.github.io/pgnd>
-> 227. **Vision in Action**: <https://vision-in-action.github.io/>
-> 228. **AMPLIFY Robotics**: <https://amplify-robotics.github.io/>
-> 229. **Embodied Web Agents**: <https://embodied-web-agent.github.io/>
-> 230. **VR-Robo**: <https://vr-robo.github.io/>
-> 231. **RoboTwin 2.0**: <https://robotwin-platform.github.io/>
-> 232. **Forward Dynamics Model**: <https://leggedrobotics.github.io/fdm.github.io/>
-> 233. **Dex1B**: <https://jiyuezh.github.io/research/dex1b>
-> 234. **GaussianProperty**: <https://gaussian-property.github.io/>
-> 235. **ManiBox**: <https://thkkk.github.io/manibox>
-> 236. **EMOS**: <https://emos-project.github.io/>
-> 237. **Tiny-VLA**: <https://tiny-vla.github.io/>
-> 238. **CoVLA**: <https://turingmotors.github.io/covla-ad/>
-> 239. **GMT**: <https://gmt-humanoid.github.io/>
-> 240. **CLIP**: <https://openai.com/index/clip/>
-> 241. **OpenVLA-OFT**: <https://openvla-oft.github.io/>
-> 242. **ControlVLA**: <https://controlvla.github.io/>
-> 243. **LeVERB**: <https://ember-lab-berkeley.github.io/LeVERB-Website/>
-> 244. **Gemini Robotics On-Device**: <https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/>
-> 245. **An Affordance-Aware Hierarchical Model for General Robotic Manipulation**: <https://a-embodied.github.io/A0/>
-> 246. **CUPID**: <https://cupid-curation.github.io/>
-> 247. **DemoDiffusion**: <https://demodiffusion.github.io/>
-> 248. **LAMARL**: <https://windylab.github.io/LAMARL/>
-> 249. **AMP**: <https://xbpeng.github.io/projects/AMP/index.html>
-> 250. **PHC**: <https://www.zhengyiluo.com/PHC-Site/>
-> 251. **PULSE**: <https://www.zhengyiluo.com/PULSE-Site/>
-> 252. **PDC**: <https://www.zhengyiluo.com/PDC-Site/>
-> 253. **Hume**: <https://hume-vla.github.io/>
-> 254. **FACTR**: <https://jasonjzliu.com/factr/>
-> 255. **myolab**: <https://demo.myolab.ai/demo>
-> 256. **VITAL**: <https://vitalprecise.github.io/>
-> 257. **FEAST**: <https://emprise.cs.cornell.edu/feast/>
-> 258. **Human2LocoMan**: <https://human2bots.github.io/>
-> 259. **WSRL**: <https://zhouzypaul.github.io/wsrl/>
-> 260. **SAPIEN**: <https://sapien.ucsd.edu/>
-> 261. **RoboTransfer**: <https://horizonrobotics.github.io/robot_lab/robotransfer/>
-> 262. **ForceVLA**: <https://sites.google.com/view/forcevla2025/>
-> 263. **DexVLG**: <https://jiaweihe.com/dexvlg>
-> 264. **TypeTele**: <https://isee-laboratory.github.io/TypeTele/>
-> 265. **ArtVIP**: <https://x-humanoid-artvip.github.io/>
-> 266. **ViTacFormer**: <https://roboverseorg.github.io/ViTacFormerPage/>
-> 267. **Q-chunking**: <https://colinqiyangli.github.io/qc/>
-> 268. **UniTac**: <https://ivl.cs.brown.edu/research/unitac>
-> 269. **Beyond Robustness**: <https://leixinjonaschang.github.io/leggedloadadapt.github.io/>
-> 270. **SimLingo**: <https://www.katrinrenz.de/simlingo/>
-> 271. **FALCON**: <http://lecar-lab.github.io/falcon-huma>
-> 272. **EmbodieDreamer**: <https://embodiedreamer.github.io/>
-> 273. **EgoVLA**: <https://rchalyang.github.io/EgoVLA/>
-> 274. **Touch in the Wild**: <https://binghao-huang.github.io/touch_in_the_wild/>
-> 275. **ModSkill**: <https://yh2371.github.io/modskill/>
-> 276. **Walk These Ways**: <https://gmargo11.github.io/walk-these-ways/>
-> 277. **VidBot**: <https://hanzhic.github.io/vidbot-project/>
-> 278. **What Matters in Learning from Large-Scale Datasets for Robot Manipulation**: <https://robo-mimiclabs.github.io/>
-> 279. **RAMBO**: <https://jin-cheng.me/rambo.github.io/>
-> 280. **GraspGen**: <https://graspgen.github.io/>
-> 201. **TriVLA**: <https://zhenyangliu.github.io/TriVLA/>
-> 202. **ThinkAct**: <https://jasper0314-huang.github.io/thinkact-vla/>
-> 203. **BeyondMimic**: <https://beyondmimic.github.io/>
-> 204. **GeoVLA**: <https://linsun449.github.io/GeoVLA/>
-> 205. **Hand-Eye Autonomous Delivery**: <https://stanford-tml.github.io/HEAD/>
-> 206. **Robot Trains Robot**: <https://robot-trains-robot.github.io/>
-> 207. **HannesImitation**: <https://hsp-iit.github.io/HannesImitation/>
-> 208. **MolmoAct**: <https://allenai.org/blog/molmoact>
-> 209. **Evaluating Pi0 in the Wild**: <https://penn-pal-lab.github.io/Pi0-Experiment-in-the-Wild/>
-> 210. **Large Behavior Models and Atlas Find New Footing**: <https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/>
-> 211. **The Lazy Robot**: <https://levevictor.github.io/thelazyrobot/>
-> 212. **ReWiND**: <https://rewind-reward.github.io/>
-> 213. **RLDG**: <https://generalist-distillation.github.io/>
-> 214. **RIPT-VLA**: <https://ariostgx.github.io/ript_vla/>
-> 215. **ECoT-Lite**: <https://ecot-lite.github.io/>
-> 216. **HITTER**: <https://humanoid-table-tennis.github.io/>
-> 217. **Embodied-R1**: <https://embodied-r1.github.io/>
-> 218. **MemoryVLA**: <https://shihao1895.github.io/MemoryVLA/>
-> 219. **EMMA**: <https://ego-moma.github.io/>
-> 220. **ManiFlow**: <https://maniflow-policy.github.io/>
-> 221. **Robix**: <https://robix-seed.github.io/robix/>
-> 222. **Deep Reactive Policy**: <https://deep-reactive-policy.com/>
-> 223. **Gemini Robotics On-Device**: <https://deepmind.google/models/gemini-robotics/gemini-robotics-on-device/>
-> 224. **Align-Then-stEer**: <https://align-then-steer.github.io/>
-> 225. **MinD**: <https://manipulate-in-dream.github.io/>
-> 226. **UnifoLM-WMA-0**: <https://unigen-x.github.io/unifolm-world-model-action.github.io/>
-> 227. **StableMotion**: <https://yxmu.foo/stablemotion-page/>
-> 228. **VideoMimic**: <https://videomimic.github.io/>
-> 229. **Isaac Lab**: <https://isaac-sim.github.io/IsaacLab/main/index.html>
-> 230. **Dexplore**: <https://sirui-xu.github.io/dexplore/>
-> 231. **DreamControl**: <https://genrobo.github.io/DreamControl/>
-> 232. **Project Go-Big**: <https://www.figure.ai/news/project-go-big>
-> 233. **TrajBooster**: <https://jiachengliu3.github.io/TrajBooster/>
-> 234. **HDMI**: <https://hdmi-humanoid.github.io/#/>
-> 235. **MaskedManipulator**: <https://research.nvidia.com/labs/par/maskedmanipulator/>
-> 236. **Behavior Foundation Model for Humanoid Robots**: <https://bfm4humanoid.github.io/>
-> 237. **LightVLA**: <https://liauto-research.github.io/LightVLA/>
-> 238. **RoboDexVLM**: <https://henryhcliu.github.io/robodexvlm/>
-> 239. **Any2Track**: <https://zzk273.github.io/Any2Track/>
-> 240. **Motion Priors Reimagined**: <https://anymalprior.github.io/>
-> 241. **Residual Off-Policy RL for Finetuning Behavior Cloning Policies**: <https://residual-offpolicy-rl.github.io/>
-> 242. **BumbleBee**: <https://beingbeyond.github.io/BumbleBee/>
-> 243. **RDT2**: <https://rdt-robotics.github.io/rdt2/>
-> 244. **Gemini Robotics 1.5**: <https://deepmind.google/models/gemini-robotics/>
-> 245. **Expanding Our Data Engine for Physical AI**: <https://scale.com/blog/physical-ai>
-> 246. **Omni-Bodied**: <https://www.skild.ai/blogs/omni-bodied>
-> 247. **ImMimic**: <https://sites.google.com/view/immimic>
-> 248. **UnifiedForce**: <https://unified-force.github.io/>
-> 249. **DemoGrasp**: <https://beingbeyond.github.io/DemoGrasp/>
-> 250. **Fabrica**: <https://fabrica.csail.mit.edu/>
-> 251. **DSRL**: <https://diffusion-steering.github.io/>
-> 252. **OmniRetarget**: <https://omniretarget.github.io/>
-> 253. **SARM**: <https://qianzhong-chen.github.io/sarm.github.io/>
-> 254. **VLM2VLA**: <https://vlm2vla.github.io/>
-> 255. **ADD**: <https://add-moo.github.io/>
-> 256. **CDF**: <https://sites.google.com/view/cdfmp/home>
-> 257. **VLA-Adapter**: <https://vla-adapter.github.io/>
-> 258. **ResMimic**: <https://resmimic.github.io/>
-> 259. **EmbodiedCoder**: <https://anonymous.4open.science/w/Embodied-Coder/>
-> 260. **Advantage-Weighted Regression**: <https://xbpeng.github.io/projects/AWR/index.html>
-> 261. **VT-Refine**: <https://binghao-huang.github.io/vt_refine/>
-> 262. **RL-augmented MPC**: <https://rl-augmented-mpc.github.io/rlaugmentedmpc/>
-> 263. **DexNDM**: <https://meowuu7.github.io/DexNDM/>
-> 264. **EgoBridge**: <https://ego-bridge.github.io/>
-> 265. **MotionTrans**: <https://motiontrans.github.io/>
-> 266. **FIPER**: <https://tum-lsy.github.io/fiper_website/>
-> 267. **VTLA**: <https://sites.google.com/view/vtla>
-> 268. **What Can RL Bring to VLA Generalization**: <https://rlvla.github.io/>
-> 269. **TacRefineNet**: <https://sites.google.com/view/tacrefinenet>
-> 270. **Learning to Ball**: <https://pei-xu.github.io/Basketball>
-> 271. **AdaMimic**: <https://taohuang13.github.io/adamimic.github.io/>
-> 272. **RL-100**: <https://lei-kun.github.io/RL-100/>
-> 273. **DEAS**: <https://changyeon.site/deas/>
-> 274. **Self-Improving Embodied Foundation Models**: <https://self-improving-efms.github.io/>
-> 275. **Spatial Forcing**: <https://spatial-forcing.github.io/https://spatial-forcing.github.io/>
+> 289. **CLONE**: <https://humanoid-clone.github.io/>
+> 290. **HoMeR**: <https://homer-manip.github.io/>
+> 291. **R2S2**: <https://zzk273.github.io/R2S2/>
+> 292. **RoboRefer**: <https://zhoues.github.io/RoboRefer/>
+> 293. **Real-Time Action Chunking with Large Models**: <https://www.physicalintelligence.company/research/real_time_chunking>
+> 294. **Redwood AI**: <https://www.1x.tech/discover/redwood-ai>
+> 295. **Mobi-π**: <https://mobipi.github.io/>
+> 296. **ViSA-Flow**: <https://visaflow-web.github.io/ViSAFLOW/>
+> 297. **Fast-in-Slow**: <https://fast-in-slow.github.io/>
+> 298. **CogACT**: <https://cogact.github.io/>
+> 299. **3D Motion Field**: <https://zhaohengyin.github.io/3DMF/>
+> 300. **ReLIC**: <https://relic-locoman.rai-inst.com/>
+> 301. **BridgeVLA**: <https://bridgevla.github.io/home_page.html>
+> 302. **RoboVLMs**: <https://robovlms.github.io/>
+> 303. **Generalist**: <https://generalistai.com/>
+> 304. **RH20T**: <https://rh20t.github.io/>
+> 305. **AutoVLA**: <https://autovla.github.io/>
+> 306. **Particle-Grid Neural Dynamics**: <https://kywind.github.io/pgnd>
+> 307. **Vision in Action**: <https://vision-in-action.github.io/>
+> 308. **AMPLIFY Robotics**: <https://amplify-robotics.github.io/>
+> 309. **Embodied Web Agents**: <https://embodied-web-agent.github.io/>
+> 310. **VR-Robo**: <https://vr-robo.github.io/>
+> 311. **RoboTwin 2.0**: <https://robotwin-platform.github.io/>
+> 312. **Forward Dynamics Model**: <https://leggedrobotics.github.io/fdm.github.io/>
+> 313. **Dex1B**: <https://jiyuezh.github.io/research/dex1b>
+> 314. **GaussianProperty**: <https://gaussian-property.github.io/>
+> 315. **ManiBox**: <https://thkkk.github.io/manibox>
+> 316. **EMOS**: <https://emos-project.github.io/>
+> 317. **Tiny-VLA**: <https://tiny-vla.github.io/>
+> 318. **CoVLA**: <https://turingmotors.github.io/covla-ad/>
+> 319. **GMT**: <https://gmt-humanoid.github.io/>
+> 320. **CLIP**: <https://openai.com/index/clip/>
+> 321. **OpenVLA-OFT**: <https://openvla-oft.github.io/>
+> 322. **ControlVLA**: <https://controlvla.github.io/>
+> 323. **LeVERB**: <https://ember-lab-berkeley.github.io/LeVERB-Website/>
+> 324. **Gemini Robotics On-Device**: <https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/>
+> 325. **An Affordance-Aware Hierarchical Model for General Robotic Manipulation**: <https://a-embodied.github.io/A0/>
+> 326. **CUPID**: <https://cupid-curation.github.io/>
+> 327. **DemoDiffusion**: <https://demodiffusion.github.io/>
+> 328. **LAMARL**: <https://windylab.github.io/LAMARL/>
+> 329. **AMP**: <https://xbpeng.github.io/projects/AMP/index.html>
+> 330. **PHC**: <https://www.zhengyiluo.com/PHC-Site/>
+> 331. **PULSE**: <https://www.zhengyiluo.com/PULSE-Site/>
+> 332. **PDC**: <https://www.zhengyiluo.com/PDC-Site/>
+> 333. **Hume**: <https://hume-vla.github.io/>
+> 334. **FACTR**: <https://jasonjzliu.com/factr/>
+> 335. **myolab**: <https://demo.myolab.ai/demo>
+> 336. **VITAL**: <https://vitalprecise.github.io/>
+> 337. **FEAST**: <https://emprise.cs.cornell.edu/feast/>
+> 338. **Human2LocoMan**: <https://human2bots.github.io/>
+> 339. **WSRL**: <https://zhouzypaul.github.io/wsrl/>
+> 340. **SAPIEN**: <https://sapien.ucsd.edu/>
+> 341. **RoboTransfer**: <https://horizonrobotics.github.io/robot_lab/robotransfer/>
+> 342. **ForceVLA**: <https://sites.google.com/view/forcevla2025/>
+> 343. **DexVLG**: <https://jiaweihe.com/dexvlg>
+> 344. **TypeTele**: <https://isee-laboratory.github.io/TypeTele/>
+> 345. **ArtVIP**: <https://x-humanoid-artvip.github.io/>
+> 346. **ViTacFormer**: <https://roboverseorg.github.io/ViTacFormerPage/>
+> 347. **Q-chunking**: <https://colinqiyangli.github.io/qc/>
+> 348. **UniTac**: <https://ivl.cs.brown.edu/research/unitac>
+> 349. **Beyond Robustness**: <https://leixinjonaschang.github.io/leggedloadadapt.github.io/>
+> 350. **SimLingo**: <https://www.katrinrenz.de/simlingo/>
+> 351. **FALCON**: <http://lecar-lab.github.io/falcon-huma>
+> 352. **EmbodieDreamer**: <https://embodiedreamer.github.io/>
+> 353. **EgoVLA**: <https://rchalyang.github.io/EgoVLA/>
+> 354. **Touch in the Wild**: <https://binghao-huang.github.io/touch_in_the_wild/>
+> 355. **ModSkill**: <https://yh2371.github.io/modskill/>
+> 356. **Walk These Ways**: <https://gmargo11.github.io/walk-these-ways/>
+> 357. **VidBot**: <https://hanzhic.github.io/vidbot-project/>
+> 358. **What Matters in Learning from Large-Scale Datasets for Robot Manipulation**: <https://robo-mimiclabs.github.io/>
+> 359. **RAMBO**: <https://jin-cheng.me/rambo.github.io/>
+> 360. **GraspGen**: <https://graspgen.github.io/>
+> 361. **TriVLA**: <https://zhenyangliu.github.io/TriVLA/>
+> 362. **ThinkAct**: <https://jasper0314-huang.github.io/thinkact-vla/>
+> 363. **BeyondMimic**: <https://beyondmimic.github.io/>
+> 364. **GeoVLA**: <https://linsun449.github.io/GeoVLA/>
+> 365. **Hand-Eye Autonomous Delivery**: <https://stanford-tml.github.io/HEAD/>
+> 366. **Robot Trains Robot**: <https://robot-trains-robot.github.io/>
+> 367. **HannesImitation**: <https://hsp-iit.github.io/HannesImitation/>
+> 368. **MolmoAct**: <https://allenai.org/blog/molmoact>
+> 369. **Evaluating Pi0 in the Wild**: <https://penn-pal-lab.github.io/Pi0-Experiment-in-the-Wild/>
+> 370. **Large Behavior Models and Atlas Find New Footing**: <https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/>
+> 371. **The Lazy Robot**: <https://levevictor.github.io/thelazyrobot/>
+> 372. **ReWiND**: <https://rewind-reward.github.io/>
+> 373. **RLDG**: <https://generalist-distillation.github.io/>
+> 374. **RIPT-VLA**: <https://ariostgx.github.io/ript_vla/>
+> 375. **ECoT-Lite**: <https://ecot-lite.github.io/>
+> 376. **HITTER**: <https://humanoid-table-tennis.github.io/>
+> 377. **Embodied-R1**: <https://embodied-r1.github.io/>
+> 378. **MemoryVLA**: <https://shihao1895.github.io/MemoryVLA/>
+> 379. **EMMA**: <https://ego-moma.github.io/>
+> 380. **ManiFlow**: <https://maniflow-policy.github.io/>
+> 381. **Robix**: <https://robix-seed.github.io/robix/>
+> 382. **Deep Reactive Policy**: <https://deep-reactive-policy.com/>
+> 383. **Gemini Robotics On-Device**: <https://deepmind.google/models/gemini-robotics/gemini-robotics-on-device/>
+> 384. **Align-Then-stEer**: <https://align-then-steer.github.io/>
+> 385. **MinD**: <https://manipulate-in-dream.github.io/>
+> 386. **UnifoLM-WMA-0**: <https://unigen-x.github.io/unifolm-world-model-action.github.io/>
+> 387. **StableMotion**: <https://yxmu.foo/stablemotion-page/>
+> 388. **VideoMimic**: <https://videomimic.github.io/>
+> 389. **Isaac Lab**: <https://isaac-sim.github.io/IsaacLab/main/index.html>
+> 390. **Dexplore**: <https://sirui-xu.github.io/dexplore/>
+> 391. **DreamControl**: <https://genrobo.github.io/DreamControl/>
+> 392. **Project Go-Big**: <https://www.figure.ai/news/project-go-big>
+> 393. **TrajBooster**: <https://jiachengliu3.github.io/TrajBooster/>
+> 394. **HDMI**: <https://hdmi-humanoid.github.io/#/>
+> 395. **MaskedManipulator**: <https://research.nvidia.com/labs/par/maskedmanipulator/>
+> 396. **Behavior Foundation Model for Humanoid Robots**: <https://bfm4humanoid.github.io/>
+> 397. **LightVLA**: <https://liauto-research.github.io/LightVLA/>
+> 398. **RoboDexVLM**: <https://henryhcliu.github.io/robodexvlm/>
+> 399. **Any2Track**: <https://zzk273.github.io/Any2Track/>
+> 400. **Motion Priors Reimagined**: <https://anymalprior.github.io/>
+> 401. **Residual Off-Policy RL for Finetuning Behavior Cloning Policies**: <https://residual-offpolicy-rl.github.io/>
+> 402. **BumbleBee**: <https://beingbeyond.github.io/BumbleBee/>
+> 403. **RDT2**: <https://rdt-robotics.github.io/rdt2/>
+> 404. **Gemini Robotics 1.5**: <https://deepmind.google/models/gemini-robotics/>
+> 405. **Expanding Our Data Engine for Physical AI**: <https://scale.com/blog/physical-ai>
+> 406. **Omni-Bodied**: <https://www.skild.ai/blogs/omni-bodied>
+> 407. **ImMimic**: <https://sites.google.com/view/immimic>
+> 408. **UnifiedForce**: <https://unified-force.github.io/>
+> 409. **DemoGrasp**: <https://beingbeyond.github.io/DemoGrasp/>
+> 410. **Fabrica**: <https://fabrica.csail.mit.edu/>
+> 411. **DSRL**: <https://diffusion-steering.github.io/>
+> 412. **OmniRetarget**: <https://omniretarget.github.io/>
+> 413. **SARM**: <https://qianzhong-chen.github.io/sarm.github.io/>
+> 414. **VLM2VLA**: <https://vlm2vla.github.io/>
+> 415. **ADD**: <https://add-moo.github.io/>
+> 416. **CDF**: <https://sites.google.com/view/cdfmp/home>
+> 417. **VLA-Adapter**: <https://vla-adapter.github.io/>
+> 418. **ResMimic**: <https://resmimic.github.io/>
+> 419. **EmbodiedCoder**: <https://anonymous.4open.science/w/Embodied-Coder/>
+> 420. **Advantage-Weighted Regression**: <https://xbpeng.github.io/projects/AWR/index.html>
+> 421. **VT-Refine**: <https://binghao-huang.github.io/vt_refine/>
+> 422. **RL-augmented MPC**: <https://rl-augmented-mpc.github.io/rlaugmentedmpc/>
+> 423. **DexNDM**: <https://meowuu7.github.io/DexNDM/>
+> 424. **EgoBridge**: <https://ego-bridge.github.io/>
+> 425. **MotionTrans**: <https://motiontrans.github.io/>
+> 426. **FIPER**: <https://tum-lsy.github.io/fiper_website/>
+> 427. **VTLA**: <https://sites.google.com/view/vtla>
+> 428. **What Can RL Bring to VLA Generalization**: <https://rlvla.github.io/>
+> 429. **TacRefineNet**: <https://sites.google.com/view/tacrefinenet>
+> 430. **Learning to Ball**: <https://pei-xu.github.io/Basketball>
+> 431. **AdaMimic**: <https://taohuang13.github.io/adamimic.github.io/>
+> 432. **RL-100**: <https://lei-kun.github.io/RL-100/>
+> 433. **DEAS**: <https://changyeon.site/deas/>
+> 434. **Self-Improving Embodied Foundation Models**: <https://self-improving-efms.github.io/>
+> 435. **Spatial Forcing**: <https://spatial-forcing.github.io/https://spatial-forcing.github.io/>
+> 436. **Dexbotic**: <https://dexbotic.com/>
+> 437. **SoftMimic**: <https://gmargo11.github.io/softmimic/>
+> 438. **Ctrl-World**: <https://ctrl-world.github.io/>
+> 439. **VLA²**: <https://vla-2.github.io/>
+> 440. **Multi-Modal Manipulation via Multi-Modal Policy Consensus**: <https://policyconsensus.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1630,14 +1637,16 @@ featured: false
 > 115. **LiteReality**: <https://litereality.github.io/>
 > 116. **GaVS**: <https://sinoyou.github.io/gavs/>
 > 117. **Cameras as Relative Positional Encoding**: <https://www.liruilong.cn/prope/>
-> 263. **Real2Render2Real**: <https://real2render2real.com/>
-> 118. **ViPE**: <https://research.nvidia.com/labs/toronto-ai/vipe/>
-> 119. **OmniMap**: <https://omni-map.github.io/>
-> 120. **TTT3R**: <https://rover-xingyu.github.io/TTT3R/>
-> 121. **Instant4D**: <https://instant4d.github.io/>
-> 122. **ARTDECO**: <https://city-super.github.io/artdeco/>
-> 123. **Trace Anything**: <https://trace-anything.github.io/>
-> 124. **NExF**: <https://m-niemeyer.github.io/nexf/index.html>
+> 118. **Real2Render2Real**: <https://real2render2real.com/>
+> 119. **ViPE**: <https://research.nvidia.com/labs/toronto-ai/vipe/>
+> 120. **OmniMap**: <https://omni-map.github.io/>
+> 121. **TTT3R**: <https://rover-xingyu.github.io/TTT3R/>
+> 122. **Instant4D**: <https://instant4d.github.io/>
+> 123. **ARTDECO**: <https://city-super.github.io/artdeco/>
+> 124. **Trace Anything**: <https://trace-anything.github.io/>
+> 125. **NExF**: <https://m-niemeyer.github.io/nexf/index.html>
+> 126. **PAGE-4D**: <https://page-4d.github.io/anonymous-submission/>
+> 127. **VINGS-MONO**: <https://vings-mono.github.io/>
 
 ## (2) Tools
 

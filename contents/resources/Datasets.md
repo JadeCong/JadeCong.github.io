@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-14
+last_modified_at: 2025-10-25
 
 hide_description: true
 hide_image: false
@@ -77,6 +77,8 @@ featured: false
 > 6. **RH20T**: <https://rh20t.github.io/>
 > 7. **GraspFactory**: <https://graspfactory.github.io/>
 > 8. **VinT-6D**: <https://vint-6d.github.io/>
+> 9. **OpenRoboCare**: <https://robo-care.github.io/>
+> 10. **Open Source**: <https://build.ai/opensource>
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}
