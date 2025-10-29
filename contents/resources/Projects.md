@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-25
+last_modified_at: 2025-10-29
 
 hide_description: true
 hide_image: false
@@ -499,6 +499,7 @@ featured: false
 > 248. **iFlow**: <https://iflow.cn/>
 > 249. **Color Fuse AI**: <https://colorfuseai.com/>
 > 250. **Openspec**: <https://openspec.dev/>
+> 251. **fast-agent**: <https://fast-agent.ai/>
 
 ## (3) AIGC
 
@@ -914,6 +915,7 @@ featured: false
 > 410. **VolSplat**: <https://lhmd.top/volsplat/>
 > 411. **Code2Video**: <https://showlab.github.io/Code2Video/>
 > 412. **HuMo**: <https://phantom-video.github.io/HuMo/>
+> 413. **WorldGrow**: <https://world-grow.github.io/>
 
 # Robotics
 
@@ -1501,6 +1503,7 @@ featured: false
 > 438. **Ctrl-World**: <https://ctrl-world.github.io/>
 > 439. **VLA²**: <https://vla-2.github.io/>
 > 440. **Multi-Modal Manipulation via Multi-Modal Policy Consensus**: <https://policyconsensus.github.io/>
+> 441. **LIBERO-Plus**: <https://sylvestf.github.io/LIBERO-plus/>
 
 ## (2) Autonomous Driving
 
