@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-10-29
+last_modified_at: 2025-10-31
 
 hide_description: true
 hide_image: false
@@ -500,6 +500,7 @@ featured: false
 > 249. **Color Fuse AI**: <https://colorfuseai.com/>
 > 250. **Openspec**: <https://openspec.dev/>
 > 251. **fast-agent**: <https://fast-agent.ai/>
+> 252. **MCP Playground**: <https://mcpsplayground.com/chat>
 
 ## (3) AIGC
 
@@ -1006,6 +1007,7 @@ featured: false
 > 83. **FlexiTac**: <https://flexitac.github.io/>
 > 84. **WAVE**: <https://omron-sinicx.github.io/wave/>
 > 85. **M3D-skin**: <https://ssk-yoshimura.github.io/M3D-skin/>
+> 86. **Aero Hand Open**: <https://tetheria.github.io/aero-hand-open/>
 
 ## (2) Software
 
