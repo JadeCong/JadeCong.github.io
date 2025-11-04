@@ -62,8 +62,8 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 > <https://docs.omniverse.nvidia.com/><br>
 > <https://developer.nvidia.com/omniverse/get-started><br>
 > <https://www.nvidia.cn/omniverse/community/><br>
-> [Nvidia Learning Resources.md](<https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-nvidia-learning-resources-md>)<br>
-> [Ubuntu Nvidia Omniverse.md](<https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-ubuntu-nvidia-omniverse-md>)<br>
+> [Nvidia Learning Resources.md](<https://github.com/JadeCong/JadeCong-Gists/blob/main/Metaverse/Nvidia%20Learning%20Resources.md>)<br>
+> [Ubuntu Nvidia Omniverse.md](<https://github.com/JadeCong/JadeCong-Gists/blob/main/Metaverse/Ubuntu%20Nvidia%20Omniverse.md>)<br>
 
 ### 1.1 硬件资源
 
@@ -203,7 +203,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > **Reference：**<br>
 > <https://docs.omniverse.nvidia.com/index.html><br>
-> [Nvidia Learning Resources.md](https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-nvidia-learning-resources-md)<br>
+> [Nvidia Learning Resources.md](https://github.com/JadeCong/JadeCong-Gists/blob/main/Metaverse/Nvidia%20Learning%20Resources.md)<br>
 >
 > （1）USD Presenter
 >
@@ -268,7 +268,7 @@ Based on the **Industrial Metaverse Platform**, the whole processes of industria
 >
 > **Reference：**<br>
 > <https://docs.omniverse.nvidia.com/isaacsim/latest/index.html><br>
-> [Ubuntu Nvidia Omniverse.md](https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-ubuntu-nvidia-omniverse-md)<br>
+> [Ubuntu Nvidia Omniverse.md](https://github.com/JadeCong/JadeCong-Gists/blob/main/Metaverse/Ubuntu%20Nvidia%20Omniverse.md)<br>
 >
 > （7）Drive Sim
 >
@@ -378,7 +378,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 > <https://docs.omniverse.nvidia.com/install-guide/latest/overview.html><br>
 > <https://docs.omniverse.nvidia.com/workflows/latest/index.html><br>
 > <https://docs.omniverse.nvidia.com/platform/latest/overview.html><br>
-> [Omniverse Learning Resources.md](https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-nvidia-learning-resources-md)<br>
+> [Omniverse Learning Resources.md](https://github.com/JadeCong/JadeCong-Gists/blob/main/Metaverse/Nvidia%20Learning%20Resources.md)<br>
 
 ## 2. Nvidia Learning Resources
 
@@ -736,7 +736,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >>
 >> 首先，在构建仿真平台之前，我们需要统一系统开发环境，上述三款仿真平台均支持Ubuntu和Windows两种系统，但NVIDIA Omniverse(https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/requirements.html)对操作系统提出一定要求，同时考虑到后期与其他软件的配合开发的拓展性以及用于机器学习的场景，我们暂时统一系统环境为Ubuntu 22.04/20.04 LTS，另外系统主机要满足上面链接中的物理硬件要求，然后通过官方系统镜像进行安装系统即可。
 >>
->> **Reference：** [Windows and Ubuntu Installation.md](https://gist.github.com/JadeCong/a5c09386a8ea30881540996498ed54b1#file-windows-and-ubuntu-installation-md)
+>> **Reference：** [Ubuntu and Windows Installation.md](https://github.com/JadeCong/JadeCong-Gists/blob/main/Utilities/Ubuntu%20and%20Windows%20Installation.md)
 >
 > 2. 仿真平台的安装与配置
 >>
@@ -744,13 +744,13 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >> 在安装好Ubuntu操作系统之后，依据Omniverse官方安装文档(https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/install_workstation.html)进行安装软件即可。如遇到问题，可参考下面参考链接进行重新安装配置驱动和软件启动选项配置。
 >>
 >> **Reference：**<br>
->> (1) [Ubuntu Nvidia Configuration.md](https://gist.github.com/JadeCong/a5c09386a8ea30881540996498ed54b1#file-ubuntu-nvidia-configuration-md)<br>
->> (2) [Ubuntu Nvidia Omniverse.md](https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-ubuntu-nvidia-omniverse-md)
+>> (1) [Ubuntu Nvidia Configuration.md](https://github.com/JadeCong/JadeCong-Gists/blob/main/Utilities/Ubuntu%20Nvidia%20Configuration.md)<br>
+>> (2) [Ubuntu Nvidia Omniverse.md](https://github.com/JadeCong/JadeCong-Gists/blob/main/Metaverse/Ubuntu%20Nvidia%20Omniverse.md)
 >>
 >>- **CARLA**<br>
 >> 在安装好Ubuntu操作系统之后，依据CARLA官方安装文档(https://carla.readthedocs.io/en/latest/start_quickstart/)进行安装软件即可。如遇到问题，可参考下面参考链接进行配置软件依赖。
 >>
->> **Reference：**[Ubuntu CARLA Simulator.md](https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-ubuntu-carla-simulator-md)
+>> **Reference：**[Ubuntu CARLA Simulator.md](https://github.com/JadeCong/JadeCong-Gists/blob/main/Metaverse/Ubuntu%20CARLA%20Simulator.md)
 >>
 >>- **Robosuite**<br>
 >> 在安装好Ubuntu操作系统之后，依据Robosuite官方安装文档(https://robosuite.ai/docs/installation.html)进行安装软件即可。
@@ -759,7 +759,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 
 > 在工业生产的流程中，需要对不同的对象进行数字化建模，那么可以对建模进行分层管理：基于对象，基于场景，基于工作流；然后提供高效的、柔性的、个性化的自动化建模方法，从而让用户更便捷地实现生产场景的构建。本节内容主要是基于NVIDIA Omniverse仿真平台进行开发建模，CARLA及Robosuite仿真平台后续进行扩展补充。
 >
-> **Reference：** [Ubuntu Nvidia Omniverse.md](https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-ubuntu-nvidia-omniverse-md)
+> **Reference：** [Ubuntu Nvidia Omniverse.md](https://github.com/JadeCong/JadeCong-Gists/blob/main/Metaverse/Ubuntu%20Nvidia%20Omniverse.md)
 >
 > #### （1）基于对象建模
 >
@@ -774,7 +774,7 @@ Connectors：将第三方应用程序桥接到 Omniverse 的连接器。
 >
 >- DD马达模型<br>
 > **Goal：** (1)构建现实模型；(2)能够实现物理属性(惯量、摩擦、力矩输出、负载曲线)；(3)电机原理模拟(交流永磁同步直驱电机)<br>
-> **Reference：** [Ubuntu Nvidia Omniverse.md](https://gist.github.com/JadeCong/215157de3c6f25f2277caae8fa50c947#file-ubuntu-nvidia-omniverse-md)
+> **Reference：** [Ubuntu Nvidia Omniverse.md](https://github.com/JadeCong/JadeCong-Gists/blob/main/Metaverse/Ubuntu%20Nvidia%20Omniverse.md)
 >>
 >> 1. 构建现实模型：<br>
 >> 2. 实现物理属性：<br>
