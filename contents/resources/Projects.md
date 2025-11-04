@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-03
+last_modified_at: 2025-11-04
 
 hide_description: true
 hide_image: false
@@ -1507,6 +1507,8 @@ featured: false
 > 440. **Multi-Modal Manipulation via Multi-Modal Policy Consensus**: <https://policyconsensus.github.io/>
 > 441. **LIBERO-Plus**: <https://sylvestf.github.io/LIBERO-plus/>
 > 442. **Probe, Learn, Distill: Self-Improving Vision-Language-Action Models with Data Generation via Residual RL**: <https://www.wenlixiao.com/self-improve-VLA-PLD>
+> 443. **RISEOffline**: <https://uwrobotlearning.github.io/RISE-offline/>
+> 444. **Mimic Robotics**: <https://www.mimicrobotics.com/>
 
 ## (2) Autonomous Driving
 
