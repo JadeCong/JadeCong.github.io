@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-04
+last_modified_at: 2025-11-07
 
 hide_description: true
 hide_image: false
@@ -246,6 +246,7 @@ featured: false
 > 196. **HUMAN 3.0**: <https://thedankoe.com/letters/human-3-0-a-map-to-reach-the-top-1/>
 > 197. **Nof1**: <https://nof1.ai/>
 > 198. **Google Skills**: <https://www.skills.google/>
+> 199. **AirScape**: <https://embodiedcity.github.io/AirScape/>
 
 ## (2) Agents
 
@@ -1509,6 +1510,8 @@ featured: false
 > 442. **Probe, Learn, Distill: Self-Improving Vision-Language-Action Models with Data Generation via Residual RL**: <https://www.wenlixiao.com/self-improve-VLA-PLD>
 > 443. **RISEOffline**: <https://uwrobotlearning.github.io/RISE-offline/>
 > 444. **Mimic Robotics**: <https://www.mimicrobotics.com/>
+> 445. **RoboOS**: <https://flagopen.github.io/RoboOS/>
+> 446. **TWIST2**: <https://yanjieze.com/TWIST2/>
 
 ## (2) Autonomous Driving
 

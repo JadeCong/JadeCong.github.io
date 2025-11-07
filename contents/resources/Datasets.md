@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-03
+last_modified_at: 2025-11-07
 
 hide_description: true
 hide_image: false
@@ -80,6 +80,7 @@ featured: false
 > 9. **OpenRoboCare**: <https://robo-care.github.io/>
 > 10. **Open Source**: <https://build.ai/opensource>
 > 11. **PHUMA**: <https://davian-robotics.github.io/PHUMA/>
+> 12. **TWIST Data**: <https://twist-data.github.io/>
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}
