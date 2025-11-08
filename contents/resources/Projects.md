@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-07
+last_modified_at: 2025-11-08
 
 hide_description: true
 hide_image: false
@@ -1512,6 +1512,8 @@ featured: false
 > 444. **Mimic Robotics**: <https://www.mimicrobotics.com/>
 > 445. **RoboOS**: <https://flagopen.github.io/RoboOS/>
 > 446. **TWIST2**: <https://yanjieze.com/TWIST2/>
+> 447. **BFM-Zero**: <https://lecar-lab.github.io/BFM-Zero/>
+> 448. **Towards Versatile Humanoid Table Tennis**: <https://purdue-tracelab.github.io/ttrobot.github.io/>
 
 ## (2) Autonomous Driving
 
