@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-08
+last_modified_at: 2025-11-12
 
 hide_description: true
 hide_image: false
@@ -502,6 +502,7 @@ featured: false
 > 250. **Openspec**: <https://openspec.dev/>
 > 251. **fast-agent**: <https://fast-agent.ai/>
 > 252. **MCP Playground**: <https://mcpsplayground.com/chat>
+> 253. **Claude Agent Skills**: <https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview>
 
 ## (3) AIGC
 
@@ -1514,6 +1515,8 @@ featured: false
 > 446. **TWIST2**: <https://yanjieze.com/TWIST2/>
 > 447. **BFM-Zero**: <https://lecar-lab.github.io/BFM-Zero/>
 > 448. **Towards Versatile Humanoid Table Tennis**: <https://purdue-tracelab.github.io/ttrobot.github.io/>
+> 449. **GentleHumanoid**: <https://gentle-humanoid.axell.top/#/>
+> 450. **Ego-VCP**: <https://ego-vcp.github.io/>
 
 ## (2) Autonomous Driving
 
