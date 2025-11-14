@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-12
+last_modified_at: 2025-11-14
 
 hide_description: true
 hide_image: false
@@ -503,6 +503,7 @@ featured: false
 > 251. **fast-agent**: <https://fast-agent.ai/>
 > 252. **MCP Playground**: <https://mcpsplayground.com/chat>
 > 253. **Claude Agent Skills**: <https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview>
+> 254. **Gambo**: <https://www.gambo.ai/>
 
 ## (3) AIGC
 
@@ -1517,6 +1518,9 @@ featured: false
 > 448. **Towards Versatile Humanoid Table Tennis**: <https://purdue-tracelab.github.io/ttrobot.github.io/>
 > 449. **GentleHumanoid**: <https://gentle-humanoid.axell.top/#/>
 > 450. **Ego-VCP**: <https://ego-vcp.github.io/>
+> 451. **SONIC**: <https://nvlabs.github.io/SONIC/>
+> 452. **NovaFlow**: <https://novaflow.lhy.xyz/>
+> 453. **Learning a Thousand Tasks in a Day**: <https://www.robot-learning.uk/learning-1000-tasks>
 
 ## (2) Autonomous Driving
 

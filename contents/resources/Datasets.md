@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-07
+last_modified_at: 2025-11-14
 
 hide_description: true
 hide_image: false
@@ -62,6 +62,7 @@ featured: false
 > 2. **Molmo**: <https://github.com/allenai/molmo>
 > 3. **Data Commons**: <https://datacommons.org/>
 > 4. **Wikidata Vector Database**: <https://wd-vectordb.wmcloud.org/>
+> 5. **LAION Science Dataset Explorer**: <https://laion.inference.net/embeddings>
 
 # Physics Simulation
 
