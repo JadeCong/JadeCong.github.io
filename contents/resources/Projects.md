@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-14
+last_modified_at: 2025-11-17
 
 hide_description: true
 hide_image: false
@@ -504,6 +504,7 @@ featured: false
 > 252. **MCP Playground**: <https://mcpsplayground.com/chat>
 > 253. **Claude Agent Skills**: <https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview>
 > 254. **Gambo**: <https://www.gambo.ai/>
+> 255. **CodeWiki**: <https://codewiki.ai/>
 
 ## (3) AIGC
 
@@ -1521,6 +1522,10 @@ featured: false
 > 451. **SONIC**: <https://nvlabs.github.io/SONIC/>
 > 452. **NovaFlow**: <https://novaflow.lhy.xyz/>
 > 453. **Learning a Thousand Tasks in a Day**: <https://www.robot-learning.uk/learning-1000-tasks>
+> 454. **SPIDER**: <https://jc-bao.github.io/spider-project/>
+> 455. **MoMaGen**: <https://momagen.github.io/>
+> 456. **TextOp**: <https://text-op.github.io/>
+> 457. **decPLM**: <https://decplm.github.io/>
 
 ## (2) Autonomous Driving
 
