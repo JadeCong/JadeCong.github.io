@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-17
+last_modified_at: 2025-11-20
 
 hide_description: true
 hide_image: false
@@ -1526,6 +1526,7 @@ featured: false
 > 455. **MoMaGen**: <https://momagen.github.io/>
 > 456. **TextOp**: <https://text-op.github.io/>
 > 457. **decPLM**: <https://decplm.github.io/>
+> 458. **HMC**: <https://loco-hmc.github.io/>
 
 ## (2) Autonomous Driving
 
