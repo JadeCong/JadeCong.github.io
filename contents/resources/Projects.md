@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-20
+last_modified_at: 2025-11-22
 
 hide_description: true
 hide_image: false
@@ -247,6 +247,7 @@ featured: false
 > 197. **Nof1**: <https://nof1.ai/>
 > 198. **Google Skills**: <https://www.skills.google/>
 > 199. **AirScape**: <https://embodiedcity.github.io/AirScape/>
+> 200. **Segment Anything Model 3 (SAM 3)**: <https://ai.meta.com/sam3/>
 
 ## (2) Agents
 
@@ -1527,6 +1528,7 @@ featured: false
 > 456. **TextOp**: <https://text-op.github.io/>
 > 457. **decPLM**: <https://decplm.github.io/>
 > 458. **HMC**: <https://loco-hmc.github.io/>
+> 459. **DemoHLM**: <https://beingbeyond.github.io/DemoHLM/>
 
 ## (2) Autonomous Driving
 
