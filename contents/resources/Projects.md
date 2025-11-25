@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-22
+last_modified_at: 2025-11-25
 
 hide_description: true
 hide_image: false
@@ -1529,6 +1529,8 @@ featured: false
 > 457. **decPLM**: <https://decplm.github.io/>
 > 458. **HMC**: <https://loco-hmc.github.io/>
 > 459. **DemoHLM**: <https://beingbeyond.github.io/DemoHLM/>
+> 460. **VPP-TC**: <https://vpp-tc.github.io/>
+> 461. **Whole-Body Inverse Dynamics MPC for Legged Loco-Manipulation**: <https://lukasmolnar.github.io/wb-mpc-locoman/>
 
 ## (2) Autonomous Driving
 
