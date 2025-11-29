@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-26
+last_modified_at: 2025-11-29
 
 hide_description: true
 hide_image: false
@@ -506,6 +506,7 @@ featured: false
 > 253. **Claude Agent Skills**: <https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview>
 > 254. **Gambo**: <https://www.gambo.ai/>
 > 255. **CodeWiki**: <https://codewiki.ai/>
+> 256. **OmniBox**: <https://www.omnibox.pro/zh-cn/>
 
 ## (3) AIGC
 
