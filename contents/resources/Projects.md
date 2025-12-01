@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-11-29
+last_modified_at: 2025-12-01
 
 hide_description: true
 hide_image: false
@@ -1533,6 +1533,7 @@ featured: false
 > 460. **VPP-TC**: <https://vpp-tc.github.io/>
 > 461. **Whole-Body Inverse Dynamics MPC for Legged Loco-Manipulation**: <https://lukasmolnar.github.io/wb-mpc-locoman/>
 > 462. **ManipulationNet**: <https://www.manipulation-net.org/>
+> 463. **CoDA**: <https://phj128.github.io/page/CoDA/index.html>
 
 ## (2) Autonomous Driving
 
