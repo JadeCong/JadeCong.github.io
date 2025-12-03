@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-12-02
+last_modified_at: 2025-12-03
 
 hide_description: true
 hide_image: false
@@ -1014,6 +1014,7 @@ featured: false
 > 84. **WAVE**: <https://omron-sinicx.github.io/wave/>
 > 85. **M3D-skin**: <https://ssk-yoshimura.github.io/M3D-skin/>
 > 86. **Aero Hand Open**: <https://tetheria.github.io/aero-hand-open/>
+> 87. **ONGO**: <https://ongolamp.com/>
 
 ## (2) Software
 
