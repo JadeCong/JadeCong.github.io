@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-12-03
+last_modified_at: 2025-12-04
 
 hide_description: true
 hide_image: false
@@ -1067,6 +1067,7 @@ featured: false
 > 47. **SLAM-Former**: <https://tsinghua-mars-lab.github.io/SLAM-Former/>
 > 48. **Awesome Robotics Libraries**: <https://jslee02.github.io/awesome-robotics-libraries/>
 > 49. **trac_ik**: <https://bitbucket.org/traclabs/trac_ik/src/rolling/>
+> 50. **ProtoMotions**: <https://protomotions.github.io/>
 
 # AIRobotics
 
@@ -1536,6 +1537,7 @@ featured: false
 > 462. **ManipulationNet**: <https://www.manipulation-net.org/>
 > 463. **CoDA**: <https://phj128.github.io/page/CoDA/index.html>
 > 464. **AMS**: <https://opendrivelab.com/AMS/>
+> 465. **DoorMan**: <https://doorman-humanoid.github.io/>
 
 ## (2) Autonomous Driving
 
