@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-12-05
+last_modified_at: 2025-12-09
 
 hide_description: true
 hide_image: false
@@ -1015,6 +1015,7 @@ featured: false
 > 85. **M3D-skin**: <https://ssk-yoshimura.github.io/M3D-skin/>
 > 86. **Aero Hand Open**: <https://tetheria.github.io/aero-hand-open/>
 > 87. **ONGO**: <https://ongolamp.com/>
+> 88. **Scanford**: <https://scanford-robot.github.io/>
 
 ## (2) Software
 
@@ -1539,6 +1540,8 @@ featured: false
 > 464. **AMS**: <https://opendrivelab.com/AMS/>
 > 465. **DoorMan**: <https://doorman-humanoid.github.io/>
 > 466. **BC-Z**: <https://sites.google.com/view/bc-z/>
+> 467. **VIRAL**: <https://viral-humanoid.github.io/>
+> 468. **EfficientFlow**: <https://efficientflow.github.io/>
 
 ## (2) Autonomous Driving
 
