@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-12-09
+last_modified_at: 2025-12-12
 
 hide_description: true
 hide_image: false
@@ -1542,6 +1542,7 @@ featured: false
 > 466. **BC-Z**: <https://sites.google.com/view/bc-z/>
 > 467. **VIRAL**: <https://viral-humanoid.github.io/>
 > 468. **EfficientFlow**: <https://efficientflow.github.io/>
+> 469. **Robo2VLM**: <https://berkeleyautomation.github.io/robo2vlm/>
 
 ## (2) Autonomous Driving
 
