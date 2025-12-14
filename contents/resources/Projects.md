@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-12-12
+last_modified_at: 2025-12-14
 
 hide_description: true
 hide_image: false
@@ -507,6 +507,7 @@ featured: false
 > 254. **Gambo**: <https://www.gambo.ai/>
 > 255. **CodeWiki**: <https://codewiki.ai/>
 > 256. **OmniBox**: <https://www.omnibox.pro/zh-cn/>
+> 257. **Atlas Research**: <https://atlas-research.io/>
 
 ## (3) AIGC
 
@@ -1543,6 +1544,8 @@ featured: false
 > 467. **VIRAL**: <https://viral-humanoid.github.io/>
 > 468. **EfficientFlow**: <https://efficientflow.github.io/>
 > 469. **Robo2VLM**: <https://berkeleyautomation.github.io/robo2vlm/>
+> 470. **cuMotion**: <https://nvidia-isaac.github.io/cumotion/index.html>
+> 471. **Evaluating Gemini Robotics Policies in a Veo World Simulator**: <https://veo-robotics.github.io/>
 
 ## (2) Autonomous Driving
 
