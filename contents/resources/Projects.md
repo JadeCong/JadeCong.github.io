@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-12-14
+last_modified_at: 2025-12-18
 
 hide_description: true
 hide_image: false
@@ -1070,6 +1070,7 @@ featured: false
 > 48. **Awesome Robotics Libraries**: <https://jslee02.github.io/awesome-robotics-libraries/>
 > 49. **trac_ik**: <https://bitbucket.org/traclabs/trac_ik/src/rolling/>
 > 50. **ProtoMotions**: <https://protomotions.github.io/>
+> 51. **Tnkr**: <https://www.tnkr.ai/>
 
 # AIRobotics
 
@@ -1546,6 +1547,11 @@ featured: false
 > 469. **Robo2VLM**: <https://berkeleyautomation.github.io/robo2vlm/>
 > 470. **cuMotion**: <https://nvidia-isaac.github.io/cumotion/index.html>
 > 471. **Evaluating Gemini Robotics Policies in a Veo World Simulator**: <https://veo-robotics.github.io/>
+> 472. **X-Humanoid**: <https://showlab.github.io/X-Humanoid/>
+> 473. **PhysHMR**: <https://fengq1a0.github.io/projects/physhmr/>
+> 474. **WholeBodyVLA**: <https://opendrivelab.com/WholeBodyVLA/>
+> 475. **SAGA**: <https://robot-saga.github.io/>
+> 476. **Human-To-Robot**: <https://www.pi.website/research/human_to_robot>
 
 ## (2) Autonomous Driving
 
