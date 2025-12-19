@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-12-18
+last_modified_at: 2025-12-19
 
 hide_description: true
 hide_image: false
@@ -1552,6 +1552,7 @@ featured: false
 > 474. **WholeBodyVLA**: <https://opendrivelab.com/WholeBodyVLA/>
 > 475. **SAGA**: <https://robot-saga.github.io/>
 > 476. **Human-To-Robot**: <https://www.pi.website/research/human_to_robot>
+> 477. **PolaRiS**: <https://polaris-evals.github.io/>
 
 ## (2) Autonomous Driving
 
