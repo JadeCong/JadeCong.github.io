@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-12-19
+last_modified_at: 2025-12-22
 
 hide_description: true
 hide_image: false
@@ -508,6 +508,7 @@ featured: false
 > 255. **CodeWiki**: <https://codewiki.ai/>
 > 256. **OmniBox**: <https://www.omnibox.pro/zh-cn/>
 > 257. **Atlas Research**: <https://atlas-research.io/>
+> 258. **Curiosity**: <https://curiosity.ai/>
 
 ## (3) AIGC
 
@@ -1553,6 +1554,8 @@ featured: false
 > 475. **SAGA**: <https://robot-saga.github.io/>
 > 476. **Human-To-Robot**: <https://www.pi.website/research/human_to_robot>
 > 477. **PolaRiS**: <https://polaris-evals.github.io/>
+> 478. **Vid2Robot**: <https://vid2robot.github.io/>
+> 479. **CRISP**: <https://crisp-real2sim.github.io/CRISP-Real2Sim/>
 
 ## (2) Autonomous Driving
 
@@ -1699,6 +1702,7 @@ featured: false
 > 125. **NExF**: <https://m-niemeyer.github.io/nexf/index.html>
 > 126. **PAGE-4D**: <https://page-4d.github.io/anonymous-submission/>
 > 127. **VINGS-MONO**: <https://vings-mono.github.io/>
+> 128. **CARI4D**: <https://nvlabs.github.io/CARI4D/>
 
 ## (2) Tools
 
