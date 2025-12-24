@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-12-23
+last_modified_at: 2025-12-24
 
 hide_description: true
 hide_image: false
@@ -1557,6 +1557,7 @@ featured: false
 > 478. **Vid2Robot**: <https://vid2robot.github.io/>
 > 479. **CRISP**: <https://crisp-real2sim.github.io/CRISP-Real2Sim/>
 > 480. **mimic-video**: <https://mimic-video.github.io/>
+> 481. **kai0**: <https://mmlab.hk/research/kai0>
 
 ## (2) Autonomous Driving
 
