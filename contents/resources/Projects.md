@@ -509,6 +509,8 @@ featured: false
 > 256. **OmniBox**: <https://www.omnibox.pro/zh-cn/>
 > 257. **Atlas Research**: <https://atlas-research.io/>
 > 258. **Curiosity**: <https://curiosity.ai/>
+> 259. **GELab-Zero**: <https://opengelab.github.io/>
+> 260. **Agentic AI**: <https://www.deeplearning.ai/courses/agentic-ai/>
 
 ## (3) AIGC
 
