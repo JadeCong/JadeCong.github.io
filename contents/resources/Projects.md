@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-12-25
+last_modified_at: 2025-12-31
 
 hide_description: true
 hide_image: false
@@ -1559,6 +1559,7 @@ featured: false
 > 480. **mimic-video**: <https://mimic-video.github.io/>
 > 481. **kai0**: <https://mmlab.hk/research/kai0>
 > 482. **Motus**: <https://motus-robotics.github.io/motus>
+> 483. **Act2Goal**: <https://act2goal.github.io/>
 
 ## (2) Autonomous Driving
 
