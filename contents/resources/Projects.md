@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-04
+last_modified_at: 2026-01-06
 
 hide_description: true
 hide_image: false
@@ -1563,6 +1563,8 @@ featured: false
 > 482. **Motus**: <https://motus-robotics.github.io/motus>
 > 483. **Act2Goal**: <https://act2goal.github.io/>
 > 484. **GenieReasoner**: <https://geniereasoner.github.io/GenieReasoner/>
+> 485. **mjlab**: <https://mujocolab.github.io/mjlab/>
+> 486. **SmolVLA**: <https://smolvla.net/>
 
 ## (2) Autonomous Driving
 
