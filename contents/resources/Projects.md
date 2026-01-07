@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-06
+last_modified_at: 2026-01-07
 
 hide_description: true
 hide_image: false
@@ -1074,6 +1074,7 @@ featured: false
 > 49. **trac_ik**: <https://bitbucket.org/traclabs/trac_ik/src/rolling/>
 > 50. **ProtoMotions**: <https://protomotions.github.io/>
 > 51. **Tnkr**: <https://www.tnkr.ai/>
+> 52. **Genie Sim**: <https://agibot-world.com/genie-sim>
 
 # AIRobotics
 
