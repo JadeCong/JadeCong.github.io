@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-07
+last_modified_at: 2026-01-12
 
 hide_description: true
 hide_image: false
@@ -248,6 +248,7 @@ featured: false
 > 198. **Google Skills**: <https://www.skills.google/>
 > 199. **AirScape**: <https://embodiedcity.github.io/AirScape/>
 > 200. **Segment Anything Model 3 (SAM 3)**: <https://ai.meta.com/sam3/>
+> 201. **GLM**: <https://www.zhipuai.cn/zh>
 
 ## (2) Agents
 
@@ -1020,6 +1021,8 @@ featured: false
 > 86. **Aero Hand Open**: <https://tetheria.github.io/aero-hand-open/>
 > 87. **ONGO**: <https://ongolamp.com/>
 > 88. **Scanford**: <https://scanford-robot.github.io/>
+> 89. **Reachy Mini**: <https://reachymini.net/>
+> 90. **Robots That Exist**: <https://robotsthatexist.com/>
 
 ## (2) Software
 
@@ -1566,6 +1569,7 @@ featured: false
 > 484. **GenieReasoner**: <https://geniereasoner.github.io/GenieReasoner/>
 > 485. **mjlab**: <https://mujocolab.github.io/mjlab/>
 > 486. **SmolVLA**: <https://smolvla.net/>
+> 487. **Locomotion Beyond Feet**: <https://locomotion-beyond-feet.github.io/>
 
 ## (2) Autonomous Driving
 
