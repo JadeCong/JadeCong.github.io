@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-12
+last_modified_at: 2026-01-13
 
 hide_description: true
 hide_image: false
@@ -1078,6 +1078,7 @@ featured: false
 > 50. **ProtoMotions**: <https://protomotions.github.io/>
 > 51. **Tnkr**: <https://www.tnkr.ai/>
 > 52. **Genie Sim**: <https://agibot-world.com/genie-sim>
+> 53. **toppra**: <https://hungpham2511.github.io/toppra/index.html>
 
 # AIRobotics
 
@@ -1570,6 +1571,7 @@ featured: false
 > 485. **mjlab**: <https://mujocolab.github.io/mjlab/>
 > 486. **SmolVLA**: <https://smolvla.net/>
 > 487. **Locomotion Beyond Feet**: <https://locomotion-beyond-feet.github.io/>
+> 488. **Learning by watching human videos**: <https://www.skild.ai/blogs/learning-by-watching>
 
 ## (2) Autonomous Driving
 
