@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-13
+last_modified_at: 2026-01-14
 
 hide_description: true
 hide_image: false
@@ -1079,6 +1079,7 @@ featured: false
 > 51. **Tnkr**: <https://www.tnkr.ai/>
 > 52. **Genie Sim**: <https://agibot-world.com/genie-sim>
 > 53. **toppra**: <https://hungpham2511.github.io/toppra/index.html>
+> 54. **Humanoid Policy Viewer**: <https://motion-tracking.axell.top/>
 
 # AIRobotics
 
