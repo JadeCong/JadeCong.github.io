@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-14
+last_modified_at: 2026-01-16
 
 hide_description: true
 hide_image: false
@@ -512,6 +512,7 @@ featured: false
 > 258. **Curiosity**: <https://curiosity.ai/>
 > 259. **GELab-Zero**: <https://opengelab.github.io/>
 > 260. **Agentic AI**: <https://www.deeplearning.ai/courses/agentic-ai/>
+> 261. **Google Labs**: <https://labs.google/>
 
 ## (3) AIGC
 
@@ -1573,6 +1574,7 @@ featured: false
 > 486. **SmolVLA**: <https://smolvla.net/>
 > 487. **Locomotion Beyond Feet**: <https://locomotion-beyond-feet.github.io/>
 > 488. **Learning by watching human videos**: <https://www.skild.ai/blogs/learning-by-watching>
+> 489. **Being-H0**: <https://beingbeyond.github.io/Being-H0/>
 
 ## (2) Autonomous Driving
 
