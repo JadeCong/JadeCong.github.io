@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-16
+last_modified_at: 2026-01-18
 
 hide_description: true
 hide_image: false
@@ -1024,6 +1024,7 @@ featured: false
 > 88. **Scanford**: <https://scanford-robot.github.io/>
 > 89. **Reachy Mini**: <https://reachymini.net/>
 > 90. **Robots That Exist**: <https://robotsthatexist.com/>
+> 91. **AlohaMini**: <https://www.alohamini.cn/>
 
 ## (2) Software
 
