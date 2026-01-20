@@ -1578,6 +1578,7 @@ featured: false
 > 487. **Locomotion Beyond Feet**: <https://locomotion-beyond-feet.github.io/>
 > 488. **Learning by watching human videos**: <https://www.skild.ai/blogs/learning-by-watching>
 > 489. **Being-H0**: <https://beingbeyond.github.io/Being-H0/>
+> 490. **Walk the PLANC**: <https://caltech-amber.github.io/planc/>
 
 ## (2) Autonomous Driving
 
