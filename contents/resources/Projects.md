@@ -1025,6 +1025,7 @@ featured: false
 > 89. **Reachy Mini**: <https://reachymini.net/>
 > 90. **Robots That Exist**: <https://robotsthatexist.com/>
 > 91. **AlohaMini**: <https://www.alohamini.cn/>
+> 92. **Pantograph**: <https://pantograph.com/blog/building-a-preschool-for-robots.html>
 
 ## (2) Software
 
@@ -1082,6 +1083,7 @@ featured: false
 > 52. **Genie Sim**: <https://agibot-world.com/genie-sim>
 > 53. **toppra**: <https://hungpham2511.github.io/toppra/index.html>
 > 54. **Humanoid Policy Viewer**: <https://motion-tracking.axell.top/>
+> 55. **CHILD**: <https://uiuckimlab.github.io/CHILD-pages/>
 
 # AIRobotics
 
