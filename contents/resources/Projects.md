@@ -1587,6 +1587,9 @@ featured: false
 > 495. **CEI**: <https://cross-embodiment-interface.github.io/>
 > 496. **Closing the Reality Gap**: <https://dexmanip-seed.github.io/dexmanip/>
 > 497. **EgoMimic**: <https://egomimic.github.io/>
+> 498. **CLAP**: <https://lin-shan.com/CLAP/>
+> 499. **NeoVerse**: <https://neoverse-4d.github.io/>
+> 500. **PointWorld**: <https://point-world.github.io/>
 
 ## (2) Autonomous Driving
 
