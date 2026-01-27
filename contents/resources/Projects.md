@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-26
+last_modified_at: 2026-01-27
 
 hide_description: true
 hide_image: false
@@ -514,6 +514,7 @@ featured: false
 > 260. **Agentic AI**: <https://www.deeplearning.ai/courses/agentic-ai/>
 > 261. **Google Labs**: <https://labs.google/>
 > 262. **Ralv**: <https://ralv.ai/>
+> 263. **Moltbot**: <https://clawd.bot/>
 
 ## (3) AIGC
 
@@ -1590,10 +1591,13 @@ featured: false
 > 498. **CLAP**: <https://lin-shan.com/CLAP/>
 > 499. **NeoVerse**: <https://neoverse-4d.github.io/>
 > 500. **PointWorld**: <https://point-world.github.io/>
+> 501. **Cosmos Policy**: <https://research.nvidia.com/labs/dir/cosmos-policy/>
+> 502. **Fast-ThinkAct**: <https://jasper0314-huang.github.io/fast-thinkact/>
 
 ## (2) Autonomous Driving
 
 > 1. **X-Mobility**: <https://nvlabs.github.io/X-MOBILITY/>
+> 2. **LagMemo**: <https://weekgoodday.github.io/lagmemo/>
 
 ## (3) Embodied Intelligence
 
