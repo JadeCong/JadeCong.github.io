@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-27
+last_modified_at: 2026-01-28
 
 hide_description: true
 hide_image: false
@@ -1593,6 +1593,7 @@ featured: false
 > 500. **PointWorld**: <https://point-world.github.io/>
 > 501. **Cosmos Policy**: <https://research.nvidia.com/labs/dir/cosmos-policy/>
 > 502. **Fast-ThinkAct**: <https://jasper0314-huang.github.io/fast-thinkact/>
+> 503. **ReconVLA**: <https://zionchow.github.io/ReconVLA/>
 
 ## (2) Autonomous Driving
 
