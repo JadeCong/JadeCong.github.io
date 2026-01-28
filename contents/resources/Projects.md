@@ -1743,6 +1743,7 @@ featured: false
 > 126. **PAGE-4D**: <https://page-4d.github.io/anonymous-submission/>
 > 127. **VINGS-MONO**: <https://vings-mono.github.io/>
 > 128. **CARI4D**: <https://nvlabs.github.io/CARI4D/>
+> 129. **D4RT**: <https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/>
 
 ## (2) Tools
 
