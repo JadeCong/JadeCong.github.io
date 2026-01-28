@@ -1594,6 +1594,7 @@ featured: false
 > 501. **Cosmos Policy**: <https://research.nvidia.com/labs/dir/cosmos-policy/>
 > 502. **Fast-ThinkAct**: <https://jasper0314-huang.github.io/fast-thinkact/>
 > 503. **ReconVLA**: <https://zionchow.github.io/ReconVLA/>
+> 504. **LingBot-VLA**: <https://technology.robbyant.com/lingbot-vla>
 
 ## (2) Autonomous Driving
 
