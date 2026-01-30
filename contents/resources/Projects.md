@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-28
+last_modified_at: 2026-01-30
 
 hide_description: true
 hide_image: false
@@ -1595,6 +1595,8 @@ featured: false
 > 502. **Fast-ThinkAct**: <https://jasper0314-huang.github.io/fast-thinkact/>
 > 503. **ReconVLA**: <https://zionchow.github.io/ReconVLA/>
 > 504. **LingBot-VLA**: <https://technology.robbyant.com/lingbot-vla>
+> 505. **NavDP**: <https://wzcai99.github.io/navigation-diffusion-policy.github.io/>
+> 506. **LoGoPlanner**: <https://steinate.github.io/logoplanner.github.io/>
 
 ## (2) Autonomous Driving
 
