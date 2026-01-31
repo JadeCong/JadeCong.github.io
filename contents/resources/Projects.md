@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-30
+last_modified_at: 2026-01-31
 
 hide_description: true
 hide_image: false
@@ -1597,6 +1597,7 @@ featured: false
 > 504. **LingBot-VLA**: <https://technology.robbyant.com/lingbot-vla>
 > 505. **NavDP**: <https://wzcai99.github.io/navigation-diffusion-policy.github.io/>
 > 506. **LoGoPlanner**: <https://steinate.github.io/logoplanner.github.io/>
+> 507. **EMPM**: <https://embodied-mpm.github.io/>
 
 ## (2) Autonomous Driving
 
