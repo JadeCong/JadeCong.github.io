@@ -1605,6 +1605,8 @@ featured: false
 > 512. **Pi0.6**: <https://www.pi.website/blog/pistar06>
 > 513. **WoW**: <https://wow-world-model.github.io/>
 > 514. **RoboStriker**: <https://yinkangning0124.github.io/RoboStriker/>
+> 515. **FRoM-W1**: <https://openmoss.github.io/FRoM-W1/>
+> 516. **HumanX**: <https://wyhuai.github.io/human-x/>
 
 ## (2) Autonomous Driving
 
