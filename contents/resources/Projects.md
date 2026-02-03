@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-01-31
+last_modified_at: 2026-02-03
 
 hide_description: true
 hide_image: false
@@ -1138,7 +1138,7 @@ featured: false
 > 45. **Blox-Net**: <https://bloxnet.org/>
 > 46. **GR-MG**: <https://gr-mg.github.io/>
 > 47. **Real-World Cooking Robot System from Recipes**: <https://kanazawanaoaki.github.io/cook-from-recipe-pddl/>
-> 48. **Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**: <https://gr1-manipulation.github.io/>
+> 48. **GR-1**: <https://gr1-manipulation.github.io/>
 > 49. **GR-2**: <https://gr2-manipulation.github.io/>
 > 50. **CLoSD**: <https://guytevet.github.io/CLoSD-page/>
 > 51. **RDT-1B**: <https://rdt-robotics.github.io/rdt-robotics/>
@@ -1598,6 +1598,13 @@ featured: false
 > 505. **NavDP**: <https://wzcai99.github.io/navigation-diffusion-policy.github.io/>
 > 506. **LoGoPlanner**: <https://steinate.github.io/logoplanner.github.io/>
 > 507. **EMPM**: <https://embodied-mpm.github.io/>
+> 508. **Gemini Robotics-ER**: <https://deepmind.google/models/gemini-robotics/gemini-robotics-er/>
+> 509. **Hi Robot**: <https://www.pi.website/research/hirobot>
+> 510. **Pi0**: <https://www.pi.website/blog/pi0>
+> 511. **Pi0.5**: <https://www.pi.website/blog/pi05>
+> 512. **Pi0.6**: <https://www.pi.website/blog/pistar06>
+> 513. **WoW**: <https://wow-world-model.github.io/>
+> 514. **RoboStriker**: <https://yinkangning0124.github.io/RoboStriker/>
 
 ## (2) Autonomous Driving
 
