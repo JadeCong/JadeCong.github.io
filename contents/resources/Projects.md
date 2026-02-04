@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-03
+last_modified_at: 2026-02-04
 
 hide_description: true
 hide_image: false
@@ -1607,6 +1607,9 @@ featured: false
 > 514. **RoboStriker**: <https://yinkangning0124.github.io/RoboStriker/>
 > 515. **FRoM-W1**: <https://openmoss.github.io/FRoM-W1/>
 > 516. **HumanX**: <https://wyhuai.github.io/human-x/>
+> 517. **Deep Whole-body Parkour**: <https://project-instinct.github.io/deep-whole-body-parkour/>
+> 518. **SurfSplat**: <https://hebing-sjtu.github.io/SurfSplat-website/>
+> 519. **EgoMI**: <https://egocentric-manipulation-interface.github.io/>
 
 ## (2) Autonomous Driving
 
