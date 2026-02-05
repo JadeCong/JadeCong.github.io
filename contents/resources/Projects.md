@@ -1612,6 +1612,8 @@ featured: false
 > 519. **EgoMI**: <https://egocentric-manipulation-interface.github.io/>
 > 520. **LOVON**: <https://daojiepeng.github.io/LOVON/>
 > 521. **DreamZero**: <https://dreamzero0.github.io/>
+> 522. **GM-100**: <https://www.rhos.ai/research/gm-100/>
+> 523. **HUSKY**: <https://husky-humanoid.github.io/>
 
 ## (2) Autonomous Driving
 
