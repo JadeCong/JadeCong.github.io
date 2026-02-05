@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-04
+last_modified_at: 2026-02-05
 
 hide_description: true
 hide_image: false
@@ -1610,6 +1610,7 @@ featured: false
 > 517. **Deep Whole-body Parkour**: <https://project-instinct.github.io/deep-whole-body-parkour/>
 > 518. **SurfSplat**: <https://hebing-sjtu.github.io/SurfSplat-website/>
 > 519. **EgoMI**: <https://egocentric-manipulation-interface.github.io/>
+> 520. **LOVON**: <https://daojiepeng.github.io/LOVON/>
 
 ## (2) Autonomous Driving
 
@@ -1759,6 +1760,7 @@ featured: false
 > 127. **VINGS-MONO**: <https://vings-mono.github.io/>
 > 128. **CARI4D**: <https://nvlabs.github.io/CARI4D/>
 > 129. **D4RT**: <https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/>
+> 130. **EventNeuS**: <https://4dqv.mpi-inf.mpg.de/EventNeuS/>
 
 ## (2) Tools
 
