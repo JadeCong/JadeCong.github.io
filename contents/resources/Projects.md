@@ -1611,6 +1611,7 @@ featured: false
 > 518. **SurfSplat**: <https://hebing-sjtu.github.io/SurfSplat-website/>
 > 519. **EgoMI**: <https://egocentric-manipulation-interface.github.io/>
 > 520. **LOVON**: <https://daojiepeng.github.io/LOVON/>
+> 521. **DreamZero**: <https://dreamzero0.github.io/>
 
 ## (2) Autonomous Driving
 
