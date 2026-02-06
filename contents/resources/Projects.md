@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-05
+last_modified_at: 2026-02-06
 
 hide_description: true
 hide_image: false
@@ -1614,6 +1614,7 @@ featured: false
 > 521. **DreamZero**: <https://dreamzero0.github.io/>
 > 522. **GM-100**: <https://www.rhos.ai/research/gm-100/>
 > 523. **HUSKY**: <https://husky-humanoid.github.io/>
+> 524. **Eagle-WBC**: <https://eagle-wbc.github.io/>
 
 ## (2) Autonomous Driving
 
