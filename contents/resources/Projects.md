@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-06
+last_modified_at: 2026-02-07
 
 hide_description: true
 hide_image: false
@@ -1615,6 +1615,9 @@ featured: false
 > 522. **GM-100**: <https://www.rhos.ai/research/gm-100/>
 > 523. **HUSKY**: <https://husky-humanoid.github.io/>
 > 524. **Eagle-WBC**: <https://eagle-wbc.github.io/>
+> 525. **VB-Com**: <https://renjunli99.github.io/vbcom.github.io/>
+> 526. **UnifoLM-VLA-0**: <https://unigen-x.github.io/unifolm-vla.github.io/>
+> 
 
 ## (2) Autonomous Driving
 
@@ -1765,6 +1768,7 @@ featured: false
 > 128. **CARI4D**: <https://nvlabs.github.io/CARI4D/>
 > 129. **D4RT**: <https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/>
 > 130. **EventNeuS**: <https://4dqv.mpi-inf.mpg.de/EventNeuS/>
+> 131. **EVolSplat4D**: <https://xdimlab.github.io/EVolSplat4D/>
 
 ## (2) Tools
 
