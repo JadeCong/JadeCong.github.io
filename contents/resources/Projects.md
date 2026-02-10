@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-08
+last_modified_at: 2026-02-09
 
 hide_description: true
 hide_image: false
@@ -1619,6 +1619,7 @@ featured: false
 > 526. **UnifoLM-VLA-0**: <https://unigen-x.github.io/unifolm-vla.github.io/>
 > 527. **XHugWBC**: <https://xhugwbc.github.io/>
 > 528. **FPO-Control**: <https://hongsukchoi.github.io/fpo-control/>
+> 529. **InterPrior**: <https://sirui-xu.github.io/InterPrior/>
 
 ## (2) Autonomous Driving
 
