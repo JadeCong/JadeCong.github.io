@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-09
+last_modified_at: 2026-02-10
 
 hide_description: true
 hide_image: false
@@ -1620,6 +1620,7 @@ featured: false
 > 527. **XHugWBC**: <https://xhugwbc.github.io/>
 > 528. **FPO-Control**: <https://hongsukchoi.github.io/fpo-control/>
 > 529. **InterPrior**: <https://sirui-xu.github.io/InterPrior/>
+> 530. **RynnBrain**: <https://alibaba-damo-academy.github.io/RynnBrain.github.io/>
 
 ## (2) Autonomous Driving
 
