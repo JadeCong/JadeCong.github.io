@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-10
+last_modified_at: 2026-02-11
 
 hide_description: true
 hide_image: false
@@ -1028,6 +1028,7 @@ featured: false
 > 90. **Robots That Exist**: <https://robotsthatexist.com/>
 > 91. **AlohaMini**: <https://www.alohamini.cn/>
 > 92. **Pantograph**: <https://pantograph.com/blog/building-a-preschool-for-robots.html>
+> 93. **allonic**: <https://allonic.co/>
 
 ## (2) Software
 
@@ -1621,6 +1622,8 @@ featured: false
 > 528. **FPO-Control**: <https://hongsukchoi.github.io/fpo-control/>
 > 529. **InterPrior**: <https://sirui-xu.github.io/InterPrior/>
 > 530. **RynnBrain**: <https://alibaba-damo-academy.github.io/RynnBrain.github.io/>
+> 531. **HuMI**: <https://humanoid-manipulation-interface.github.io/#/>
+> 532. **CHIP**: <https://nvlabs.github.io/CHIP/>
 
 ## (2) Autonomous Driving
 
