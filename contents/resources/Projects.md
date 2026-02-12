@@ -1624,6 +1624,9 @@ featured: false
 > 530. **RynnBrain**: <https://alibaba-damo-academy.github.io/RynnBrain.github.io/>
 > 531. **HuMI**: <https://humanoid-manipulation-interface.github.io/#/>
 > 532. **CHIP**: <https://nvlabs.github.io/CHIP/>
+> 533. **HEX**: <https://hex-humanoid.github.io/>
+> 534. **SceneSmith**: <https://scenesmith.github.io/>
+> 535. **RISE**: <https://opendrivelab.com/kai0-rl/>
 
 ## (2) Autonomous Driving
 
