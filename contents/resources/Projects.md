@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-11
+last_modified_at: 2026-02-12
 
 hide_description: true
 hide_image: false
@@ -1628,6 +1628,7 @@ featured: false
 > 534. **SceneSmith**: <https://scenesmith.github.io/>
 > 535. **RISE**: <https://opendrivelab.com/kai0-rl/>
 > 536. **SAGE**: <https://nvlabs.github.io/sage/>
+> 537. **LaST0**: <https://vla-last0.github.io/>
 
 ## (2) Autonomous Driving
 
