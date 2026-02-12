@@ -1629,6 +1629,7 @@ featured: false
 > 535. **RISE**: <https://opendrivelab.com/kai0-rl/>
 > 536. **SAGE**: <https://nvlabs.github.io/sage/>
 > 537. **LaST0**: <https://vla-last0.github.io/>
+> 538. **DreamDojo**: <https://dreamdojo-world.github.io/>
 
 ## (2) Autonomous Driving
 
