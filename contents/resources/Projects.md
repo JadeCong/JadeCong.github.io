@@ -1627,6 +1627,7 @@ featured: false
 > 533. **HEX**: <https://hex-humanoid.github.io/>
 > 534. **SceneSmith**: <https://scenesmith.github.io/>
 > 535. **RISE**: <https://opendrivelab.com/kai0-rl/>
+> 536. **SAGE**: <https://nvlabs.github.io/sage/>
 
 ## (2) Autonomous Driving
 
