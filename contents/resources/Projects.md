@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-12
+last_modified_at: 2026-02-14
 
 hide_description: true
 hide_image: false
@@ -515,6 +515,8 @@ featured: false
 > 261. **Google Labs**: <https://labs.google/>
 > 262. **Ralv**: <https://ralv.ai/>
 > 263. **Moltbot**: <https://clawd.bot/>
+> 264. **OpenCode**: <https://opencode.ai/zh>
+> 265. **OpenWork**: <https://openwork.software/>
 
 ## (3) AIGC
 
@@ -1630,6 +1632,10 @@ featured: false
 > 536. **SAGE**: <https://nvlabs.github.io/sage/>
 > 537. **LaST0**: <https://vla-last0.github.io/>
 > 538. **DreamDojo**: <https://dreamdojo-world.github.io/>
+> 539. **ExtremControl**: <https://owenowl.github.io/extremcontrol/>
+> 540. **GigaBrain-0.5M**: <https://gigabrain05m.github.io/>
+> 541. **Xiaomi-Robotics-0**: <https://xiaomi-robotics-0.github.io/>
+> 542. **MOSAIC**: <https://baai-humanoid.github.io/MOSAIC/>
 
 ## (2) Autonomous Driving
 
@@ -1781,6 +1787,7 @@ featured: false
 > 129. **D4RT**: <https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/>
 > 130. **EventNeuS**: <https://4dqv.mpi-inf.mpg.de/EventNeuS/>
 > 131. **EVolSplat4D**: <https://xdimlab.github.io/EVolSplat4D/>
+> 132. **MetricAnything**: <https://metric-anything.github.io/metric-anything-io/>
 
 ## (2) Tools
 
