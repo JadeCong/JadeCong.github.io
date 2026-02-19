@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-14
+last_modified_at: 2026-02-19
 
 hide_description: true
 hide_image: false
@@ -517,6 +517,7 @@ featured: false
 > 263. **Moltbot**: <https://clawd.bot/>
 > 264. **OpenCode**: <https://opencode.ai/zh>
 > 265. **OpenWork**: <https://openwork.software/>
+> 266. **WebMCP**: <https://webmachinelearning.github.io/webmcp/>
 
 ## (3) AIGC
 
@@ -933,6 +934,8 @@ featured: false
 > 411. **Code2Video**: <https://showlab.github.io/Code2Video/>
 > 412. **HuMo**: <https://phantom-video.github.io/HuMo/>
 > 413. **WorldGrow**: <https://world-grow.github.io/>
+> 414. **Motion 3-to-4**: <https://motion3-to-4.github.io/>
+> 415. **AnyView**: <https://tri-ml.github.io/AnyView/>
 
 # Robotics
 
@@ -1031,6 +1034,7 @@ featured: false
 > 91. **AlohaMini**: <https://www.alohamini.cn/>
 > 92. **Pantograph**: <https://pantograph.com/blog/building-a-preschool-for-robots.html>
 > 93. **allonic**: <https://allonic.co/>
+> 94. **TacUMI**: <https://tac-umi.github.io/TacUMI/>
 
 ## (2) Software
 
@@ -1636,6 +1640,14 @@ featured: false
 > 540. **GigaBrain-0.5M**: <https://gigabrain05m.github.io/>
 > 541. **Xiaomi-Robotics-0**: <https://xiaomi-robotics-0.github.io/>
 > 542. **MOSAIC**: <https://baai-humanoid.github.io/MOSAIC/>
+> 543. **VideoWorld 2**: <https://maverickren.github.io/VideoWorld2.github.io/>
+> 544. **DynamicVLA**: <https://www.infinitescript.com/project/dynamic-vla>
+> 545. **DWM**: <https://snuvclab.github.io/dwm/>
+> 546. **PHP**: <https://php-parkour.github.io/>
+> 547. **RobotGen4D**: <https://robotgen4d.github.io/>
+> 548. **MolmoSpaces**: <https://allenai.org/blog/molmospaces>
+> 549. **MuJoCo WASM**: <https://dev.to/googleai/building-a-gemini-powered-robotics-simulator-in-the-browser-with-mujoco-wasm-hjj>
+> 550. **HumanoidTerrain**: <https://humanoid-challenging-terrain.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1788,6 +1800,7 @@ featured: false
 > 130. **EventNeuS**: <https://4dqv.mpi-inf.mpg.de/EventNeuS/>
 > 131. **EVolSplat4D**: <https://xdimlab.github.io/EVolSplat4D/>
 > 132. **MetricAnything**: <https://metric-anything.github.io/metric-anything-io/>
+> 133. **Trackers**: <https://trackers.roboflow.com/latest/>
 
 ## (2) Tools
 
@@ -1828,6 +1841,7 @@ featured: false
 > 35. **Rerun**: <https://rerun.io/>
 > 36. **Foxglove**: <https://foxglove.dev/>
 > 37. **MCAP**: <https://mcap.dev/>
+> 38. **ZLMediaKit**: <https://docs.zlmediakit.com/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
