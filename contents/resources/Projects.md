@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-19
+last_modified_at: 2026-02-21
 
 hide_description: true
 hide_image: false
@@ -1548,7 +1548,7 @@ featured: false
 > 448. **Towards Versatile Humanoid Table Tennis**: <https://purdue-tracelab.github.io/ttrobot.github.io/>
 > 449. **GentleHumanoid**: <https://gentle-humanoid.axell.top/#/>
 > 450. **Ego-VCP**: <https://ego-vcp.github.io/>
-> 451. **SONIC**: <https://nvlabs.github.io/SONIC/>
+> 451. **GEAR-SONIC**: <https://nvlabs.github.io/GEAR-SONIC/>
 > 452. **NovaFlow**: <https://novaflow.lhy.xyz/>
 > 453. **Learning a Thousand Tasks in a Day**: <https://www.robot-learning.uk/learning-1000-tasks>
 > 454. **SPIDER**: <https://jc-bao.github.io/spider-project/>
