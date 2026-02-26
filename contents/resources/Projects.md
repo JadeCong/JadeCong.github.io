@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-21
+last_modified_at: 2026-02-26
 
 hide_description: true
 hide_image: false
@@ -518,6 +518,9 @@ featured: false
 > 264. **OpenCode**: <https://opencode.ai/zh>
 > 265. **OpenWork**: <https://openwork.software/>
 > 266. **WebMCP**: <https://webmachinelearning.github.io/webmcp/>
+> 267. **NanoClaw**: <https://nanoclaw.dev/>
+> 268. **ZeroClaw**: <https://zeroclawlabs.ai/>
+> 269. **PicoClaw**: <https://picoclaw.io/>
 
 ## (3) AIGC
 
@@ -936,6 +939,7 @@ featured: false
 > 413. **WorldGrow**: <https://world-grow.github.io/>
 > 414. **Motion 3-to-4**: <https://motion3-to-4.github.io/>
 > 415. **AnyView**: <https://tri-ml.github.io/AnyView/>
+> 416. **PhysX-Anything**: <https://physx-anything.github.io/>
 
 # Robotics
 
@@ -1648,6 +1652,14 @@ featured: false
 > 548. **MolmoSpaces**: <https://allenai.org/blog/molmospaces>
 > 549. **MuJoCo WASM**: <https://dev.to/googleai/building-a-gemini-powered-robotics-simulator-in-the-browser-with-mujoco-wasm-hjj>
 > 550. **HumanoidTerrain**: <https://humanoid-challenging-terrain.github.io/>
+> 551. **AdaWorldPolicy**: <https://adaworldpolicy.github.io/>
+> 552. **FeelAnyForce**: <https://prg.cs.umd.edu/FeelAnyForce>
+> 553. **LAP**: <https://lap-vla.github.io/>
+> 554. **RGMT**: <https://zeonsunlightyu.github.io/RGMT.github.io/>
+> 555. **GMR**: <https://jaraujo98.github.io/retargeting_matters/>
+> 556. **EgoScale**: <https://research.nvidia.com/labs/gear/egoscale/>
+> 557. **FARM**: <https://tactile-farm.github.io/>
+> 558. **Habilis**: <https://tommoro-ai.github.io/habilis-beta/>
 
 ## (2) Autonomous Driving
 
