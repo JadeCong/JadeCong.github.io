@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-02-27
+last_modified_at: 2026-02-28
 
 hide_description: true
 hide_image: false
@@ -1661,6 +1661,9 @@ featured: false
 > 556. **EgoScale**: <https://research.nvidia.com/labs/gear/egoscale/>
 > 557. **FARM**: <https://tactile-farm.github.io/>
 > 558. **Habilis**: <https://tommoro-ai.github.io/habilis-beta/>
+> 559. **Real-World Humanoid Locomotion with Reinforcement Learning**: <https://learning-humanoid-locomotion.github.io/>
+> 560. **EmbodMocap**: <https://wenjiawang0312.github.io/projects/embodmocap/>
+> 561. **BPP**: <https://bigpicturepolicies.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1814,6 +1817,7 @@ featured: false
 > 131. **EVolSplat4D**: <https://xdimlab.github.io/EVolSplat4D/>
 > 132. **MetricAnything**: <https://metric-anything.github.io/metric-anything-io/>
 > 133. **Trackers**: <https://trackers.roboflow.com/latest/>
+> 134. **GeoPT**: <https://physics-scaling.github.io/GeoPT/>
 
 ## (2) Tools
 
