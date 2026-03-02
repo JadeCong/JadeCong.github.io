@@ -1822,6 +1822,7 @@ featured: false
 > 132. **MetricAnything**: <https://metric-anything.github.io/metric-anything-io/>
 > 133. **Trackers**: <https://trackers.roboflow.com/latest/>
 > 134. **GeoPT**: <https://physics-scaling.github.io/GeoPT/>
+> 135. **LiteVGGT**: <https://garlicba.github.io/LiteVGGT/>
 
 ## (2) Tools
 
