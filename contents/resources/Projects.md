@@ -1672,6 +1672,7 @@ featured: false
 > 563. **OmniXtreme**: <https://extreme-humanoid.github.io/>
 > 564. **Rhythm**: <https://hoshi-no-ai.github.io/Rhythm/>
 > 565. **FOREWARN**: <https://yilin-wu98.github.io/forewarn/>
+> 566. **Humanoid Hanoi**: <https://osudrl.github.io/Humanoid_Hanoi/>
 
 ## (2) Autonomous Driving
 
