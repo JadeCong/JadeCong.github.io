@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-02
+last_modified_at: 2026-03-03
 
 hide_description: true
 hide_image: false
@@ -1043,6 +1043,7 @@ featured: false
 > 92. **Pantograph**: <https://pantograph.com/blog/building-a-preschool-for-robots.html>
 > 93. **allonic**: <https://allonic.co/>
 > 94. **TacUMI**: <https://tac-umi.github.io/TacUMI/>
+> 95. **StackChan**: <https://m5stack.com/stackchan>
 
 ## (2) Software
 
@@ -1668,6 +1669,9 @@ featured: false
 > 560. **EmbodMocap**: <https://wenjiawang0312.github.io/projects/embodmocap/>
 > 561. **BPP**: <https://bigpicturepolicies.github.io/>
 > 562. **SimToolReal**: <https://simtoolreal.github.io/>
+> 563. **OmniXtreme**: <https://extreme-humanoid.github.io/>
+> 564. **Rhythm**: <https://hoshi-no-ai.github.io/Rhythm/>
+> 565. **FOREWARN**: <https://yilin-wu98.github.io/forewarn/>
 
 ## (2) Autonomous Driving
 
