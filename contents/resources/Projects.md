@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-03
+last_modified_at: 2026-03-04
 
 hide_description: true
 hide_image: false
@@ -1673,6 +1673,9 @@ featured: false
 > 564. **Rhythm**: <https://hoshi-no-ai.github.io/Rhythm/>
 > 565. **FOREWARN**: <https://yilin-wu98.github.io/forewarn/>
 > 566. **Humanoid Hanoi**: <https://osudrl.github.io/Humanoid_Hanoi/>
+> 567. **MEM**: <https://www.pi.website/research/memory>
+> 568. **NovaPlan**: <https://nova-plan.github.io/>
+> 569. **UPS**: <https://jessie-yuan.github.io/ups/>
 
 ## (2) Autonomous Driving
 
@@ -1828,6 +1831,7 @@ featured: false
 > 133. **Trackers**: <https://trackers.roboflow.com/latest/>
 > 134. **GeoPT**: <https://physics-scaling.github.io/GeoPT/>
 > 135. **LiteVGGT**: <https://garlicba.github.io/LiteVGGT/>
+> 136. **ArtiFixer**: <https://artifixer2026.github.io/>
 
 ## (2) Tools
 
