@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-04
+last_modified_at: 2026-03-05
 
 hide_description: true
 hide_image: false
