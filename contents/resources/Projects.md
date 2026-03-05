@@ -1676,6 +1676,7 @@ featured: false
 > 567. **MEM**: <https://www.pi.website/research/memory>
 > 568. **NovaPlan**: <https://nova-plan.github.io/>
 > 569. **UPS**: <https://jessie-yuan.github.io/ups/>
+> 570. **ULTRA**: <https://ultra-humanoid.github.io/>
 
 ## (2) Autonomous Driving
 
