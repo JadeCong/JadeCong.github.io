@@ -1677,6 +1677,8 @@ featured: false
 > 568. **NovaPlan**: <https://nova-plan.github.io/>
 > 569. **UPS**: <https://jessie-yuan.github.io/ups/>
 > 570. **ULTRA**: <https://ultra-humanoid.github.io/>
+> 571. **HoMMI**: <https://hommi-robot.github.io/>
+> 572. **Minimalist Compliance Control**: <https://minimalist-compliance-control.github.io/>
 
 ## (2) Autonomous Driving
 
