@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-06
+last_modified_at: 2026-03-08
 
 hide_description: true
 hide_image: false
@@ -1682,6 +1682,8 @@ featured: false
 > 573. **Tether**: <https://tether-research.github.io/>
 > 574. **InSpatio-WorldFM**: <https://inspatio.github.io/worldfm/>
 > 575. **Robometer**: <https://robometer.github.io/>
+> 576. **One Hand to Rule Them All**: <https://zhenyuwei2003.github.io/OHRA/>
+> 577. **PTLD**: <https://akashsharma02.github.io/ptld-website/>
 
 ## (2) Autonomous Driving
 
@@ -1838,6 +1840,8 @@ featured: false
 > 134. **GeoPT**: <https://physics-scaling.github.io/GeoPT/>
 > 135. **LiteVGGT**: <https://garlicba.github.io/LiteVGGT/>
 > 136. **ArtiFixer**: <https://artifixer2026.github.io/>
+> 137. **ZipMap**: <https://haian-jin.github.io/ZipMap/>
+> 138. **NOVA3R**: <https://wrchen530.github.io/nova3r/>
 
 ## (2) Tools
 
