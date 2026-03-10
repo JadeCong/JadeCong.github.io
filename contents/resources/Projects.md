@@ -1686,6 +1686,8 @@ featured: false
 > 576. **One Hand to Rule Them All**: <https://zhenyuwei2003.github.io/OHRA/>
 > 577. **PTLD**: <https://akashsharma02.github.io/ptld-website/>
 > 578. **RoboMME**: <https://robomme.github.io/>
+> 579. **WMPO**: <https://wm-po.github.io/>
+> 580. **ICLR**: <https://toannguyen1904.github.io/ICLR/>
 
 ## (2) Autonomous Driving
 
