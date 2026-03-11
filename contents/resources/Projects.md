@@ -1691,6 +1691,7 @@ featured: false
 > 581. **VLA-Excavator**: <https://labs.actor/research/vla-excavator>
 > 582. **Unified Video Action Model**: <https://unified-video-action-model.github.io/>
 > 583. **Causal Video Models Are Data-Efficient Robot Policy Learners**: <https://www.rhoda.ai/research/direct-video-action>
+> 584. **RoboPocket**: <https://robo-pocket.github.io/>
 
 ## (2) Autonomous Driving
 
