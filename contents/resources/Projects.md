@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-11
 
 hide_description: true
 hide_image: false
@@ -1688,6 +1688,7 @@ featured: false
 > 578. **RoboMME**: <https://robomme.github.io/>
 > 579. **WMPO**: <https://wm-po.github.io/>
 > 580. **ICLR**: <https://toannguyen1904.github.io/ICLR/>
+> 581. **VLA-Excavator**: <https://labs.actor/research/vla-excavator>
 
 ## (2) Autonomous Driving
 
@@ -1846,6 +1847,8 @@ featured: false
 > 136. **ArtiFixer**: <https://artifixer2026.github.io/>
 > 137. **ZipMap**: <https://haian-jin.github.io/ZipMap/>
 > 138. **NOVA3R**: <https://wrchen530.github.io/nova3r/>
+> 139. **Holi-Spatial**: <https://visionary-laboratory.github.io/holi-spatial/>
+> 140. **LoGeR**: <https://loger-project.github.io/>
 
 ## (2) Tools
 
