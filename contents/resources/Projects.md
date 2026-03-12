@@ -1693,6 +1693,7 @@ featured: false
 > 583. **Causal Video Models Are Data-Efficient Robot Policy Learners**: <https://www.rhoda.ai/research/direct-video-action>
 > 584. **RoboPocket**: <https://robo-pocket.github.io/>
 > 585. **TiPToP**: <https://tiptop-robot.github.io/>
+> 586. **XL-VLA**: <https://xl-vla.github.io/>
 
 ## (2) Autonomous Driving
 
