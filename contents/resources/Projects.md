@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 
 hide_description: true
 hide_image: false
@@ -1692,6 +1692,7 @@ featured: false
 > 582. **Unified Video Action Model**: <https://unified-video-action-model.github.io/>
 > 583. **Causal Video Models Are Data-Efficient Robot Policy Learners**: <https://www.rhoda.ai/research/direct-video-action>
 > 584. **RoboPocket**: <https://robo-pocket.github.io/>
+> 585. **TiPToP**: <https://tiptop-robot.github.io/>
 
 ## (2) Autonomous Driving
 
