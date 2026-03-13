@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-13
+last_modified_at: 2026-03-14
 
 hide_description: true
 hide_image: false
@@ -1698,6 +1698,7 @@ featured: false
 > 586. **XL-VLA**: <https://xl-vla.github.io/>
 > 587. **Real2Sim2Real**: <https://residual-copilot.github.io/>
 > 588. **HumanoidGen**: <https://openhumanoidgen.github.io/>
+> 589. **RoboManipBaselines**: <https://isri-aist.github.io/RoboManipBaselines-ProjectPage/>
 
 ## (2) Autonomous Driving
 
