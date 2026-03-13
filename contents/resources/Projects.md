@@ -1697,6 +1697,7 @@ featured: false
 > 585. **TiPToP**: <https://tiptop-robot.github.io/>
 > 586. **XL-VLA**: <https://xl-vla.github.io/>
 > 587. **Real2Sim2Real**: <https://residual-copilot.github.io/>
+> 588. **HumanoidGen**: <https://openhumanoidgen.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1857,6 +1858,7 @@ featured: false
 > 138. **NOVA3R**: <https://wrchen530.github.io/nova3r/>
 > 139. **Holi-Spatial**: <https://visionary-laboratory.github.io/holi-spatial/>
 > 140. **LoGeR**: <https://loger-project.github.io/>
+> 141. **Track4World**: <https://jiah-cloud.github.io/Track4World.github.io/>
 
 ## (2) Tools
 
