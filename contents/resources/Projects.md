@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-12
+last_modified_at: 2026-03-13
 
 hide_description: true
 hide_image: false
@@ -249,6 +249,7 @@ featured: false
 > 199. **AirScape**: <https://embodiedcity.github.io/AirScape/>
 > 200. **Segment Anything Model 3 (SAM 3)**: <https://ai.meta.com/sam3/>
 > 201. **GLM**: <https://www.zhipuai.cn/zh>
+> 202. **Spatial-TTT**: <https://liuff19.github.io/Spatial-TTT/>
 
 ## (2) Agents
 
@@ -1045,6 +1046,7 @@ featured: false
 > 93. **allonic**: <https://allonic.co/>
 > 94. **TacUMI**: <https://tac-umi.github.io/TacUMI/>
 > 95. **StackChan**: <https://m5stack.com/stackchan>
+> 96. **XGO-RIDER 2**: <https://www.xgorobot.com/rider.html>
 
 ## (2) Software
 
@@ -1694,6 +1696,7 @@ featured: false
 > 584. **RoboPocket**: <https://robo-pocket.github.io/>
 > 585. **TiPToP**: <https://tiptop-robot.github.io/>
 > 586. **XL-VLA**: <https://xl-vla.github.io/>
+> 587. **Real2Sim2Real**: <https://residual-copilot.github.io/>
 
 ## (2) Autonomous Driving
 
