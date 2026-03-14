@@ -1699,6 +1699,8 @@ featured: false
 > 587. **Real2Sim2Real**: <https://residual-copilot.github.io/>
 > 588. **HumanoidGen**: <https://openhumanoidgen.github.io/>
 > 589. **RoboManipBaselines**: <https://isri-aist.github.io/RoboManipBaselines-ProjectPage/>
+> 590. **CoVer-VLA**: <https://cover-vla.github.io/>
+> 591. **Robot Control Stack**: <https://robotcontrolstack.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1860,6 +1862,7 @@ featured: false
 > 139. **Holi-Spatial**: <https://visionary-laboratory.github.io/holi-spatial/>
 > 140. **LoGeR**: <https://loger-project.github.io/>
 > 141. **Track4World**: <https://jiah-cloud.github.io/Track4World.github.io/>
+> 142. **DVD**: <https://dvd-project.github.io/>
 
 ## (2) Tools
 
