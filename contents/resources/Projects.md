@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-14
+last_modified_at: 2026-03-15
 
 hide_description: true
 hide_image: false
@@ -1701,6 +1701,7 @@ featured: false
 > 589. **RoboManipBaselines**: <https://isri-aist.github.io/RoboManipBaselines-ProjectPage/>
 > 590. **CoVer-VLA**: <https://cover-vla.github.io/>
 > 591. **Robot Control Stack**: <https://robotcontrolstack.github.io/>
+> 592. **LATENT**: <https://zzk273.github.io/LATENT/>
 
 ## (2) Autonomous Driving
 
@@ -1863,6 +1864,7 @@ featured: false
 > 140. **LoGeR**: <https://loger-project.github.io/>
 > 141. **Track4World**: <https://jiah-cloud.github.io/Track4World.github.io/>
 > 142. **DVD**: <https://dvd-project.github.io/>
+> 143. **Fast-FoundationStereo**: <https://nvlabs.github.io/Fast-FoundationStereo/>
 
 ## (2) Tools
 
