@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-15
+last_modified_at: 2026-03-17
 
 hide_description: true
 hide_image: false
@@ -1047,6 +1047,7 @@ featured: false
 > 94. **TacUMI**: <https://tac-umi.github.io/TacUMI/>
 > 95. **StackChan**: <https://m5stack.com/stackchan>
 > 96. **XGO-RIDER 2**: <https://www.xgorobot.com/rider.html>
+> 97. **Asimov**: <https://asimov.inc/>
 
 ## (2) Software
 
