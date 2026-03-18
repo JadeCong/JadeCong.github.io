@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-17
+last_modified_at: 2026-03-18
 
 hide_description: true
 hide_image: false
@@ -1703,11 +1703,15 @@ featured: false
 > 590. **CoVer-VLA**: <https://cover-vla.github.io/>
 > 591. **Robot Control Stack**: <https://robotcontrolstack.github.io/>
 > 592. **LATENT**: <https://zzk273.github.io/LATENT/>
+> 593. **Kimodo**: <https://research.nvidia.com/labs/sil/projects/kimodo/>
+> 594. **ManiSkill-HAB**: <https://arth-shukla.github.io/mshab/>
+> 595. **ComFree-Sim**: <https://irislab.tech/comfree-sim/>
 
 ## (2) Autonomous Driving
 
 > 1. **X-Mobility**: <https://nvlabs.github.io/X-MOBILITY/>
 > 2. **LagMemo**: <https://weekgoodday.github.io/lagmemo/>
+> 3. **AlpaDreams**: <https://research.nvidia.com/labs/sil/projects/alpadreams/>
 
 ## (3) Embodied Intelligence
 
