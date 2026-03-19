@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-18
+last_modified_at: 2026-03-19
 
 hide_description: true
 hide_image: false
@@ -1048,6 +1048,7 @@ featured: false
 > 95. **StackChan**: <https://m5stack.com/stackchan>
 > 96. **XGO-RIDER 2**: <https://www.xgorobot.com/rider.html>
 > 97. **Asimov**: <https://asimov.inc/>
+> 98. **OpenRocket**: <https://openrocket.info/>
 
 ## (2) Software
 
@@ -1706,6 +1707,10 @@ featured: false
 > 593. **Kimodo**: <https://research.nvidia.com/labs/sil/projects/kimodo/>
 > 594. **ManiSkill-HAB**: <https://arth-shukla.github.io/mshab/>
 > 595. **ComFree-Sim**: <https://irislab.tech/comfree-sim/>
+> 596. **HALO**: <https://mwondering.github.io/halo-humanoid/>
+> 597. **ForceVLA2**: <https://sites.google.com/view/force-vla2/home>
+> 598. **WorldArena**: <https://world-arena.ai/>
+> 599. **Spirit-v1.5**: <https://www.spirit-ai.com/en/blog/spirit-v1-5>
 
 ## (2) Autonomous Driving
 
@@ -1870,6 +1875,7 @@ featured: false
 > 141. **Track4World**: <https://jiah-cloud.github.io/Track4World.github.io/>
 > 142. **DVD**: <https://dvd-project.github.io/>
 > 143. **Fast-FoundationStereo**: <https://nvlabs.github.io/Fast-FoundationStereo/>
+> 144. **Fast SAM 3D Body**: <https://yangtiming.github.io/Fast-SAM-3D-Body-Page/>
 
 ## (2) Tools
 
