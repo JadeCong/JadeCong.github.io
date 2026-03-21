@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-20
+last_modified_at: 2026-03-21
 
 hide_description: true
 hide_image: false
@@ -1712,6 +1712,7 @@ featured: false
 > 598. **WorldArena**: <https://world-arena.ai/>
 > 599. **Spirit-v1.5**: <https://www.spirit-ai.com/en/blog/spirit-v1-5>
 > 600. **UMO**: <https://oliver-cong02.github.io/UMO.github.io/>
+> 601. **RLT**: <https://www.pi.website/research/rlt>
 
 ## (2) Autonomous Driving
 
