@@ -1049,6 +1049,7 @@ featured: false
 > 96. **XGO-RIDER 2**: <https://www.xgorobot.com/rider.html>
 > 97. **Asimov**: <https://asimov.inc/>
 > 98. **OpenRocket**: <https://openrocket.info/>
+> 99. **DexEXO**: <https://dexexo-research.github.io/>
 
 ## (2) Software
 
@@ -1713,6 +1714,7 @@ featured: false
 > 599. **Spirit-v1.5**: <https://www.spirit-ai.com/en/blog/spirit-v1-5>
 > 600. **UMO**: <https://oliver-cong02.github.io/UMO.github.io/>
 > 601. **RLT**: <https://www.pi.website/research/rlt>
+> 602. **GigaWorld-Policy**: <https://gigaai-research.github.io/GigaWorld-Policy/>
 
 ## (2) Autonomous Driving
 
