@@ -1717,6 +1717,7 @@ featured: false
 > 602. **GigaWorld-Policy**: <https://gigaai-research.github.io/GigaWorld-Policy/>
 > 603. **Robomotion**: <https://turnerbuilds.github.io/robomotionweb/>
 > 604. **EnerVerse-AC**: <https://annaj2178.github.io/EnerverseAC.github.io/>
+> 605. **EVA**: <https://eva-project-page.github.io/>
 
 ## (2) Autonomous Driving
 
