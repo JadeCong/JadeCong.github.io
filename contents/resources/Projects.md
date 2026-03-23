@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-21
+last_modified_at: 2026-03-23
 
 hide_description: true
 hide_image: false
@@ -1715,6 +1715,8 @@ featured: false
 > 600. **UMO**: <https://oliver-cong02.github.io/UMO.github.io/>
 > 601. **RLT**: <https://www.pi.website/research/rlt>
 > 602. **GigaWorld-Policy**: <https://gigaai-research.github.io/GigaWorld-Policy/>
+> 603. **Robomotion**: <https://turnerbuilds.github.io/robomotionweb/>
+> 604. **EnerVerse-AC**: <https://annaj2178.github.io/EnerverseAC.github.io/>
 
 ## (2) Autonomous Driving
 
