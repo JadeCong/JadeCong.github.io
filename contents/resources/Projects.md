@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-23
+last_modified_at: 2026-03-25
 
 hide_description: true
 hide_image: false
@@ -1108,6 +1108,7 @@ featured: false
 > 53. **toppra**: <https://hungpham2511.github.io/toppra/index.html>
 > 54. **Humanoid Policy Viewer**: <https://motion-tracking.axell.top/>
 > 55. **CHILD**: <https://uiuckimlab.github.io/CHILD-pages/>
+> 56. **DROID-W**: <https://moyangli00.github.io/droid-w/>
 
 # AIRobotics
 
@@ -1718,6 +1719,9 @@ featured: false
 > 603. **Robomotion**: <https://turnerbuilds.github.io/robomotionweb/>
 > 604. **EnerVerse-AC**: <https://annaj2178.github.io/EnerverseAC.github.io/>
 > 605. **EVA**: <https://eva-project-page.github.io/>
+> 606. **EgoVerse**: <https://egoverse.ai/>
+> 607. **UniDex**: <https://unidex-ai.github.io/>
+> 608. **MoTok**: <https://rheallyc.github.io/projects/motok/>
 
 ## (2) Autonomous Driving
 
