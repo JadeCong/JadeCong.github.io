@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-25
+last_modified_at: 2026-03-26
 
 hide_description: true
 hide_image: false
@@ -526,6 +526,7 @@ featured: false
 > 271. **CoPaw**: <https://copaw.agentscope.io/>
 > 272. **moltbook**: <https://moltbook.cn/>
 > 273. **MindScale**: <https://noah-mindscale.github.io/>
+> 274. **OpenCLI**: <https://opencli.info/>
 
 ## (3) AIGC
 
@@ -946,6 +947,8 @@ featured: false
 > 415. **AnyView**: <https://tri-ml.github.io/AnyView/>
 > 416. **PhysX-Anything**: <https://physx-anything.github.io/>
 > 417. **SceneTransporter**: <https://2019epwl.github.io/SceneTransporter/>
+> 418. **WorldMesh**: <https://mschneider456.github.io/world-mesh/>
+> 419. **BluePrint**: <https://www.blueprint.am/>
 
 # Robotics
 
@@ -1722,6 +1725,7 @@ featured: false
 > 606. **EgoVerse**: <https://egoverse.ai/>
 > 607. **UniDex**: <https://unidex-ai.github.io/>
 > 608. **MoTok**: <https://rheallyc.github.io/projects/motok/>
+> 609. **StageCraft**: <https://stagecraft-decorator.github.io/stagecraft/>
 
 ## (2) Autonomous Driving
 
