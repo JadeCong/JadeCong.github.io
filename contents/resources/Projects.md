@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-26
+last_modified_at: 2026-03-27
 
 hide_description: true
 hide_image: false
@@ -1726,6 +1726,7 @@ featured: false
 > 607. **UniDex**: <https://unidex-ai.github.io/>
 > 608. **MoTok**: <https://rheallyc.github.io/projects/motok/>
 > 609. **StageCraft**: <https://stagecraft-decorator.github.io/stagecraft/>
+> 610. **Mimicking-Bench**: <https://mimicking-bench.github.io/>
 
 ## (2) Autonomous Driving
 
