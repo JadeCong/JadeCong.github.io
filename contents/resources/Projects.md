@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-27
+last_modified_at: 2026-03-28
 
 hide_description: true
 hide_image: false
@@ -527,6 +527,7 @@ featured: false
 > 272. **moltbook**: <https://moltbook.cn/>
 > 273. **MindScale**: <https://noah-mindscale.github.io/>
 > 274. **OpenCLI**: <https://opencli.info/>
+> 275. **AIHireHumans**: <https://aihirehumans.com/>
 
 ## (3) AIGC
 
@@ -1727,6 +1728,7 @@ featured: false
 > 608. **MoTok**: <https://rheallyc.github.io/projects/motok/>
 > 609. **StageCraft**: <https://stagecraft-decorator.github.io/stagecraft/>
 > 610. **Mimicking-Bench**: <https://mimicking-bench.github.io/>
+> 611. **ManiDreams**: <https://rice-robotpi-lab.github.io/ManiDreams/>
 
 ## (2) Autonomous Driving
 
