@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-28
+last_modified_at: 2026-03-30
 
 hide_description: true
 hide_image: false
@@ -950,6 +950,7 @@ featured: false
 > 417. **SceneTransporter**: <https://2019epwl.github.io/SceneTransporter/>
 > 418. **WorldMesh**: <https://mschneider456.github.io/world-mesh/>
 > 419. **BluePrint**: <https://www.blueprint.am/>
+> 420. **LGTM**: <https://yxlao.github.io/lgtm/>
 
 # Robotics
 
@@ -1729,6 +1730,8 @@ featured: false
 > 609. **StageCraft**: <https://stagecraft-decorator.github.io/stagecraft/>
 > 610. **Mimicking-Bench**: <https://mimicking-bench.github.io/>
 > 611. **ManiDreams**: <https://rice-robotpi-lab.github.io/ManiDreams/>
+> 612. **F-ACIL**: <https://f-acil.github.io/>
+> 613. **SoftMimicGen**: <https://softmimicgen.github.io/>
 
 ## (2) Autonomous Driving
 
