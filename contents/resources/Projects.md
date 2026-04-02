@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-04-01
+last_modified_at: 2026-04-02
 
 hide_description: true
 hide_image: false
@@ -1736,6 +1736,9 @@ featured: false
 > 613. **SoftMimicGen**: <https://softmimicgen.github.io/>
 > 614. **Fast-dVLA**: <https://chris1220313648.github.io/Fast-dVLA/>
 > 615. **HandX**: <https://handx-project.github.io/>
+> 616. **Hand2World**: <https://hand2world.github.io/>
+> 617. **SMASH**: <https://mmlab.hk/Smash/>
+> 618. **CaP-X**: <https://capgym.github.io/>
 
 ## (2) Autonomous Driving
 
