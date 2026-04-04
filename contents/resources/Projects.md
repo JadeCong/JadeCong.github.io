@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-04-02
+last_modified_at: 2026-04-04
 
 hide_description: true
 hide_image: false
@@ -1739,6 +1739,9 @@ featured: false
 > 616. **Hand2World**: <https://hand2world.github.io/>
 > 617. **SMASH**: <https://mmlab.hk/Smash/>
 > 618. **CaP-X**: <https://capgym.github.io/>
+> 619. **DreamControl-v2**: <https://genrobo.github.io/DreamControl-v2/>
+> 620. **OmniReset**: <https://weirdlabuw.github.io/omnireset/>
+> 621. **Psi-Zero**: <https://psi-lab.ai/Psi0/>
 
 ## (2) Autonomous Driving
 
