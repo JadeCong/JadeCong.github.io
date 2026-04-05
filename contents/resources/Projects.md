@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-04-04
+last_modified_at: 2026-04-05
 
 hide_description: true
 hide_image: false
@@ -1742,6 +1742,8 @@ featured: false
 > 619. **DreamControl-v2**: <https://genrobo.github.io/DreamControl-v2/>
 > 620. **OmniReset**: <https://weirdlabuw.github.io/omnireset/>
 > 621. **Psi-Zero**: <https://psi-lab.ai/Psi0/>
+> 622. **AI4AnimationPy**: <https://facebookresearch.github.io/ai4animationpy/>
+> 623. **EgoNav**: <https://egonav.weizhuowang.com/>
 
 ## (2) Autonomous Driving
 
