@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-04-05
+last_modified_at: 2026-04-07
 
 hide_description: true
 hide_image: false
@@ -528,6 +528,7 @@ featured: false
 > 273. **MindScale**: <https://noah-mindscale.github.io/>
 > 274. **OpenCLI**: <https://opencli.info/>
 > 275. **AIHireHumans**: <https://aihirehumans.com/>
+> 276. **oh-my-codex**: <https://yeachan-heo.github.io/oh-my-codex-website/>
 
 ## (3) AIGC
 
@@ -1744,6 +1745,7 @@ featured: false
 > 621. **Psi-Zero**: <https://psi-lab.ai/Psi0/>
 > 622. **AI4AnimationPy**: <https://facebookresearch.github.io/ai4animationpy/>
 > 623. **EgoNav**: <https://egonav.weizhuowang.com/>
+> 624. **PhyAgentOS**: <https://phy-agent-os.net/>
 
 ## (2) Autonomous Driving
 
@@ -1909,6 +1911,7 @@ featured: false
 > 142. **DVD**: <https://dvd-project.github.io/>
 > 143. **Fast-FoundationStereo**: <https://nvlabs.github.io/Fast-FoundationStereo/>
 > 144. **Fast SAM 3D Body**: <https://yangtiming.github.io/Fast-SAM-3D-Body-Page/>
+> 145. **FreeMoCap**: <https://freemocap.org/>
 
 ## (2) Tools
 
