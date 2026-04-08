@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-04-07
+last_modified_at: 2026-04-08
 
 hide_description: true
 hide_image: false
@@ -1058,6 +1058,7 @@ featured: false
 > 98. **OpenRocket**: <https://openrocket.info/>
 > 99. **DexEXO**: <https://dexexo-research.github.io/>
 > 100. **RUKA-v2**: <https://ruka-hand-v2.github.io/>
+> 101. **Sharpa Hand**: <https://www.sharpa.com/pages/open-source>
 
 ## (2) Software
 
@@ -1117,6 +1118,7 @@ featured: false
 > 54. **Humanoid Policy Viewer**: <https://motion-tracking.axell.top/>
 > 55. **CHILD**: <https://uiuckimlab.github.io/CHILD-pages/>
 > 56. **DROID-W**: <https://moyangli00.github.io/droid-w/>
+> 57. **Robot Explorer**: <https://ferrolho.github.io/robot-explorer/>
 
 # AIRobotics
 
@@ -1746,6 +1748,7 @@ featured: false
 > 622. **AI4AnimationPy**: <https://facebookresearch.github.io/ai4animationpy/>
 > 623. **EgoNav**: <https://egonav.weizhuowang.com/>
 > 624. **PhyAgentOS**: <https://phy-agent-os.net/>
+> 625. **FlashSAC**: <https://holiday-robot.github.io/FlashSAC/>
 
 ## (2) Autonomous Driving
 
@@ -1912,6 +1915,8 @@ featured: false
 > 143. **Fast-FoundationStereo**: <https://nvlabs.github.io/Fast-FoundationStereo/>
 > 144. **Fast SAM 3D Body**: <https://yangtiming.github.io/Fast-SAM-3D-Body-Page/>
 > 145. **FreeMoCap**: <https://freemocap.org/>
+> 146. **OpenCap Monocular**: <https://utahmobl.github.io/OpenCap-monocular-project-page/>
+> 147. **OpenCap**: <https://www.opencap.ai/>
 
 ## (2) Tools
 
