@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-04-08
+last_modified_at: 2026-04-09
 
 hide_description: true
 hide_image: false
@@ -953,6 +953,7 @@ featured: false
 > 419. **BluePrint**: <https://www.blueprint.am/>
 > 420. **LGTM**: <https://yxlao.github.io/lgtm/>
 > 421. **VGGRPO**: <https://zhaochongan.github.io/projects/VGGRPO/>
+> 422. **Meshy**: <https://www.meshy.ai/zh/>
 
 # Robotics
 
@@ -1749,6 +1750,8 @@ featured: false
 > 623. **EgoNav**: <https://egonav.weizhuowang.com/>
 > 624. **PhyAgentOS**: <https://phy-agent-os.net/>
 > 625. **FlashSAC**: <https://holiday-robot.github.io/FlashSAC/>
+> 626. **Teaching Robots to Coexist with Humans**: <https://config.inc/blog/hrc_preview>
+> 627. **CoEnv**: <https://faceong.github.io/CoEnv/>
 
 ## (2) Autonomous Driving
 
