@@ -250,6 +250,7 @@ featured: false
 > 200. **Segment Anything Model 3 (SAM 3)**: <https://ai.meta.com/sam3/>
 > 201. **GLM**: <https://www.zhipuai.cn/zh>
 > 202. **Spatial-TTT**: <https://liuff19.github.io/Spatial-TTT/>
+> 203. **Happy Horses**: <https://happyhorses.io/>
 
 ## (2) Agents
 
@@ -1752,6 +1753,8 @@ featured: false
 > 625. **FlashSAC**: <https://holiday-robot.github.io/FlashSAC/>
 > 626. **Teaching Robots to Coexist with Humans**: <https://config.inc/blog/hrc_preview>
 > 627. **CoEnv**: <https://faceong.github.io/CoEnv/>
+> 628. **BiDexGrasp**: <https://frenkielm.github.io/BiDexGrasp.github.io/>
+> 629. **JailWAM**: <https://jailwam.github.io/>
 
 ## (2) Autonomous Driving
 
