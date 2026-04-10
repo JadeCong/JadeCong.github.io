@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-04-09
+last_modified_at: 2026-04-10
 
 hide_description: true
 hide_image: false
@@ -1755,6 +1755,7 @@ featured: false
 > 627. **CoEnv**: <https://faceong.github.io/CoEnv/>
 > 628. **BiDexGrasp**: <https://frenkielm.github.io/BiDexGrasp.github.io/>
 > 629. **JailWAM**: <https://jailwam.github.io/>
+> 630. **Humanoid-Gym**: <https://sites.google.com/view/humanoid-gym/>
 
 ## (2) Autonomous Driving
 
