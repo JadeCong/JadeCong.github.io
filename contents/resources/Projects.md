@@ -1756,6 +1756,9 @@ featured: false
 > 628. **BiDexGrasp**: <https://frenkielm.github.io/BiDexGrasp.github.io/>
 > 629. **JailWAM**: <https://jailwam.github.io/>
 > 630. **Humanoid-Gym**: <https://sites.google.com/view/humanoid-gym/>
+> 631. **A1**: <http://www.ateam.xin/#/research/A1>
+> 632. **Goal-VLA**: <https://nus-lins-lab.github.io/goalvlaweb/>
+> 633. **markerless motion capturemarkerless motion capture**: <https://move.ai/>
 
 ## (2) Autonomous Driving
 
