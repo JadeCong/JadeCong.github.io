@@ -530,6 +530,7 @@ featured: false
 > 274. **OpenCLI**: <https://opencli.info/>
 > 275. **AIHireHumans**: <https://aihirehumans.com/>
 > 276. **oh-my-codex**: <https://yeachan-heo.github.io/oh-my-codex-website/>
+> 277. **Hermes Agent**: <https://hermes-agent.nousresearch.com/>
 
 ## (3) AIGC
 
@@ -1121,6 +1122,7 @@ featured: false
 > 55. **CHILD**: <https://uiuckimlab.github.io/CHILD-pages/>
 > 56. **DROID-W**: <https://moyangli00.github.io/droid-w/>
 > 57. **Robot Explorer**: <https://ferrolho.github.io/robot-explorer/>
+> 58. **URLab**: <https://urlab-sim.github.io/UnrealRoboticsLab/>
 
 # AIRobotics
 
@@ -1759,6 +1761,7 @@ featured: false
 > 631. **A1**: <http://www.ateam.xin/#/research/A1>
 > 632. **Goal-VLA**: <https://nus-lins-lab.github.io/goalvlaweb/>
 > 633. **markerless motion capturemarkerless motion capture**: <https://move.ai/>
+> 634. **GE-Sim2**: <https://ge-sim-v2.github.io/>
 
 ## (2) Autonomous Driving
 
