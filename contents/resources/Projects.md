@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-04-10
+last_modified_at: 2026-04-11
 
 hide_description: true
 hide_image: false
@@ -531,6 +531,9 @@ featured: false
 > 275. **AIHireHumans**: <https://aihirehumans.com/>
 > 276. **oh-my-codex**: <https://yeachan-heo.github.io/oh-my-codex-website/>
 > 277. **Hermes Agent**: <https://hermes-agent.nousresearch.com/>
+> 278. **OpenDataLoader-PDF**: <https://opendataloader.org/>
+> 279. **Multica**: <https://multica.ai/>
+> 280. **Managed Agents**: <https://www.anthropic.com/engineering/managed-agents>
 
 ## (3) AIGC
 
@@ -1762,6 +1765,8 @@ featured: false
 > 632. **Goal-VLA**: <https://nus-lins-lab.github.io/goalvlaweb/>
 > 633. **markerless motion capturemarkerless motion capture**: <https://move.ai/>
 > 634. **GE-Sim2**: <https://ge-sim-v2.github.io/>
+> 635. **Realtime-VLA V2**: <https://dexmal.github.io/realtime-vla-v2/>
+> 636. **SIM1**: <https://internrobotics.github.io/sim1.github.io/>
 
 ## (2) Autonomous Driving
 
