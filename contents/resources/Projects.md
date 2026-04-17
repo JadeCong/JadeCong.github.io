@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-04-11
+last_modified_at: 2026-04-17
 
 hide_description: true
 hide_image: false
@@ -534,6 +534,7 @@ featured: false
 > 278. **OpenDataLoader-PDF**: <https://opendataloader.org/>
 > 279. **Multica**: <https://multica.ai/>
 > 280. **Managed Agents**: <https://www.anthropic.com/engineering/managed-agents>
+> 281. **OpenAI Agents SDK**: <https://openai.github.io/openai-agents-python/>
 
 ## (3) AIGC
 
@@ -1126,6 +1127,10 @@ featured: false
 > 56. **DROID-W**: <https://moyangli00.github.io/droid-w/>
 > 57. **Robot Explorer**: <https://ferrolho.github.io/robot-explorer/>
 > 58. **URLab**: <https://urlab-sim.github.io/UnrealRoboticsLab/>
+> 59. **MotrixLab**: <https://motrixlab.readthedocs.io/zh-cn/latest/>
+> 60. **AGILE**: <https://nvidia-isaac.github.io/WBC-AGILE/>
+> 61. **Motion Comparator**: <https://pages.graphics.cs.wisc.edu/MotionComparator/>
+> 62. **MotrixSim**: <https://www.motphys.com/motrixsim>
 
 # AIRobotics
 
@@ -1362,7 +1367,7 @@ featured: false
 > 229. **DexGraspNet 2.0**: <https://pku-epic.github.io/DexGraspNet2.0/>
 > 230. **AffordDexGrasp**: <https://isee-laboratory.github.io/AffordDexGrasp/index.html>
 > 231. **Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies**: <https://cxu-tri.github.io/FAIL-Detect-Website/>
-> 232. **RoboVerse**: <https://roboverseorg.github.io/>
+> 232. **RoboVerse**: <https://roboverseorg.github.io/> & <https://roboverse.wiki/>
 > 233. **ArticuBot**: <https://articubot.github.io/>
 > 234. **Manual2Skill**: <https://owensun2004.github.io/Furniture-Assembly-Web/>
 > 235. **SERL**: <https://serl-robot.github.io/>
@@ -1767,6 +1772,14 @@ featured: false
 > 634. **GE-Sim2**: <https://ge-sim-v2.github.io/>
 > 635. **Realtime-VLA V2**: <https://dexmal.github.io/realtime-vla-v2/>
 > 636. **SIM1**: <https://internrobotics.github.io/sim1.github.io/>
+> 637. **Sumo**: <https://sumo.rai-inst.com/>
+> 638. **Being-H0.7**: <https://research.beingbeyond.com/being-h07>
+> 639. **TAMEn**: <https://opendrivelab.com/TAMEn>
+> 640. **DiT4DiT**: <https://dit4dit.github.io/>
+> 641. **Pi0.7**: <https://www.pi.website/blog/pi07>
+> 642. **Humanoid Touch Dream**: <https://humanoid-touch-dream.github.io/>
+> 643. **PhysInOne**: <https://vlar-group.github.io/PhysInOne.html>
+> 644. **AutoMoMa**: <https://automoma.pages.dev/>
 
 ## (2) Autonomous Driving
 
