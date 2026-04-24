@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-04-17
+last_modified_at: 2026-04-24
 
 hide_description: true
 hide_image: false
@@ -960,6 +960,7 @@ featured: false
 > 420. **LGTM**: <https://yxlao.github.io/lgtm/>
 > 421. **VGGRPO**: <https://zhaochongan.github.io/projects/VGGRPO/>
 > 422. **Meshy**: <https://www.meshy.ai/zh/>
+> 423. **FrameCrafter**: <https://frame-crafter.github.io/>
 
 # Robotics
 
@@ -1066,6 +1067,7 @@ featured: false
 > 99. **DexEXO**: <https://dexexo-research.github.io/>
 > 100. **RUKA-v2**: <https://ruka-hand-v2.github.io/>
 > 101. **Sharpa Hand**: <https://www.sharpa.com/pages/open-source>
+> 102. **FingerEye**: <https://nus-lins-lab.github.io/FingerEyeWeb/>
 
 ## (2) Software
 
@@ -1780,6 +1782,9 @@ featured: false
 > 642. **Humanoid Touch Dream**: <https://humanoid-touch-dream.github.io/>
 > 643. **PhysInOne**: <https://vlar-group.github.io/PhysInOne.html>
 > 644. **AutoMoMa**: <https://automoma.pages.dev/>
+> 645. **UniT**: <https://xpeng-robotics.github.io/unit/>
+> 646. **JoyAI-RA**: <https://joyai-ra.github.io/>
+> 647. **LoHoManip**: <https://www.liuisabella.com/LoHoManip/>
 
 ## (2) Autonomous Driving
 
