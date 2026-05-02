@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-04-24
+last_modified_at: 2026-05-02
 
 hide_description: true
 hide_image: false
@@ -961,6 +961,7 @@ featured: false
 > 421. **VGGRPO**: <https://zhaochongan.github.io/projects/VGGRPO/>
 > 422. **Meshy**: <https://www.meshy.ai/zh/>
 > 423. **FrameCrafter**: <https://frame-crafter.github.io/>
+> 424. **MotionBricks**: <https://nvlabs.github.io/motionbricks/>
 
 # Robotics
 
@@ -1785,6 +1786,13 @@ featured: false
 > 645. **UniT**: <https://xpeng-robotics.github.io/unit/>
 > 646. **JoyAI-RA**: <https://joyai-ra.github.io/>
 > 647. **LoHoManip**: <https://www.liuisabella.com/LoHoManip/>
+> 648. **GazeVLA**: <https://gazevla.github.io/>
+> 649. **Contact-Grounded Policy**: <https://contact-grounded-policy.github.io/>
+> 650. **RoboLab**: <https://research.nvidia.com/labs/srl/projects/robolab/>
+> 651. **SMP**: <https://yxmu.foo/smp-page/>
+> 652. **Zero-Shot Sim-to-Real Robot Learning**: <https://rice-robotpi-lab.github.io/DRIScatch/>
+> 653. **GR00T-WholeBodyControl**: <https://nvlabs.github.io/GR00T-WholeBodyControl/>
+> 654. **GS-Playground**: <https://gsplayground.github.io/>
 
 ## (2) Autonomous Driving
 
@@ -1953,6 +1961,7 @@ featured: false
 > 145. **FreeMoCap**: <https://freemocap.org/>
 > 146. **OpenCap Monocular**: <https://utahmobl.github.io/OpenCap-monocular-project-page/>
 > 147. **OpenCap**: <https://www.opencap.ai/>
+> 148. **Telescope**: <https://princeton-computational-imaging.github.io/Telescope/>
 
 ## (2) Tools
 
