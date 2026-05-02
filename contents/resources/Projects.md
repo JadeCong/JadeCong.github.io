@@ -1793,6 +1793,7 @@ featured: false
 > 652. **Zero-Shot Sim-to-Real Robot Learning**: <https://rice-robotpi-lab.github.io/DRIScatch/>
 > 653. **GR00T-WholeBodyControl**: <https://nvlabs.github.io/GR00T-WholeBodyControl/>
 > 654. **GS-Playground**: <https://gsplayground.github.io/>
+> 655. **FluxVLA Engine**: <https://fluxvla.limxdynamics.com/>
 
 ## (2) Autonomous Driving
 
@@ -1962,6 +1963,7 @@ featured: false
 > 146. **OpenCap Monocular**: <https://utahmobl.github.io/OpenCap-monocular-project-page/>
 > 147. **OpenCap**: <https://www.opencap.ai/>
 > 148. **Telescope**: <https://princeton-computational-imaging.github.io/Telescope/>
+> 149. **SceneVerse++**: <https://sv-pp.github.io/>
 
 ## (2) Tools
 
