@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-05-02
+last_modified_at: 2026-05-03
 
 hide_description: true
 hide_image: false
@@ -1134,6 +1134,7 @@ featured: false
 > 60. **AGILE**: <https://nvidia-isaac.github.io/WBC-AGILE/>
 > 61. **Motion Comparator**: <https://pages.graphics.cs.wisc.edu/MotionComparator/>
 > 62. **MotrixSim**: <https://www.motphys.com/motrixsim>
+> 63. **cuRobo**: <https://nvlabs.github.io/curobo/latest/>
 
 # AIRobotics
 
