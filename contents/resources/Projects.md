@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-05-03
+last_modified_at: 2026-05-07
 
 hide_description: true
 hide_image: false
@@ -535,6 +535,8 @@ featured: false
 > 279. **Multica**: <https://multica.ai/>
 > 280. **Managed Agents**: <https://www.anthropic.com/engineering/managed-agents>
 > 281. **OpenAI Agents SDK**: <https://openai.github.io/openai-agents-python/>
+> 282. **Open Design**: <https://open-design.ai/>
+> 283. **Code Wiki**: <https://codewiki.google/>
 
 ## (3) AIGC
 
@@ -1135,6 +1137,7 @@ featured: false
 > 61. **Motion Comparator**: <https://pages.graphics.cs.wisc.edu/MotionComparator/>
 > 62. **MotrixSim**: <https://www.motphys.com/motrixsim>
 > 63. **cuRobo**: <https://nvlabs.github.io/curobo/latest/>
+> 64. **MotionCode Torch**: <https://torch.motioncodeai.com/>
 
 # AIRobotics
 
@@ -1795,6 +1798,8 @@ featured: false
 > 653. **GR00T-WholeBodyControl**: <https://nvlabs.github.io/GR00T-WholeBodyControl/>
 > 654. **GS-Playground**: <https://gsplayground.github.io/>
 > 655. **FluxVLA Engine**: <https://fluxvla.limxdynamics.com/>
+> 656. **VLA Foundry**: <https://tri-ml.github.io/vla_foundry/>
+> 657. **Embody4D**: <https://peiyantu.github.io/Embody4D/page.html>
 
 ## (2) Autonomous Driving
 
@@ -2006,6 +2011,7 @@ featured: false
 > 36. **Foxglove**: <https://foxglove.dev/>
 > 37. **MCAP**: <https://mcap.dev/>
 > 38. **ZLMediaKit**: <https://docs.zlmediakit.com/>
+> 39. **Taichi Lang**: <https://www.taichi-lang.org/>
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
