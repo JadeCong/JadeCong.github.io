@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-05-07
+last_modified_at: 2026-05-14
 
 hide_description: true
 hide_image: false
@@ -1800,6 +1800,14 @@ featured: false
 > 655. **FluxVLA Engine**: <https://fluxvla.limxdynamics.com/>
 > 656. **VLA Foundry**: <https://tri-ml.github.io/vla_foundry/>
 > 657. **Embody4D**: <https://peiyantu.github.io/Embody4D/page.html>
+> 658. **Fast-WAM**: <https://yuantianyuan01.github.io/FastWAM/>
+> 659. **DexSynRefine**: <https://dexsynrefine.github.io/>
+> 660. **X-WAM**: <https://sharinka0715.github.io/X-WAM/>
+> 661. **dWorldEval**: <https://dworldeval.github.io/>
+> 662. **RoboWM-Bench**: <https://robowm-bench.github.io/RoboWM-Bench/>
+> 663. **EFGCL**: <https://keitayoneda.github.io/kleiyn-efgcl/>
+> 664. **GraspXL**: <https://eth-ait.github.io/graspxl/>
+> 665. **MotuBrain**: <https://www.shengshu.com/en/motubrain>
 
 ## (2) Autonomous Driving
 
