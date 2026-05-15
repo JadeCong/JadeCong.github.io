@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-05-14
+last_modified_at: 2026-05-15
 
 hide_description: true
 hide_image: false
@@ -1808,6 +1808,7 @@ featured: false
 > 663. **EFGCL**: <https://keitayoneda.github.io/kleiyn-efgcl/>
 > 664. **GraspXL**: <https://eth-ait.github.io/graspxl/>
 > 665. **MotuBrain**: <https://www.shengshu.com/en/motubrain>
+> 666. **OmniHands**: <https://omnihand.github.io/>
 
 ## (2) Autonomous Driving
 
