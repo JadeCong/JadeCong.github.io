@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-05-15
+last_modified_at: 2026-05-18
 
 hide_description: true
 hide_image: false
@@ -537,6 +537,10 @@ featured: false
 > 281. **OpenAI Agents SDK**: <https://openai.github.io/openai-agents-python/>
 > 282. **Open Design**: <https://open-design.ai/>
 > 283. **Code Wiki**: <https://codewiki.google/>
+> 284. **Paperclip**: <https://paperclip.ing/>
+> 285. **SightFlow**: <https://sightflow.dev/>
+> 286. **ECC Tools**: <https://ecc.tools/>
+> 287. **Easy Vibe**: <https://datawhalechina.github.io/easy-vibe/zh-cn/>
 
 ## (3) AIGC
 
@@ -1809,6 +1813,16 @@ featured: false
 > 664. **GraspXL**: <https://eth-ait.github.io/graspxl/>
 > 665. **MotuBrain**: <https://www.shengshu.com/en/motubrain>
 > 666. **OmniHands**: <https://omnihand.github.io/>
+> 667. **RoboMemArena**: <https://robomemarena.github.io/>
+> 668. **VLABench**: <https://vlabench.github.io/>
+> 669. **Calvin**: <http://calvin.cs.uni-freiburg.de/>
+> 670. **MIKASA**: <https://sites.google.com/view/memorybenchrobots/>
+> 671. **ManiSkill2**: <https://sapien.ucsd.edu/challenges/maniskill/>
+> 672. **Isaac Lab Arena**: <https://isaac-sim.github.io/IsaacLab-Arena/main/index.html>
+> 673. **MolmoSpaces**: <https://molmospaces.allen.ai/environment>
+> 674. **SimplerEnv**: <https://simpler-env.github.io/>
+> 675. **OmniNavBench**: <http://omninavbench.cloud-ip.cc/>
+> 676. **InternVerse**: <https://internrobotics.shlab.org.cn/eval>
 
 ## (2) Autonomous Driving
 

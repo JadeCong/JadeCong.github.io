@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-03-19
+last_modified_at: 2026-05-18
 
 hide_description: true
 hide_image: false
@@ -87,6 +87,7 @@ featured: false
 > 15. **ARIO**: <https://imaei.github.io/project_pages/ario/>
 > 16. **RoboCOIN**: <https://flagopen.github.io/RoboCOIN/>
 > 17. **OpenLET**: <https://openlet.openatom.tech/>
+> 18. **LIBERO**: <https://libero-project.github.io/datasets>
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}
