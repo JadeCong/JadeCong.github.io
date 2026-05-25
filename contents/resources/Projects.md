@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-05-18
+last_modified_at: 2026-05-25
 
 hide_description: true
 hide_image: false
@@ -541,6 +541,13 @@ featured: false
 > 285. **SightFlow**: <https://sightflow.dev/>
 > 286. **ECC Tools**: <https://ecc.tools/>
 > 287. **Easy Vibe**: <https://datawhalechina.github.io/easy-vibe/zh-cn/>
+> 288. **SaaS-Bench**: <https://unipat.ai/blog/SaaS-Bench>
+> 289. **Understand Anything**: <https://understand-anything.com/>
+> 290. **VoltAgent**: <https://voltagent.dev/>
+> 291. **PinMe**: <https://pinme.dev/>
+> 292. **OpenWolf**: <https://openwolf.com>
+> 293. **MiroFish**: <https://mirofish-demo.pages.dev/>
+> 294. **Hermes Web UI**: <https://ekkolearnai.com/#/>
 
 ## (3) AIGC
 
@@ -1823,6 +1830,8 @@ featured: false
 > 674. **SimplerEnv**: <https://simpler-env.github.io/>
 > 675. **OmniNavBench**: <http://omninavbench.cloud-ip.cc/>
 > 676. **InternVerse**: <https://internrobotics.shlab.org.cn/eval>
+> 677. **ZPRL**: <https://manutdmoon.github.io/ZPRL/>
+> 678. **Behavior**: <https://rlinf.readthedocs.io/zh-cn/latest/rst_source/examples/embodied/behavior.html>
 
 ## (2) Autonomous Driving
 
@@ -1993,6 +2002,7 @@ featured: false
 > 147. **OpenCap**: <https://www.opencap.ai/>
 > 148. **Telescope**: <https://princeton-computational-imaging.github.io/Telescope/>
 > 149. **SceneVerse++**: <https://sv-pp.github.io/>
+> 150. **RuView**: <https://cognitum.one/ruview>
 
 ## (2) Tools
 

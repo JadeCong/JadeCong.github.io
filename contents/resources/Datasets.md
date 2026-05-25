@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-05-18
+last_modified_at: 2026-05-25
 
 hide_description: true
 hide_image: false
@@ -88,6 +88,8 @@ featured: false
 > 16. **RoboCOIN**: <https://flagopen.github.io/RoboCOIN/>
 > 17. **OpenLET**: <https://openlet.openatom.tech/>
 > 18. **LIBERO**: <https://libero-project.github.io/datasets>
+> 19. **OmniSharing DB**: <https://omnisharingdb.paxini.com/home>
+> 20. **Daimon-Infinity**: <https://www.modelscope.cn/datasets/daimonrobotics/Daimon-Infinity/>
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}
