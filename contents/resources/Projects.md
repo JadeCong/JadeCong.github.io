@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-05-25
+last_modified_at: 2026-06-04
 
 hide_description: true
 hide_image: false
@@ -548,6 +548,7 @@ featured: false
 > 292. **OpenWolf**: <https://openwolf.com>
 > 293. **MiroFish**: <https://mirofish-demo.pages.dev/>
 > 294. **Hermes Web UI**: <https://ekkolearnai.com/#/>
+> 295. **LLM-Harness**: <https://picrew.github.io/LLM-Harness/>
 
 ## (3) AIGC
 
@@ -1082,6 +1083,8 @@ featured: false
 > 100. **RUKA-v2**: <https://ruka-hand-v2.github.io/>
 > 101. **Sharpa Hand**: <https://www.sharpa.com/pages/open-source>
 > 102. **FingerEye**: <https://nus-lins-lab.github.io/FingerEyeWeb/>
+> 103. **Shape Your Body**: <https://nico-bohlinger.github.io/shape-your-body/>
+> 104. **Mini Pupper**: <https://minipupperdocs.readthedocs.io/en/latest/>
 
 ## (2) Software
 
@@ -1832,6 +1835,12 @@ featured: false
 > 676. **InternVerse**: <https://internrobotics.shlab.org.cn/eval>
 > 677. **ZPRL**: <https://manutdmoon.github.io/ZPRL/>
 > 678. **Behavior**: <https://rlinf.readthedocs.io/zh-cn/latest/rst_source/examples/embodied/behavior.html>
+> 679. **RoboArena**: <https://robo-arena.github.io/>
+> 680. **RoboChallenge**: <https://robochallenge.ai/>
+> 681. **HumanEgo**: <https://humanego-ai.github.io/>
+> 682. **AssistMimic**: <https://yutoshibata07.github.io/AssistMimic/>
+> 683. **WorldArena Challenge**: <http://cvpr2026challenge.world-arena.ai/>
+> 684. **GMPC-IMLE**: <https://gmpc-imle.github.io/>
 
 ## (2) Autonomous Driving
 
