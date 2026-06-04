@@ -1841,6 +1841,8 @@ featured: false
 > 682. **AssistMimic**: <https://yutoshibata07.github.io/AssistMimic/>
 > 683. **WorldArena Challenge**: <http://cvpr2026challenge.world-arena.ai/>
 > 684. **GMPC-IMLE**: <https://gmpc-imle.github.io/>
+> 685. **GRAIL**: <https://research.nvidia.com/labs/dair/grail/>
+> 686. **Humanoid-GPT**: <https://qizekun.github.io/Humanoid-GPT/>
 
 ## (2) Autonomous Driving
 
