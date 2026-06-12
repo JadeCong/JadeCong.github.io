@@ -1851,6 +1851,9 @@ featured: false
 > 691. **VLOA**: <https://www.roboscience.co/news_detail/18.html>
 > 692. **EgoTaskQA**: <https://sites.google.com/view/egotaskqa>
 > 693. **HIL**: <https://jiashunwang.github.io/HIL/>
+> 694. **GaussTwin**: <https://6cyc6.github.io/gstwin/>
+> 695. **Push Anything**: <https://dairlab.github.io/push-anything/>
+> 696. **FACTR 2**: <https://jasonjzliu.com/factr2/>
 
 ## (2) Autonomous Driving
 
