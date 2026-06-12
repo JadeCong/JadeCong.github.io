@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-06-06
+last_modified_at: 2026-06-12
 
 hide_description: true
 hide_image: false
@@ -1844,10 +1844,13 @@ featured: false
 > 684. **GMPC-IMLE**: <https://gmpc-imle.github.io/>
 > 685. **GRAIL**: <https://research.nvidia.com/labs/dair/grail/>
 > 686. **Humanoid-GPT**: <https://qizekun.github.io/Humanoid-GPT/>
-> 607. **ConTrack**: <https://www.lyt0112.com/projects/ConTrack>
-> 608. **Bi-Adapt**: <https://biadapt-project.github.io/>
-> 609. **HDFlow**: <https://hdflow-page.github.io/>
-> 610. **EvoPhys-World**: <https://evophys.com/>
+> 687. **ConTrack**: <https://www.lyt0112.com/projects/ConTrack>
+> 688. **Bi-Adapt**: <https://biadapt-project.github.io/>
+> 689. **HDFlow**: <https://hdflow-page.github.io/>
+> 690. **EvoPhys-World**: <https://evophys.com/>
+> 691. **VLOA**: <https://www.roboscience.co/news_detail/18.html>
+> 692. **EgoTaskQA**: <https://sites.google.com/view/egotaskqa>
+> 693. **HIL**: <https://jiashunwang.github.io/HIL/>
 
 ## (2) Autonomous Driving
 
