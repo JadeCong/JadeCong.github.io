@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-06-12
+last_modified_at: 2026-06-16
 
 hide_description: true
 hide_image: false
@@ -549,6 +549,11 @@ featured: false
 > 293. **MiroFish**: <https://mirofish-demo.pages.dev/>
 > 294. **Hermes Web UI**: <https://ekkolearnai.com/#/>
 > 295. **LLM-Harness**: <https://picrew.github.io/LLM-Harness/>
+> 296. **Hermes Studio**: <https://hermes-studio.ai/#/>
+> 297. **Hermes One**: <https://hermesagents.cc/>
+> 298. **Open WebUI**: <https://docs.openwebui.com/>
+> 299. **Loop Engineering**: <https://x.com/addyosmani/status/2064127981161959567>
+> 300. **Agent Loop**: <https://wangruofeng007.com/blog/2026-06/loop-engineering-addy-osmani/>
 
 ## (3) AIGC
 
