@@ -554,6 +554,7 @@ featured: false
 > 298. **Open WebUI**: <https://docs.openwebui.com/>
 > 299. **Loop Engineering**: <https://x.com/addyosmani/status/2064127981161959567>
 > 300. **Agent Loop**: <https://wangruofeng007.com/blog/2026-06/loop-engineering-addy-osmani/>
+> 301. **Harness Engineering**: <https://wanlanglin.github.io/-awesome-cc-harness/zh/> & <https://openai.com/zh-Hans-CN/index/harness-engineering/>
 
 ## (3) AIGC
 
