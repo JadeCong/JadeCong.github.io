@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-06-16
+last_modified_at: 2026-06-17
 
 hide_description: true
 hide_image: false
@@ -1092,6 +1092,7 @@ featured: false
 > 103. **Shape Your Body**: <https://nico-bohlinger.github.io/shape-your-body/>
 > 104. **Mini Pupper**: <https://minipupperdocs.readthedocs.io/en/latest/>
 > 105. **ROSLander**: <https://www.wondernex.com/pages/roslander>
+> 106. **Aero Hand**: <https://shop.tetheria.ai/>
 
 ## (2) Software
 
@@ -1860,6 +1861,9 @@ featured: false
 > 694. **GaussTwin**: <https://6cyc6.github.io/gstwin/>
 > 695. **Push Anything**: <https://dairlab.github.io/push-anything/>
 > 696. **FACTR 2**: <https://jasonjzliu.com/factr2/>
+> 697. **OSCAR**: <https://wuzy2115.github.io/oscar-project-page/>
+> 698. **Universal Manipulation Exoskeleton**: <https://ume-exo.github.io/>
+> 699. **A Scalable 3D Interaction-Trace World Model**: <https://mu0-wm.github.io/>
 
 ## (2) Autonomous Driving
 
