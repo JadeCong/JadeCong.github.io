@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-06-17
+last_modified_at: 2026-06-18
 
 hide_description: true
 hide_image: false
@@ -1864,6 +1864,9 @@ featured: false
 > 697. **OSCAR**: <https://wuzy2115.github.io/oscar-project-page/>
 > 698. **Universal Manipulation Exoskeleton**: <https://ume-exo.github.io/>
 > 699. **A Scalable 3D Interaction-Trace World Model**: <https://mu0-wm.github.io/>
+> 700. **MolmoMotion**: <https://molmomotion.github.io/>
+> 701. **Hy-Embodied-0.5-VLA**: <https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla>
+> 702. **TopoRetarget**: <https://toporetarget2026.github.io/TopoRetarget/>
 
 ## (2) Autonomous Driving
 
