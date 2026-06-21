@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-06-18
+last_modified_at: 2026-06-21
 
 hide_description: true
 hide_image: false
@@ -1160,6 +1160,7 @@ featured: false
 > 62. **MotrixSim**: <https://www.motphys.com/motrixsim>
 > 63. **cuRobo**: <https://nvlabs.github.io/curobo/latest/>
 > 64. **MotionCode Torch**: <https://torch.motioncodeai.com/>
+> 65. **Motion Studio**: <https://motion.enkeebot.com/>
 
 # AIRobotics
 
@@ -1867,6 +1868,10 @@ featured: false
 > 700. **MolmoMotion**: <https://molmomotion.github.io/>
 > 701. **Hy-Embodied-0.5-VLA**: <https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla>
 > 702. **TopoRetarget**: <https://toporetarget2026.github.io/TopoRetarget/>
+> 703. **CHORUS**: <https://chorus-model.github.io/>
+> 704. **ROVE**: <https://xpeng-robotics.github.io/rove/>
+> 705. **RoboNaldo**: <https://opendrivelab.com/RoboNaldo/>
+> 706. **Generalizing from References**: <https://jiashunwang.github.io/GfR/>
 
 ## (2) Autonomous Driving
 
