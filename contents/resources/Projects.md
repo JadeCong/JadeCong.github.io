@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-06-21
+last_modified_at: 2026-06-22
 
 hide_description: true
 hide_image: false
@@ -555,6 +555,7 @@ featured: false
 > 299. **Loop Engineering**: <https://x.com/addyosmani/status/2064127981161959567>
 > 300. **Agent Loop**: <https://wangruofeng007.com/blog/2026-06/loop-engineering-addy-osmani/>
 > 301. **Harness Engineering**: <https://wanlanglin.github.io/-awesome-cc-harness/zh/> & <https://openai.com/zh-Hans-CN/index/harness-engineering/>
+> 302. **SkillOpt**: <https://microsoft.github.io/SkillOpt/>
 
 ## (3) AIGC
 
@@ -1872,6 +1873,7 @@ featured: false
 > 704. **ROVE**: <https://xpeng-robotics.github.io/rove/>
 > 705. **RoboNaldo**: <https://opendrivelab.com/RoboNaldo/>
 > 706. **Generalizing from References**: <https://jiashunwang.github.io/GfR/>
+> 707. **DynaRetarget**: <https://atarilab.github.io/dynaretarget.io/>
 
 ## (2) Autonomous Driving
 
