@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-06-22
+last_modified_at: 2026-06-23
 
 hide_description: true
 hide_image: false
@@ -1874,6 +1874,7 @@ featured: false
 > 705. **RoboNaldo**: <https://opendrivelab.com/RoboNaldo/>
 > 706. **Generalizing from References**: <https://jiashunwang.github.io/GfR/>
 > 707. **DynaRetarget**: <https://atarilab.github.io/dynaretarget.io/>
+> 708. **SymSkill**: <https://symskill.github.io/>
 
 ## (2) Autonomous Driving
 
