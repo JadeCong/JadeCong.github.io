@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-06-23
+last_modified_at: 2026-06-25
 
 hide_description: true
 hide_image: false
@@ -1875,6 +1875,10 @@ featured: false
 > 706. **Generalizing from References**: <https://jiashunwang.github.io/GfR/>
 > 707. **DynaRetarget**: <https://atarilab.github.io/dynaretarget.io/>
 > 708. **SymSkill**: <https://symskill.github.io/>
+> 709. **Do as I Do**: <https://do-as-i-do.com/>
+> 710. **9DTact**: <https://linchangyi1.github.io/9DTact/>
+> 711. **ContactWorld**: <https://contact-world.github.io/>
+> 712. **Residual Five-Ball Juggling**: <https://kploeger.github.io/residual-juggling-project-page/>
 
 ## (2) Autonomous Driving
 
