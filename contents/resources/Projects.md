@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-06-25
+last_modified_at: 2026-06-26
 
 hide_description: true
 hide_image: false
@@ -556,6 +556,7 @@ featured: false
 > 300. **Agent Loop**: <https://wangruofeng007.com/blog/2026-06/loop-engineering-addy-osmani/>
 > 301. **Harness Engineering**: <https://wanlanglin.github.io/-awesome-cc-harness/zh/> & <https://openai.com/zh-Hans-CN/index/harness-engineering/>
 > 302. **SkillOpt**: <https://microsoft.github.io/SkillOpt/>
+> 303. **Cua**: <https://cua.ai/>
 
 ## (3) AIGC
 
@@ -1879,6 +1880,7 @@ featured: false
 > 710. **9DTact**: <https://linchangyi1.github.io/9DTact/>
 > 711. **ContactWorld**: <https://contact-world.github.io/>
 > 712. **Residual Five-Ball Juggling**: <https://kploeger.github.io/residual-juggling-project-page/>
+> 713. **TacForeSight**: <https://tacforesight.github.io/ProjectPage/>
 
 ## (2) Autonomous Driving
 
