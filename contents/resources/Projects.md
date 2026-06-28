@@ -557,6 +557,8 @@ featured: false
 > 301. **Harness Engineering**: <https://wanlanglin.github.io/-awesome-cc-harness/zh/> & <https://openai.com/zh-Hans-CN/index/harness-engineering/>
 > 302. **SkillOpt**: <https://microsoft.github.io/SkillOpt/>
 > 303. **Cua**: <https://cua.ai/>
+> 304. **PixelRAG**: <https://pixelrag.ai/>
+> 305. **AnySearch**: <https://www.anysearch.com/>
 
 ## (3) AIGC
 
@@ -1881,6 +1883,8 @@ featured: false
 > 711. **ContactWorld**: <https://contact-world.github.io/>
 > 712. **Residual Five-Ball Juggling**: <https://kploeger.github.io/residual-juggling-project-page/>
 > 713. **TacForeSight**: <https://tacforesight.github.io/ProjectPage/>
+> 714. **Cyclo**: <https://ai.robotis.com/> & <https://github.com/ROBOTIS-GIT/cyclo>
+> 715. **KinetIQ Ascend**: <https://thehumanoid.ai/technology/kinetiq-ascend/>
 
 ## (2) Autonomous Driving
 
@@ -2052,6 +2056,7 @@ featured: false
 > 148. **Telescope**: <https://princeton-computational-imaging.github.io/Telescope/>
 > 149. **SceneVerse++**: <https://sv-pp.github.io/>
 > 150. **RuView**: <https://cognitum.one/ruview>
+> 151. **HOI-DETR**: <https://ahmaddarkhalil.github.io/HOI-DETR/>
 
 ## (2) Tools
 
