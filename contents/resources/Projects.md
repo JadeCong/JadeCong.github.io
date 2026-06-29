@@ -1887,7 +1887,7 @@ featured: false
 > 715. **KinetIQ Ascend**: <https://thehumanoid.ai/technology/kinetiq-ascend/>
 > 716. **Qwen-RobotManip**: <https://qwen.ai/blog?id=qwen-robotmanip>
 > 717. **FTP-1**: <https://ftp1-policy.github.io/>
-> 718. **TSIL**: [Temporal Self-Imitation Learning](https://generalroboticslab.com/TSIL)
+> 718. **TSIL**: [Temporal Self-Imitation Learning](https://generalroboticslab.com/TSIL "2026_06_19-Duke University-Yinsen Jia")
 
 ## (2) Autonomous Driving
 
