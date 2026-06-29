@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-06-26
+last_modified_at: 2026-06-29
 
 hide_description: true
 hide_image: false
@@ -1885,6 +1885,9 @@ featured: false
 > 713. **TacForeSight**: <https://tacforesight.github.io/ProjectPage/>
 > 714. **Cyclo**: <https://ai.robotis.com/> & <https://github.com/ROBOTIS-GIT/cyclo>
 > 715. **KinetIQ Ascend**: <https://thehumanoid.ai/technology/kinetiq-ascend/>
+> 716. **Qwen-RobotManip**: <https://qwen.ai/blog?id=qwen-robotmanip>
+> 717. **FTP-1**: <https://ftp1-policy.github.io/>
+> 718. **TSIL**: [Temporal Self-Imitation Learning](https://generalroboticslab.com/TSIL)
 
 ## (2) Autonomous Driving
 
