@@ -1886,8 +1886,8 @@ featured: false
 > 714. **Cyclo**: <https://ai.robotis.com/> & <https://github.com/ROBOTIS-GIT/cyclo>
 > 715. **KinetIQ Ascend**: <https://thehumanoid.ai/technology/kinetiq-ascend/>
 > 716. **Qwen-RobotManip**: <https://qwen.ai/blog?id=qwen-robotmanip>
-> 717. **FTP-1**: <https://ftp1-policy.github.io/>
-> 718. **TSIL**: [Temporal Self-Imitation Learning](https://generalroboticslab.com/TSIL "2026_06_19-Duke University-Yinsen Jia")
+> 717. **FTP-1**: [A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation](https://ftp1-policy.github.io/ "2026_06_19-Tsinghua University-Chengbo Yuan")[Tactile Manipulation, Generalist Policy, Contact-Rich Tasks]
+> 718. **TSIL**: [Temporal Self-Imitation Learning](https://generalroboticslab.com/TSIL "2026_06_19-Duke University-Yinsen Jia")[Robot Learning, Reinforcement Learning, Self-Imitation Learning]
 
 ## (2) Autonomous Driving
 
