@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-06-29
+last_modified_at: 2026-07-02
 
 hide_description: true
 hide_image: false
@@ -1881,13 +1881,21 @@ featured: false
 > 709. **Do as I Do**: <https://do-as-i-do.com/>
 > 710. **9DTact**: <https://linchangyi1.github.io/9DTact/>
 > 711. **ContactWorld**: <https://contact-world.github.io/>
-> 712. **Residual Five-Ball Juggling**: <https://kploeger.github.io/residual-juggling-project-page/>
-> 713. **TacForeSight**: <https://tacforesight.github.io/ProjectPage/>
-> 714. **Cyclo**: <https://ai.robotis.com/> & <https://github.com/ROBOTIS-GIT/cyclo>
-> 715. **KinetIQ Ascend**: <https://thehumanoid.ai/technology/kinetiq-ascend/>
-> 716. **Qwen-RobotManip**: <https://qwen.ai/blog?id=qwen-robotmanip>
+> 712. **Residual Five-Ball Juggling**: [Task-Error Residual Learning for Real-Robot Five-Ball Juggling](https://kploeger.github.io/residual-juggling-project-page/ "2026_06_15-Technical University of Darmstadt-Kai Ploeger") [Residual Learning, Real-Robot, Five-Ball Juggling]
+> 713. **TacForeSight**: [Force-Guided Tactile World Model for Contact-Rich Manipulation](https://tacforesight.github.io/ProjectPage/ "2026_06_09-TARS Robotics-Yujie Zang") [Tactile World Model, Contact-Rich Manipulation, Force-Guided]
+> 714. **Cyclo**: [Unified Physical AI framework](https://ai.robotis.com/ "https://github.com/ROBOTIS-GIT/cyclo") [ROBOTIS, Cyclo]
+> 715. **KinetIQ Ascend**: [Toward 100% Reliable Manipulation and Superhuman Speed](https://thehumanoid.ai/technology/kinetiq-ascend/ "2026_06_25-SKL Robotics") [Robot Manipulation, Superhuman Speed]
+> 716. **Qwen-RobotManip**: [Alignment Unlocks Scale for Robotic Manipulation Foundation Models](https://qwen.ai/blog?id=qwen-robotmanip "2026_06_16-Qwen Team") [Robotic Manipulation, VLA Foundation Model]
 > 717. **FTP-1**: [A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation](https://ftp1-policy.github.io/ "2026_06_19-Tsinghua University-Chengbo Yuan") [Tactile Manipulation, Generalist Policy, Contact-Rich Tasks]
 > 718. **TSIL**: [Temporal Self-Imitation Learning](https://generalroboticslab.com/TSIL "2026_06_19-Duke University-Yinsen Jia") [Robot Learning, Reinforcement Learning, Self-Imitation Learning]
+> 719. **IMPACT**: [Learning Internal-Model Predictive Control for Forceful Robotic Manipulation](https://gao-jiawei.com/IMPACT/ "2025_06_09-Harvard University-Jiawei Gao") [Robot learning, Forceful manipulation, Predictive control]
+> 720. **OmniContact**: [Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation](https://omnicontact.github.io/ "2026_06_24-Noitom Robotics-Runyi Yu") [Loco-Manipulation, Control flow, Humanoid]
+> 721. **SceneBot**: [Contact-Prompted General Humanoid Whole Body Tracking with Scene-Interaction "2026_06_25-Amazon FAR-Sirui Chen"](https://ericcsr.github.io/scenebot/) [Humanoid, Loco-manipulation, Learning from Human Data]
+> 722. **WARP**: [Whole-Body Retargeting for Learning from Offline Human Demonstrations](https://warp-retarget.github.io/ "2026_06_29-Georgia Institute of Technology-Zhenyang Chen") [retargeting, whole-body mobile manipulation, imitation learning]
+> 723. **ASPIRE**: [Agentic /Skills Discovery for Robotics](https://research.nvidia.com/labs/gear/aspire/ "2026_06_30-NVIDIA-Runyu Lu") [Agentic skills, Robotics, Manipulation]
+> 724. **APT**: [Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies](https://xukechun.github.io/papers/APT/ "2026_06_10-Zhejiang University-Kechun Xu") [VLA, Language Generalization, Manipulation]
+> 725. **EgoEngine**: [From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations](https://egoengine.github.io/ "2026_06_10-Georgia Institute of Technology-Yangcen Liu") [Learn from Human, Imitation Learning, Robotic Data Generation]
+> 726. **Object-Centric Residual RL**: [Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement](https://www.microsoft.com/en-us/research/articles/object-centric-residual-rl/ "2026_06_17-KAIST-Kinam Kim") [Vision-Language-Action Models, Reinforcement Learning, Sim-to-Real Transfer, Robot Manipulation]
 
 ## (2) Autonomous Driving
 
