@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-02
+last_modified_at: 2026-07-03
 
 hide_description: true
 hide_image: false
@@ -559,6 +559,7 @@ featured: false
 > 303. **Cua**: <https://cua.ai/>
 > 304. **PixelRAG**: <https://pixelrag.ai/>
 > 305. **AnySearch**: <https://www.anysearch.com/>
+> 306. **Compound Engineering**: [The AI-native engineering philosophy](https://every.to/guides/compound-engineering "2026-Every Media") [Plan, Work, Review, Compound, Rep]
 
 ## (3) AIGC
 
@@ -1876,11 +1877,11 @@ featured: false
 > 704. **ROVE**: <https://xpeng-robotics.github.io/rove/>
 > 705. **RoboNaldo**: <https://opendrivelab.com/RoboNaldo/>
 > 706. **Generalizing from References**: <https://jiashunwang.github.io/GfR/>
-> 707. **DynaRetarget**: <https://atarilab.github.io/dynaretarget.io/>
-> 708. **SymSkill**: <https://symskill.github.io/>
-> 709. **Do as I Do**: <https://do-as-i-do.com/>
-> 710. **9DTact**: <https://linchangyi1.github.io/9DTact/>
-> 711. **ContactWorld**: <https://contact-world.github.io/>
+> 707. **DynaRetarget**: [Dynamically-Feasible Retargeting usingSampling-Based Trajectory Optimization](https://atarilab.github.io/dynaretarget.io/ "2026_06_10-MIRMI-Victor Dhedin") [Human motion retargeting, Trajectory Optimization]
+> 708. **SymSkill**: [Symbol and Skill Co-Invention for Data-Efficient and Reactive Long-Horizon Manipulation](https://symskill.github.io/> "2026_06_08-University of Pennsylvania-Yifei Simon Shao") [Imitation learning, Multi-step manipulation, Long-Horizon Manipulation]
+> 709. **Do as I Do**: [Dexterous Manipulation Data from Everyday Human Videos](https://do-as-i-do.com/ "2026_06_17-UC Berkeley-Bhawna Paliwal") [Dexterous Manipulation, Human Videos]
+> 710. **9DTact**: [A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation](https://linchangyi1.github.io/9DTact/ "2023_12_16-Shanghai Qi Zhi Institute-Changyi Lin") [Force and Tactile Sensing; Perception for Grasping and Manipulation]
+> 711. **ContactWorld**: [What Matters in Vision-Tactile World Models for Contact-Rich Manipulation](https://contact-world.github.io/ "2026_06_11-Purdue University-Zhiyuan Zhang") [Vision-Tactile World Models, Contact-Rich Manipulation, Multi-modal Representation Learning]
 > 712. **Residual Five-Ball Juggling**: [Task-Error Residual Learning for Real-Robot Five-Ball Juggling](https://kploeger.github.io/residual-juggling-project-page/ "2026_06_15-Technical University of Darmstadt-Kai Ploeger") [Residual Learning, Real-Robot, Five-Ball Juggling]
 > 713. **TacForeSight**: [Force-Guided Tactile World Model for Contact-Rich Manipulation](https://tacforesight.github.io/ProjectPage/ "2026_06_09-TARS Robotics-Yujie Zang") [Tactile World Model, Contact-Rich Manipulation, Force-Guided]
 > 714. **Cyclo**: [Unified Physical AI framework](https://ai.robotis.com/ "https://github.com/ROBOTIS-GIT/cyclo") [ROBOTIS, Cyclo]
@@ -1896,6 +1897,8 @@ featured: false
 > 724. **APT**: [Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies](https://xukechun.github.io/papers/APT/ "2026_06_10-Zhejiang University-Kechun Xu") [VLA, Language Generalization, Manipulation]
 > 725. **EgoEngine**: [From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations](https://egoengine.github.io/ "2026_06_10-Georgia Institute of Technology-Yangcen Liu") [Learn from Human, Imitation Learning, Robotic Data Generation]
 > 726. **Object-Centric Residual RL**: [Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement](https://www.microsoft.com/en-us/research/articles/object-centric-residual-rl/ "2026_06_17-KAIST-Kinam Kim") [Vision-Language-Action Models, Reinforcement Learning, Sim-to-Real Transfer, Robot Manipulation]
+> 727. **WARP-RM**: [A Warp-Augmented Relative Progress Reward Model for Data Curation](https://uynitsuj.github.io/warp-rm/ "2026_06_26-UC Berkeley-Justin Yu") [Robot Imitation Learning, Data Curation, Reward Models]
+> 728. **Flying Knots**: [Learning Dynamic Rope Manipulation Using Task-Level Iterative Learning Control](https://flying-knots.github.io/ "2026_06-CMU-Krishna Suresh") [Iterative Learning, Dynamic Rope Manipulation]
 
 ## (2) Autonomous Driving
 
