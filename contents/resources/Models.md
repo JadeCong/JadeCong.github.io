@@ -1,11 +1,3 @@
-<!--
- * @Author: Jade Cong jade.cong@qq.com
- * @Date: 2025-09-12 09:13:17
- * @LastEditors: Jade Cong jade.cong@qq.com
- * @LastEditTime: 2026-07-04 19:39:45
- * @FilePath: /Codings/GitHub/JadeCong/JadeCong.github.io/contents/resources/Models.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 ---
 layout: page
 title: Models
