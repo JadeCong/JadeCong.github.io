@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2024-11-17
+last_modified_at: 2026-07-04
 
 hide_description: true
 hide_image: false
@@ -46,11 +46,11 @@ featured: false
 
 # Artificial Intelligence
 
-> 1. **ADAS(Automated Design of Agentic Systems)**: <https://arxiv.org/abs/2408.08435>
-> 2. **Mini-Omni**: <https://arxiv.org/abs/2408.16725>
-> 3. **AIOS**: <https://arxiv.org/abs/2403.16971>
-> 4. **Mamba**: <https://arxiv.org/abs/2312.00752>
-> 5. **Buffer of Thoughts**: <https://arxiv.org/abs/2406.04271>
+> 1. **ADAS**: [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435 "2025_03_02-University of British Columbia-Shengran Hu") [Agentic Systems]
+> 2. **Mini-Omni**: [Language Models Can Hear, Talk While Thinking in Streaming](https://arxiv.org/abs/2408.16725 "2024_11_05-Tsinghua University-Zhifei Xie") [Language Model, Hear, Talk, Thinking]
+> 3. **AIOS**: [LLM Agent Operating System](https://arxiv.org/abs/2403.16971 "2025_08_12- Rutgers University-Kai Mei") [LLM, Agent, OS]
+> 4. **Mamba**: [Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752 "2024_05_31-CMU-Albert Gu") [Mamba, Time Sequence Modeling, Selective State Space]
+> 5. **Buffer of Thoughts**: [Thought-Augmented Reasoning with Large Language Models](https://arxiv.org/abs/2406.04271 "2024_10_14-Peking University-Ling Yang") [LLM, Reasoning, Thought]
 
 Continue reading [Models](Models.md){:.heading.flip-title}
 {:.read-more}
