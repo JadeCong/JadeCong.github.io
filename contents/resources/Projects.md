@@ -1899,6 +1899,7 @@ featured: false
 > 726. **Object-Centric Residual RL**: [Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement](https://www.microsoft.com/en-us/research/articles/object-centric-residual-rl/ "2026_06_17-KAIST-Kinam Kim") [Vision-Language-Action Models, Reinforcement Learning, Sim-to-Real Transfer, Robot Manipulation]
 > 727. **WARP-RM**: [A Warp-Augmented Relative Progress Reward Model for Data Curation](https://uynitsuj.github.io/warp-rm/ "2026_06_26-UC Berkeley-Justin Yu") [Robot Imitation Learning, Data Curation, Reward Models]
 > 728. **Flying Knots**: [Learning Dynamic Rope Manipulation Using Task-Level Iterative Learning Control](https://flying-knots.github.io/ "2026_06-CMU-Krishna Suresh") [Iterative Learning, Dynamic Rope Manipulation]
+> 729. **HEFT**: [HEavy-Payload Full-size Humanoid Teleoperation](https://heft.axell.top/#/ "2026_07_02-Tsinghua University-Chenxin Liu") [Humanoids, Whole-body Teleoperation]
 
 ## (2) Autonomous Driving
 

@@ -90,6 +90,7 @@ featured: false
 > 18. **LIBERO**: [LIBERO](https://libero-project.github.io/datasets) []
 > 19. **OmniSharing DB**: [OmniSharing DB](https://omnisharingdb.paxini.com/home) []
 > 20. **Daimon-Infinity**: [Daimon-Infinity](https://www.modelscope.cn/datasets/daimonrobotics/Daimon-Infinity/) []
+> 21. **HRDexDB**: [A Paired Human-Robot Dataset for Cross-Embodiment Dexterous Grasping](https://snuvclab.github.io/HRDexDB/ "2026_06_19-Seoul National University-Jongbin Lim") [Cross-Embodiment, Human-to-Robot Learning, Dexterous Manipulation]
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}
