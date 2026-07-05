@@ -559,7 +559,7 @@ featured: false
 > 303. **Cua**: [Cua](https://cua.ai/ "2026_07_05") [Cua]
 > 304. **PixelRAG**: [PixelRAG](https://pixelrag.ai/ "2026_07_05") [PixelRAG]
 > 305. **AnySearch**: [AnySearch](https://www.anysearch.com/ "2026_07_05") [AnySearch]
-> 306. **Compound Engineering**: [The AI-native engineering philosophy](https://every.to/guides/compound-engineering "2026-Every Media") [Plan, Work, Review, Compound, Rep]
+> 306. **Compound Engineering**: [The AI-native engineering philosophy](https://every.to/guides/compound-engineering "2026-Every Media") [Plan, Work, Review, Compound, Repeat]
 
 ## (3) AIGC
 
