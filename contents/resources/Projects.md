@@ -1904,13 +1904,13 @@ Reference, RL Framework]
 
 ## (2) Autonomous Driving
 
-> 1. **X-Mobility**: <https://nvlabs.github.io/X-MOBILITY/>
-> 2. **LagMemo**: <https://weekgoodday.github.io/lagmemo/>
-> 3. **AlpaDreams**: <https://research.nvidia.com/labs/sil/projects/alpadreams/>
+> 1. **X-Mobility**: [End-To-End Generalizable Navigation via World Modeling](https://nvlabs.github.io/X-MOBILITY/ "2025-Nvidia-Wei Liu") [Navigation, World Modeling, End-to-End]
+> 2. **LagMemo**: [Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation](https://weekgoodday.github.io/lagmemo/ "2026-Peking University-Haotian Zhou") [3D Gaussian Splatting, Multi-modal, Open-vocabulary, Multi-goal Visual Navigation]
+> 3. **OmniDreams**: [Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation](https://research.nvidia.com/labs/sil/projects/omnidreams-blog/ "2026_06_02-NVIDIA") [World Model, Closed-Loop, Autonomous Vehicle Simulation]
 
 ## (3) Embodied Intelligence
 
-> 1. **Gymnasium**: <https://gymnasium.farama.org/>
+> 1. **Gymnasium**: [An API standard for reinforcement learning with a diverse collection of reference environments](https://gymnasium.farama.org/ "2025_11_02-University of Southampton-Mark Towers") [reinforcement learning, reference environments, OpenAI Gym]
 
 # Metaverse
 
