@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-03
+last_modified_at: 2026-07-05
 
 hide_description: true
 hide_image: false
@@ -1870,13 +1870,14 @@ featured: false
 > 697. **OSCAR**: <https://wuzy2115.github.io/oscar-project-page/>
 > 698. **Universal Manipulation Exoskeleton**: <https://ume-exo.github.io/>
 > 699. **A Scalable 3D Interaction-Trace World Model**: <https://mu0-wm.github.io/>
-> 700. **MolmoMotion**: <https://molmomotion.github.io/>
-> 701. **Hy-Embodied-0.5-VLA**: <https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla>
-> 702. **TopoRetarget**: <https://toporetarget2026.github.io/TopoRetarget/>
-> 703. **CHORUS**: <https://chorus-model.github.io/>
-> 704. **ROVE**: <https://xpeng-robotics.github.io/rove/>
-> 705. **RoboNaldo**: <https://opendrivelab.com/RoboNaldo/>
-> 706. **Generalizing from References**: <https://jiashunwang.github.io/GfR/>
+> 700. **MolmoMotion**: [Forecasting Point Trajectories in 3D with Language Instruction](https://molmomotion.github.io/ "2026_06_17-Allen Institute for AI-Jianing Zhang") [Point Trajectories, Language Instruction, Trajectory Generation, 3D]
+> 701. **Hy-Embodied-0.5-VLA**: [From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla "2026_06_12-Tencent Robotics X") [robot learning, data collection, model design, continued pre-training, supervised fine-tuning, RL post-training, real-world deployment]
+> 702. **TopoRetarget**: [Interaction-Preserving Retargeting for Dexterous Manipulation](https://toporetarget2026.github.io/TopoRetarget/ "2026-Anonymous Submission") [motion retargeting, reinforcement learning, dexterous manipulation, trajectory optimization]
+> 703. **CHORUS**: [Decentralized Multi-Embodiment Collaboration with One VLA Policy](https://chorus-model.github.io/ "2026_06_10-Stanford University-Ria Doshi") [Multi-robot collaboration, Vision-language-action models]
+> 704. **ROVE**: [Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning](https://xpeng-robotics.github.io/rove/ "2026_06_15-XPENG Robotics-Wei Xiao") [Humanoid Manipulation, Reinforcement Learning]
+> 705. **RoboNaldo**: [Accurate, Stable and Powerful Humanoid Soccer Shooting via Motion-Guided Curriculum Reinforcement Learning](https://opendrivelab.com/RoboNaldo/ "2026_06_11-The University of Hong Kong-Yichao Zhong") [Athletic robots, humanoid-object interaction, sim-to-real transfer]
+> 706. **Generalizing from References**: [Generalizing from References using a Multi-Task Reference and Goal-Driven RL Framework](https://jiashunwang.github.io/GfR/ "2026-CMU-Jiashun Wang") [Multi-Task
+Reference, RL Framework]
 > 707. **DynaRetarget**: [Dynamically-Feasible Retargeting usingSampling-Based Trajectory Optimization](https://atarilab.github.io/dynaretarget.io/ "2026_06_10-MIRMI-Victor Dhedin") [Human motion retargeting, Trajectory Optimization]
 > 708. **SymSkill**: [Symbol and Skill Co-Invention for Data-Efficient and Reactive Long-Horizon Manipulation](https://symskill.github.io/> "2026_06_08-University of Pennsylvania-Yifei Simon Shao") [Imitation learning, Multi-step manipulation, Long-Horizon Manipulation]
 > 709. **Do as I Do**: [Dexterous Manipulation Data from Everyday Human Videos](https://do-as-i-do.com/ "2026_06_17-UC Berkeley-Bhawna Paliwal") [Dexterous Manipulation, Human Videos]
