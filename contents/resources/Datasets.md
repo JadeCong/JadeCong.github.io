@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-04
+last_modified_at: 2026-07-05
 
 hide_description: true
 hide_image: false
@@ -70,27 +70,26 @@ featured: false
 
 # Robot Learning
 
-> 1. **AgiBot World**: [AgiBot World](https://agibot-world.com/) []
-> 2. **RoboMIND**: [RoboMIND](https://x-humanoid-robomind.github.io/) []
-> 3. **DROID**: [DROID](https://droid-dataset.github.io/) []
-> 4. **Open X-Embodiment**: [Open X-Embodiment](https://robotics-transformer-x.github.io/) []
-> 5. **HUMOTO**: [HUMOTO](https://jiaxin-lu.github.io/humoto/) []
-> 6. **RH20T**: [RH20T](https://rh20t.github.io/) []
-> 7. **GraspFactory**: [GraspFactory](https://graspfactory.github.io/) []
-> 8. **VinT-6D**: [VinT-6D](https://vint-6d.github.io/) []
-> 9. **OpenRoboCare**: [OpenRoboCare](https://robo-care.github.io/) []
-> 10. **Open Source**: [Open Source](https://build.ai/opensource) []
-> 11. **PHUMA**: [PHUMA](https://davian-robotics.github.io/PHUMA/) []
-> 12. **TWIST Data**: [TWIST Data](https://twist-data.github.io/) []
-> 13. **BridgeData V2**: [BridgeData V2](https://rail-berkeley.github.io/bridgedata/) []
-> 14. **MIME**: [MIME](https://sites.google.com/view/mimedataset) []
-> 15. **ARIO**: [ARIO](https://imaei.github.io/project_pages/ario/) []
-> 16. **RoboCOIN**: [RoboCOIN](https://flagopen.github.io/RoboCOIN/) []
-> 17. **OpenLET**: [OpenLET](https://openlet.openatom.tech/) []
-> 18. **LIBERO**: [LIBERO](https://libero-project.github.io/datasets) []
-> 19. **OmniSharing DB**: [OmniSharing DB](https://omnisharingdb.paxini.com/home) []
-> 20. **Daimon-Infinity**: [Daimon-Infinity](https://www.modelscope.cn/datasets/daimonrobotics/Daimon-Infinity/) []
-> 21. **HRDexDB**: [A Paired Human-Robot Dataset for Cross-Embodiment Dexterous Grasping](https://snuvclab.github.io/HRDexDB/ "2026_06_19-Seoul National University-Jongbin Lim") [Cross-Embodiment, Human-to-Robot Learning, Dexterous Manipulation]
+> 1. **AgiBot World**: [The first open-source dataset that systematically covers key research directions in embodied intelligence](https://agibot-world.com/ "2026-AGIBOT WORLD") [embodied intelligence, real-world environments, contact and force feedback, robot manipulation]
+> 2. **RoboMIND**: [Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation](https://x-humanoid-robomind.github.io/ "2025-RoboMIND Team") [Multi-embodiment, Robot Manipulation, VLA]
+> 3. **DROID**: [A Large-Scale In-the-Wild Robot Manipulation Dataset](https://droid-dataset.github.io/ "2024-DROID Dataset Team") [Robot Manipulation, Large-Scale, In-The-Wild]
+> 4. **Open X-Embodiment**: [Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/ "2025_05_14-Open X-Embodiment Collaboration") [Robotic Learning, Skills, Robotic Manipulation]
+> 5. **HUMOTO**: [A 4D Dataset of Mocap Human Object Interactions](https://jiaxin-lu.github.io/humoto/ "2025_10_15-University of Texas at Austin") [human-object interactions, 3D human poses, artists-made object meshes, 4D]
+> 6. **RH20T**: [A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot](https://rh20t.github.io/ "2024-Shanghai Jiao Tong University") [Robotic Dataset, Robot Manipulation, Diverse Skills]
+> 7. **GraspFactory**: [A Large Object-Centric Grasping Dataset](https://graspfactory.github.io/ "2025_09_24-Autodesk Research") [CAD, Grasp dataset, Learning]
+> 8. **VinT-6D**: [A Large-Scale Object-in-hand Dataset from Vision, Touch and Proprioception](https://vint-6d.github.io/ "2024-Sun Yat-Sen University") [Object-in-hand Dataset, Vision, Touch, Proprioception]
+> 9. **OpenRoboCare**: [A Multi-Modal Multi-Task Expert Demonstration Dataset for Robot Caregiving](https://robo-care.github.io/ "2025-Cornell University") [Robot Caregiving, Multi-Modal, Multi-Task, Expert Demonstration]
+> 10. **PHUMA**: [Physically Reliable Humanoid Locomotion Dataset](https://davian-robotics.github.io/PHUMA/ "2026_06_04-KAIST") [Humanoid Locomotion]
+> 11. **TWIST Data**: [Humanoid Data is Better when Universally Sharable](https://twist-data.github.io/ "2025_11_04-Amazon FAR") [humanoid loco-manipulation, long-horizon, whole-body, dexterous, egocentric]
+> 12. **BridgeData V2**: [A Dataset for Robot Learning at Scale](https://rail-berkeley.github.io/bridgedata/ "2024_01_17-UC Berkeley") [Robot Learning , Scale, Multi-task Learning]
+> 13. **MIME**: [Multiple Interactions Made Easy](https://sites.google.com/view/mimedataset "2018_10_16-CMU") [Learning from Demonstration, Kinesthetic data]
+> 14. **ARIO**: [A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents](https://imaei.github.io/project_pages/ario/ "2024_08_20-Pengcheng Laboratory") [Embodied Agent, physical World, Versatile]
+> 15. **RoboCOIN**: [An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation](https://flagopen.github.io/RoboCOIN/ "2026_04_13-BAAI") [Bimanual Robotic Data Collection, Integrated Manipulation]
+> 16. **OpenLET**: [Embodied Intelligence Datasets](https://openlet.openatom.tech/ "2026_05_08-OpenAtom") [Whole-Body Motion Control, Dexterous Manipulation, Arm Manipulation]
+> 17. **LIBERO**: [Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://libero-project.github.io/datasets "2023_10_14-The University of Texas at Austin-Bo Liu") [Knowledge Transfer, Lifelong Robot Learning, Benchmark]
+> 18. **OmniSharing DB**: [PaXini Full-modal Datasets](https://omnisharingdb.paxini.com/home "2026-PaXini") [Full-modal Datasets, Tactile Sensing]
+> 19. **Daimon-Infinity**: [The world's largest omni-modal robotics dataset for physical AI, including high-resolution tactile sensing](https://www.modelscope.cn/datasets/daimonrobotics/Daimon-Infinity/ "2026_04_15-Daimon") [VTLA, multimodal data, physical AI, high-resolution tactile sensing]
+> 20. **HRDexDB**: [A Paired Human-Robot Dataset for Cross-Embodiment Dexterous Grasping](https://snuvclab.github.io/HRDexDB/ "2026_06_19-Seoul National University-Jongbin Lim") [Cross-Embodiment, Human-to-Robot Learning, Dexterous Manipulation]
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}
