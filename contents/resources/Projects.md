@@ -1902,6 +1902,7 @@ Reference, RL Framework]
 > 728. **Flying Knots**: [Learning Dynamic Rope Manipulation Using Task-Level Iterative Learning Control](https://flying-knots.github.io/ "2026_06-CMU-Krishna Suresh") [Iterative Learning, Dynamic Rope Manipulation]
 > 729. **HEFT**: [HEavy-Payload Full-size Humanoid Teleoperation](https://heft.axell.top/#/ "2026_07_02-Tsinghua University-Chenxin Liu") [Humanoids, Whole-body Teleoperation]
 > 730. **OmniTacTune**: [Policy-Agnostic Real-World RL for Tactile Residual Adaptation](https://colinyu1.github.io/omnitactune-site/ "2026_07_04-University of Maryland-Kelin Yu") [Visuo-Tactile Policy, Real-World RL, Contact-rich Manipulation]
+> 731. **Graph-as-Policy**: [ Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation (VA) Tasks](https://graph-robots.github.io/gap/ "2026_07_06-UC Berkeley-Kaiyuan Chen") [Agentic Coding, Automation, Self-Learning]
 
 ## (2) Autonomous Driving
 
