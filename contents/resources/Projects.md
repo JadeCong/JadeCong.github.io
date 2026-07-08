@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-05
+last_modified_at: 2026-07-08
 
 hide_description: true
 hide_image: false
@@ -1901,6 +1901,7 @@ Reference, RL Framework]
 > 727. **WARP-RM**: [A Warp-Augmented Relative Progress Reward Model for Data Curation](https://uynitsuj.github.io/warp-rm/ "2026_06_26-UC Berkeley-Justin Yu") [Robot Imitation Learning, Data Curation, Reward Models]
 > 728. **Flying Knots**: [Learning Dynamic Rope Manipulation Using Task-Level Iterative Learning Control](https://flying-knots.github.io/ "2026_06-CMU-Krishna Suresh") [Iterative Learning, Dynamic Rope Manipulation]
 > 729. **HEFT**: [HEavy-Payload Full-size Humanoid Teleoperation](https://heft.axell.top/#/ "2026_07_02-Tsinghua University-Chenxin Liu") [Humanoids, Whole-body Teleoperation]
+> 730. **OmniTacTune**: [Policy-Agnostic Real-World RL for Tactile Residual Adaptation](https://colinyu1.github.io/omnitactune-site/ "2026_07_04-University of Maryland-Kelin Yu") [Visuo-Tactile Policy, Real-World RL, Contact-rich Manipulation]
 
 ## (2) Autonomous Driving
 
