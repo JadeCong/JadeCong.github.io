@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-08
+last_modified_at: 2026-07-10
 
 hide_description: true
 hide_image: false
@@ -1024,7 +1024,7 @@ featured: false
 > 30. **Linkerbot**: [Linkerbot](https://www.linkerbot.cn/index> "2026_07_05") [Linkerbot]
 > 31. **DexHand**: [DexHand](https://www.dex-robot.com/productionDexhand> "2026_07_05") [DexHand]
 > 32. **Booster T1**: [Booster T1](https://www.boosterobotics.com/zh> "2026_07_05") [Booster T1]
-> 33. **OpenArm**: [OpenArm](https://open-arm.org/ "2026_07_05") [OpenArm]
+> 33. **OpenArm**: [OpenArm](https://openarm.dev// "2026_07_05") [OpenArm]
 > 34. **XGO-Rider**: [XGO-Rider](https://wiki.elecfreaks.com/en/microbit/robot/xgo-rider-kit/introduction> "2026_07_05") [XGO-Rider]
 > 35. **BamBot**: [BamBot](https://bambot.org/ "2026_07_05") [BamBot]
 > 36. **ORCA Hand**: [ORCA Hand](https://www.orcahand.com/ "2026_07_05") [ORCA Hand]
@@ -1903,6 +1903,9 @@ Reference, RL Framework]
 > 729. **HEFT**: [HEavy-Payload Full-size Humanoid Teleoperation](https://heft.axell.top/#/ "2026_07_02-Tsinghua University-Chenxin Liu") [Humanoids, Whole-body Teleoperation]
 > 730. **OmniTacTune**: [Policy-Agnostic Real-World RL for Tactile Residual Adaptation](https://colinyu1.github.io/omnitactune-site/ "2026_07_04-University of Maryland-Kelin Yu") [Visuo-Tactile Policy, Real-World RL, Contact-rich Manipulation]
 > 731. **Graph-as-Policy**: [ Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation (VA) Tasks](https://graph-robots.github.io/gap/ "2026_07_06-UC Berkeley-Kaiyuan Chen") [Agentic Coding, Automation, Self-Learning]
+> 732. **EGOWAM**: [World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data](https://gatech-rl2.github.io/egowam.github.io/ "2026_07-Georgia Institute of Technology-Baoyu Li") [World Action Models, Learn from Human Data, Robot Manipulation]
+> 733. **HumanNet**: [Scaling Human-centric Video Learning to One Million Hours](https://dagroup-pku.github.io/HumanNet/ "2026_05_07-Peking University-Yufan Deng") [Human-centric, Video Learning, VLM, human-to-robot transfer, representation learning]
+> 734. **RynnWorld-Teleop**: [An Action-Conditioned World Model for Digital Teleoperation](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io/ "2026_07_07-Alibaba DAMO Academy-Haoyu Zhao") [Digital Teleoperation, zero-shot Sim2Real transfer, World Model]
 
 ## (2) Autonomous Driving
 
