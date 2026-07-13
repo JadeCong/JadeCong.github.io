@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-11
+last_modified_at: 2026-07-13
 
 hide_description: true
 hide_image: false
@@ -1908,6 +1908,8 @@ Reference, RL Framework]
 > 734. **RynnWorld-Teleop**: [An Action-Conditioned World Model for Digital Teleoperation](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io/ "2026_07_07-Alibaba DAMO Academy-Haoyu Zhao") [Digital Teleoperation, zero-shot Sim2Real transfer, World Model]
 > 735. **LEGS**: [Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World](https://legsvla.github.io/ "2026_05_31-Stanford University-Hojune Kim") [Humanoid, Sim-to-real Transfer, Robot Data Generation, Robot Simulator, Loco-Manipulation, Vision Language Action Model]
 > 736. **ARDY**: [Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation](https://research.nvidia.com/labs/sil/projects/ardy/ "2026_07-NVIDIA-Kaifeng Zhao") [autoregressive diffusion model, interactive motion generation, Hybrid Representation, Human Motion]
+> 737. **EquiVLA**: [A General Framework for Rotationally Equivariant Vision–Language–Action Models](https://equivla.github.io/ "2026_06_18-VinRobotics-Thien-Loc Ha") [Equivariance, Robot Manipulation, Vision-Language-Action]
+> 738. **UHAS**: [Cross-Embodiment Robot Manipulation via a Unified Hand Action Space](https://irvlutd.github.io/UHAS/ "2026_07_03-University of Texas at Dallas-Luis Felipe Casas") [Cross-Embodiment Manipulation, Unified Action Space, Reinforcement Learning, In-Hand Manipulation]
 
 ## (2) Autonomous Driving
 
