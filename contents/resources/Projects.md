@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-13
+last_modified_at: 2026-07-15
 
 hide_description: true
 hide_image: false
@@ -560,6 +560,7 @@ featured: false
 > 304. **PixelRAG**: [PixelRAG](https://pixelrag.ai/ "2026_07_05") [PixelRAG]
 > 305. **AnySearch**: [AnySearch](https://www.anysearch.com/ "2026_07_05") [AnySearch]
 > 306. **Compound Engineering**: [The AI-native engineering philosophy](https://every.to/guides/compound-engineering "2026-Every Media") [Plan, Work, Review, Compound, Repeat]
+> 307. **DeepTutor**: [Lifelong Personalized Tutoring](https://deeptutor.info/zh-cn/ "DeepTutor") [DeepTutor]
 
 ## (3) AIGC
 
@@ -1910,6 +1911,7 @@ Reference, RL Framework]
 > 736. **ARDY**: [Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation](https://research.nvidia.com/labs/sil/projects/ardy/ "2026_07-NVIDIA-Kaifeng Zhao") [autoregressive diffusion model, interactive motion generation, Hybrid Representation, Human Motion]
 > 737. **EquiVLA**: [A General Framework for Rotationally Equivariant Vision–Language–Action Models](https://equivla.github.io/ "2026_06_18-VinRobotics-Thien-Loc Ha") [Equivariance, Robot Manipulation, Vision-Language-Action]
 > 738. **UHAS**: [Cross-Embodiment Robot Manipulation via a Unified Hand Action Space](https://irvlutd.github.io/UHAS/ "2026_07_03-University of Texas at Dallas-Luis Felipe Casas") [Cross-Embodiment Manipulation, Unified Action Space, Reinforcement Learning, In-Hand Manipulation]
+> 739. **ViDiHand**: [The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction](https://vidihand.github.io/ "2026_07_09-Nanyang Technological University-Yuxi Wang") [video diffusion model, 4D trajectory, hand motion reconstruction, in-the-wild data collection]
 
 ## (2) Autonomous Driving
 

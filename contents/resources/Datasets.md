@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-05
+last_modified_at: 2026-07-15
 
 hide_description: true
 hide_image: false
@@ -90,6 +90,7 @@ featured: false
 > 18. **OmniSharing DB**: [PaXini Full-modal Datasets](https://omnisharingdb.paxini.com/home "2026-PaXini") [Full-modal Datasets, Tactile Sensing]
 > 19. **Daimon-Infinity**: [The world's largest omni-modal robotics dataset for physical AI, including high-resolution tactile sensing](https://www.modelscope.cn/datasets/daimonrobotics/Daimon-Infinity/ "2026_04_15-Daimon") [VTLA, multimodal data, physical AI, high-resolution tactile sensing]
 > 20. **HRDexDB**: [A Paired Human-Robot Dataset for Cross-Embodiment Dexterous Grasping](https://snuvclab.github.io/HRDexDB/ "2026_06_19-Seoul National University-Jongbin Lim") [Cross-Embodiment, Human-to-Robot Learning, Dexterous Manipulation]
+> 21. **CyberOrigin**: [Embodiments Manipulation Dataset](https://cyberorigin2077.github.io/ "2026_07-CyberOrigin") [Embodiments Manipulation, skeletal movement, RGB-D camera, home services, logistics industry, laboratory scenarios]
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}
