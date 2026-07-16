@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-15
+last_modified_at: 2026-07-16
 
 hide_description: true
 hide_image: false
@@ -561,6 +561,7 @@ featured: false
 > 305. **AnySearch**: [AnySearch](https://www.anysearch.com/ "2026_07_05") [AnySearch]
 > 306. **Compound Engineering**: [The AI-native engineering philosophy](https://every.to/guides/compound-engineering "2026-Every Media") [Plan, Work, Review, Compound, Repeat]
 > 307. **DeepTutor**: [Lifelong Personalized Tutoring](https://deeptutor.info/zh-cn/ "DeepTutor") [DeepTutor]
+> 308. **Graphify**: [The knowledge graph your AI can reason over](https://graphify.com/ "2026_07_14-Graphify Labs") [knowledge graph, code repo, codebase]
 
 ## (3) AIGC
 
@@ -1912,6 +1913,8 @@ Reference, RL Framework]
 > 737. **EquiVLA**: [A General Framework for Rotationally Equivariant Vision–Language–Action Models](https://equivla.github.io/ "2026_06_18-VinRobotics-Thien-Loc Ha") [Equivariance, Robot Manipulation, Vision-Language-Action]
 > 738. **UHAS**: [Cross-Embodiment Robot Manipulation via a Unified Hand Action Space](https://irvlutd.github.io/UHAS/ "2026_07_03-University of Texas at Dallas-Luis Felipe Casas") [Cross-Embodiment Manipulation, Unified Action Space, Reinforcement Learning, In-Hand Manipulation]
 > 739. **ViDiHand**: [The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction](https://vidihand.github.io/ "2026_07_09-Nanyang Technological University-Yuxi Wang") [video diffusion model, 4D trajectory, hand motion reconstruction, in-the-wild data collection]
+> 740. **RoboTTT**: [Context Scaling for Robot Policies](https://research.nvidia.com/labs/gear/robottt/ "2026_07_15-NVIDIA-Yunfan Jiang") [Long-Context Policies, Test-Time Training, Robot Foundation Models]
+> 741. **EgoSteer**: [A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos](https://egosteer.github.io/ "2026_06_21-PKU-Yifan Zhong") [Steerable Dexterous Manipulation, VLA Models, Egocentric Videos]
 
 ## (2) Autonomous Driving
 
