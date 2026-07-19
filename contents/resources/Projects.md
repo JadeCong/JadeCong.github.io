@@ -1100,6 +1100,7 @@ featured: false
 > 104. **Mini Pupper**: [Mini Pupper](https://minipupperdocs.readthedocs.io/en/latest/ "2026_07_05") [Mini Pupper]
 > 105. **ROSLander**: [ROSLander](https://www.wondernex.com/pages/roslander "2026_07_05") [ROSLander]
 > 106. **Aero Hand**: [Aero Hand](https://shop.tetheria.ai/ "2026_07_05") [Aero Hand]
+> 107. **HandUMI**: [A hand-worn interface for collecting robot-free bimanual demonstrations](https://robonet-ai.github.io/handumi-sw/ "2026-RoboNet") [data collection, calibration, validation, replay, teleoperation, robot-retargeting]
 
 ## (2) Software
 
