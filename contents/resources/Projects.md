@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-16
+last_modified_at: 2026-07-19
 
 hide_description: true
 hide_image: false
@@ -1915,6 +1915,9 @@ Reference, RL Framework]
 > 739. **ViDiHand**: [The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction](https://vidihand.github.io/ "2026_07_09-Nanyang Technological University-Yuxi Wang") [video diffusion model, 4D trajectory, hand motion reconstruction, in-the-wild data collection]
 > 740. **RoboTTT**: [Context Scaling for Robot Policies](https://research.nvidia.com/labs/gear/robottt/ "2026_07_15-NVIDIA-Yunfan Jiang") [Long-Context Policies, Test-Time Training, Robot Foundation Models]
 > 741. **EgoSteer**: [A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos](https://egosteer.github.io/ "2026_06_21-PKU-Yifan Zhong") [Steerable Dexterous Manipulation, VLA Models, Egocentric Videos]
+> 742. **SIMPLE**: [Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation](https://psi-lab.ai/SIMPLE/ "2026_06_06-USC Physical Superintelligence (PSI) Lab-Songlin Wei") [Humanoid Loco-Manipulation, Simulation-based Evaluation, Whole-body Foundation Models]
+> 743. **TACO**: [TActile World Model as a Self-COrrector for Scalable VLA Post-Training](https://taco-wm.github.io/ "2026_07_03-Peking University-Shengbang Liu") [Robotic Manipulation, Tactile World Model]
+> 744. **TeleDexter**: [Towards Human-level Dexterous Teleoperation](https://bigai-dex.github.io/blog/teledexter/ "2026_07_13-Tsinghua University-Puhao Li") [Robot Manipulation, Dexterous Teleoperation, Sim-to-Real Transfer]
 
 ## (2) Autonomous Driving
 
