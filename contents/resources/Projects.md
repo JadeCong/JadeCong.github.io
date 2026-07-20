@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-19
+last_modified_at: 2026-07-20
 
 hide_description: true
 hide_image: false
@@ -1919,6 +1919,7 @@ Reference, RL Framework]
 > 742. **SIMPLE**: [Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation](https://psi-lab.ai/SIMPLE/ "2026_06_06-USC Physical Superintelligence (PSI) Lab-Songlin Wei") [Humanoid Loco-Manipulation, Simulation-based Evaluation, Whole-body Foundation Models]
 > 743. **TACO**: [TActile World Model as a Self-COrrector for Scalable VLA Post-Training](https://taco-wm.github.io/ "2026_07_03-Peking University-Shengbang Liu") [Robotic Manipulation, Tactile World Model]
 > 744. **TeleDexter**: [Towards Human-level Dexterous Teleoperation](https://bigai-dex.github.io/blog/teledexter/ "2026_07_13-Tsinghua University-Puhao Li") [Robot Manipulation, Dexterous Teleoperation, Sim-to-Real Transfer]
+> 745. **Harness VLA**: [Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://harnessvla.github.io/ "2025_07_15-Tsinghua University-Yixian Zhang") [VLA, Reliable Manipulation Primitives, Memory-Guided Agents]
 
 ## (2) Autonomous Driving
 
