@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-20
+last_modified_at: 2026-07-21
 
 hide_description: true
 hide_image: false
@@ -1169,6 +1169,9 @@ featured: false
 > 63. **cuRobo**: [cuRobo](https://nvlabs.github.io/curobo/latest/ "2026_07_05") [cuRobo]
 > 64. **MotionCode Torch**: [MotionCode Torch](https://torch.motioncodeai.com/ "2026_07_05") [MotionCode Torch]
 > 65. **Motion Studio**: [Motion Studio](https://motion.enkeebot.com/ "2026_07_05") [Motion Studio]
+> 66. **ssik**: [Analytical inverse kinematics for 6R and 7R revolute arms](robotics.github.io/ssik/ "2026-personalrobotics") [IK branch, FK closure, robot repeatability]
+> 67. **EAIK**: [A Toolbox for Efficient Analytical Inverse Kinematics by Subproblem Decomposition](https://ostermd.github.io/EAIK/ "2025-Daniel Ostermeier") [IK, automatic inverse kinematic derivation, kinematic chain, subproblems]
+> 68. **IKFlow**: [Generating Diverse Inverse Kinematics Solutions](https://sites.google.com/view/ikflow/home "2022_08_29-uke University-Barrett Ames") [Deep Learning Methods, Inverse Kinematics]
 
 # AIRobotics
 
