@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-21
+last_modified_at: 2026-07-22
 
 hide_description: true
 hide_image: false
@@ -562,6 +562,8 @@ featured: false
 > 306. **Compound Engineering**: [The AI-native engineering philosophy](https://every.to/guides/compound-engineering "2026-Every Media") [Plan, Work, Review, Compound, Repeat]
 > 307. **DeepTutor**: [Lifelong Personalized Tutoring](https://deeptutor.info/zh-cn/ "DeepTutor") [DeepTutor]
 > 308. **Graphify**: [The knowledge graph your AI can reason over](https://graphify.com/ "2026_07_14-Graphify Labs") [knowledge graph, code repo, codebase]
+> 309. **PentAGI**: [Advanced AI-Powered Penetration Testing](https://pentagi.com/ "2026-VXControl") [Fully autonomous AI Agent, complicated penetration testing tasks, terminal, browser, editor, external search system]
+> 310. **opencodex**: [Universal provider proxy for OpenAI Codex & Claude Code](https://lidge-jun.github.io/opencodex/ "2026_07_21-lidge-jun") [local proxy, Codex, Claude Code, LLM]
 
 ## (3) AIGC
 
@@ -989,6 +991,7 @@ featured: false
 > 422. **Meshy**: [Meshy](https://www.meshy.ai/zh/ "2026_07_05") [Meshy]
 > 423. **FrameCrafter**: [FrameCrafter](https://frame-crafter.github.io/ "2026_07_05") [FrameCrafter]
 > 424. **MotionBricks**: [MotionBricks](https://nvlabs.github.io/motionbricks/ "2026_07_05") [MotionBricks]
+> 425. **ClothTransformer**: [Unified Latent-Space Transformers for Scalable Cloth Simulation](https://yucrazing.github.io/clothtransformer/ "2026_07_13-Nanyang Technological University, Singapore-Yu Zhang") [Diverse Object Collision, Human Garment, Robotic Manipulation, Scalable Cloth Simulation]
 
 # Robotics
 
@@ -1172,6 +1175,7 @@ featured: false
 > 66. **ssik**: [Analytical inverse kinematics for 6R and 7R revolute arms](robotics.github.io/ssik/ "2026-personalrobotics") [IK branch, FK closure, robot repeatability]
 > 67. **EAIK**: [A Toolbox for Efficient Analytical Inverse Kinematics by Subproblem Decomposition](https://ostermd.github.io/EAIK/ "2025-Daniel Ostermeier") [IK, automatic inverse kinematic derivation, kinematic chain, subproblems]
 > 68. **IKFlow**: [Generating Diverse Inverse Kinematics Solutions](https://sites.google.com/view/ikflow/home "2022_08_29-uke University-Barrett Ames") [Deep Learning Methods, Inverse Kinematics]
+> 69. **Perceptron Egocentric API**: [](https://www.perceptron.inc/blog/introducing-perceptron-egocentric-api "2026_07_09-Perceptron") [raw robot and egocentric video, structured, policy-trainable supervision, temporal segmentation]
 
 # AIRobotics
 
@@ -1923,6 +1927,10 @@ Reference, RL Framework]
 > 743. **TACO**: [TActile World Model as a Self-COrrector for Scalable VLA Post-Training](https://taco-wm.github.io/ "2026_07_03-Peking University-Shengbang Liu") [Robotic Manipulation, Tactile World Model]
 > 744. **TeleDexter**: [Towards Human-level Dexterous Teleoperation](https://bigai-dex.github.io/blog/teledexter/ "2026_07_13-Tsinghua University-Puhao Li") [Robot Manipulation, Dexterous Teleoperation, Sim-to-Real Transfer]
 > 745. **Harness VLA**: [Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://harnessvla.github.io/ "2025_07_15-Tsinghua University-Yixian Zhang") [VLA, Reliable Manipulation Primitives, Memory-Guided Agents]
+> 746. **CoorDex**: [Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](https://skevinci.github.io/coordex/ "2026_06_22-University of North Carolina-Sikai Li") [Dexterous Loco-manipulation, Humanoids, Body-hand Coordination]
+> 747. **Qwen-VLA**: [Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://qwen.ai/blog?id=qwenvla "2026_05_29-QwenTeam") [VLA, Tasks, Environments, Robot Embodiments]
+> 748. **RoboVista**: [Evaluating Vision-Language Models for Diverse Robot Applications](https://berkeleyautomation.github.io/robovista/ "2026_07_06-University of California, Berkeley-Shuangyu Xie") [VLMs, Robot Question Answering, Benchmark, Physical robot experiments]
+> 749. **OriginFlow**: [Teach Robots the Way Humans Act](https://www.originflow.ai/ "2026-Originflow") [embodied AI, real human manipulation, scalable robot intelligence, human skill]
 
 ## (2) Autonomous Driving
 
@@ -2095,6 +2103,7 @@ Reference, RL Framework]
 > 149. **SceneVerse++**: [SceneVerse++](https://sv-pp.github.io/ "2026_07_05") [SceneVerse++]
 > 150. **RuView**: [RuView](https://cognitum.one/ruview "2026_07_05") [RuView]
 > 151. **HOI-DETR**: [HOI-DETR](https://ahmaddarkhalil.github.io/HOI-DETR/ "2026_07_05") [HOI-DETR]
+> 152. **Face Anything**: [4D Face Reconstruction from Any Image Sequence](https://kocasariumut.github.io/FaceAnything/ "2026_06_29-Technical University of Munich-Umut Kocasarı") [4D Face Reconstruction, Dynamic 3D Face Reconstruction,3D Face Modeling, Dense/Sparse Point Tracking]
 
 ## (2) Tools
 
