@@ -563,7 +563,7 @@ featured: false
 > 307. **DeepTutor**: [Lifelong Personalized Tutoring](https://deeptutor.info/zh-cn/ "DeepTutor") [DeepTutor]
 > 308. **Graphify**: [The knowledge graph your AI can reason over](https://graphify.com/ "2026_07_14-Graphify Labs") [knowledge graph, code repo, codebase]
 > 309. **PentAGI**: [Advanced AI-Powered Penetration Testing](https://pentagi.com/ "2026-VXControl") [Fully autonomous AI Agent, complicated penetration testing tasks, terminal, browser, editor, external search system]
-> 310. **opencodex**: [Universal provider proxy for OpenAI Codex & Claude Code](https://lidge-jun.github.io/opencodex/ "2026_07_21-lidge-jun") [local proxy, Codex, Claude Code, LLM]
+> 310. **OpenCodex**: [Universal provider proxy for OpenAI Codex & Claude Code](https://lidge-jun.github.io/opencodex/ "2026_07_21-lidge-jun") [local proxy, Codex, Claude Code, LLM]
 
 ## (3) AIGC
 
