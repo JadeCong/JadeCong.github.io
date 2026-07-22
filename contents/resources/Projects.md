@@ -1931,6 +1931,7 @@ Reference, RL Framework]
 > 747. **Qwen-VLA**: [Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://qwen.ai/blog?id=qwenvla "2026_05_29-QwenTeam") [VLA, Tasks, Environments, Robot Embodiments]
 > 748. **RoboVista**: [Evaluating Vision-Language Models for Diverse Robot Applications](https://berkeleyautomation.github.io/robovista/ "2026_07_06-University of California, Berkeley-Shuangyu Xie") [VLMs, Robot Question Answering, Benchmark, Physical robot experiments]
 > 749. **OriginFlow**: [Teach Robots the Way Humans Act](https://www.originflow.ai/ "2026-Originflow") [embodied AI, real human manipulation, scalable robot intelligence, human skill]
+> 750. **DriftWorld**: [Fast World Modeling through Drifting](https://susie-lu.github.io/driftworld/ "2026_07_16-Massachusetts Institute of Technology-Susie Lu") [World Models, Action-Conditioned Video Generation]
 
 ## (2) Autonomous Driving
 
@@ -2104,6 +2105,7 @@ Reference, RL Framework]
 > 150. **RuView**: [RuView](https://cognitum.one/ruview "2026_07_05") [RuView]
 > 151. **HOI-DETR**: [HOI-DETR](https://ahmaddarkhalil.github.io/HOI-DETR/ "2026_07_05") [HOI-DETR]
 > 152. **Face Anything**: [4D Face Reconstruction from Any Image Sequence](https://kocasariumut.github.io/FaceAnything/ "2026_06_29-Technical University of Munich-Umut Kocasarı") [4D Face Reconstruction, Dynamic 3D Face Reconstruction,3D Face Modeling, Dense/Sparse Point Tracking]
+> 153. **MotionForesight**: [Re-purposing Video Models for Future 3D Scene-Flow Prediction](https://motionforesight.github.io/ "2026-Johns Hopkins University-Homanga Bharadhwaj") [monocular video context, 3D scene flow, Video Models]
 
 ## (2) Tools
 
