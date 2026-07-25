@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-22
+last_modified_at: 2026-07-25
 
 hide_description: true
 hide_image: false
@@ -564,6 +564,7 @@ featured: false
 > 308. **Graphify**: [The knowledge graph your AI can reason over](https://graphify.com/ "2026_07_14-Graphify Labs") [knowledge graph, code repo, codebase]
 > 309. **PentAGI**: [Advanced AI-Powered Penetration Testing](https://pentagi.com/ "2026-VXControl") [Fully autonomous AI Agent, complicated penetration testing tasks, terminal, browser, editor, external search system]
 > 310. **OpenCodex**: [Universal provider proxy for OpenAI Codex & Claude Code](https://lidge-jun.github.io/opencodex/ "2026_07_21-lidge-jun") [local proxy, Codex, Claude Code, LLM]
+> 311. **Project NOMAD**: [Knowledge That Never Goes Offline](https://www.projectnomad.us/ "2026-Crosstalk Solutions") [Wikipedia, AI, maps, education tools]
 
 ## (3) AIGC
 
@@ -1104,6 +1105,7 @@ featured: false
 > 105. **ROSLander**: [ROSLander](https://www.wondernex.com/pages/roslander "2026_07_05") [ROSLander]
 > 106. **Aero Hand**: [Aero Hand](https://shop.tetheria.ai/ "2026_07_05") [Aero Hand]
 > 107. **HandUMI**: [A hand-worn interface for collecting robot-free bimanual demonstrations](https://robonet-ai.github.io/handumi-sw/ "2026-RoboNet") [data collection, calibration, validation, replay, teleoperation, robot-retargeting]
+> 108. **VTAP Gripper**: [Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation](https://yuhao-zhou.com/vtap/ "2026-Purdue University-Yuhao Zhou") [Fingertip Sensing, Dexterous In-Hand Manipulation]
 
 ## (2) Software
 
@@ -1932,6 +1934,8 @@ Reference, RL Framework]
 > 748. **RoboVista**: [Evaluating Vision-Language Models for Diverse Robot Applications](https://berkeleyautomation.github.io/robovista/ "2026_07_06-University of California, Berkeley-Shuangyu Xie") [VLMs, Robot Question Answering, Benchmark, Physical robot experiments]
 > 749. **OriginFlow**: [Teach Robots the Way Humans Act](https://www.originflow.ai/ "2026-Originflow") [embodied AI, real human manipulation, scalable robot intelligence, human skill]
 > 750. **DriftWorld**: [Fast World Modeling through Drifting](https://susie-lu.github.io/driftworld/ "2026_07_16-Massachusetts Institute of Technology-Susie Lu") [World Models, Action-Conditioned Video Generation]
+> 750. **GEN-1**: [Scaling Embodied Foundation Models to Mastery](https://generalistai.com/blog/gen-1 "2026_04_02-Generalist AI") [scaling robot learning, generalist intelligence, physical world]
+> 751. **ENPIRE**: [Agentic Robot Policy Self-Improvement in the Real World](https://research.nvidia.com/labs/gear/enpire/ "2026_06_18-NVIDIA-Wenli Xiao") [Agentic Robot Policy, Self-Improvement, dexterous robotic manipulation]
 
 ## (2) Autonomous Driving
 
