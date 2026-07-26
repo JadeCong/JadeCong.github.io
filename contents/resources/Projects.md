@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-25
+last_modified_at: 2026-07-27
 
 hide_description: true
 hide_image: false
@@ -565,6 +565,9 @@ featured: false
 > 309. **PentAGI**: [Advanced AI-Powered Penetration Testing](https://pentagi.com/ "2026-VXControl") [Fully autonomous AI Agent, complicated penetration testing tasks, terminal, browser, editor, external search system]
 > 310. **OpenCodex**: [Universal provider proxy for OpenAI Codex & Claude Code](https://lidge-jun.github.io/opencodex/ "2026_07_21-lidge-jun") [local proxy, Codex, Claude Code, LLM]
 > 311. **Project NOMAD**: [Knowledge That Never Goes Offline](https://www.projectnomad.us/ "2026-Crosstalk Solutions") [Wikipedia, AI, maps, education tools]
+> 312. **OpenWorker**: [AI that gets your everyday tasks done](https://open-worker.app/zh "2026-OpenWorker") [AI coworker]
+> 313. **OpenHands**: [The self-hosted developer control center for coding agents and automations](https://www.openhands.dev/ "2026-OpenHands") [codebase, workflows, open source platform, agent]
+> 314. **Clean Code**: [A Handbook of Agile Software Craftsmanship](http://cleancoder.com/products "2026-Uncle Bob") [Clean Code]
 
 ## (3) AIGC
 
@@ -993,6 +996,7 @@ featured: false
 > 423. **FrameCrafter**: [FrameCrafter](https://frame-crafter.github.io/ "2026_07_05") [FrameCrafter]
 > 424. **MotionBricks**: [MotionBricks](https://nvlabs.github.io/motionbricks/ "2026_07_05") [MotionBricks]
 > 425. **ClothTransformer**: [Unified Latent-Space Transformers for Scalable Cloth Simulation](https://yucrazing.github.io/clothtransformer/ "2026_07_13-Nanyang Technological University, Singapore-Yu Zhang") [Diverse Object Collision, Human Garment, Robotic Manipulation, Scalable Cloth Simulation]
+> 426. **DiffGI**: [Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation](https://ejshim.github.io/diffgi/ "2026_07_15-CLO Virtual Fashion-Eungjune Shim") [3D Mesh Generation, Differentiable Geometry Images, Truncated Signed Distance Function, Thin-Surface Modeling, Latent Diffusion Models]
 
 # Robotics
 
@@ -1178,6 +1182,8 @@ featured: false
 > 67. **EAIK**: [A Toolbox for Efficient Analytical Inverse Kinematics by Subproblem Decomposition](https://ostermd.github.io/EAIK/ "2025-Daniel Ostermeier") [IK, automatic inverse kinematic derivation, kinematic chain, subproblems]
 > 68. **IKFlow**: [Generating Diverse Inverse Kinematics Solutions](https://sites.google.com/view/ikflow/home "2022_08_29-uke University-Barrett Ames") [Deep Learning Methods, Inverse Kinematics]
 > 69. **Perceptron Egocentric API**: [](https://www.perceptron.inc/blog/introducing-perceptron-egocentric-api "2026_07_09-Perceptron") [raw robot and egocentric video, structured, policy-trainable supervision, temporal segmentation]
+> 70. **Track2Map**: [Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery](https://track2map.github.io/ "2026_07_09-University College London-Tianyi Song") [Robot-assisted surgery, Stereo endoscopy, Online 3D reconstruction, Camera pose optimization]
+> 71. **Qbot Pro**: [Robotic Structure Rapid Estimation Platform](https://yueqiang-robotics.github.io/Qbot-calculator/ "2026-Qbot Pro") [Structure Engineering, URDF]
 
 # AIRobotics
 
@@ -1936,6 +1942,7 @@ Reference, RL Framework]
 > 750. **DriftWorld**: [Fast World Modeling through Drifting](https://susie-lu.github.io/driftworld/ "2026_07_16-Massachusetts Institute of Technology-Susie Lu") [World Models, Action-Conditioned Video Generation]
 > 750. **GEN-1**: [Scaling Embodied Foundation Models to Mastery](https://generalistai.com/blog/gen-1 "2026_04_02-Generalist AI") [scaling robot learning, generalist intelligence, physical world]
 > 751. **ENPIRE**: [Agentic Robot Policy Self-Improvement in the Real World](https://research.nvidia.com/labs/gear/enpire/ "2026_06_18-NVIDIA-Wenli Xiao") [Agentic Robot Policy, Self-Improvement, dexterous robotic manipulation]
+> 752. **TacO**: [Benchmarking Tactile Sensors for Object Manipulation](https://tacobench.github.io/ "2026_05_21-UC San Diego-Anya Zorin") [Tactile Sensing, Benchmark, Imitation Learning]
 
 ## (2) Autonomous Driving
 
@@ -2110,6 +2117,7 @@ Reference, RL Framework]
 > 151. **HOI-DETR**: [HOI-DETR](https://ahmaddarkhalil.github.io/HOI-DETR/ "2026_07_05") [HOI-DETR]
 > 152. **Face Anything**: [4D Face Reconstruction from Any Image Sequence](https://kocasariumut.github.io/FaceAnything/ "2026_06_29-Technical University of Munich-Umut Kocasarı") [4D Face Reconstruction, Dynamic 3D Face Reconstruction,3D Face Modeling, Dense/Sparse Point Tracking]
 > 153. **MotionForesight**: [Re-purposing Video Models for Future 3D Scene-Flow Prediction](https://motionforesight.github.io/ "2026-Johns Hopkins University-Homanga Bharadhwaj") [monocular video context, 3D scene flow, Video Models]
+> 154. **FMPose3D**: [Monocular 3D Pose Estimation via Flow Matching](https://xiu-cs.github.io/FMPose3D/ "2026_02_05-EPFL-Ti Wang") [monocular, 3D pose estimation, flow matching]
 
 ## (2) Tools
 
@@ -2152,6 +2160,8 @@ Reference, RL Framework]
 > 37. **MCAP**: [MCAP](https://mcap.dev/ "2026_07_05") [MCAP]
 > 38. **ZLMediaKit**: [ZLMediaKit](https://docs.zlmediakit.com/ "2026_07_05") [ZLMediaKit]
 > 39. **Taichi Lang**: [Taichi Lang](https://www.taichi-lang.org/ "2026_07_05") [Taichi Lang]
+> 40. **Snapzy**: [Native macOS screenshots, recording, annotation, and editing from the menu bar](https://snapzy.app/ "2026-Snapzy") [screen capture, lightweight]
+> 41. **GSAP**: [A wildly robust JavaScript animation library built for professionals](https://gsap.com/ "2026-GSAP") [Animate anything, JavaScript animation]
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
