@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-27
+last_modified_at: 2026-07-29
 
 hide_description: true
 hide_image: false
@@ -568,6 +568,7 @@ featured: false
 > 312. **OpenWorker**: [AI that gets your everyday tasks done](https://open-worker.app/zh "2026-OpenWorker") [AI coworker]
 > 313. **OpenHands**: [The self-hosted developer control center for coding agents and automations](https://www.openhands.dev/ "2026-OpenHands") [codebase, workflows, open source platform, agent]
 > 314. **Clean Code**: [A Handbook of Agile Software Craftsmanship](http://cleancoder.com/products "2026-Uncle Bob") [Clean Code]
+> 315. **UI Skills**: [A collection of design-engineering skills to help humans and agents create better interfaces](https://www.ui-skills.com/ "2026-Interface Office") [better interfaces, agent, skills]
 
 ## (3) AIGC
 
@@ -1110,6 +1111,8 @@ featured: false
 > 106. **Aero Hand**: [Aero Hand](https://shop.tetheria.ai/ "2026_07_05") [Aero Hand]
 > 107. **HandUMI**: [A hand-worn interface for collecting robot-free bimanual demonstrations](https://robonet-ai.github.io/handumi-sw/ "2026-RoboNet") [data collection, calibration, validation, replay, teleoperation, robot-retargeting]
 > 108. **VTAP Gripper**: [Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation](https://yuhao-zhou.com/vtap/ "2026-Purdue University-Yuhao Zhou") [Fingertip Sensing, Dexterous In-Hand Manipulation]
+> 109. **ModPack**: [An Extensible Teleoperation Interface for Bimanual Mobile Manipulation](https://modpack-robotics.github.io/ "2026_07_21-Stanford University-Joshua Citron") [Mobile Manipulation, Teleoperation Systems, Imitation Learning]
+> 110. **OSMO**: [Open-Source Tactile Glove for Human-to-Robot Skill Transfer](https://www.jessicayin.com/osmo_tactile_glove/ "2025_11_09-1Meta FAIR-Jessica Yin") [Wearable Tactile Glove, Human-to-Robot Skill Transfer, hand-tracking methods, in-the-wild data collection]
 
 ## (2) Software
 
@@ -1943,6 +1946,8 @@ Reference, RL Framework]
 > 750. **GEN-1**: [Scaling Embodied Foundation Models to Mastery](https://generalistai.com/blog/gen-1 "2026_04_02-Generalist AI") [scaling robot learning, generalist intelligence, physical world]
 > 751. **ENPIRE**: [Agentic Robot Policy Self-Improvement in the Real World](https://research.nvidia.com/labs/gear/enpire/ "2026_06_18-NVIDIA-Wenli Xiao") [Agentic Robot Policy, Self-Improvement, dexterous robotic manipulation]
 > 752. **TacO**: [Benchmarking Tactile Sensors for Object Manipulation](https://tacobench.github.io/ "2026_05_21-UC San Diego-Anya Zorin") [Tactile Sensing, Benchmark, Imitation Learning]
+> 753. **ACE-Brain-0.5**: [A Unified Embodied Foundational Model for Physical Agentic AI](https://daxiaorobotics.github.io/ACE-Brain-0.5/ "2026_07_05-ACE-Brain Team") [Unified Embodied Foundational Model, Physical Agentic AI, Spatial Perception, Decision Making, Embodied Interaction, Self-monitoring, Self-improvement]
+> 754. **TOPReward**: [Token Probabilities as Hidden Zero-Shot Rewards for Robotics](https://topreward.github.io/webpage/ "2026_07_22-University of Washington-Shirui Chen") [robot learning, reward models, vision-language models]
 
 ## (2) Autonomous Driving
 
