@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-29
+last_modified_at: 2026-07-31
 
 hide_description: true
 hide_image: false
@@ -1948,6 +1948,9 @@ Reference, RL Framework]
 > 752. **TacO**: [Benchmarking Tactile Sensors for Object Manipulation](https://tacobench.github.io/ "2026_05_21-UC San Diego-Anya Zorin") [Tactile Sensing, Benchmark, Imitation Learning]
 > 753. **ACE-Brain-0.5**: [A Unified Embodied Foundational Model for Physical Agentic AI](https://daxiaorobotics.github.io/ACE-Brain-0.5/ "2026_07_05-ACE-Brain Team") [Unified Embodied Foundational Model, Physical Agentic AI, Spatial Perception, Decision Making, Embodied Interaction, Self-monitoring, Self-improvement]
 > 754. **TOPReward**: [Token Probabilities as Hidden Zero-Shot Rewards for Robotics](https://topreward.github.io/webpage/ "2026_07_22-University of Washington-Shirui Chen") [robot learning, reward models, vision-language models]
+> 755. **VLK**: [Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](https://vision-language-kinematics.github.io/ "2026_06_29-Amazon FAR-Yen-Jen Wang") [Vision-Language-Kinematics, Humanoid Loco-Manipulation, Scene-Grounded Synthetic Data, Sim-to-Real Transfer]
+> 756. **Generative Motion Rig**: [A Generative Motion Rig for Artist-Driven Motion Authoring](https://studios.disneyresearch.com/2026/07/16/a-generative-motion-rig-for-artist-driven-motion-authoring/ "2026_07_16-DisneyResearch-Jakob Buhmann") [Generative Motion Models, Control Rig, Character Animation]
+> 757. **Waddle**: [Agents that Control Robots](https://www.waddlelabs.ai/research/introducing-waddle "2026_07-Waddle Team") [Agent, LLMs, Robot Learning, Data Collection, Robot Control]
 
 ## (2) Autonomous Driving
 
@@ -2123,6 +2126,7 @@ Reference, RL Framework]
 > 152. **Face Anything**: [4D Face Reconstruction from Any Image Sequence](https://kocasariumut.github.io/FaceAnything/ "2026_06_29-Technical University of Munich-Umut Kocasarı") [4D Face Reconstruction, Dynamic 3D Face Reconstruction,3D Face Modeling, Dense/Sparse Point Tracking]
 > 153. **MotionForesight**: [Re-purposing Video Models for Future 3D Scene-Flow Prediction](https://motionforesight.github.io/ "2026-Johns Hopkins University-Homanga Bharadhwaj") [monocular video context, 3D scene flow, Video Models]
 > 154. **FMPose3D**: [Monocular 3D Pose Estimation via Flow Matching](https://xiu-cs.github.io/FMPose3D/ "2026_02_05-EPFL-Ti Wang") [monocular, 3D pose estimation, flow matching]
+> 155. **SHELLS**: [Topologically Consistent Multi-view 3D Head Reconstruction via Coarse-Guided Layered Surface Sampling](https://syntec-research.github.io/SHELLS/ "2026_05_29-Google-TIMO BOLKART") [3D Head Reconstruction, 3D meshes, Mesh geometry models]
 
 ## (2) Tools
 
