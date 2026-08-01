@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-07-31
+last_modified_at: 2026-08-01
 
 hide_description: true
 hide_image: false
@@ -1951,6 +1951,9 @@ Reference, RL Framework]
 > 755. **VLK**: [Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](https://vision-language-kinematics.github.io/ "2026_06_29-Amazon FAR-Yen-Jen Wang") [Vision-Language-Kinematics, Humanoid Loco-Manipulation, Scene-Grounded Synthetic Data, Sim-to-Real Transfer]
 > 756. **Generative Motion Rig**: [A Generative Motion Rig for Artist-Driven Motion Authoring](https://studios.disneyresearch.com/2026/07/16/a-generative-motion-rig-for-artist-driven-motion-authoring/ "2026_07_16-DisneyResearch-Jakob Buhmann") [Generative Motion Models, Control Rig, Character Animation]
 > 757. **Waddle**: [Agents that Control Robots](https://www.waddlelabs.ai/research/introducing-waddle "2026_07-Waddle Team") [Agent, LLMs, Robot Learning, Data Collection, Robot Control]
+> 758. **Masked Visual Actions**: [Masked Visual Actions for Unified World Modeling](https://masked-visual-actions.github.io/ "2026_07_21-Stanford University-Hadi Alzayer") [video model, robot action, robotic interaction,  pixel-space masked motion]
+> 759. **EmbodiedGen V2**: [An Agentic, Simulation-Ready 3D World Engine for Embodied AI](https://horizonrobotics.github.io/EmbodiedGen/ "2026_07_12-Horizon Robotics-Xinjie Wang") [3D World Engine, Embodied AI, Agentic, Simulation]
+> 760. **Gemini Robotics 2**: [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ "2026_07_30-Google DeepMind-Carolina Parada") [robot intelligence, whole-body control, fine dexterity, teamwork, complex tasks]
 
 ## (2) Autonomous Driving
 
