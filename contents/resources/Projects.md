@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-08-01
+last_modified_at: 2026-08-05
 
 hide_description: true
 hide_image: false
@@ -1954,6 +1954,7 @@ Reference, RL Framework]
 > 758. **Masked Visual Actions**: [Masked Visual Actions for Unified World Modeling](https://masked-visual-actions.github.io/ "2026_07_21-Stanford University-Hadi Alzayer") [video model, robot action, robotic interaction,  pixel-space masked motion]
 > 759. **EmbodiedGen V2**: [An Agentic, Simulation-Ready 3D World Engine for Embodied AI](https://horizonrobotics.github.io/EmbodiedGen/ "2026_07_12-Horizon Robotics-Xinjie Wang") [3D World Engine, Embodied AI, Agentic, Simulation]
 > 760. **Gemini Robotics 2**: [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ "2026_07_30-Google DeepMind-Carolina Parada") [robot intelligence, whole-body control, fine dexterity, teamwork, complex tasks]
+> 761. **Light-Loco-Parkour**: [Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation](https://light-loco-parkour.github.io/ "2026_07-Light Origins-Hongming Chen") [Humanoid and Bipedal Locomotion, Reinforcement Learning, Whole-Body Control, Perception-Action Coupling]
 
 ## (2) Autonomous Driving
 
