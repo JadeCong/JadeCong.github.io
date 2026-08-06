@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-08-05
+last_modified_at: 2026-08-06
 
 hide_description: true
 hide_image: false
@@ -1187,6 +1187,7 @@ featured: false
 > 69. **Perceptron Egocentric API**: [](https://www.perceptron.inc/blog/introducing-perceptron-egocentric-api "2026_07_09-Perceptron") [raw robot and egocentric video, structured, policy-trainable supervision, temporal segmentation]
 > 70. **Track2Map**: [Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery](https://track2map.github.io/ "2026_07_09-University College London-Tianyi Song") [Robot-assisted surgery, Stereo endoscopy, Online 3D reconstruction, Camera pose optimization]
 > 71. **Qbot Pro**: [Robotic Structure Rapid Estimation Platform](https://yueqiang-robotics.github.io/Qbot-calculator/ "2026-Qbot Pro") [Structure Engineering, URDF]
+> 72. **SuperMap**: [A Spatio-Temporal SLAM System for Visual-Language Navigation](https://superodometry.com/supermap "2026-Carnegie Mellon University-Shibo Zhao") [spatio-temporal SLAM, 4D spatio-temporal mapping framework, Vision-Language Models]
 
 # AIRobotics
 
@@ -1955,6 +1956,7 @@ Reference, RL Framework]
 > 759. **EmbodiedGen V2**: [An Agentic, Simulation-Ready 3D World Engine for Embodied AI](https://horizonrobotics.github.io/EmbodiedGen/ "2026_07_12-Horizon Robotics-Xinjie Wang") [3D World Engine, Embodied AI, Agentic, Simulation]
 > 760. **Gemini Robotics 2**: [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ "2026_07_30-Google DeepMind-Carolina Parada") [robot intelligence, whole-body control, fine dexterity, teamwork, complex tasks]
 > 761. **Light-Loco-Parkour**: [Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation](https://light-loco-parkour.github.io/ "2026_07-Light Origins-Hongming Chen") [Humanoid and Bipedal Locomotion, Reinforcement Learning, Whole-Body Control, Perception-Action Coupling]
+> 762. **πR2**: [Reactive Real-time Flow Policies](https://pi-r2-flow.github.io/ "2026-Carnegie Mellon University-Sungjae Park") [Reactivity, Real-time Inference, Flow Policies, Robot Foundation Models]
 
 ## (2) Autonomous Driving
 
@@ -2131,6 +2133,9 @@ Reference, RL Framework]
 > 153. **MotionForesight**: [Re-purposing Video Models for Future 3D Scene-Flow Prediction](https://motionforesight.github.io/ "2026-Johns Hopkins University-Homanga Bharadhwaj") [monocular video context, 3D scene flow, Video Models]
 > 154. **FMPose3D**: [Monocular 3D Pose Estimation via Flow Matching](https://xiu-cs.github.io/FMPose3D/ "2026_02_05-EPFL-Ti Wang") [monocular, 3D pose estimation, flow matching]
 > 155. **SHELLS**: [Topologically Consistent Multi-view 3D Head Reconstruction via Coarse-Guided Layered Surface Sampling](https://syntec-research.github.io/SHELLS/ "2026_05_29-Google-TIMO BOLKART") [3D Head Reconstruction, 3D meshes, Mesh geometry models]
+> 156. **Lift4D**: [Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/ "2026_06_22-Carnegie Mellon University-Yehonathan Litman") [4D Reconstruction, Monocular In-the-Wild Video, 3D Estimation, full geometry, appearance, deformation of objects]
+> 157. **FARM**: [Find Anything using Relational Spatial Memory](https://goldengait.github.io/farm/ "2026_07_26-UC Berkeley-Siming He") [3D scene understanding, real-time mapping, relational object retrieval]
+> 158. **ReViV**: [Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video](https://reviv4d.github.io/ "2026_07_20-ETH Zurich-Xiaozhong Lyu") [Egocentric Vision, 4D Reconstruction, Human Motion]
 
 ## (2) Tools
 
