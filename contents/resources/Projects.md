@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-08-06
+last_modified_at: 2026-08-07
 
 hide_description: true
 hide_image: false
@@ -2136,6 +2136,7 @@ Reference, RL Framework]
 > 156. **Lift4D**: [Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/ "2026_06_22-Carnegie Mellon University-Yehonathan Litman") [4D Reconstruction, Monocular In-the-Wild Video, 3D Estimation, full geometry, appearance, deformation of objects]
 > 157. **FARM**: [Find Anything using Relational Spatial Memory](https://goldengait.github.io/farm/ "2026_07_26-UC Berkeley-Siming He") [3D scene understanding, real-time mapping, relational object retrieval]
 > 158. **ReViV**: [Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video](https://reviv4d.github.io/ "2026_07_20-ETH Zurich-Xiaozhong Lyu") [Egocentric Vision, 4D Reconstruction, Human Motion]
+> 159. **Depth Anything 3**: [Recovering the Visual Space from Any Views](https://depth-anything-3.github.io/ "2025_11_13-ByteDance Seed-Haotong Lin") [spatially consistent geometry, Visual Space, camera pose estimation, geometry and visual rendering]
 
 ## (2) Tools
 
