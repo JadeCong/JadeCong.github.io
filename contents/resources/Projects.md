@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-08-07
+last_modified_at: 2026-08-09
 
 hide_description: true
 hide_image: false
@@ -251,6 +251,7 @@ featured: false
 > 201. **GLM**: [GLM](https://www.zhipuai.cn/zh/ "2026_07_05") [GLM]
 > 202. **Spatial-TTT**: [Spatial-TTT](https://liuff19.github.io/Spatial-TTT/ "2026_07_05") [Spatial-TTT]
 > 203. **Happy Horses**: [Happy Horses](https://happyhorses.io/ "2026_07_05") [Happy Horses]
+> 204. **Qwen-3D**: [A Generalist 3D Vision-Language Model for Spatial Understanding](https://qwen-3d.github.io/ "2026_08_04-Carnegie Mellon University-Lucy Lin") [LMMs, efficient long-horizon visual reasoning, Spatial Understanding]
 
 ## (2) Agents
 
@@ -1113,6 +1114,7 @@ featured: false
 > 108. **VTAP Gripper**: [Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation](https://yuhao-zhou.com/vtap/ "2026-Purdue University-Yuhao Zhou") [Fingertip Sensing, Dexterous In-Hand Manipulation]
 > 109. **ModPack**: [An Extensible Teleoperation Interface for Bimanual Mobile Manipulation](https://modpack-robotics.github.io/ "2026_07_21-Stanford University-Joshua Citron") [Mobile Manipulation, Teleoperation Systems, Imitation Learning]
 > 110. **OSMO**: [Open-Source Tactile Glove for Human-to-Robot Skill Transfer](https://www.jessicayin.com/osmo_tactile_glove/ "2025_11_09-1Meta FAIR-Jessica Yin") [Wearable Tactile Glove, Human-to-Robot Skill Transfer, hand-tracking methods, in-the-wild data collection]
+> 111. **HumanTouch**: [A Multimodal System for Scalable Human-Hand Tactile Acquisition](https://xsparkai.com/sparklab/humantouch/ "2026_08_07-XSpark AI-Chuqiao Lyu") [Tactile Sensation, touch, hand motion, vision, calibrated and traceable acquisition system]
 
 ## (2) Software
 
@@ -1957,6 +1959,10 @@ Reference, RL Framework]
 > 760. **Gemini Robotics 2**: [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ "2026_07_30-Google DeepMind-Carolina Parada") [robot intelligence, whole-body control, fine dexterity, teamwork, complex tasks]
 > 761. **Light-Loco-Parkour**: [Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation](https://light-loco-parkour.github.io/ "2026_07-Light Origins-Hongming Chen") [Humanoid and Bipedal Locomotion, Reinforcement Learning, Whole-Body Control, Perception-Action Coupling]
 > 762. **πR2**: [Reactive Real-time Flow Policies](https://pi-r2-flow.github.io/ "2026-Carnegie Mellon University-Sungjae Park") [Reactivity, Real-time Inference, Flow Policies, Robot Foundation Models]
+> 763. **Ego2Robot**: [Scalable Robot Data Synthesis from Egocentric Human Data](https://www-ye.github.io/ego2robot_blog/ "2026_08_03-Qwen Team-Ye Wang") [Robot Data Synthesis, Egocentric Data, Generalization Evaluation]
+> 764. **CLIFT**: [Turning Gemini Robotics On‑Device into Humanoid Specialists via Non‑Invasive Closed‑Loop Iterative Fine‑Tuning](https://thomaschen98.github.io/clift/ "2026_07_31-UC Berkeley-Yuxin Chen") [Robot Foundation Models, On-Device Closed-Loop Training]
+> 765. **REFINE-DP**: [Diffusion Policy Fine-tuning for Humanoid Loco-manipulation via Reinforcement Learning](https://refine-dp.github.io/REFINE-DP/ "2026_03_17-Georgia Institute of Technology-Zhaoyuan Gu") [Diffusion Policy, Fine-tuning, Joint Optimization, Humanoid Robot, Locomotion and Manipulation]
+> 766. **REGRIND**: [A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation](https://www.yunhaifeng.com/REGRIND/ "2026-Cornell University-Yunhai Feng") [Reinforcement Learning, Dexterous Manipulation, Motion Retargeting, Sim-to-Real]
 
 ## (2) Autonomous Driving
 
@@ -2137,6 +2143,9 @@ Reference, RL Framework]
 > 157. **FARM**: [Find Anything using Relational Spatial Memory](https://goldengait.github.io/farm/ "2026_07_26-UC Berkeley-Siming He") [3D scene understanding, real-time mapping, relational object retrieval]
 > 158. **ReViV**: [Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video](https://reviv4d.github.io/ "2026_07_20-ETH Zurich-Xiaozhong Lyu") [Egocentric Vision, 4D Reconstruction, Human Motion]
 > 159. **Depth Anything 3**: [Recovering the Visual Space from Any Views](https://depth-anything-3.github.io/ "2025_11_13-ByteDance Seed-Haotong Lin") [spatially consistent geometry, Visual Space, camera pose estimation, geometry and visual rendering]
+> 160. **PolyLayout**: [Multi-room Manhattan Layout Estimation](https://ghanning.github.io/PolyLayout/ "2026_08_04-Lund University-Gustav Hanning") [Layout Estimation, indoor scene understanding, polygon topology]
+> 161. **MoGe-3**: [Fine-Detail Monocular Geometry Estimation with Self-Guided Sparse Volumetric Refinement](https://qft-333.github.io/moge3page/ "2026_07_21-Tsinghua University-Lingyu Kong") [Monocular Geometry Estimation, Self-Guided Sparse Volumetric Refinement]
+> 162. **Supervision**: [An open-source Python library by Roboflow for building computer vision applications](https://supervision.roboflow.com/latest/ "2026-Roboflow") [Python, computer vision applications, object detection]
 
 ## (2) Tools
 
