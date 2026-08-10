@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-08-09
+last_modified_at: 2026-08-10
 
 hide_description: true
 hide_image: false
@@ -1963,6 +1963,7 @@ Reference, RL Framework]
 > 764. **CLIFT**: [Turning Gemini Robotics On‑Device into Humanoid Specialists via Non‑Invasive Closed‑Loop Iterative Fine‑Tuning](https://thomaschen98.github.io/clift/ "2026_07_31-UC Berkeley-Yuxin Chen") [Robot Foundation Models, On-Device Closed-Loop Training]
 > 765. **REFINE-DP**: [Diffusion Policy Fine-tuning for Humanoid Loco-manipulation via Reinforcement Learning](https://refine-dp.github.io/REFINE-DP/ "2026_03_17-Georgia Institute of Technology-Zhaoyuan Gu") [Diffusion Policy, Fine-tuning, Joint Optimization, Humanoid Robot, Locomotion and Manipulation]
 > 766. **REGRIND**: [A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation](https://www.yunhaifeng.com/REGRIND/ "2026-Cornell University-Yunhai Feng") [Reinforcement Learning, Dexterous Manipulation, Motion Retargeting, Sim-to-Real]
+> 767. **A2A**: [Action-to-Action Flow Matching](https://jingliangli.com/A2A_Flow_Matching/ "2026_05_07-Nanyang Technological University-Jindou Jia") [Flow Matching, policy paradigm, historical proprioceptive sequences, high training efficiency, fast inference speed, action generation]
 
 ## (2) Autonomous Driving
 
