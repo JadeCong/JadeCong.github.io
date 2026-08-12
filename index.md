@@ -126,7 +126,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
   var option;
   var ROOT_PATH = 'assets/images/home/';
   
-  $.getJSON('https://echarts.apache.org/examples/data-gl/asset/data/flights.json', function (data) {
+  $.getJSON(ROOT_PATH + 'flights.json', function (data) {
     var airports = data.airports.map(function (item) {
       return {
         coord: [item[3], item[4]]
