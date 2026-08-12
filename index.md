@@ -267,7 +267,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
   
   <!-- window.addEventListener('resize', myChart.resize); -->
   
-  <!-- if (option && typeof option === 'object') {
+  if (option && typeof option === 'object') {
     myChart.setOption(option);
-  } -->
+  }
 </script>
