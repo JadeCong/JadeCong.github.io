@@ -33,7 +33,7 @@ posts_page: /contents/blogs/
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2025-09-14
+last_modified_at: 2026-08-12
 
 hide_description: false
 hide_image: false
@@ -106,7 +106,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
   }).init()
 </script>
 
-<!-- dynamic interactive earth -->
+<!-- dynamic interactive earth with visitors -->
 <!-- <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-gl/dist/echarts-gl.min.js"></script>
 <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/dataTool.min.js"></script>
@@ -119,14 +119,11 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 <script type="text/javascript" src="assets/js/echarts-gl/dist/echarts-gl.min.js"></script>
 <div id="container" style="width:100%; aspect-ratio:2/1; border-radius:9px; overflow:hidden; margin:0 auto; display:flex; align-items:center; justify-content:center;"></div>
 <script type="text/javascript">
-  var dom = document.getElementById('container');
-  var myChart = echarts.init(dom, null, {
-    renderer: 'canvas',
-    useDirtyRect: false
-  });
+  var chartDom = document.getElementById('container');
+  var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
-  var ROOT_PATH = 'assets/images/home/';
   var option;
+  var ROOT_PATH = 'assets/images/home/';
   
   option = {
     backgroundColor: '#000',
@@ -155,9 +152,9 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
     }
   };
   
+  window.addEventListener('resize', myChart.resize);
+  
   if (option && typeof option === 'object') {
     myChart.setOption(option);
   }
-  
-  window.addEventListener('resize', myChart.resize);
 </script>
