@@ -118,14 +118,14 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 <script type="text/javascript" src="assets/js/echarts/dist/echarts.min.js"></script>
 <script type="text/javascript" src="assets/js/echarts-gl/dist/echarts-gl.min.js"></script>
 <div id="container" style="width:100%; aspect-ratio:2/1; border-radius:9px; overflow:hidden; margin:0 auto; display:flex; align-items:center; justify-content:center;"></div>
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   var chartDom = document.getElementById('container');
   var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
   var option;
   var ROOT_PATH = 'assets/images/home/';
   
-  <!-- $.getJSON('https://echarts.apache.org/examples/data-gl/asset/data/flights.json', function (data) {
+  $.getJSON('https://echarts.apache.org/examples/data-gl/asset/data/flights.json', function (data) {
     var airports = data.airports.map(function (item) {
       return {
         coord: [item[3], item[4]]
@@ -236,7 +236,17 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
       });
     });
     window.addEventListener('resize', myChart.resize);
-  }); -->
+  });
+  
+  option && myChart.setOption(option);
+</script> -->
+
+<script type="text/javascript">
+  var chartDom = document.getElementById('container');
+  var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
+  var app = {};
+  var option;
+  var ROOT_PATH = 'assets/images/home/';
   
   option = {
     backgroundColor: '#000',
@@ -267,9 +277,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
   
   window.addEventListener('resize', myChart.resize);
   
-  <!-- if (option && typeof option === 'object') {
+  if (option && typeof option === 'object') {
     myChart.setOption(option);
-  } -->
-  
-  option && myChart.setOption(option);
+  }
 </script>
