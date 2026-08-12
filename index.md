@@ -107,6 +107,8 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 </script>
 
 <!-- dynamic interactive earth with visitors -->
+<div id="container" style="width: 100%; aspect-ratio: 2/1; border-radius: 9px; overflow: hidden; margin: 0 auto; display: flex; align-items: center; justify-content: center;"></div>
+
 <!-- <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-gl/dist/echarts-gl.min.js"></script>
 <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/dataTool.min.js"></script>
@@ -114,17 +116,17 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 <script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-stat/dist/ecStat.min.js"></script>
 <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@4.9.0/map/js/world.js"></script>
 <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=RjyYGkNlTImU7ioD7j3Iymq4CqBgQwO8"></script>
-<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/bmap.min.js"></script> -->
+<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/bmap.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery/dist/jquery.min.js"></script> -->
 <script type="text/javascript" src="assets/js/echarts/dist/echarts.min.js"></script>
 <script type="text/javascript" src="assets/js/echarts-gl/dist/echarts-gl.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery/dist/jquery.min.js"></script>
-<div id="container" style="width:100%; aspect-ratio:2/1; border-radius:9px; overflow:hidden; margin:0 auto; display:flex; align-items:center; justify-content:center;"></div>
+
 <script type="text/javascript">
   var chartDom = document.getElementById('container');
   var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
-  var option;
   var ROOT_PATH = 'assets/images/home/';
+  var option;
   
   $.getJSON(ROOT_PATH + 'flights.json', function (data) {
     var airports = data.airports.map(function (item) {
@@ -132,11 +134,14 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
         coord: [item[3], item[4]]
       };
     });
+    
     function getAirportCoord(idx) {
       return [data.airports[idx][3], data.airports[idx][4]];
     }
+    
     // Route: [airlineIndex, sourceAirportIndex, destinationAirportIndex]
     var routesGroupByAirline = {};
+    
     data.routes.forEach(function (route) {
       var airline = data.airlines[route[0]];
       var airlineName = airline[0];
@@ -145,11 +150,14 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
       }
       routesGroupByAirline[airlineName].push(route);
     });
+    
     var pointsData = [];
+    
     data.routes.forEach(function (airline) {
       pointsData.push(getAirportCoord(airline[1]));
       pointsData.push(getAirportCoord(airline[2]));
     });
+    
     var series = data.airlines
       .map(function (airline) {
         var airlineName = airline[0];
@@ -182,6 +190,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
       .filter(function (series) {
         return !!series;
       });
+    
     series.push({
       type: 'scatter3D',
       coordinateSystem: 'globe',
@@ -193,6 +202,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
       },
       data: pointsData
     });
+    
     myChart.setOption({
       legend: {
         selectedMode: 'single',
@@ -228,6 +238,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
       },
       series: series
     });
+    
     window.addEventListener('keydown', function () {
       series.forEach(function (series, idx) {
         myChart.dispatchAction({
@@ -236,18 +247,21 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
         });
       });
     });
-    window.addEventListener('resize', myChart.resize);
   });
   
-  option && myChart.setOption(option);
+  if (option && typeof option === 'object') {
+      myChart.setOption(option);
+    }
+  
+  window.addEventListener('resize', myChart.resize);
 </script>
 
 <!-- <script type="text/javascript">
   var chartDom = document.getElementById('container');
   var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
-  var option;
   var ROOT_PATH = 'assets/images/home/';
+  var option;
   
   option = {
     backgroundColor: '#000',
@@ -276,9 +290,9 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
     }
   };
   
-  window.addEventListener('resize', myChart.resize);
-  
   if (option && typeof option === 'object') {
     myChart.setOption(option);
   }
+  
+  window.addEventListener('resize', myChart.resize);
 </script> -->
