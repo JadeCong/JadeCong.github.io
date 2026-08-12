@@ -116,19 +116,19 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 <script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-stat/dist/ecStat.min.js"></script>
 <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@4.9.0/map/js/world.js"></script>
 <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=RjyYGkNlTImU7ioD7j3Iymq4CqBgQwO8"></script>
-<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/bmap.min.js"></script> -->
-<script type="text/javascript" src="assets/js/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/extension/bmap.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery/dist/jquery.min.js"></script> -->
 <script type="text/javascript" src="assets/js/echarts/dist/echarts.min.js"></script>
 <script type="text/javascript" src="assets/js/echarts-gl/dist/echarts-gl.min.js"></script>
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   var chartDom = document.getElementById('container');
   var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
   var ROOT_PATH = 'assets/images/home/';
   var option;
   
-  $.getJSON(ROOT_PATH + 'flights.json', function (data) {
+  $.getJSON('https://echarts.apache.org/examples/data-gl/asset/data/flights.json', function (data) {
     var airports = data.airports.map(function (item) {
       return {
         coord: [item[3], item[4]]
@@ -254,9 +254,9 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
     }
   
   window.addEventListener('resize', myChart.resize);
-</script>
+</script> -->
 
-<!-- <script type="text/javascript">
+<script type="text/javascript">
   var chartDom = document.getElementById('container');
   var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
@@ -295,4 +295,4 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
   }
   
   window.addEventListener('resize', myChart.resize);
-</script> -->
+</script>
