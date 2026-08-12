@@ -118,7 +118,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 <script type="text/javascript" src="assets/js/echarts/dist/echarts.min.js"></script>
 <script type="text/javascript" src="assets/js/echarts-gl/dist/echarts-gl.min.js"></script>
 <div id="container" style="width:100%; aspect-ratio:2/1; border-radius:9px; overflow:hidden; margin:0 auto; display:flex; align-items:center; justify-content:center;"></div>
-<!-- <script type="text/javascript">
+<script type="text/javascript">
   var chartDom = document.getElementById('container');
   var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
@@ -239,9 +239,9 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
   });
   
   option && myChart.setOption(option);
-</script> -->
+</script>
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   var chartDom = document.getElementById('container');
   var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
@@ -280,4 +280,4 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
   if (option && typeof option === 'object') {
     myChart.setOption(option);
   }
-</script>
+</script> -->
