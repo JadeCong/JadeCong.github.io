@@ -107,7 +107,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 </script>
 
 <!-- dynamic interactive earth with visitors -->
-<div id="container" style="width: 100%; aspect-ratio: 2/1; border-radius: 9px; overflow: hidden; margin: 0 auto; display: flex; align-items: center; justify-content: center;"></div>
+<div id="container" style="width: 100%; aspect-ratio: 2/1; border-radius: 9px; overflow: hidden; margin: 0 auto; display: flex; align-items: center; justify-content: center"></div>
 
 <!-- <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <script type="text/javascript" src="https://echarts.apache.org/zh/js/vendors/echarts-gl/dist/echarts-gl.min.js"></script>
@@ -121,7 +121,7 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 <script type="text/javascript" src="assets/js/echarts/dist/echarts.min.js"></script>
 <script type="text/javascript" src="assets/js/echarts-gl/dist/echarts-gl.min.js"></script>
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   var chartDom = document.getElementById('container');
   var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
@@ -262,9 +262,9 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
     }
   
   window.addEventListener('resize', myChart.resize);
-</script>
+</script> -->
 
-<!-- <script type="text/javascript">
+<script type="text/javascript">
   var chartDom = document.getElementById('container');
   var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
@@ -303,4 +303,4 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
   }
   
   window.addEventListener('resize', myChart.resize);
-</script> -->
+</script>
