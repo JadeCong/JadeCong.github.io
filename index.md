@@ -121,14 +121,17 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
 <script type="text/javascript" src="assets/js/echarts/dist/echarts.min.js"></script>
 <script type="text/javascript" src="assets/js/echarts-gl/dist/echarts-gl.min.js"></script>
 
-<!-- <script type="text/javascript">
+<script type="text/javascript">
   var chartDom = document.getElementById('container');
   var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
   var ROOT_PATH = 'assets/images/home/';
   var option;
   
-  $.getJSON('https://echarts.apache.org/examples/data-gl/asset/data/flights.json', function (data) {
+  // $.getJSON('https://echarts.apache.org/examples/data-gl/asset/data/flights.json', function (data) {
+  fetch('assets/data/flights.json')
+  .then(response => response.json())
+  .then(data => {
     var airports = data.airports.map(function (item) {
       return {
         coord: [item[3], item[4]]
@@ -254,9 +257,9 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
     }
   
   window.addEventListener('resize', myChart.resize);
-</script> -->
+</script>
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   var chartDom = document.getElementById('container');
   var myChart = echarts.init(chartDom, null, {renderer: 'canvas', useDirtyRect: false});
   var app = {};
@@ -295,4 +298,4 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
   }
   
   window.addEventListener('resize', myChart.resize);
-</script>
+</script> -->
