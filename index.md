@@ -130,7 +130,9 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
   
   // $.getJSON('https://echarts.apache.org/examples/data-gl/asset/data/flights.json', function (data) {
   fetch('assets/data/flights.json')
-  .then(response => response.json())
+  .then(response => {console.log(response.status); return response.json();})
+  .then(data => {console.log("data loaded", data);})
+  .catch(err => {console.error("fetch error:", err);})
   .then(data => {
     var airports = data.airports.map(function (item) {
       return {
@@ -205,6 +207,9 @@ The most direct way to stay in touch with me is via [Email](mailto:jade.cong@qq.
       },
       data: pointsData
     });
+    
+    console.log(series.length);
+    console.log(series);
     
     myChart.setOption({
       legend: {
