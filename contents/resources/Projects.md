@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-08-11
+last_modified_at: 2026-08-12
 
 hide_description: true
 hide_image: false
@@ -1966,6 +1966,7 @@ Reference, RL Framework]
 > 767. **A2A**: [Action-to-Action Flow Matching](https://jingliangli.com/A2A_Flow_Matching/ "2026_05_07-Nanyang Technological University-Jindou Jia") [Flow Matching, policy paradigm, historical proprioceptive sequences, high training efficiency, fast inference speed, action generation]
 > 768. **BridgeVLA++**: [A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation](https://bridgevla-plus.github.io/ "2026_08_05-Institute of Automation, Chinese Academy of Sciences-Peiyan Li") [Vision-language-action models, 3D Manipulation Learning, Memory-Augmented Policies]
 > 769. **Shooting for Contact**: [Contact-Implicit Multiple Shooting for Dynamic Motion Retargeting](https://shooting-for-contact.github.io/ "2026_08_04-California Institute of Technology-Sergio A. Esteban") [reinforcement learning, direct simulation-based multiple-shooting, Dynamic Motion Retargeting, explicit contact constraints]
+> 770. **UFO**: [A General Unsupervised Reinforcement Learning Framework for Humanoid COntrol](https://roboparty.github.io/UFO/ "2026_07_14-RoboParty Lab Team") [Humanoid behavioral foundation models, General Unsupervised Reinforcement Learning Framework, Humanoid Control]
 
 ## (2) Autonomous Driving
 
