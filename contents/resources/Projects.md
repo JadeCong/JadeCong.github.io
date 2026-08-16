@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-08-12
+last_modified_at: 2026-08-16
 
 hide_description: true
 hide_image: false
@@ -570,6 +570,7 @@ featured: false
 > 313. **OpenHands**: [The self-hosted developer control center for coding agents and automations](https://www.openhands.dev/ "2026-OpenHands") [codebase, workflows, open source platform, agent]
 > 314. **Clean Code**: [A Handbook of Agile Software Craftsmanship](http://cleancoder.com/products "2026-Uncle Bob") [Clean Code]
 > 315. **UI Skills**: [A collection of design-engineering skills to help humans and agents create better interfaces](https://www.ui-skills.com/ "2026-Interface Office") [better interfaces, agent, skills]
+> 316. **DeepSeek Harness**: [An open-source agent harness](https://www.deepseek.com/harness/ "2026-DeepSeek") [Everything is a Plugin]
 
 ## (3) AIGC
 
@@ -999,6 +1000,7 @@ featured: false
 > 424. **MotionBricks**: [MotionBricks](https://nvlabs.github.io/motionbricks/ "2026_07_05") [MotionBricks]
 > 425. **ClothTransformer**: [Unified Latent-Space Transformers for Scalable Cloth Simulation](https://yucrazing.github.io/clothtransformer/ "2026_07_13-Nanyang Technological University, Singapore-Yu Zhang") [Diverse Object Collision, Human Garment, Robotic Manipulation, Scalable Cloth Simulation]
 > 426. **DiffGI**: [Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation](https://ejshim.github.io/diffgi/ "2026_07_15-CLO Virtual Fashion-Eungjune Shim") [3D Mesh Generation, Differentiable Geometry Images, Truncated Signed Distance Function, Thin-Surface Modeling, Latent Diffusion Models]
+> 427. **img2threejs**: [Rebuild the object in a reference image as a code-only, procedural Three.js model](https://img2threejs.github.io/img2threejs-showcase/#/ "2026-img2threejs") [Quality-gated, animation-ready, and deliberately token-efficient — reconstruction-by-code, not photogrammetry, mesh extraction, downloaded art packs]
 
 # Robotics
 
@@ -1190,6 +1192,7 @@ featured: false
 > 70. **Track2Map**: [Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery](https://track2map.github.io/ "2026_07_09-University College London-Tianyi Song") [Robot-assisted surgery, Stereo endoscopy, Online 3D reconstruction, Camera pose optimization]
 > 71. **Qbot Pro**: [Robotic Structure Rapid Estimation Platform](https://yueqiang-robotics.github.io/Qbot-calculator/ "2026-Qbot Pro") [Structure Engineering, URDF]
 > 72. **SuperMap**: [A Spatio-Temporal SLAM System for Visual-Language Navigation](https://superodometry.com/supermap "2026-Carnegie Mellon University-Shibo Zhao") [spatio-temporal SLAM, 4D spatio-temporal mapping framework, Vision-Language Models]
+> 73. **Isaac Teleop**: [The unified framework for high-fidelity egocentric and robot data collection](https://nvidia.github.io/IsaacTeleop/main/index.html "2026_08_16-Nvidia") [Unified stack, Standardized device interface, Flexible retargeting, Plugin system, Visualization module, Markerless hand reconstruction]
 
 # AIRobotics
 
@@ -1967,6 +1970,8 @@ Reference, RL Framework]
 > 768. **BridgeVLA++**: [A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation](https://bridgevla-plus.github.io/ "2026_08_05-Institute of Automation, Chinese Academy of Sciences-Peiyan Li") [Vision-language-action models, 3D Manipulation Learning, Memory-Augmented Policies]
 > 769. **Shooting for Contact**: [Contact-Implicit Multiple Shooting for Dynamic Motion Retargeting](https://shooting-for-contact.github.io/ "2026_08_04-California Institute of Technology-Sergio A. Esteban") [reinforcement learning, direct simulation-based multiple-shooting, Dynamic Motion Retargeting, explicit contact constraints]
 > 770. **UFO**: [A General Unsupervised Reinforcement Learning Framework for Humanoid COntrol](https://roboparty.github.io/UFO/ "2026_07_14-RoboParty Lab Team") [Humanoid behavioral foundation models, General Unsupervised Reinforcement Learning Framework, Humanoid Control]
+> 771. **CoRe**: [A Hybrid Approach of Contact-aware Optimization and Learning for Humanoid Robot Motions](https://tmjeong1103.github.io/CoRe/ "2025-Korea University") [Contact-aware motion Refinement, human motion generation, Robot Learning, Humanoid Robot Motions]
+> 772. **Learning Physical Interaction**: [A Survey of Tactile- and Force-aware Robot Learning](https://jingliangli.com/tactile-force-survey/ "2026_08_02-Nanyang Technological University-Shilin Shan") [Force-aware Manipulation, Multimodal Learning, Compliant Control, Embodied AI]
 
 ## (2) Autonomous Driving
 
@@ -2194,6 +2199,9 @@ Reference, RL Framework]
 > 39. **Taichi Lang**: [Taichi Lang](https://www.taichi-lang.org/ "2026_07_05") [Taichi Lang]
 > 40. **Snapzy**: [Native macOS screenshots, recording, annotation, and editing from the menu bar](https://snapzy.app/ "2026-Snapzy") [screen capture, lightweight]
 > 41. **GSAP**: [A wildly robust JavaScript animation library built for professionals](https://gsap.com/ "2026-GSAP") [Animate anything, JavaScript animation]
+> 42. **PlotJuggler 4**: [The Time Series Visualization Tool that you deserve](https://plotjuggler.io/ "2026-PlotJuggler") [fast, extendable, open-source, visualization tool]
+> 43. **Label Studio**: [The open source platform for data labeling, AI evaluation, and human-in-the-loop workflows](https://labelstud.io/ "2026_08_14-HumanSignal") [Label, Evaluate, Data, AI]
+> 44. **CVAT**: [Complete Data Labeling Suite For Teams Building Real-World AI](https://www.cvat.ai/ "2026-CVAT") [raw visual data, model-ready datasets, Data Labeling Suite]
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
