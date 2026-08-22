@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-08-16
+last_modified_at: 2026-08-22
 
 hide_description: true
 hide_image: false
@@ -571,6 +571,7 @@ featured: false
 > 314. **Clean Code**: [A Handbook of Agile Software Craftsmanship](http://cleancoder.com/products "2026-Uncle Bob") [Clean Code]
 > 315. **UI Skills**: [A collection of design-engineering skills to help humans and agents create better interfaces](https://www.ui-skills.com/ "2026-Interface Office") [better interfaces, agent, skills]
 > 316. **DeepSeek Harness**: [An open-source agent harness](https://www.deepseek.com/harness/ "2026-DeepSeek") [Everything is a Plugin]
+> 317. **Codex Harness**: [Codex as a platform: build on the open agent harness](https://learn.chatgpt.com/blog/codex-as-a-platform "2026_08_19-OpenAI Codex") [Codex, Products, Workflows, Agent, Harness]
 
 ## (3) AIGC
 
@@ -1972,6 +1973,12 @@ Reference, RL Framework]
 > 770. **UFO**: [A General Unsupervised Reinforcement Learning Framework for Humanoid COntrol](https://roboparty.github.io/UFO/ "2026_07_14-RoboParty Lab Team") [Humanoid behavioral foundation models, General Unsupervised Reinforcement Learning Framework, Humanoid Control]
 > 771. **CoRe**: [A Hybrid Approach of Contact-aware Optimization and Learning for Humanoid Robot Motions](https://tmjeong1103.github.io/CoRe/ "2025-Korea University") [Contact-aware motion Refinement, human motion generation, Robot Learning, Humanoid Robot Motions]
 > 772. **Learning Physical Interaction**: [A Survey of Tactile- and Force-aware Robot Learning](https://jingliangli.com/tactile-force-survey/ "2026_08_02-Nanyang Technological University-Shilin Shan") [Force-aware Manipulation, Multimodal Learning, Compliant Control, Embodied AI]
+> 773. **SimFoundry**: [Modular and Automated Scene Generation for Policy Learning and Evaluation](https://research.nvidia.com/labs/gear/simfoundry/ "2026_08_05-1NVIDIA-Nadun Ranawaka") [Real2Sim, Sim2Real, Scene Generation, Policy Learning, Policy Evaluation]
+> 774. **RoboCook**: [Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools](https://hshi74.github.io/robocook/ "2023_10_17-Stanford University-Haochen Shi") [Deformable Object Manipulation, Long-horizon Planning, Model Learning, Tool Usage]
+> 775. **FlowDAgger**: [Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space](https://microsoft.github.io/FlowDAgger/ "2026_07_09-Microsoft Research-Michael Murray") [Generative Policies, Online Learning, Human-in-the-Loop, Robotic Manipulation]
+> 776. **T-Rex**: [Tactile-Reactive Dexterous Manipulation](https://tactile-reactive-dexterous.github.io/ "2026_06_18-UC Berkeley-Dantong Niu") [Tactile, Haptic, Dexterous Manipulation, Contact-rich Dataset]
+> 777. **Wall-X**: [Building General-Purpose Robots Based on Embodied Foundation Model](https://x2robot.com/en/research "2026_06-X Square Robot") [embodied foundation models, physical interaction, generalizable intelligence]
+> 778. **Interactive Generative Motion Editing via Scheduled Inpainting**: [Interactive Generative Motion Editing via Scheduled Inpainting](https://studios.disneyresearch.com/2026/07/30/interactive-generative-motion-editing-via-scheduled-inpainting/ "2026_07_30-DisneyResearch|Studios-Dhruv Agrawal") [Interactive Generative Motion Editing, Scheduled Inpainting, Generative Models]
 
 ## (2) Autonomous Driving
 
@@ -2202,6 +2209,8 @@ Reference, RL Framework]
 > 42. **PlotJuggler 4**: [The Time Series Visualization Tool that you deserve](https://plotjuggler.io/ "2026-PlotJuggler") [fast, extendable, open-source, visualization tool]
 > 43. **Label Studio**: [The open source platform for data labeling, AI evaluation, and human-in-the-loop workflows](https://labelstud.io/ "2026_08_14-HumanSignal") [Label, Evaluate, Data, AI]
 > 44. **CVAT**: [Complete Data Labeling Suite For Teams Building Real-World AI](https://www.cvat.ai/ "2026-CVAT") [raw visual data, model-ready datasets, Data Labeling Suite]
+> 45. **dsh-TUI**: [DeepSeek Harness TUI](https://dshtui.com/ "2026-DSH TUI Team") [DeepSeek Harness, TUI, Desktop, Interface]
+> 46. **DSH Desktop**: [DeepSeek Harness Desktop](https://www.dshdesktop.cn/ "") [DeepSeek Harness, Desktop, Interface]
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
