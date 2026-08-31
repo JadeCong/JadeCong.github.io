@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-08-22
+last_modified_at: 2026-08-31
 
 hide_description: true
 hide_image: false
@@ -572,6 +572,8 @@ featured: false
 > 315. **UI Skills**: [A collection of design-engineering skills to help humans and agents create better interfaces](https://www.ui-skills.com/ "2026-Interface Office") [better interfaces, agent, skills]
 > 316. **DeepSeek Harness**: [An open-source agent harness](https://www.deepseek.com/harness/ "2026-DeepSeek") [Everything is a Plugin]
 > 317. **Codex Harness**: [Codex as a platform: build on the open agent harness](https://learn.chatgpt.com/blog/codex-as-a-platform "2026_08_19-OpenAI Codex") [Codex, Products, Workflows, Agent, Harness]
+> 318. **OpenBot**: [An enterprise agent platform that runs inside your own infrastructure](https://www.copilotkit.ai/openbot "2026-Tawkit") [Agent Platform, AI coworkers, AG-UI Agent]
+> 319. **Omarchy**: [Beautiful, Modern & Opinionated Linux](https://omarchy.org/ "2026-Omacom") [malleable OS, Opinionated Linux, Agent OS]
 
 ## (3) AIGC
 
@@ -1118,6 +1120,8 @@ featured: false
 > 109. **ModPack**: [An Extensible Teleoperation Interface for Bimanual Mobile Manipulation](https://modpack-robotics.github.io/ "2026_07_21-Stanford University-Joshua Citron") [Mobile Manipulation, Teleoperation Systems, Imitation Learning]
 > 110. **OSMO**: [Open-Source Tactile Glove for Human-to-Robot Skill Transfer](https://www.jessicayin.com/osmo_tactile_glove/ "2025_11_09-1Meta FAIR-Jessica Yin") [Wearable Tactile Glove, Human-to-Robot Skill Transfer, hand-tracking methods, in-the-wild data collection]
 > 111. **HumanTouch**: [A Multimodal System for Scalable Human-Hand Tactile Acquisition](https://xsparkai.com/sparklab/humantouch/ "2026_08_07-XSpark AI-Chuqiao Lyu") [Tactile Sensation, touch, hand motion, vision, calibrated and traceable acquisition system]
+> 112. **OOMWOO**: [Open-source vacuum robot cleaner](https://oomwoo.com/ "2026_06_10-Makerspet") [open-source home robot vacuum, Raspberry Pi, 3D-printing, Home Assistant, ROS2, Arduino]
+> 113. **Microduck**: [A Tiny biped duck robot](https://pollen-robotics.com/microduck/ "2026-Pollen Robotics") [tiny biped robot, reinforcement learning policies]
 
 ## (2) Software
 
@@ -1194,6 +1198,8 @@ featured: false
 > 71. **Qbot Pro**: [Robotic Structure Rapid Estimation Platform](https://yueqiang-robotics.github.io/Qbot-calculator/ "2026-Qbot Pro") [Structure Engineering, URDF]
 > 72. **SuperMap**: [A Spatio-Temporal SLAM System for Visual-Language Navigation](https://superodometry.com/supermap "2026-Carnegie Mellon University-Shibo Zhao") [spatio-temporal SLAM, 4D spatio-temporal mapping framework, Vision-Language Models]
 > 73. **Isaac Teleop**: [The unified framework for high-fidelity egocentric and robot data collection](https://nvidia.github.io/IsaacTeleop/main/index.html "2026_08_16-Nvidia") [Unified stack, Standardized device interface, Flexible retargeting, Plugin system, Visualization module, Markerless hand reconstruction]
+> 74. **OmniSim**: [A free, Apache-2.0 robotics simulator built for coding agents](https://www.omnilink-agents.com/omnisim "2026-OmniLink") [robotics simulator, coding agents, MCP, HTTP/JSON, ROS2]
+> 75. **Sonic AgiBot X2 Port**: [A Sim-to-Sim-to-Real Bridge for a Non-G1 Humanoid](https://sonic-agibot-x2.github.io/ "2026-Claude Opus") [whole-body controller,  AgiBot X2 Ultra, IsaacLab, MuJoCo]
 
 # AIRobotics
 
@@ -1979,6 +1985,14 @@ Reference, RL Framework]
 > 776. **T-Rex**: [Tactile-Reactive Dexterous Manipulation](https://tactile-reactive-dexterous.github.io/ "2026_06_18-UC Berkeley-Dantong Niu") [Tactile, Haptic, Dexterous Manipulation, Contact-rich Dataset]
 > 777. **Wall-X**: [Building General-Purpose Robots Based on Embodied Foundation Model](https://x2robot.com/en/research "2026_06-X Square Robot") [embodied foundation models, physical interaction, generalizable intelligence]
 > 778. **Interactive Generative Motion Editing via Scheduled Inpainting**: [Interactive Generative Motion Editing via Scheduled Inpainting](https://studios.disneyresearch.com/2026/07/30/interactive-generative-motion-editing-via-scheduled-inpainting/ "2026_07_30-DisneyResearch|Studios-Dhruv Agrawal") [Interactive Generative Motion Editing, Scheduled Inpainting, Generative Models]
+> 779. **N0-TWAM**: [Scaling Tactile-Native World Action Model for Contact-Rich Manipulation](https://research.neoteai.com/n0-twam/ "202_07_25-NeoteAI Team & Fudan TEAI Team") [Tactile-Native World Action Model, Contact-Rich Manipulation]
+> 780. **RoboClaw**: [An Agentic Framework for Scalable Long-Horizon Robotic Tasks](https://roboclaw-agibot.github.io/ "2026_04_01-AgiBot-Ruiying Li") [Agentic Framework, Long-Horizon Robotic Tasks, VLA, Entangled Action Pairs]
+> 781. **Sonic-Transfer**: [Cross-Embodiment Transfer of a Frozen Humanoid Whole-Body Controller via Analytic Codec and LoRA Adapters](https://sonic-agibot-x2.github.io/sonic-transfer/ "2026_08_16-Anthropic-Sitarama Chekuri") [Humanoid Whole-Body Controller, Cross-Embodiment Transfer]
+> 782. **What Are We Actually Benchmarking in Robot Manipulation**: [What Are We Actually Benchmarking in Robot Manipulation](https://ripl.github.io/manipulation_benchmark_audit/ "2026_06_02-University of Chicago-Tianchong Jiang") [Manipulation benchmarks, Benchmark validity, Policy evaluation]
+> 783. **GOAG**: [Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation](https://cea-list.github.io/goagweb/ "2026_08_20-Université Paris-Saclay-Julien Mérand") [Generative and Object-Agnostic Grasp Planner, Dexterous Robotic Manipulation, deep generative model]
+> 784. **OpenETA**: [An Embodied Task Agent Framework for Trustworthy Physical Closed Loops](https://openmoss.ai/OpenETA/ "2026-Shanghai Innovation Institute-Yitong Chen") [Embodied Task Agent Framework, replaceable Planners, composable Tools and Skills, auditable memory, replayable trajectories]
+> 785. **NaP-Control**: [Navigating Diffusion Prior for Versatile and Fast Character Control](https://chiawenchen.github.io/nap-control-project/ "2026_07_18-ETH Zurich-Chia-Wen Chen") [latent noise optimization framework, reinforcement learning, task-agnostic diffusion-based motion prior, whole-body character control]
+> 786. **Perceptive Behavior Foundation Model**: [Adapting Human Motion Priors to Robot-Centric Terrain](https://acodedog.github.io/perceptive-bfm/ "2026_06_15-Mondo Robotics-Zifan Wang") [Behavior Foundation Model, humanoid control framework, Human Motion Priors]
 
 ## (2) Autonomous Driving
 
@@ -2162,6 +2176,7 @@ Reference, RL Framework]
 > 160. **PolyLayout**: [Multi-room Manhattan Layout Estimation](https://ghanning.github.io/PolyLayout/ "2026_08_04-Lund University-Gustav Hanning") [Layout Estimation, indoor scene understanding, polygon topology]
 > 161. **MoGe-3**: [Fine-Detail Monocular Geometry Estimation with Self-Guided Sparse Volumetric Refinement](https://qft-333.github.io/moge3page/ "2026_07_21-Tsinghua University-Lingyu Kong") [Monocular Geometry Estimation, Self-Guided Sparse Volumetric Refinement]
 > 162. **Supervision**: [An open-source Python library by Roboflow for building computer vision applications](https://supervision.roboflow.com/latest/ "2026-Roboflow") [Python, computer vision applications, object detection]
+> 163. **4DAnyone**: [Create Anyone in 4D from a Casual Monocular Video](https://4danyone.github.io/ "202_08_20-Zhejiang University-Yudong Jin") [multiview video generation, 4D human reconstruction]
 
 ## (2) Tools
 
@@ -2211,6 +2226,7 @@ Reference, RL Framework]
 > 44. **CVAT**: [Complete Data Labeling Suite For Teams Building Real-World AI](https://www.cvat.ai/ "2026-CVAT") [raw visual data, model-ready datasets, Data Labeling Suite]
 > 45. **dsh-TUI**: [DeepSeek Harness TUI](https://dshtui.com/ "2026-DSH TUI Team") [DeepSeek Harness, TUI, Desktop, Interface]
 > 46. **DSH Desktop**: [DeepSeek Harness Desktop](https://www.dshdesktop.cn/ "") [DeepSeek Harness, Desktop, Interface]
+> 47. **React Native WebGPU**: [React Native WebGPU powered by Dawn](https://wcandillon.github.io/react-native-webgpu/ "2026-Dawn") [WebGPU, iOS, Android, macOS, visionOS]
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
