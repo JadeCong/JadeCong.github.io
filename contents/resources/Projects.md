@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-08-31
+last_modified_at: 2026-09-05
 
 hide_description: true
 hide_image: false
@@ -252,6 +252,7 @@ featured: false
 > 202. **Spatial-TTT**: [Spatial-TTT](https://liuff19.github.io/Spatial-TTT/ "2026_07_05") [Spatial-TTT]
 > 203. **Happy Horses**: [Happy Horses](https://happyhorses.io/ "2026_07_05") [Happy Horses]
 > 204. **Qwen-3D**: [A Generalist 3D Vision-Language Model for Spatial Understanding](https://qwen-3d.github.io/ "2026_08_04-Carnegie Mellon University-Lucy Lin") [LMMs, efficient long-horizon visual reasoning, Spatial Understanding]
+> 205. **Atlas**: [A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas "2026_09_03-World Labs Team") [world generation, reconstruction, simulation]
 
 ## (2) Agents
 
@@ -574,6 +575,7 @@ featured: false
 > 317. **Codex Harness**: [Codex as a platform: build on the open agent harness](https://learn.chatgpt.com/blog/codex-as-a-platform "2026_08_19-OpenAI Codex") [Codex, Products, Workflows, Agent, Harness]
 > 318. **OpenBot**: [An enterprise agent platform that runs inside your own infrastructure](https://www.copilotkit.ai/openbot "2026-Tawkit") [Agent Platform, AI coworkers, AG-UI Agent]
 > 319. **Omarchy**: [Beautiful, Modern & Opinionated Linux](https://omarchy.org/ "2026-Omacom") [malleable OS, Opinionated Linux, Agent OS]
+> 320. **Model Hardware Standard**: [A new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing](https://modelhardwarestandard.com/ "2026-OpenAI") [AI agents, safely operate physical equipment, scientific research, advanced manufacturing]
 
 ## (3) AIGC
 
@@ -1122,6 +1124,7 @@ featured: false
 > 111. **HumanTouch**: [A Multimodal System for Scalable Human-Hand Tactile Acquisition](https://xsparkai.com/sparklab/humantouch/ "2026_08_07-XSpark AI-Chuqiao Lyu") [Tactile Sensation, touch, hand motion, vision, calibrated and traceable acquisition system]
 > 112. **OOMWOO**: [Open-source vacuum robot cleaner](https://oomwoo.com/ "2026_06_10-Makerspet") [open-source home robot vacuum, Raspberry Pi, 3D-printing, Home Assistant, ROS2, Arduino]
 > 113. **Microduck**: [A Tiny biped duck robot](https://pollen-robotics.com/microduck/ "2026-Pollen Robotics") [tiny biped robot, reinforcement learning policies]
+> 114. **TwinDEX**: [A Twinned System for Dexterous Manipulation from Robot-Free Data](https://x2robot.com/pages/twindex "2026-X2Robot") [Twinned System, Dexterous Manipulation, Dexterity, Consistency, Scalability]
 
 ## (2) Software
 
@@ -1142,7 +1145,7 @@ featured: false
 > 15. **GraspNet**: [GraspNet](https://graspnet.net/ "2026_07_05") [GraspNet]
 > 16. **Quad-SDK**: [Quad-SDK](https://robomechanics.github.io/quad-sdk/ "2026_07_05") [Quad-SDK]
 > 17. **MASt3R-SLAM**: [MASt3R-SLAM](https://edexheim.github.io/mast3r-slam/ "2026_07_05") [MASt3R-SLAM]
-> 18. **Genesis**: [Genesis](https://genesis-embodied-ai.github.io/ "2026_07_05") [Genesis]
+> 18. **Genesis World**: [A simulation platform for physical AI development](https://genesis-world.readthedocs.io/en/latest/ "2026_07_05") [Genesis]
 > 19. **Exbody2**: [Exbody2](https://exbody2.github.io/ "2026_07_05") [Exbody2]
 > 20. **HO-Cap**: [HO-Cap](https://irvlutd.github.io/HOCap/ "2026_07_05") [HO-Cap]
 > 21. **ARMOR**: [ARMOR](https://daehwakim.com/armor/ "2026_07_05") [ARMOR]
@@ -1200,6 +1203,9 @@ featured: false
 > 73. **Isaac Teleop**: [The unified framework for high-fidelity egocentric and robot data collection](https://nvidia.github.io/IsaacTeleop/main/index.html "2026_08_16-Nvidia") [Unified stack, Standardized device interface, Flexible retargeting, Plugin system, Visualization module, Markerless hand reconstruction]
 > 74. **OmniSim**: [A free, Apache-2.0 robotics simulator built for coding agents](https://www.omnilink-agents.com/omnisim "2026-OmniLink") [robotics simulator, coding agents, MCP, HTTP/JSON, ROS2]
 > 75. **Sonic AgiBot X2 Port**: [A Sim-to-Sim-to-Real Bridge for a Non-G1 Humanoid](https://sonic-agibot-x2.github.io/ "2026-Claude Opus") [whole-body controller,  AgiBot X2 Ultra, IsaacLab, MuJoCo]
+> 76. **SLAMFormer-∞**: [Infinite SLAM Transformer for Unbounded Frontend and Backend Processing](https://tsinghua-mars-lab.github.io/SLAMFormer-Infinity/ "2026_08_04-singhua University-Zhijian Fang") [Dense Mono SLAM, Long-range Reconstruction]
+> 77. **LightNav-0**: [Scaling Real2Sim2Real for Zero-Shot Generalist Navigation](https://www.lightorigins.com/blog/lightnav-0 "2026_09_01-LIGHT ORIGINS") [Real2Sim2Real, Generalist Navigation]
+> 78. **Habitat**: [An Embodied AI simulation platform for studying collaborative human-robot interaction tasks in home environments](https://aihabitat.org/ "2026-Meta") [Simulation Platform, Human-robot interaction, Home Environments]
 
 # AIRobotics
 
@@ -1993,6 +1999,9 @@ Reference, RL Framework]
 > 784. **OpenETA**: [An Embodied Task Agent Framework for Trustworthy Physical Closed Loops](https://openmoss.ai/OpenETA/ "2026-Shanghai Innovation Institute-Yitong Chen") [Embodied Task Agent Framework, replaceable Planners, composable Tools and Skills, auditable memory, replayable trajectories]
 > 785. **NaP-Control**: [Navigating Diffusion Prior for Versatile and Fast Character Control](https://chiawenchen.github.io/nap-control-project/ "2026_07_18-ETH Zurich-Chia-Wen Chen") [latent noise optimization framework, reinforcement learning, task-agnostic diffusion-based motion prior, whole-body character control]
 > 786. **Perceptive Behavior Foundation Model**: [Adapting Human Motion Priors to Robot-Centric Terrain](https://acodedog.github.io/perceptive-bfm/ "2026_06_15-Mondo Robotics-Zifan Wang") [Behavior Foundation Model, humanoid control framework, Human Motion Priors]
+> 787. **PhyScene**: [Physically Interactable 3D Scene Synthesis for Embodied AI](https://physcene.github.io/ "2024_07_10-Beijing Institute for General Artificial Intelligence-Yandan Yang") [3D Scene Synthesis, Embodied AI]
+> 788. **Ground Reaction Inertial Poser**: [Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors](https://ryosukehori.github.io/grip-project/ "2026_03_27-Carnegie Mellon University-Ryosuke Hori") [Human Motion Capture, Sparse IMUs, Insole Pressure Sensors]
+> 789. **SmoothRL**: [Efficient Online RL During Asynchronous Execution](https://www.astribot.com/en/research/SmoothRL "2026_08_30-Astribot Team") [Online Reinforcement Learning, Asynchronous Execution ]
 
 ## (2) Autonomous Driving
 
