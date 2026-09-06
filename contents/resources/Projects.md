@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-09-05
+last_modified_at: 2026-09-06
 
 hide_description: true
 hide_image: false
@@ -1206,6 +1206,7 @@ featured: false
 > 76. **SLAMFormer-∞**: [Infinite SLAM Transformer for Unbounded Frontend and Backend Processing](https://tsinghua-mars-lab.github.io/SLAMFormer-Infinity/ "2026_08_04-singhua University-Zhijian Fang") [Dense Mono SLAM, Long-range Reconstruction]
 > 77. **LightNav-0**: [Scaling Real2Sim2Real for Zero-Shot Generalist Navigation](https://www.lightorigins.com/blog/lightnav-0 "2026_09_01-LIGHT ORIGINS") [Real2Sim2Real, Generalist Navigation]
 > 78. **Habitat**: [An Embodied AI simulation platform for studying collaborative human-robot interaction tasks in home environments](https://aihabitat.org/ "2026-Meta") [Simulation Platform, Human-robot interaction, Home Environments]
+> 79. **ACE-Ego-Hand**: [Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery](https://ggxxii.github.io/ace-ego-hand/ "2026_09_01-Shanghai Jiao Tong University-Yufei Liu") [Video Diffusion Models, Egocentric 3D, Hand Motion Recovery, Clip-level Framework]
 
 # AIRobotics
 
@@ -2001,7 +2002,10 @@ Reference, RL Framework]
 > 786. **Perceptive Behavior Foundation Model**: [Adapting Human Motion Priors to Robot-Centric Terrain](https://acodedog.github.io/perceptive-bfm/ "2026_06_15-Mondo Robotics-Zifan Wang") [Behavior Foundation Model, humanoid control framework, Human Motion Priors]
 > 787. **PhyScene**: [Physically Interactable 3D Scene Synthesis for Embodied AI](https://physcene.github.io/ "2024_07_10-Beijing Institute for General Artificial Intelligence-Yandan Yang") [3D Scene Synthesis, Embodied AI]
 > 788. **Ground Reaction Inertial Poser**: [Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors](https://ryosukehori.github.io/grip-project/ "2026_03_27-Carnegie Mellon University-Ryosuke Hori") [Human Motion Capture, Sparse IMUs, Insole Pressure Sensors]
-> 789. **SmoothRL**: [Efficient Online RL During Asynchronous Execution](https://www.astribot.com/en/research/SmoothRL "2026_08_30-Astribot Team") [Online Reinforcement Learning, Asynchronous Execution ]
+> 789. **SmoothRL**: [Efficient Online RL During Asynchronous Execution](https://www.astribot.com/en/research/SmoothRL "2026_08_30-Astribot Team") [Online Reinforcement Learning, Asynchronous Execution]
+> 790. **Hydra-0**: [Action Flow for Generalist World Modeling and Control](https://nvidia-isaac.github.io/video_to_data/hydra-0/ "2026_08_18-NVIDIA-Hongyu Li") [Action Flow, Generalist World Modeling and Control]
+> 791. **Zero‑WAM**: [In‑Context World‑Action Modeling from Human Videos for Open‑Ended Task Generalization](https://robbyant-research.github.io/Zero-WAM/ "2026_08_27-Robbyant-Jiaming Zhou") [In-Context World-Action Modeling, Human Videos, Open-Ended Task Generalization]
+> 792. **R³**: [Training Robots to Reason in Natural Language via Reinforcement Learning](https://robotic-reasoner.github.io/ "2026_08_26-Carnegie Mellon University-Lehong Wu") [VLM Reasoners, Natural Language, Low-level Policies, Reinforcement Learning, Long-horizon Manipulation Tasks, Imitation Learning]
 
 ## (2) Autonomous Driving
 
