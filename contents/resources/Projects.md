@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-09-06
+last_modified_at: 2026-09-20
 
 hide_description: true
 hide_image: false
@@ -576,6 +576,8 @@ featured: false
 > 318. **OpenBot**: [An enterprise agent platform that runs inside your own infrastructure](https://www.copilotkit.ai/openbot "2026-Tawkit") [Agent Platform, AI coworkers, AG-UI Agent]
 > 319. **Omarchy**: [Beautiful, Modern & Opinionated Linux](https://omarchy.org/ "2026-Omacom") [malleable OS, Opinionated Linux, Agent OS]
 > 320. **Model Hardware Standard**: [A new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing](https://modelhardwarestandard.com/ "2026-OpenAI") [AI agents, safely operate physical equipment, scientific research, advanced manufacturing]
+> 321. **TrendRadar**: [Smart News Aggregator](https://trendradar.sandev.cc/zh/ "2026-sansan") [AI-driven, public opinion, trend monitor, multi-platform aggregation, RSS, smart alerts]
+> 322. **sanoTTS**: [A tiny neural text-to-speech voice](https://ampixa.github.io/sanoTTS/ "2026-Ampixa") [neural text-to-speech]
 
 ## (3) AIGC
 
@@ -1207,6 +1209,9 @@ featured: false
 > 77. **LightNav-0**: [Scaling Real2Sim2Real for Zero-Shot Generalist Navigation](https://www.lightorigins.com/blog/lightnav-0 "2026_09_01-LIGHT ORIGINS") [Real2Sim2Real, Generalist Navigation]
 > 78. **Habitat**: [An Embodied AI simulation platform for studying collaborative human-robot interaction tasks in home environments](https://aihabitat.org/ "2026-Meta") [Simulation Platform, Human-robot interaction, Home Environments]
 > 79. **ACE-Ego-Hand**: [Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery](https://ggxxii.github.io/ace-ego-hand/ "2026_09_01-Shanghai Jiao Tong University-Yufei Liu") [Video Diffusion Models, Egocentric 3D, Hand Motion Recovery, Clip-level Framework]
+> 80. **ROS View**: [Browse local ROS or HDF5 recordings without uploading to the cloud](https://rosview.com/ "2026-IO-AI.tech") [Browser-native visualization, embodied AI data, MCAP, ROS Bag, HDF5]
+> 81. **SuperDex**: [A unified platform for dexterous manipulation research](https://projectsuperdex.com/ "2026-Meta Platforms") [Physics Engine, Robotics Authoring Tools, scalable reinforcement learning interface,simulation platform, VR-based teleoperation]
+> 82. **mjswan**: [Real-time Interactive RL Simulation in Your Browser](https://mjswan.com/ "2026-Tatsuki Tsujimoto") [MuJoCo simulations, real-time policy control, static sites]
 
 # AIRobotics
 
@@ -2006,6 +2011,9 @@ Reference, RL Framework]
 > 790. **Hydra-0**: [Action Flow for Generalist World Modeling and Control](https://nvidia-isaac.github.io/video_to_data/hydra-0/ "2026_08_18-NVIDIA-Hongyu Li") [Action Flow, Generalist World Modeling and Control]
 > 791. **Zero‑WAM**: [In‑Context World‑Action Modeling from Human Videos for Open‑Ended Task Generalization](https://robbyant-research.github.io/Zero-WAM/ "2026_08_27-Robbyant-Jiaming Zhou") [In-Context World-Action Modeling, Human Videos, Open-Ended Task Generalization]
 > 792. **R³**: [Training Robots to Reason in Natural Language via Reinforcement Learning](https://robotic-reasoner.github.io/ "2026_08_26-Carnegie Mellon University-Lehong Wu") [VLM Reasoners, Natural Language, Low-level Policies, Reinforcement Learning, Long-horizon Manipulation Tasks, Imitation Learning]
+> 793. **Motus2**: [A Self-Evolving General World Model for Dexterous Manipulation](https://motus-robotics.github.io/motus2/ "2026_09_10-GensPI-Hongzhe Bi") [General World Model, Self-Evolving, Dexterous Manipulation]
+> 794. **REAP**: [Learning General Rearrangement Heuristics from Motion-Planner Feedback](https://elicited-preconditions.github.io/ "2026-RWTH Aachen University-Daniel Swoboda") [General Rearrangement, Motion-Planner Feedback]
+> 795. **VLA-Precision**: [Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models](https://vla-precision.github.io/ "2026_09_03-University of Science and Technology of China-Chenyu Su") [Vision-language-action models, real-world reinforcement learning, high-precision manipulation, robot learning]
 
 ## (2) Autonomous Driving
 
