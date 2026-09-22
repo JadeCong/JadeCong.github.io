@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-08-31
+last_modified_at: 2026-09-22
 
 hide_description: true
 hide_image: false
@@ -92,6 +92,7 @@ featured: false
 > 20. **HRDexDB**: [A Paired Human-Robot Dataset for Cross-Embodiment Dexterous Grasping](https://snuvclab.github.io/HRDexDB/ "2026_06_19-Seoul National University-Jongbin Lim") [Cross-Embodiment, Human-to-Robot Learning, Dexterous Manipulation]
 > 21. **CyberOrigin**: [Embodiments Manipulation Dataset](https://cyberorigin2077.github.io/ "2026_07-CyberOrigin") [Embodiments Manipulation, skeletal movement, RGB-D camera, home services, logistics industry, laboratory scenarios]
 > 22. **EgoSuite-Open100K**: [The Largest Fully-Annotated Open Egocentric Human Dataset for Physical AI](https://egosuite100k.lightwheel.ai/ "2026-LightwheelAI") [Egocentric Human Dataset, Physical AI]
+> 23. **EgoHTR**: [Egocentric 4D Demonstrations of Human Terrain Traversal](https://egohtr.github.io/ "2026_07_15-ETH Zurich-Alex Brandes") [Terrain Traversal, 4D Reconstruction, Human Motion Dataset, Mimic]
 
 Return to [Resources](index.md){:.heading.flip-title}
 {:.read-more}

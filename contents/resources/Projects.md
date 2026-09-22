@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-09-20
+last_modified_at: 2026-09-22
 
 hide_description: true
 hide_image: false
@@ -253,6 +253,8 @@ featured: false
 > 203. **Happy Horses**: [Happy Horses](https://happyhorses.io/ "2026_07_05") [Happy Horses]
 > 204. **Qwen-3D**: [A Generalist 3D Vision-Language Model for Spatial Understanding](https://qwen-3d.github.io/ "2026_08_04-Carnegie Mellon University-Lucy Lin") [LMMs, efficient long-horizon visual reasoning, Spatial Understanding]
 > 205. **Atlas**: [A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas "2026_09_03-World Labs Team") [world generation, reconstruction, simulation]
+> 206. **MOSS-TTS-Nano**: [A multilingual tiny speech generation model for realtime voice cloning, CPU-friendly deployment, and lightweight product integration](https://openmoss.ai/MOSS-TTS-Nano-Demo/ "2026_03_20-SII-OpenMOSS Team") [speech generation model, ealtime voice cloning]
+> 207. **Male CNS Connectome**: [Male fruit fly CNS cell types](https://male-cns.janelia.org/ "2026-University of Cambridge") [connectome, entire male Drosophila central nervous system, central brain, optic lobes, ventral nerve cord] 
 
 ## (2) Agents
 
@@ -578,6 +580,9 @@ featured: false
 > 320. **Model Hardware Standard**: [A new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing](https://modelhardwarestandard.com/ "2026-OpenAI") [AI agents, safely operate physical equipment, scientific research, advanced manufacturing]
 > 321. **TrendRadar**: [Smart News Aggregator](https://trendradar.sandev.cc/zh/ "2026-sansan") [AI-driven, public opinion, trend monitor, multi-platform aggregation, RSS, smart alerts]
 > 322. **sanoTTS**: [A tiny neural text-to-speech voice](https://ampixa.github.io/sanoTTS/ "2026-Ampixa") [neural text-to-speech]
+> 323. **SkillHub**: [SkillHub](https://skillhub.cn/ "2026-SkillHub") [SkillHub]
+> 324. **Deep Code**: [Deep Code](https://deepcode.vegamo.cn/ "2026-Deep Code") [AI Coding Agent, Deep Thinking, Reasoning, Agent Skills]
+> 325. **SoL-Pi**: [Scaling Auto-Research Loops for Efficient Agent Harnesses](https://nvlabs.github.io/SoL-Pi/ "2026-NVIDIA-Haozhe Liu") [Auto-Research Loops, Efficient Agent Harnesses]
 
 ## (3) AIGC
 
@@ -1212,6 +1217,15 @@ featured: false
 > 80. **ROS View**: [Browse local ROS or HDF5 recordings without uploading to the cloud](https://rosview.com/ "2026-IO-AI.tech") [Browser-native visualization, embodied AI data, MCAP, ROS Bag, HDF5]
 > 81. **SuperDex**: [A unified platform for dexterous manipulation research](https://projectsuperdex.com/ "2026-Meta Platforms") [Physics Engine, Robotics Authoring Tools, scalable reinforcement learning interface,simulation platform, VR-based teleoperation]
 > 82. **mjswan**: [Real-time Interactive RL Simulation in Your Browser](https://mjswan.com/ "2026-Tatsuki Tsujimoto") [MuJoCo simulations, real-time policy control, static sites]
+> 83. **SMPLOlympics**: [Sports Environments for Physically Simulated Humanoids](https://smplolympics.github.io/SMPLOlympics-Site/ "2024_06_28-Carnegie Mellon University-Zhengyi Luo") [Sports Environments, Physically Simulated Humanoids, Simulation]
+> 84. **Gymnasium-Robotics**: [A collection of robotics simulation environments for Reinforcement Learning](https://robotics.farama.org/ "2023-Farama Foundation") [MuJoCo physics engine, robotics simulation environments, Reinforcement Learning]
+> 85. **RLBotics**: [Reinforcement Learning Skills](https://docs.telekinesis.ai/skills/rlbotics/overview.html "2026-Telekinesis AI") [Reinforcement Learning Skills, GPU-accelerated PyTorch library, Gymnasium, mjlab, Isaac Lab]
+> 86. **LeHome**: [A Simulation Environment for Deformable Object Manipulation in Household Scenarios](https://lehome-web.github.io/ "2026_04_24-Peking University-Yushi Yang") [Simulation Environment, Deformable Object Manipulation, Household Scenarios]
+> 87. **SimWorld Studio**: [Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning](https://simworld.org/simworld-studio/ "2026_05_13-UC San Diego-Haoqiang Kang") [physically-grounded 3D environments, embodied AI training, self- and co-evolution]
+> 88. **SimWorld**: [An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org/ "2025-SimWorld Team") [SimWorld]
+> 89. **SimWorld-Robotics**: [Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration](https://scai.cs.jhu.edu/projects/SimWorldRobotics/ "2025-University of Virginia-Yan Zhuang") [Robot
+Navigation and Collaboration, Photorealistic and Dynamic Urban Environments]
+> 90. **KaRMA**: [A Kinematic Metric for Fine Manipulation Ability in Robotic Hands](https://martinpeticco.com/karma/ "2026_09_04-Martin Peticco") [Kinematic Metric, Manipulation Ability, Robotic Hands]
 
 # AIRobotics
 
@@ -2014,6 +2028,30 @@ Reference, RL Framework]
 > 793. **Motus2**: [A Self-Evolving General World Model for Dexterous Manipulation](https://motus-robotics.github.io/motus2/ "2026_09_10-GensPI-Hongzhe Bi") [General World Model, Self-Evolving, Dexterous Manipulation]
 > 794. **REAP**: [Learning General Rearrangement Heuristics from Motion-Planner Feedback](https://elicited-preconditions.github.io/ "2026-RWTH Aachen University-Daniel Swoboda") [General Rearrangement, Motion-Planner Feedback]
 > 795. **VLA-Precision**: [Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models](https://vla-precision.github.io/ "2026_09_03-University of Science and Technology of China-Chenyu Su") [Vision-language-action models, real-world reinforcement learning, high-precision manipulation, robot learning]
+> 796. **UnifoLM-WLA-1.0**: [One Model Driven, Whole-Body Coordination](https://unigen-x.github.io/unifolm-wla.github.io/ "2026_09_20-Unitree Robotics") [humanoid robot foundation model, spatial perception and understanding, world models]
+> 797. **BODex**: [Scalable and Efficient Robotic Dexterous Grasp Synthesis Using Bilevel Optimization](https://pku-epic.github.io/BODex/ "2025_09_03-Peking University-Jiayi Chen") [Robotic Dexterous Grasp, Bilevel Optimization, large-scale high quality dataset]
+> 798. **Dexonomy**: [Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy](https://pku-epic.github.io/Dexonomy/ "2025_09_03-Peking University-Jiayi Chen") [Generalizable dexterous grasping, Dexterous Grasp Types, fundamental skill, intelligent robots]
+> 799. **FetchMan**: [Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences](https://orayyan.com/fetchman "2026_08_29-UCLA-Omar Rayyan") [Visual loco-manipulation policy, Humanoid, Simulated experience, synthetic demonstration]
+> 800. **UMR**: [Unified Motion Retargeting for Humanoids with Learned Point Cloud Correspondence](https://hanyang9.github.io/UMR/ "2026_09_07-HKUST-Hanyang Cao") [Unified Motion Retargeting, Humanoid, Human motion, Learned Point Cloud Correspondence]
+> 801. **ViBe**: [Visual Behavior Adaptation for Perceptive Humanoid Whole-body Control](https://lok-i.github.io/vibe-control/ "2026_09_09-University of Southern California-Lokesh Krishna") [Humanoid whole-body control, perceptive control, policy adaptation]
+> 802. **Flex-π**: [A Multi-Stream World-Action Model with Compute Flexibility](https://flex-pi.github.io/ "2026_08_29-University of Washington-Ge Yan") [World-Action Model, 3D geometry, object semantics manipulation, Mixture of-Transformers]
+> 803. **HydroShear**: [Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning](https://hydroshear.github.io/ "2026_02_28-University of Michigan-An Dang") [Hydroelastic Shear Simulation, Reinforcement Learning, Tactile Sim-to-Real Policy]
+> 804. **Affordance2Action**: [Task-Conditioned Scene-level Affordance Grounding for Real-Time Manipulation](https://jingjinyu.com/a2a/ "2026_06_02-Rutgers University-Litao Liu") [Task-Conditioned Affordance Grounding, Interactive Segmentation, Part-Level Robot Manipulation]
+> 805. **Auto Engineering for Robotics**: [Auto Engineering for Robotics](https://www.generalrobotics.company/post/introducing-auto-engineering-for-robotics "2029_09_09-General Robotics") [Robotics harnesses, Skill Creation, Deployment & Evaluation Harness, Embodiment knowledge, Models and capabilities]
+> 806. **GE-Act 2.0**: [Pretraining and Scaling a World-Action Model for Robotic Manipulation](https://ge-act-v2.github.io/ "2026_09_04-AgiBot Research Team") [World-Action Model, Robotic Manipulation]
+> 807. **PartialBiGrasp**: [Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views](https://partialbigrasp.github.io/ "2026-PartialBiGrasp") [Dual-arm robotic grasping, Partial observations, Inferring Hidden Local Geometry]
+> 808. **OpenWAM**: [An Open, Modular Exploration Towards Systematic World–Action Model Pretraining](https://openwam-official.github.io/ "2026_09_07-National University of Singapore-Yuran Wang") [Systematic World–Action Model, OpenWAM-Infra, OpenWAM-Study, OpenWAM-α]
+> 809. **Facet-0**: [A Robotic Foundation Model for Contact-Rich Precise Manipulation](https://pine-lab-ntu.github.io/facet-0/ "2026_09_01-Nanyang Technological University-Haoyuan Deng") [robot foundation models, force-aware precision assembly, real-world reinforcement learning]
+> 810. **WholeBodyWAM**: [Generalizing Pre-trained World–Action Priors to Humanoid Loco-Manipulation via WBC-Grounded Coordination](https://wholebodywam.github.io/ "2026_09_15-Chinese University of Hong Kong-Zhuo Li") [World–Action Priors, Humanoid Loco-Manipulation, WBC-Grounded Coordination]
+> 811. **WholeBodyWAM**: [Learning Whole-Body World Action Models with Scalable Motion Priors](https://zbzyjya.github.io/WholeBodyWAM/ "2026_09_16-Nankai University-Bowei Zhang") [Whole-Body World Action Models, Scalable Motion Priors]
+> 812. **WM-Craftnet**: [World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation](https://wmcraftnet.github.io/ "2026_09_07-Sharpa Robotics-Jie Yin") [Robot Manipulation, Sim-to-real Transfer, World Model, Visuotactile Perception]
+> 813. **Light-O1**: [Scaling Whole-Body Intelligence with Human Action Pretraining](https://www.lightorigins.com/blog/light-o1 "2026_09_21-Light Origins Team") [general-purpose embodied foundation model, whole-body intelligence, human action pretraining, long-horizon loco-manipulation]
+> 814. **RAVEN**: [Long-Horizon Reasoning and Navigation with a Visuo-Spatial-Temporal Memory](https://ravenmem.github.io/ "2026_06_23-Princeton University-Yixun Hu") [Long-Horizon Reasoning, Navigation, Visuo-Spatio-Temporal Memory]
+> 815. **Show-Harness**: [Just a VLM Agent Can Play Robots](https://showlab.github.io/Show-Harness/ "2026_09_09-National University of Singapore-Yanzhe Chen") [VLMs, Embodied Harness, GUI Manipulation Interface]
+> 816. **XPACE**: [Joint World and Action Modeling from Heterogeneous Experience](https://xpeng-robotics.github.io/xpace/ "2026-XPENG Robotics") [unified embodied world model, world action model, action-labeled human and robot demonstrations]
+> 817. **OM-1**: [Frontier Robot Intelligence, Learned Firsthand from Humans](https://www.rewardai.com/blog/OM-1/ "2026-Reward AI Team") [One Model, One Data Interface, Any Body, Frontier Robot Intelligence]
+> 818. **RoboTok**: [An Internet-Scale Data Engine for Human Demonstration Video Retrieval and Dexterous Manipulation Learning](https://rice-robotpi-lab.github.io/RoboTok/ "2026_09_02-Rice University-Howard Qian") [internet-scale data engine, human demonstration, 3D egocentric hand trajectories, Dexterous Manipulation Learning]
+> 819. **RoboRSI**: [Stable, efficient, and reusable robot self-evolution in complex real-world environments](https://lab.noematrix.ai/blog/2-roborsi/ "2026_09-Noematrix Team") [Self-Improvement, Skill Hierarchy, Multi-Agent]
 
 ## (2) Autonomous Driving
 
@@ -2198,6 +2236,12 @@ Reference, RL Framework]
 > 161. **MoGe-3**: [Fine-Detail Monocular Geometry Estimation with Self-Guided Sparse Volumetric Refinement](https://qft-333.github.io/moge3page/ "2026_07_21-Tsinghua University-Lingyu Kong") [Monocular Geometry Estimation, Self-Guided Sparse Volumetric Refinement]
 > 162. **Supervision**: [An open-source Python library by Roboflow for building computer vision applications](https://supervision.roboflow.com/latest/ "2026-Roboflow") [Python, computer vision applications, object detection]
 > 163. **4DAnyone**: [Create Anyone in 4D from a Casual Monocular Video](https://4danyone.github.io/ "202_08_20-Zhejiang University-Yudong Jin") [multiview video generation, 4D human reconstruction]
+> 164. **OVOW**: [Turning Monocular Video into Physical 4D Scenes](https://onevideooneworld.github.io/ "2026_06_30-Tsinghua University-Junhao Chen") [Simulation-Ready Asset Generation, Video-to-4D, Instance Level Scene Reconstruction]
+> 165. **Point2Pose**: [Occlusion-Recovering 6D Pose Tracking and 3D Reconstruction for Multiple Unknown Objects via 2D Point Trackers](https://point2pose.github.io/ "2026_08_25-MIT-Tzu-Yuan Lin") [Multi-object 6D pose tracking, Shape reconstruction]
+> 166. **EgoExoMoCap**: [Distributed Ego-Exo Human Motion Capture](https://siplab.org/projects/EgoExoMoCap "2026_07_17-Meta Reality Labs-Jiaxi Jiang") [Human Motion Capture, Distributed Ego-Exo, Obtrusive mocap suits]
+> 167. **PointDiT**: [Pixel-Space Diffusion for Monocular Geometry Estimation](https://haofeixu.github.io/pointdit/ "2026_07_02-Google-Haofei Xu") [Pixel-Space Diffusion, Monocular Geometry Estimation, single-image 3D reconstruction]
+> 168. **FixAnything**: [3D-Consistent Rendering Refinement via Video Generative Priors](https://fix-anything.github.io/ "2026_08_24-Carnegie Mellon University-Khiem Vuong") [Novel View Synthesis, Video Diffusion Models, 3D Reconstruction]
+> 169. **LocateAnything**: [Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://research.nvidia.com/labs/lpr/locate-anything/ "2026-Hong Kong Polytechnic University-Shihao Wang") [VLMs, unified generative grounding and detection framework, Parallel Box Decoding]
 
 ## (2) Tools
 
@@ -2248,6 +2292,7 @@ Reference, RL Framework]
 > 45. **dsh-TUI**: [DeepSeek Harness TUI](https://dshtui.com/ "2026-DSH TUI Team") [DeepSeek Harness, TUI, Desktop, Interface]
 > 46. **DSH Desktop**: [DeepSeek Harness Desktop](https://www.dshdesktop.cn/ "") [DeepSeek Harness, Desktop, Interface]
 > 47. **React Native WebGPU**: [React Native WebGPU powered by Dawn](https://wcandillon.github.io/react-native-webgpu/ "2026-Dawn") [WebGPU, iOS, Android, macOS, visionOS]
+> 48. **Arnis**: [Bring the Real World into Minecraft](https://arnismc.com/ "2026-Louis Erbkamm") [Location on Earth, playable Minecraft world]
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
