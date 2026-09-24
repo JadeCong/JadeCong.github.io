@@ -1226,6 +1226,7 @@ featured: false
 > 89. **SimWorld-Robotics**: [Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration](https://scai.cs.jhu.edu/projects/SimWorldRobotics/ "2025-University of Virginia-Yan Zhuang") [Robot
 Navigation and Collaboration, Photorealistic and Dynamic Urban Environments]
 > 90. **KaRMA**: [A Kinematic Metric for Fine Manipulation Ability in Robotic Hands](https://martinpeticco.com/karma/ "2026_09_04-Martin Peticco") [Kinematic Metric, Manipulation Ability, Robotic Hands]
+> 91. **Isaac ROS cuMotion**: [CUDA-accelerated manipulation capabilities for robots in ROS 2](https://nvidia-isaac-ros.github.io/repositories_and_packages/isaac_ros_cumotion/index.html "2026_09_21-NVIDIA") [Robot Manipulation, ROS2, CUDA-accelerated, MoveIt 2, Collision-free Trajectories]
 
 # AIRobotics
 
@@ -2054,6 +2055,7 @@ Reference, RL Framework]
 > 819. **RoboRSI**: [Stable, efficient, and reusable robot self-evolution in complex real-world environments](https://lab.noematrix.ai/blog/2-roborsi/ "2026_09-Noematrix Team") [Self-Improvement, Skill Hierarchy, Multi-Agent]
 > 820. **ForceDelta-VLA**: [Distilling Force-Conditioned ActionCorrections for Contact-Rich Manipulation](https://www.roboticscenter.ai/research/papers/forcedelta-vla-distilling-force-conditioned-actioncorrections-for-contact-rich-manipulatio-2609 "2026_09_16-University of Hamburg-Ju Dong") [Contact-Rich Manipulation, orce-Conditioned Action Corrections]
 > 821. **ModAR**: [Modality-Autoregressive World-Action Models](https://adamhung60.github.io/ModAR/ "2026_09_15-Carnegie Mellon University-Adam Hung") [WAMs, Modality-Autoregressive]
+> 822. **TANGO VLA**: [Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](https://tango-vla.github.io/ "2026_09_08-University of California, Berkeley-Anqi Li") [Vision-Language Navigation, Vision-Language-Action Model, Whole-Body Control]
 
 ## (2) Autonomous Driving
 
