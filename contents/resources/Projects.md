@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-09-22
+last_modified_at: 2026-09-24
 
 hide_description: true
 hide_image: false
@@ -2052,6 +2052,8 @@ Reference, RL Framework]
 > 817. **OM-1**: [Frontier Robot Intelligence, Learned Firsthand from Humans](https://www.rewardai.com/blog/OM-1/ "2026-Reward AI Team") [One Model, One Data Interface, Any Body, Frontier Robot Intelligence]
 > 818. **RoboTok**: [An Internet-Scale Data Engine for Human Demonstration Video Retrieval and Dexterous Manipulation Learning](https://rice-robotpi-lab.github.io/RoboTok/ "2026_09_02-Rice University-Howard Qian") [internet-scale data engine, human demonstration, 3D egocentric hand trajectories, Dexterous Manipulation Learning]
 > 819. **RoboRSI**: [Stable, efficient, and reusable robot self-evolution in complex real-world environments](https://lab.noematrix.ai/blog/2-roborsi/ "2026_09-Noematrix Team") [Self-Improvement, Skill Hierarchy, Multi-Agent]
+> 820. **ForceDelta-VLA**: [Distilling Force-Conditioned ActionCorrections for Contact-Rich Manipulation](https://www.roboticscenter.ai/research/papers/forcedelta-vla-distilling-force-conditioned-actioncorrections-for-contact-rich-manipulatio-2609 "2026_09_16-University of Hamburg-Ju Dong") [Contact-Rich Manipulation, orce-Conditioned Action Corrections]
+> 821. **ModAR**: [Modality-Autoregressive World-Action Models](https://adamhung60.github.io/ModAR/ "2026_09_15-Carnegie Mellon University-Adam Hung") [WAMs, Modality-Autoregressive]
 
 ## (2) Autonomous Driving
 
