@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-09-24
+last_modified_at: 2026-09-28
 
 hide_description: true
 hide_image: false
@@ -583,6 +583,8 @@ featured: false
 > 323. **SkillHub**: [SkillHub](https://skillhub.cn/ "2026-SkillHub") [SkillHub]
 > 324. **Deep Code**: [Deep Code](https://deepcode.vegamo.cn/ "2026-Deep Code") [AI Coding Agent, Deep Thinking, Reasoning, Agent Skills]
 > 325. **SoL-Pi**: [Scaling Auto-Research Loops for Efficient Agent Harnesses](https://nvlabs.github.io/SoL-Pi/ "2026-NVIDIA-Haozhe Liu") [Auto-Research Loops, Efficient Agent Harnesses]
+> 326. **Octop**: [A smarter, self-hosted AI assistant — multi-user, multi-agent](https://octop.cloud/#overview "2026-Octop") [AI assistant, self-hosted, multi-user, multi-agent]
+> 327. **Graphiti**: [A Framework for Building Temporal Knowledge Graphs](https://help.getzep.com/graphiti/getting-started/welcome "2026-ZepAI") [Real-Time Knowledge Graphs, AI Agents, Framework]
 
 ## (3) AIGC
 
@@ -2056,6 +2058,7 @@ Reference, RL Framework]
 > 820. **ForceDelta-VLA**: [Distilling Force-Conditioned ActionCorrections for Contact-Rich Manipulation](https://www.roboticscenter.ai/research/papers/forcedelta-vla-distilling-force-conditioned-actioncorrections-for-contact-rich-manipulatio-2609 "2026_09_16-University of Hamburg-Ju Dong") [Contact-Rich Manipulation, orce-Conditioned Action Corrections]
 > 821. **ModAR**: [Modality-Autoregressive World-Action Models](https://adamhung60.github.io/ModAR/ "2026_09_15-Carnegie Mellon University-Adam Hung") [WAMs, Modality-Autoregressive]
 > 822. **TANGO VLA**: [Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](https://tango-vla.github.io/ "2026_09_08-University of California, Berkeley-Anqi Li") [Vision-Language Navigation, Vision-Language-Action Model, Whole-Body Control]
+> 823. **Video-to-BT**: [Generating Reactive Behavior Trees from Human Demonstration Videos for Robotic Assembly](https://video2bt.github.io/video2bt_page/ "2025_09_20-Technical University of Munich-Xiwei Zhao") [Robotic Assembly, Reactive Behavior Trees, Human Demonstration Videos]
 
 ## (2) Autonomous Driving
 
@@ -2066,6 +2069,7 @@ Reference, RL Framework]
 ## (3) Embodied Intelligence
 
 > 1. **Gymnasium**: [An API standard for reinforcement learning with a diverse collection of reference environments](https://gymnasium.farama.org/ "2025_11_02-University of Southampton-Mark Towers") [reinforcement learning, reference environments, OpenAI Gym]
+> 2. **Awesome GPT6 for EmbodiedAI**: [Evidence-aware GPT-6 Astra robotics, policy control, real2sim and evaluation resources](https://slelly.github.io/awesome-GPT6-for-embodiedAI/ "2026-slelly") [GPT-6 Astra embodied-AI projects, evaluations, robot-control workflows, real-to-sim systems, infrastructure, and community demonstrations]
 
 # Metaverse
 
