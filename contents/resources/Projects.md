@@ -2059,6 +2059,10 @@ Reference, RL Framework]
 > 821. **ModAR**: [Modality-Autoregressive World-Action Models](https://adamhung60.github.io/ModAR/ "2026_09_15-Carnegie Mellon University-Adam Hung") [WAMs, Modality-Autoregressive]
 > 822. **TANGO VLA**: [Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](https://tango-vla.github.io/ "2026_09_08-University of California, Berkeley-Anqi Li") [Vision-Language Navigation, Vision-Language-Action Model, Whole-Body Control]
 > 823. **Video-to-BT**: [Generating Reactive Behavior Trees from Human Demonstration Videos for Robotic Assembly](https://video2bt.github.io/video2bt_page/ "2025_09_20-Technical University of Munich-Xiwei Zhao") [Robotic Assembly, Reactive Behavior Trees, Human Demonstration Videos]
+> 824. **Humanoid Kick**: [Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots](https://humanoid-kick.github.io/ "2026_08_20-Tsinghua University-Yushi Wang") [Vision-Driven Reactive Soccer Skills, Humanoid Robots]
+> 825. **X-Planner**: [Event-Structured Task Planning for Embodied Intelligence](https://x-square-robot.github.io/Xplanner/ "2026_09_21-X Square Robot Team") [Event-Structured Task Planning, Embodied Intelligence]
+> 826. **RoboDojo**: [A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://robodojo-benchmark.com/ "2026_07_08-MMLab@HKU-Tianxing Chen") [Unified Sim-and-Real Benchmark, Generalist Robot Manipulation Policies, Comprehensive Evaluation]
+> 827. **XPolicyLab**: [ Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://xpolicylab.github.io/ "2026_08_25-MMLab@HKU") [Robot Policy Evaluation and Deployment, nified Standard and Open Ecosystem, Standard and Infra]
 
 ## (2) Autonomous Driving
 
