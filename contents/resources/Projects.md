@@ -2065,6 +2065,7 @@ Reference, RL Framework]
 > 827. **XPolicyLab**: [ Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://xpolicylab.github.io/ "2026_08_25-MMLab@HKU") [Robot Policy Evaluation and Deployment, nified Standard and Open Ecosystem, Standard and Infra]
 > 828. **Dream-RSI**: [Recursive Self-Improvement through Evolving Worlds](https://dream-rsi.com/ "2026_09_14-Google-Tong Zheng") [Recursive self-improvement, AI agents, Effective exploration, Complex domains]
 > 829. **PhysicalRSI 1.0**: [Recursive Self-Harness for Scaling Embodied Skills](https://mmlab.hk/research/PhysicalRSI "2026-MMLab@HKU") [Recursive Self-Harness, Embodied Skills, RoboDojo Benchmark]
+> 830. **DexTacWAM**: [A Visuo-Tactile World-Action Model for Dexterous Manipulation](https://dextacwam.github.io/ "2026_09_21-University of Illinois-Haoran Yuan") [Dexterous Manipulation, Visuo-Tactile Learning, World-Action Models, Tactile Sensing, Robot Learning]
 
 ## (2) Autonomous Driving
 
