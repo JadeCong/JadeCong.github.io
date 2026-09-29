@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-09-28
+last_modified_at: 2026-09-29
 
 hide_description: true
 hide_image: false
@@ -2063,6 +2063,8 @@ Reference, RL Framework]
 > 825. **X-Planner**: [Event-Structured Task Planning for Embodied Intelligence](https://x-square-robot.github.io/Xplanner/ "2026_09_21-X Square Robot Team") [Event-Structured Task Planning, Embodied Intelligence]
 > 826. **RoboDojo**: [A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://robodojo-benchmark.com/ "2026_07_08-MMLab@HKU-Tianxing Chen") [Unified Sim-and-Real Benchmark, Generalist Robot Manipulation Policies, Comprehensive Evaluation]
 > 827. **XPolicyLab**: [ Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://xpolicylab.github.io/ "2026_08_25-MMLab@HKU") [Robot Policy Evaluation and Deployment, nified Standard and Open Ecosystem, Standard and Infra]
+> 828. **Dream-RSI**: [Recursive Self-Improvement through Evolving Worlds](https://dream-rsi.com/ "2026_09_14-Google-Tong Zheng") [Recursive self-improvement, AI agents, Effective exploration, Complex domains]
+> 829. **PhysicalRSI 1.0**: [Recursive Self-Harness for Scaling Embodied Skills](https://mmlab.hk/research/PhysicalRSI "2026-MMLab@HKU") [Recursive Self-Harness, Embodied Skills, RoboDojo Benchmark]
 
 ## (2) Autonomous Driving
 
