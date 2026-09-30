@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-09-29
+last_modified_at: 2026-09-30
 
 hide_description: true
 hide_image: false
@@ -1229,6 +1229,7 @@ featured: false
 Navigation and Collaboration, Photorealistic and Dynamic Urban Environments]
 > 90. **KaRMA**: [A Kinematic Metric for Fine Manipulation Ability in Robotic Hands](https://martinpeticco.com/karma/ "2026_09_04-Martin Peticco") [Kinematic Metric, Manipulation Ability, Robotic Hands]
 > 91. **Isaac ROS cuMotion**: [CUDA-accelerated manipulation capabilities for robots in ROS 2](https://nvidia-isaac-ros.github.io/repositories_and_packages/isaac_ros_cumotion/index.html "2026_09_21-NVIDIA") [Robot Manipulation, ROS2, CUDA-accelerated, MoveIt 2, Collision-free Trajectories]
+> 92. **NVIDIA Isaac Lab-Arena**: [An open-source framework for large-scale policy setup and evaluation in simulation](https://developer.nvidia.com/isaac/lab-arena "2026-NVIDIA") [large-scale policy, simulation, large-scale evaluation]
 
 # AIRobotics
 
@@ -2066,6 +2067,7 @@ Reference, RL Framework]
 > 828. **Dream-RSI**: [Recursive Self-Improvement through Evolving Worlds](https://dream-rsi.com/ "2026_09_14-Google-Tong Zheng") [Recursive self-improvement, AI agents, Effective exploration, Complex domains]
 > 829. **PhysicalRSI 1.0**: [Recursive Self-Harness for Scaling Embodied Skills](https://mmlab.hk/research/PhysicalRSI "2026-MMLab@HKU") [Recursive Self-Harness, Embodied Skills, RoboDojo Benchmark]
 > 830. **DexTacWAM**: [A Visuo-Tactile World-Action Model for Dexterous Manipulation](https://dextacwam.github.io/ "2026_09_21-University of Illinois-Haoran Yuan") [Dexterous Manipulation, Visuo-Tactile Learning, World-Action Models, Tactile Sensing, Robot Learning]
+> 831. **HOI-Retarget**: [Contact-Centric Retargeting for Human-Object Interaction](https://shinben0327.github.io/hoi-retarget/ "2026_09_28-Robotic Systems Lab, ETH Z ̈urich-Jihwan Shin") [Learning from demonstration, Humanoid robots, Human-Object Interaction, Contact-Centric Retargeting]
 
 ## (2) Autonomous Driving
 
