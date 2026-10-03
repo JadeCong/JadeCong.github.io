@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-09-30
+last_modified_at: 2026-10-04
 
 hide_description: true
 hide_image: false
@@ -1230,6 +1230,8 @@ Navigation and Collaboration, Photorealistic and Dynamic Urban Environments]
 > 90. **KaRMA**: [A Kinematic Metric for Fine Manipulation Ability in Robotic Hands](https://martinpeticco.com/karma/ "2026_09_04-Martin Peticco") [Kinematic Metric, Manipulation Ability, Robotic Hands]
 > 91. **Isaac ROS cuMotion**: [CUDA-accelerated manipulation capabilities for robots in ROS 2](https://nvidia-isaac-ros.github.io/repositories_and_packages/isaac_ros_cumotion/index.html "2026_09_21-NVIDIA") [Robot Manipulation, ROS2, CUDA-accelerated, MoveIt 2, Collision-free Trajectories]
 > 92. **NVIDIA Isaac Lab-Arena**: [An open-source framework for large-scale policy setup and evaluation in simulation](https://developer.nvidia.com/isaac/lab-arena "2026-NVIDIA") [large-scale policy, simulation, large-scale evaluation]
+> 93. **8RSL-RL**: [A GPU-accelerated, lightweight learning library for robotics research](https://leggedrobotics.github.io/rsl_rl/ "2025_09_13-ETH Z ̈urich-Clemens Schwarke") [Reinforcement Learning, Distillation, Robotics, PyTorch]
+> 94. **acados**: [Fast and embedded solvers for real-world applications of nonlinear optimal control](https://docs.acados.org/ "2026-Syscop") [Nonlinear optimal control, Fast and embedded solvers, Real-world applications]
 
 # AIRobotics
 
@@ -2068,6 +2070,9 @@ Reference, RL Framework]
 > 829. **PhysicalRSI 1.0**: [Recursive Self-Harness for Scaling Embodied Skills](https://mmlab.hk/research/PhysicalRSI "2026-MMLab@HKU") [Recursive Self-Harness, Embodied Skills, RoboDojo Benchmark]
 > 830. **DexTacWAM**: [A Visuo-Tactile World-Action Model for Dexterous Manipulation](https://dextacwam.github.io/ "2026_09_21-University of Illinois-Haoran Yuan") [Dexterous Manipulation, Visuo-Tactile Learning, World-Action Models, Tactile Sensing, Robot Learning]
 > 831. **HOI-Retarget**: [Contact-Centric Retargeting for Human-Object Interaction](https://shinben0327.github.io/hoi-retarget/ "2026_09_28-Robotic Systems Lab, ETH Z ̈urich-Jihwan Shin") [Learning from demonstration, Humanoid robots, Human-Object Interaction, Contact-Centric Retargeting]
+> 832. **UniMate**: [One Unified Model to Animate Diverse Skeletons](https://linzhanmou.com/unimate/ "2026_09_04-Princeton University-LINZHAN MOU") [Animation, Artificial intelligence, Machine learning]
+> 833. **Grounded Action Model**: [3D grounding as a foundation for robotics](https://grounded-action-model.github.io/ "2026_09_25-Northwestern University-Gehao Zhang") [Manipulation policies, VLAs, WAMs, Grounded Action Models, Robotics]
+> 834. **EmbodiedSWE**: [Coding Agents for Long-Horizon Dexterous Robotics](https://embodiedswe.github.io/ "2026_09_25-ByteDance Seed-Zeyu Shen") [Coding Agents, Long-Horizon Dexterous Robotics, Frontier Evaluation]
 
 ## (2) Autonomous Driving
 
