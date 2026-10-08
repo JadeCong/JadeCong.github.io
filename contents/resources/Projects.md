@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-04
+last_modified_at: 2026-10-08
 
 hide_description: true
 hide_image: false
@@ -2073,6 +2073,8 @@ Reference, RL Framework]
 > 832. **UniMate**: [One Unified Model to Animate Diverse Skeletons](https://linzhanmou.com/unimate/ "2026_09_04-Princeton University-LINZHAN MOU") [Animation, Artificial intelligence, Machine learning]
 > 833. **Grounded Action Model**: [3D grounding as a foundation for robotics](https://grounded-action-model.github.io/ "2026_09_25-Northwestern University-Gehao Zhang") [Manipulation policies, VLAs, WAMs, Grounded Action Models, Robotics]
 > 834. **EmbodiedSWE**: [Coding Agents for Long-Horizon Dexterous Robotics](https://embodiedswe.github.io/ "2026_09_25-ByteDance Seed-Zeyu Shen") [Coding Agents, Long-Horizon Dexterous Robotics, Frontier Evaluation]
+> 835. **FlashDexRetarget**: [Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting](https://holiday-robot.github.io/FlashDexRetarget/ "2026_10_04-KAIST AI-Kyungmin Lee") [Robot Learning, Dexterous Manipulation, Multi-reference Dexterous Retargeting]
+> 836. **ACG-WAM**: [World Action Modeling via Action Conditioned Geometric Latent Prediction](https://roboopus.github.io/ACG-WAM/ "2026_01_03-Beijing Institute of Technology-Jiangtao Liu") [World Action Modeling, Action Conditioned Geometric Latent Prediction, Policy Learning, Demonstrated Action Sequence, Robot Learning]
 
 ## (2) Autonomous Driving
 
