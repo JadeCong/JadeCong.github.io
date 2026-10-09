@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-08
+last_modified_at: 2026-10-09
 
 hide_description: true
 hide_image: false
@@ -585,6 +585,7 @@ featured: false
 > 325. **SoL-Pi**: [Scaling Auto-Research Loops for Efficient Agent Harnesses](https://nvlabs.github.io/SoL-Pi/ "2026-NVIDIA-Haozhe Liu") [Auto-Research Loops, Efficient Agent Harnesses]
 > 326. **Octop**: [A smarter, self-hosted AI assistant — multi-user, multi-agent](https://octop.cloud/#overview "2026-Octop") [AI assistant, self-hosted, multi-user, multi-agent]
 > 327. **Graphiti**: [A Framework for Building Temporal Knowledge Graphs](https://help.getzep.com/graphiti/getting-started/welcome "2026-ZepAI") [Real-Time Knowledge Graphs, AI Agents, Framework]
+> 328. **AI FDE**: [AI-powered Forward Deployed Engineer](https://www.palantir.com/docs/foundry/ai-fde/overview "2026-Palantir") [Interactive Agent, Conversational Commands, Foundry Operations]
 
 ## (3) AIGC
 
@@ -2075,6 +2076,8 @@ Reference, RL Framework]
 > 834. **EmbodiedSWE**: [Coding Agents for Long-Horizon Dexterous Robotics](https://embodiedswe.github.io/ "2026_09_25-ByteDance Seed-Zeyu Shen") [Coding Agents, Long-Horizon Dexterous Robotics, Frontier Evaluation]
 > 835. **FlashDexRetarget**: [Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting](https://holiday-robot.github.io/FlashDexRetarget/ "2026_10_04-KAIST AI-Kyungmin Lee") [Robot Learning, Dexterous Manipulation, Multi-reference Dexterous Retargeting]
 > 836. **ACG-WAM**: [World Action Modeling via Action Conditioned Geometric Latent Prediction](https://roboopus.github.io/ACG-WAM/ "2026_01_03-Beijing Institute of Technology-Jiangtao Liu") [World Action Modeling, Action Conditioned Geometric Latent Prediction, Policy Learning, Demonstrated Action Sequence, Robot Learning]
+> 837. **OTRetarget**: [Joint Robot and Object Motion Retargeting via Optimal Transport](https://simple-robotics.github.io/publications/otretarget/ "2026_09_26-PSL Research University-Guillaume Besset") [Motion Retargeting, Optimal Transport, Humanoid Robots]
+> 838. **Whole-hand Force Regulation**: [Real-Time Force Regulation for Whole-Hand Dexterous Grasping](https://sangminkim-99.github.io/reactive-grasp-whole-hand/ "2026_09_24-Seoul National University-Sang Min Kim") [Force Regulation, Whole-Hand Dexterous Grasping, Physical Stability]
 
 ## (2) Autonomous Driving
 
