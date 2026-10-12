@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-10
+last_modified_at: 2026-10-12
 
 hide_description: true
 hide_image: false
@@ -1234,6 +1234,8 @@ Navigation and Collaboration, Photorealistic and Dynamic Urban Environments]
 > 92. **NVIDIA Isaac Lab-Arena**: [An open-source framework for large-scale policy setup and evaluation in simulation](https://developer.nvidia.com/isaac/lab-arena "2026-NVIDIA") [large-scale policy, simulation, large-scale evaluation]
 > 93. **8RSL-RL**: [A GPU-accelerated, lightweight learning library for robotics research](https://leggedrobotics.github.io/rsl_rl/ "2025_09_13-ETH Z ̈urich-Clemens Schwarke") [Reinforcement Learning, Distillation, Robotics, PyTorch]
 > 94. **acados**: [Fast and embedded solvers for real-world applications of nonlinear optimal control](https://docs.acados.org/ "2026-Syscop") [Nonlinear optimal control, Fast and embedded solvers, Real-world applications]
+> 95. **Draft**: [A Parametric Tool for Robot Design Exploration](https://davidhnguyen2000.github.io/draft-site/ "2026_09_29-MIT-David Nguyen") [Robot Design, Parametric Tool, Medium-fidelity Models, Reinforcement Learning]
+> 96. **Rigyd**: [Simulation-ready assets with validated physics](https://rigyd.com/ "2026-Rigyd") [Simulation Data, Physical AI]
 
 # AIRobotics
 
@@ -2080,6 +2082,9 @@ Reference, RL Framework]
 > 837. **OTRetarget**: [Joint Robot and Object Motion Retargeting via Optimal Transport](https://simple-robotics.github.io/publications/otretarget/ "2026_09_26-PSL Research University-Guillaume Besset") [Motion Retargeting, Optimal Transport, Humanoid Robots]
 > 838. **Whole-hand Force Regulation**: [Real-Time Force Regulation for Whole-Hand Dexterous Grasping](https://sangminkim-99.github.io/reactive-grasp-whole-hand/ "2026_09_24-Seoul National University-Sang Min Kim") [Force Regulation, Whole-Hand Dexterous Grasping, Physical Stability]
 > 839. **Success Guided Sampling**: [Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](https://sgs-rl.github.io/ "2026_10_08-University of Washington-Octi Zhang") [Reinforcement Learning, Physics-Based Simulation, Manipulation, Locomotion]
+> 840. **EgoHumanoid-V2**: [Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/ "2026_09_29-OpenDriveLab at The University of Hong Kong-Jin Chen") [Loco-Manipulation, Human-to-Humanoid Transfer, Coordinated Whole-Body Skills, Coarse-to-fine action alignment, Zero-shot skill transfer]
+> 841. **FoLD**: [Force-Informed Learning for Dexterous Articulated Object Manipulation](https://gghgghgghgg.github.io/FoLD-project-page/ "2026_09_27-University of Science and Technology of China-Haowei Shen") [Dexterous
+Articulated Object Manipulation, Force-Informed Learning]
 
 ## (2) Autonomous Driving
 
