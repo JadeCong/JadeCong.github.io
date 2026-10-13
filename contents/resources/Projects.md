@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-12
+last_modified_at: 2026-10-13
 
 hide_description: true
 hide_image: false
@@ -2085,6 +2085,8 @@ Reference, RL Framework]
 > 840. **EgoHumanoid-V2**: [Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/ "2026_09_29-OpenDriveLab at The University of Hong Kong-Jin Chen") [Loco-Manipulation, Human-to-Humanoid Transfer, Coordinated Whole-Body Skills, Coarse-to-fine action alignment, Zero-shot skill transfer]
 > 841. **FoLD**: [Force-Informed Learning for Dexterous Articulated Object Manipulation](https://gghgghgghgg.github.io/FoLD-project-page/ "2026_09_27-University of Science and Technology of China-Haowei Shen") [Dexterous
 Articulated Object Manipulation, Force-Informed Learning]
+> 842. **InternW0-Δ**: [An Embodied World Model Bridging Predictive Dynamics and Actions](https://internrobotics.github.io/InternW0-Delta/ "2026_09_25-Physical Intelligence Team, Shanghai AI Laboratory") [World Action Model, Predictive Dynamics and Actions, pretrained visual dynamics, cene-level semantic understanding, 4D geometric and motion priors, action generation]
+> 843. **Long-WAM**: [Scaling the Context of World-Action Models](https://nvlabs.github.io/LongLive/Long-WAM/ "2026_10_07-NVIDIA-Wei Huang") [World-Action Models, Real-time robot control, predict-then-act model]
 
 ## (2) Autonomous Driving
 
