@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-14
 
 hide_description: true
 hide_image: false
@@ -2087,6 +2087,9 @@ Reference, RL Framework]
 Articulated Object Manipulation, Force-Informed Learning]
 > 842. **InternW0-Δ**: [An Embodied World Model Bridging Predictive Dynamics and Actions](https://internrobotics.github.io/InternW0-Delta/ "2026_09_25-Physical Intelligence Team, Shanghai AI Laboratory") [World Action Model, Predictive Dynamics and Actions, pretrained visual dynamics, cene-level semantic understanding, 4D geometric and motion priors, action generation]
 > 843. **Long-WAM**: [Scaling the Context of World-Action Models](https://nvlabs.github.io/LongLive/Long-WAM/ "2026_10_07-NVIDIA-Wei Huang") [World-Action Models, Real-time robot control, predict-then-act model]
+> 844. **GroundingPI**: [A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://groundingpi.github.io/ "2026_09_30-XPeng Inc.-Qize Yu") [Grounding Foundation Model, Physical Intelligence, Visual Primitives]
+> 845. **UniWAM**: [Unified World-Action Model](https://uniwam.github.io/ "2026_10_08-UniWAM Team") [World-Action Model, Physical Reasoner, World Generator, Action Predictor]
+> 846. **GroundingPI**: [World Action Learning via INteraction-Centric Spectral Latent Guidance](https://mikuz12.github.io/wing/ "2026_10_02-The Hong Kong University of Science and Technology-Zhiming Liu") [World Action Learning, INteraction-Centric Spectral Latent Guidance, interaction knowledge, egocentric videos, robot policies]
 
 ## (2) Autonomous Driving
 
