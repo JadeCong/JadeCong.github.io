@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-16
 
 hide_description: true
 hide_image: false
@@ -1236,6 +1236,7 @@ Navigation and Collaboration, Photorealistic and Dynamic Urban Environments]
 > 94. **acados**: [Fast and embedded solvers for real-world applications of nonlinear optimal control](https://docs.acados.org/ "2026-Syscop") [Nonlinear optimal control, Fast and embedded solvers, Real-world applications]
 > 95. **Draft**: [A Parametric Tool for Robot Design Exploration](https://davidhnguyen2000.github.io/draft-site/ "2026_09_29-MIT-David Nguyen") [Robot Design, Parametric Tool, Medium-fidelity Models, Reinforcement Learning]
 > 96. **Rigyd**: [Simulation-ready assets with validated physics](https://rigyd.com/ "2026-Rigyd") [Simulation Data, Physical AI]
+> 97. **RoboSimStudio**: [An open interactive toolkit that accelerates agentic physics-based Real2Sim of Robot Manipulation Tasks](https://robosimstudio.github.io/ "2026-NVIDIA-Kaiyuan Chen") [Robot Manipulation Tasks, agentic physics-based Real2Sim, interactive toolkit]
 
 # AIRobotics
 
@@ -2089,7 +2090,10 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 843. **Long-WAM**: [Scaling the Context of World-Action Models](https://nvlabs.github.io/LongLive/Long-WAM/ "2026_10_07-NVIDIA-Wei Huang") [World-Action Models, Real-time robot control, predict-then-act model]
 > 844. **GroundingPI**: [A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://groundingpi.github.io/ "2026_09_30-XPeng Inc.-Qize Yu") [Grounding Foundation Model, Physical Intelligence, Visual Primitives]
 > 845. **UniWAM**: [Unified World-Action Model](https://uniwam.github.io/ "2026_10_08-UniWAM Team") [World-Action Model, Physical Reasoner, World Generator, Action Predictor]
-> 846. **GroundingPI**: [World Action Learning via INteraction-Centric Spectral Latent Guidance](https://mikuz12.github.io/wing/ "2026_10_02-The Hong Kong University of Science and Technology-Zhiming Liu") [World Action Learning, INteraction-Centric Spectral Latent Guidance, interaction knowledge, egocentric videos, robot policies]
+> 846. **WING**: [World Action Learning via INteraction-Centric Spectral Latent Guidance](https://mikuz12.github.io/wing/ "2026_10_02-The Hong Kong University of Science and Technology-Zhiming Liu") [World Action Learning, INteraction-Centric Spectral Latent Guidance, interaction knowledge, egocentric videos, robot policies]
+> 847. **Chronos Policy**: [Learning Robot Policies on Physical Time](https://changhaowang.github.io/chronospolicy/ "2026_10_09-Stanford University-Changhao Wang") [Robot policies, Diffusion Transformer, time-aware RoPE]
+> 848. **RoboPrompt**: [Intuitive Robot Policy Steering with Sparse Human Input](https://yanwen-zou.github.io/Roboprompt-Website/ "2026_10-07-Shanghai Jiao Tong University-Yanwen Zou") [Robot Policy Steerability, Robot Manipulation, Imitation Learning]
+> 849. **RLHND**: [Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning](https://seungjun-moon.github.io/rlhnd/ "2026_10_07-RLWRLD-Seungjun Moon") [Video Foundation Models, Robot Learning, Physically Grounded Hand Trackers, Pose Estimation, Contact and Force Estimation]
 
 ## (2) Autonomous Driving
 
