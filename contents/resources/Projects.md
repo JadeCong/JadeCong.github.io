@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-18
 
 hide_description: true
 hide_image: false
@@ -1237,6 +1237,7 @@ Navigation and Collaboration, Photorealistic and Dynamic Urban Environments]
 > 95. **Draft**: [A Parametric Tool for Robot Design Exploration](https://davidhnguyen2000.github.io/draft-site/ "2026_09_29-MIT-David Nguyen") [Robot Design, Parametric Tool, Medium-fidelity Models, Reinforcement Learning]
 > 96. **Rigyd**: [Simulation-ready assets with validated physics](https://rigyd.com/ "2026-Rigyd") [Simulation Data, Physical AI]
 > 97. **RoboSimStudio**: [An open interactive toolkit that accelerates agentic physics-based Real2Sim of Robot Manipulation Tasks](https://robosimstudio.github.io/ "2026-NVIDIA-Kaiyuan Chen") [Robot Manipulation Tasks, agentic physics-based Real2Sim, interactive toolkit]
+> 98. **robotgym**: [The platform for agentic robotics](https://robotgym.io/ "2026-robotgym") [Robot Simulation, Agentic Robotics, Simulation Scenes]
 
 # AIRobotics
 
