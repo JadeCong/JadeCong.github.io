@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-18
+last_modified_at: 2026-10-19
 
 hide_description: true
 hide_image: false
@@ -2095,6 +2095,9 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 847. **Chronos Policy**: [Learning Robot Policies on Physical Time](https://changhaowang.github.io/chronospolicy/ "2026_10_09-Stanford University-Changhao Wang") [Robot policies, Diffusion Transformer, time-aware RoPE]
 > 848. **RoboPrompt**: [Intuitive Robot Policy Steering with Sparse Human Input](https://yanwen-zou.github.io/Roboprompt-Website/ "2026_10-07-Shanghai Jiao Tong University-Yanwen Zou") [Robot Policy Steerability, Robot Manipulation, Imitation Learning]
 > 849. **RLHND**: [Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning](https://seungjun-moon.github.io/rlhnd/ "2026_10_07-RLWRLD-Seungjun Moon") [Video Foundation Models, Robot Learning, Physically Grounded Hand Trackers, Pose Estimation, Contact and Force Estimation]
+> 850. **TRACE**: [Efficient Transfer Learning for Neural Whole-Body Control Across Humanoid Embodiments](https://bfm-trace.github.io/ "2026-The Hong Kong University of Science and Technology-Qingyu Lan") [Humanoid behavior foundation model, Whole-body control, Efficient Transfer Learning]
+> 851. **OneWMNet**: [Can World and Action Modeling Benefit Each Other under Unified Causal Training](https://selen-suyue.github.io/OneWMNet/ "2026_10_15-MMLab@HKU-Yue Su") [Unified Causal Training, Policy Learning, Action Learning, World Modeling]
+> 852. **CLOTHO**: [Canonicalizing IMUs from loose inertial garments for accurate human motion tracking](https://clotho-mocap.github.io/ "2026-Xiamen University-Xiaoxia Gao") [human motion tracking, loose inertial garments, IMUs, human motion capture, IMU canonicalization]
 
 ## (2) Autonomous Driving
 
