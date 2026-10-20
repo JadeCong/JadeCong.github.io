@@ -1,4 +1,4 @@
-name: Deploy Jekyll Site to Server - Oracle
+name: Deploy Jekyll Site to Server
 
 run-name: Deploy Jekyll Site to Server - Oracle
 
@@ -20,12 +20,12 @@ concurrency:
 
 jobs:
   deploy-jekyll-site-to-server:
-    name: Deploy Jekyll Site to Server
+    name: Build and Deploy Jekyll Site to Oracle Server
     runs-on: [self-hosted, Linux, ARM64, JadeCong, runner-JadeCong.github.io]
     
     steps:
       - name: Checkout the Repository to Runner
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0 # Fetch all history for all branches and tags
           submodules: true # Fetch all submodules
