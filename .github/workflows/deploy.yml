@@ -1,6 +1,6 @@
-name: Deploy Jekyll Site to Server
+name: Deploy GitHub Pages Site to Server
 
-run-name: Deploy Jekyll Site to Server - Oracle
+run-name: Deploy GitHub Pages Site to Server - JadeCong
 
 on:
   push:
@@ -19,13 +19,13 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy-jekyll-site-to-server:
-    name: Build and Deploy Jekyll Site to Oracle Server
+  deploy-github-pages-site-to-server:
+    name: Deploy GitHub Pages Site to Server for JadeCong
     runs-on: [self-hosted, Linux, ARM64, JadeCong, runner-JadeCong.github.io]
     
     steps:
       - name: Checkout the Repository to Runner
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0 # Fetch all history for all branches and tags
           submodules: true # Fetch all submodules
@@ -48,7 +48,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.3
+          ruby-version: 4.0
           bundler-cache: true
       
       - name: Build Jekyll Site
