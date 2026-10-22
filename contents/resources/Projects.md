@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-19
+last_modified_at: 2026-10-22
 
 hide_description: true
 hide_image: false
@@ -1136,6 +1136,8 @@ featured: false
 > 112. **OOMWOO**: [Open-source vacuum robot cleaner](https://oomwoo.com/ "2026_06_10-Makerspet") [open-source home robot vacuum, Raspberry Pi, 3D-printing, Home Assistant, ROS2, Arduino]
 > 113. **Microduck**: [A Tiny biped duck robot](https://pollen-robotics.com/microduck/ "2026-Pollen Robotics") [tiny biped robot, reinforcement learning policies]
 > 114. **TwinDEX**: [A Twinned System for Dexterous Manipulation from Robot-Free Data](https://x2robot.com/pages/twindex "2026-X2Robot") [Twinned System, Dexterous Manipulation, Dexterity, Consistency, Scalability]
+> 115. **HX Friends**: [A collection of robot hand designs built on the DYNAMIXEL ecosystem](https://docs.robotis.com/docs/systems/hx_friends/ "2026-ROBOTIS") [Robot Hand, DYNAMIXEL]
+> 116. **ROBOTO 01**: [Open Humanoid Robot](https://roboparty.com/documents/roboto-01 "2026-RoboParty") [Open Source, Humanoid Robot, Structure, Hardware, Firmware, Device Driver, Robot Model, Training, Deployment]
 
 ## (2) Software
 
@@ -1238,6 +1240,8 @@ Navigation and Collaboration, Photorealistic and Dynamic Urban Environments]
 > 96. **Rigyd**: [Simulation-ready assets with validated physics](https://rigyd.com/ "2026-Rigyd") [Simulation Data, Physical AI]
 > 97. **RoboSimStudio**: [An open interactive toolkit that accelerates agentic physics-based Real2Sim of Robot Manipulation Tasks](https://robosimstudio.github.io/ "2026-NVIDIA-Kaiyuan Chen") [Robot Manipulation Tasks, agentic physics-based Real2Sim, interactive toolkit]
 > 98. **robotgym**: [The platform for agentic robotics](https://robotgym.io/ "2026-robotgym") [Robot Simulation, Agentic Robotics, Simulation Scenes]
+> 99. **Flora**: [An Open Model Suite for Scaling Robotics Data Engines](https://research.nvidia.com/labs/gear/flora/ "2026_10_20-NVIDIA-Sicong Leng") [Open Model Suite, Robotics Data Engine, human-to-robot transfer]
+> 100. **Booster Studio**: [AI development platform for robotics](https://studio.booster.tech/cn/ "2026-Booster Robotics") [Agent, Vibe Coding, Robot Simulation, Debugging]
 
 # AIRobotics
 
@@ -2098,6 +2102,10 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 850. **TRACE**: [Efficient Transfer Learning for Neural Whole-Body Control Across Humanoid Embodiments](https://bfm-trace.github.io/ "2026-The Hong Kong University of Science and Technology-Qingyu Lan") [Humanoid behavior foundation model, Whole-body control, Efficient Transfer Learning]
 > 851. **OneWMNet**: [Can World and Action Modeling Benefit Each Other under Unified Causal Training](https://selen-suyue.github.io/OneWMNet/ "2026_10_15-MMLab@HKU-Yue Su") [Unified Causal Training, Policy Learning, Action Learning, World Modeling]
 > 852. **CLOTHO**: [Canonicalizing IMUs from loose inertial garments for accurate human motion tracking](https://clotho-mocap.github.io/ "2026-Xiamen University-Xiaoxia Gao") [human motion tracking, loose inertial garments, IMUs, human motion capture, IMU canonicalization]
+> 853. **FIBER**: [Action‑Aligned Latent Planning for Versatile Humanoid Loco‑Manipulation](https://fiberaa.github.io/ "2026_10_20-Amazon FAR-Yutang Lin") [Humanoid Loco-Manipulation, Action-Aligned Latent Planning, Latent Policy Projection, Behavior Foundation Model]
+> 854. **RPL**: [Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains](https://rpl-humanoid.github.io/ "2026_10_04-Amazon FAR-Yuanhang Zhang") [Humanoid Perceptive Locomotion, RL, Imitation Learning]
+> 855. **OpenTac**: [An open ecosystem for customizable, scalable, and transferable 3D tactile sensing](https://opentac.github.io/ "2026-Johns Hopkins University-Ariel Slepyan") [Open Ecosystem, 3D Tactile Sensing, hardware, software]
+> 856. **SenseNova-RoboRSI**: [Recursive Self-Improvement for Embodied Agents](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence "2026_10_16-SenseNova") [Recursive Self-Improvement, Embodied Agents, Shared Runtime, Evaluate Policies]
 
 ## (2) Autonomous Driving
 
