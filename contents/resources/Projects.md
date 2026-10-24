@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-22
+last_modified_at: 2026-10-24
 
 hide_description: true
 hide_image: false
@@ -2102,10 +2102,14 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 850. **TRACE**: [Efficient Transfer Learning for Neural Whole-Body Control Across Humanoid Embodiments](https://bfm-trace.github.io/ "2026-The Hong Kong University of Science and Technology-Qingyu Lan") [Humanoid behavior foundation model, Whole-body control, Efficient Transfer Learning]
 > 851. **OneWMNet**: [Can World and Action Modeling Benefit Each Other under Unified Causal Training](https://selen-suyue.github.io/OneWMNet/ "2026_10_15-MMLab@HKU-Yue Su") [Unified Causal Training, Policy Learning, Action Learning, World Modeling]
 > 852. **CLOTHO**: [Canonicalizing IMUs from loose inertial garments for accurate human motion tracking](https://clotho-mocap.github.io/ "2026-Xiamen University-Xiaoxia Gao") [human motion tracking, loose inertial garments, IMUs, human motion capture, IMU canonicalization]
-> 853. **FIBER**: [Action‑Aligned Latent Planning for Versatile Humanoid Loco‑Manipulation](https://fiberaa.github.io/ "2026_10_20-Amazon FAR-Yutang Lin") [Humanoid Loco-Manipulation, Action-Aligned Latent Planning, Latent Policy Projection, Behavior Foundation Model]
+> 853. **FIBER**: [Action‑Aligned Latent Planning for Versatile Humanoid Loco‑Manipulation](https://fiberaa.github.io/ "2026_10_20-Amazon FAR-Yutang Lin") [Humanoid Loco-Manipulation, Action-Aligned Latent Planning, Latent Policy Projection, Behavior Foundation Model]s
 > 854. **RPL**: [Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains](https://rpl-humanoid.github.io/ "2026_10_04-Amazon FAR-Yuanhang Zhang") [Humanoid Perceptive Locomotion, RL, Imitation Learning]
 > 855. **OpenTac**: [An open ecosystem for customizable, scalable, and transferable 3D tactile sensing](https://opentac.github.io/ "2026-Johns Hopkins University-Ariel Slepyan") [Open Ecosystem, 3D Tactile Sensing, hardware, software]
 > 856. **SenseNova-RoboRSI**: [Recursive Self-Improvement for Embodied Agents](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence "2026_10_16-SenseNova") [Recursive Self-Improvement, Embodied Agents, Shared Runtime, Evaluate Policies]
+> 857. **SuperMimic**: [Scaling Humanoid Whole‑Body Control with One Differentiable World Model](https://supermimic.github.io/ "2026_10_20-UC Berkeley-Qiayuan Liao") [Humanoid Robot, Whole-Body Control, Model-Based Reinforcement Learning]
+> 858. **COWBOY**: [Scalable Sim-to-Real Framework forLearning Contextual Whole-Body Manipulation](https://cowboy-manip.com/ "2026_10_20-Carnegie Mellon University-Jiahui Yang") [Mobile Manipulation, Sim-to-Real, Dexterous Manipulation]
+> 859. **EmbodiedEvo**: [Self-Evolving Coding Agent For Physical Intelligence](https://lab.einsia.ai/embodiedevo/ "2026_10_14-Navers Lab, Einsia.AI-Wenyi Li") [Self-Evolving Coding Agent, Physical Intelligence, reusable code Skills, diagnostic Lesson]
+> 860. **DexHoldem**: [Playing Texas Hold'em with Dexterous Embodied System](https://dexholdem.github.io/Dexholdem/ "2026_10_01-HKU-Feng Chen") [Dexterous Manipulation, Agentic Robotics Benchmark, Dexterous Tabletop Execution, Agentic Perception, Embodied Decision Routing]
 
 ## (2) Autonomous Driving
 
