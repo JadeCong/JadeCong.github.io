@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-24
+last_modified_at: 2026-10-25
 
 hide_description: true
 hide_image: false
@@ -2110,6 +2110,9 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 858. **COWBOY**: [Scalable Sim-to-Real Framework forLearning Contextual Whole-Body Manipulation](https://cowboy-manip.com/ "2026_10_20-Carnegie Mellon University-Jiahui Yang") [Mobile Manipulation, Sim-to-Real, Dexterous Manipulation]
 > 859. **EmbodiedEvo**: [Self-Evolving Coding Agent For Physical Intelligence](https://lab.einsia.ai/embodiedevo/ "2026_10_14-Navers Lab, Einsia.AI-Wenyi Li") [Self-Evolving Coding Agent, Physical Intelligence, reusable code Skills, diagnostic Lesson]
 > 860. **DexHoldem**: [Playing Texas Hold'em with Dexterous Embodied System](https://dexholdem.github.io/Dexholdem/ "2026_10_01-HKU-Feng Chen") [Dexterous Manipulation, Agentic Robotics Benchmark, Dexterous Tabletop Execution, Agentic Perception, Embodied Decision Routing]
+> 861. **ACP**: [Humanoid Mobility via Attention-based Contacts](https://leggedrobotics.github.io/ACP/ "2026_10_22-Robotic Systems Lab, ETH Zurich-Junzhe He") [Humanoid Mobility, Reinforcement learning, Whole-body Motion, Attention-based Contacts]
+> 862. **RAX**: [Scaling Online Exploration for Robot Agents](https://robot-agent-exploration.com/ "2026_10_15-Harvard University-Runhan Huang") [Robot Agents, Online Exploration, Robot learning]
+> 863. **MorphMimic**: [Morphology-Conditioned World Model and Policy Sharing Across Humanoids](https://lzyang2000.github.io/morphmimic/ "2026-California Institute of Technology-Lizhi Yang") [Humanoid robot systems, reinforcement learning, transfer learning, whole-body motion planning and control]
 
 ## (2) Autonomous Driving
 
