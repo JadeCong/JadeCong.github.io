@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-25
+last_modified_at: 2026-10-28
 
 hide_description: true
 hide_image: false
@@ -1138,6 +1138,9 @@ featured: false
 > 114. **TwinDEX**: [A Twinned System for Dexterous Manipulation from Robot-Free Data](https://x2robot.com/pages/twindex "2026-X2Robot") [Twinned System, Dexterous Manipulation, Dexterity, Consistency, Scalability]
 > 115. **HX Friends**: [A collection of robot hand designs built on the DYNAMIXEL ecosystem](https://docs.robotis.com/docs/systems/hx_friends/ "2026-ROBOTIS") [Robot Hand, DYNAMIXEL]
 > 116. **ROBOTO 01**: [Open Humanoid Robot](https://roboparty.com/documents/roboto-01 "2026-RoboParty") [Open Source, Humanoid Robot, Structure, Hardware, Firmware, Device Driver, Robot Model, Training, Deployment]
+> 117. **PhoneBot**: [A Low-Cost Open Humanoid Robot Platform Reusing Smartphones](https://phonebot.dev/ "2026_10_06-University of California-Ruochen Hou") [Open Humanoid Robot, Smartphone, IMU, Camera, Wireless Connectivity, Onboard Processing Capability]
+> 118. **Jumper**: [Jumper Robot](https://kingkong.tech/jumper "2026-KingKong Technology") [Jumper Robot, Design, Simulation]
+> 119. **ANR Robot**: [An autonomous robot capable of human-level dexterity, planning, and understanding](https://anrrobot.com/index.html) [Autonomous Robot, Human-level Dexterity, Planning, Understanding]
 
 ## (2) Software
 
@@ -2113,6 +2116,11 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 861. **ACP**: [Humanoid Mobility via Attention-based Contacts](https://leggedrobotics.github.io/ACP/ "2026_10_22-Robotic Systems Lab, ETH Zurich-Junzhe He") [Humanoid Mobility, Reinforcement learning, Whole-body Motion, Attention-based Contacts]
 > 862. **RAX**: [Scaling Online Exploration for Robot Agents](https://robot-agent-exploration.com/ "2026_10_15-Harvard University-Runhan Huang") [Robot Agents, Online Exploration, Robot learning]
 > 863. **MorphMimic**: [Morphology-Conditioned World Model and Policy Sharing Across Humanoids](https://lzyang2000.github.io/morphmimic/ "2026-California Institute of Technology-Lizhi Yang") [Humanoid robot systems, reinforcement learning, transfer learning, whole-body motion planning and control]
+> 864. **DexRoam**: [Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations](https://dexroam.github.io/ "2026_09_28-The Hong Kong University of Science and Technology-Rui Zhou") [Mobile Bimanual Dexterous Manipulation, Egocentric Whole-Body Human Demonstrations, Robot Learning, Locomotion, Whole-body motion, Finger-level Dexterity]
+> 865. **TEMPO**: [Learning Temporal Context for Dynamic Robot Manipulation](https://tempo-robot.github.io/ "2026_09_15-University of California-Zhenyang Feng") [VLA Models, Dynamic manipulation, Representation Learning]
+> 866. **See to Reach, Feel to Grasp**: [Learning a Blind Grasp Reflex for Anthropomorphic Robotic Hands](https://blindgraspreflex.github.io/ "2026_09_25-MIT-Alexander Alexiev") [Dexterous Grasping Architecture, Reinforcement Learning, Hand Proprioceptive Feedback]
+> 867. **Robota-Embed**: [Unified VLA Embeddings for Robot In-Context Learning and Evolution](https://robota-ai.github.io/robota-embed/ "2026_10_14-NVIDIA-Yunze Liu") [Unified VLA Embeddings, Robot In-Context Learning and Evolution, Robot Policy, Predictive Retrieval Training]
+> 868. **Compliant Residual DAgger**: [Improving Real-World Contact-Rich Manipulation with Human Corrections](https://compliant-residual-dagger.github.io/ "2025_11_25-Stanford University-Xiaomeng Xu") [DAgger, Imitation Learning, Manipulation, Compliance Control]
 
 ## (2) Autonomous Driving
 
