@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 
 hide_description: true
 hide_image: false
@@ -1245,6 +1245,7 @@ Navigation and Collaboration, Photorealistic and Dynamic Urban Environments]
 > 98. **robotgym**: [The platform for agentic robotics](https://robotgym.io/ "2026-robotgym") [Robot Simulation, Agentic Robotics, Simulation Scenes]
 > 99. **Flora**: [An Open Model Suite for Scaling Robotics Data Engines](https://research.nvidia.com/labs/gear/flora/ "2026_10_20-NVIDIA-Sicong Leng") [Open Model Suite, Robotics Data Engine, human-to-robot transfer]
 > 100. **Booster Studio**: [AI development platform for robotics](https://studio.booster.tech/cn/ "2026-Booster Robotics") [Agent, Vibe Coding, Robot Simulation, Debugging]
+> 101. **SSIO**: [Self-Supervised Inertial Odometry](https://ssio-imu.github.io/ "2026_10_21-Amazon FAR-Yuheng Qiu") [Learning inertial odometry, Optional pose graph distillation, IMU]
 
 # AIRobotics
 
@@ -2121,6 +2122,8 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 866. **See to Reach, Feel to Grasp**: [Learning a Blind Grasp Reflex for Anthropomorphic Robotic Hands](https://blindgraspreflex.github.io/ "2026_09_25-MIT-Alexander Alexiev") [Dexterous Grasping Architecture, Reinforcement Learning, Hand Proprioceptive Feedback]
 > 867. **Robota-Embed**: [Unified VLA Embeddings for Robot In-Context Learning and Evolution](https://robota-ai.github.io/robota-embed/ "2026_10_14-NVIDIA-Yunze Liu") [Unified VLA Embeddings, Robot In-Context Learning and Evolution, Robot Policy, Predictive Retrieval Training]
 > 868. **Compliant Residual DAgger**: [Improving Real-World Contact-Rich Manipulation with Human Corrections](https://compliant-residual-dagger.github.io/ "2025_11_25-Stanford University-Xiaomeng Xu") [DAgger, Imitation Learning, Manipulation, Compliance Control]
+> 869. **DeFM**: [Learning Foundation Representations from Depth for Robotics](https://de-fm.github.io/ "2026_10_27-Robotic Systems Lab (RSL), ETH Zurich-Manthan Patel") [Foundation Models, Representation Learning, Robotics, Reinforcement Learning, Navigation, Manipulation]
+> 870. **Watch Your Step**: [Anticipated Perception for Humanoid Locomotion](https://leggedrobotics.github.io/watch-your-step/ "2026_10_21-Robotic Systems Laboratory, ETH Z ̈urich-Matthias Heyrman") [Perceptive locomotion policy, Humanoid Locomotion, Anticipated Perception]
 
 ## (2) Autonomous Driving
 
