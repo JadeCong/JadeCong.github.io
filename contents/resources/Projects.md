@@ -2124,6 +2124,8 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 868. **Compliant Residual DAgger**: [Improving Real-World Contact-Rich Manipulation with Human Corrections](https://compliant-residual-dagger.github.io/ "2025_11_25-Stanford University-Xiaomeng Xu") [DAgger, Imitation Learning, Manipulation, Compliance Control]
 > 869. **DeFM**: [Learning Foundation Representations from Depth for Robotics](https://de-fm.github.io/ "2026_10_27-Robotic Systems Lab (RSL), ETH Zurich-Manthan Patel") [Foundation Models, Representation Learning, Robotics, Reinforcement Learning, Navigation, Manipulation]
 > 870. **Watch Your Step**: [Anticipated Perception for Humanoid Locomotion](https://leggedrobotics.github.io/watch-your-step/ "2026_10_21-Robotic Systems Laboratory, ETH Z ̈urich-Matthias Heyrman") [Perceptive locomotion policy, Humanoid Locomotion, Anticipated Perception]
+> 871. **Whole-Body Dexterity**: [Real-World Whole-Body Dexterous Manipulation](https://wholebodydex.com/ "2026_10_15-Amazon-Conor Mc Gartoll") [Whole-Body Dexterous Manipulation, Sim-to-real Pipeline, Distilled Policy Transfer]
+> 872. **ForceWAM**: [Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation](https://force-wam.github.io/ "2026_10_13-Fudan University-Zijun Xu")[Contact-Rich Manipulation, Response Learning, Force World Action Model]
 
 ## (2) Autonomous Driving
 
