@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-05
 
 hide_description: true
 hide_image: false
@@ -1141,6 +1141,7 @@ featured: false
 > 117. **PhoneBot**: [A Low-Cost Open Humanoid Robot Platform Reusing Smartphones](https://phonebot.dev/ "2026_10_06-University of California-Ruochen Hou") [Open Humanoid Robot, Smartphone, IMU, Camera, Wireless Connectivity, Onboard Processing Capability]
 > 118. **Jumper**: [Jumper Robot](https://kingkong.tech/jumper "2026-KingKong Technology") [Jumper Robot, Design, Simulation]
 > 119. **ANR Robot**: [An autonomous robot capable of human-level dexterity, planning, and understanding](https://anrrobot.com/index.html) [Autonomous Robot, Human-level Dexterity, Planning, Understanding]
+> 120. **SO-ARM102**: [A robot platform for programming and manipulation](https://robonine.com/zh/ "2026-Robonine") [Assembly, Programming, Robot Manipulation]
 
 ## (2) Software
 
@@ -1246,6 +1247,7 @@ Navigation and Collaboration, Photorealistic and Dynamic Urban Environments]
 > 99. **Flora**: [An Open Model Suite for Scaling Robotics Data Engines](https://research.nvidia.com/labs/gear/flora/ "2026_10_20-NVIDIA-Sicong Leng") [Open Model Suite, Robotics Data Engine, human-to-robot transfer]
 > 100. **Booster Studio**: [AI development platform for robotics](https://studio.booster.tech/cn/ "2026-Booster Robotics") [Agent, Vibe Coding, Robot Simulation, Debugging]
 > 101. **SSIO**: [Self-Supervised Inertial Odometry](https://ssio-imu.github.io/ "2026_10_21-Amazon FAR-Yuheng Qiu") [Learning inertial odometry, Optional pose graph distillation, IMU]
+> 102. **frax**: [Fast Robot Kinematics and Dynamics in JAX](https://stanfordasl.github.io/frax/ "2026_05_15-StanfordASL-Daniel Morton and Marco Pavone") [Robot Kinematics and Dynamics, Robot Control, Robot Planning, Robot Learning]
 
 # AIRobotics
 
@@ -2126,6 +2128,7 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 870. **Watch Your Step**: [Anticipated Perception for Humanoid Locomotion](https://leggedrobotics.github.io/watch-your-step/ "2026_10_21-Robotic Systems Laboratory, ETH Z ̈urich-Matthias Heyrman") [Perceptive locomotion policy, Humanoid Locomotion, Anticipated Perception]
 > 871. **Whole-Body Dexterity**: [Real-World Whole-Body Dexterous Manipulation](https://wholebodydex.com/ "2026_10_15-Amazon-Conor Mc Gartoll") [Whole-Body Dexterous Manipulation, Sim-to-real Pipeline, Distilled Policy Transfer]
 > 872. **ForceWAM**: [Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation](https://force-wam.github.io/ "2026_10_13-Fudan University-Zijun Xu")[Contact-Rich Manipulation, Response Learning, Force World Action Model]
+> 873. **uni-robot-agent**: [A unified harness for robot use](https://uni-robot-agent.com/ "2026_11_03-Tsinghua University-Jiarui Yuan") [Unified Harness, Open Models, Zero-shot Manipulation, Generalizable Agentic Training]
 
 ## (2) Autonomous Driving
 
@@ -2368,6 +2371,7 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 46. **DSH Desktop**: [DeepSeek Harness Desktop](https://www.dshdesktop.cn/ "") [DeepSeek Harness, Desktop, Interface]
 > 47. **React Native WebGPU**: [React Native WebGPU powered by Dawn](https://wcandillon.github.io/react-native-webgpu/ "2026-Dawn") [WebGPU, iOS, Android, macOS, visionOS]
 > 48. **Arnis**: [Bring the Real World into Minecraft](https://arnismc.com/ "2026-Louis Erbkamm") [Location on Earth, playable Minecraft world]
+> 49. **OpenWhispr**: [The open-source and free alternative to WisprFlow and Granola](https://openwhispr.com/zh-CN "2026-Gizmo Labs") [Privacy-first, Voice-to-text Dictation, AI agents, Meeting Transcription, Notes]
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
