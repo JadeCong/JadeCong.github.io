@@ -14,7 +14,7 @@ Thumbs.db
 ehthumbs.db
 
 # IDE Config Misc
-.vscode/
+# .vscode/
 .idea/
 .cache/
 
