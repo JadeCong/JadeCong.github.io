@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-07
 
 hide_description: true
 hide_image: false
@@ -2129,6 +2129,9 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 871. **Whole-Body Dexterity**: [Real-World Whole-Body Dexterous Manipulation](https://wholebodydex.com/ "2026_10_15-Amazon-Conor Mc Gartoll") [Whole-Body Dexterous Manipulation, Sim-to-real Pipeline, Distilled Policy Transfer]
 > 872. **ForceWAM**: [Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation](https://force-wam.github.io/ "2026_10_13-Fudan University-Zijun Xu")[Contact-Rich Manipulation, Response Learning, Force World Action Model]
 > 873. **uni-robot-agent**: [A unified harness for robot use](https://uni-robot-agent.com/ "2026_11_03-Tsinghua University-Jiarui Yuan") [Unified Harness, Open Models, Zero-shot Manipulation, Generalizable Agentic Training]
+> 874. **Ctrl-F**: [Force as an Interface for Humanoid Loco-Manipulation](https://forcectrl.github.io/ "2026_11_03-University of California, Berkeley-Mengjie Zhao") [Humanoid Loco-Manipulation, Force Control, Motion Tracking]
+> 875. **CARD**: [Contact-Anchored Retargeting for Dexterous Manipulation](https://card-retargeting.github.io/ "2026_10_27-Carnegie Mellon University-Cunxi Dai") [Dexterous Manipulation, Contact-Anchored Retargeting, Human Demonstrations]
+> 876. **ML-HALO**: [Perceptive Humanoid Motion from Simulation](https://apple-aiml-research.github.io/ml-halo/ "2026_11_04-Apple-Siyuan Hu") [Humanoid Robots, Physical Skills, Simulation]
 
 ## (2) Autonomous Driving
 
