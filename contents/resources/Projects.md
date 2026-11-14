@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-14
 
 hide_description: true
 hide_image: false
@@ -587,6 +587,8 @@ featured: false
 > 327. **Graphiti**: [A Framework for Building Temporal Knowledge Graphs](https://help.getzep.com/graphiti/getting-started/welcome "2026-ZepAI") [Real-Time Knowledge Graphs, AI Agents, Framework]
 > 328. **AI FDE**: [AI-powered Forward Deployed Engineer](https://www.palantir.com/docs/foundry/ai-fde/overview "2026-Palantir") [Interactive Agent, Conversational Commands, Foundry Operations]
 > 329. **REA**: [Reverse Engineer Anything: REA gives your agent the tools to inspect a program and explain what it does](https://rea.tools/ "2026-morluto") [One MCP for reverse engineering across binaries, applications, runtime behavior]
+> 330. **Pen**: [An agentic canvas for building bold ideas](https://www.pen.dev/ "2026-High Agency") [Agentic Canvas, Build Ideas]
+> 331. **Cue**: [Personal AI Agent](https://cue.im/ "2026-Manus AI") [Mail, Phone, Wallet, PC]
 
 ## (3) AIGC
 
@@ -1248,6 +1250,11 @@ Navigation and Collaboration, Photorealistic and Dynamic Urban Environments]
 > 100. **Booster Studio**: [AI development platform for robotics](https://studio.booster.tech/cn/ "2026-Booster Robotics") [Agent, Vibe Coding, Robot Simulation, Debugging]
 > 101. **SSIO**: [Self-Supervised Inertial Odometry](https://ssio-imu.github.io/ "2026_10_21-Amazon FAR-Yuheng Qiu") [Learning inertial odometry, Optional pose graph distillation, IMU]
 > 102. **frax**: [Fast Robot Kinematics and Dynamics in JAX](https://stanfordasl.github.io/frax/ "2026_05_15-StanfordASL-Daniel Morton and Marco Pavone") [Robot Kinematics and Dynamics, Robot Control, Robot Planning, Robot Learning]
+> 103. **PolicyIK**: [High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning](https://tinaliu0123.github.io/PolicyIK/ "2026_11_03-New York University-Yuhan Liu") [Inverse kinematics, Reinforcement Learning, Pose Feedback]
+> 104. **RoboKit**: [A high-performance, general-purpose toolkit for versatile robotic tasks](https://openrobokit.com/robokit/ "2026-openrobokit") [IK, motion planning, retargeting]
+> 105. **RetargetingKit**: [Real-time human-to-robot motion retargeting, built on robokit](https://openrobokit.com/retargetingkit/ "2026-openrobokit") [recorded motion, real-time teleoperation, human motion, robot hands, arms, humanoids]
+> 106. **GraspKit**: [An end-to-end toolkit for manipulation across various robot embodiments, including grippers and dexterous hands](https://openrobokit.com/graspkit/ "2026-openrobokit") [synthesizes grasps, plans trajectories, trains policies, deployed in simulation or on real robots]
+> 107. **RoboSkills**: [A low-cost, minimal skillset for agentic robotics](https://openrobokit.com/roboskills/ "2026-openrobokit") [agent workflows, agent tools, robotics]
 
 # AIRobotics
 
@@ -2132,6 +2139,22 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 874. **Ctrl-F**: [Force as an Interface for Humanoid Loco-Manipulation](https://forcectrl.github.io/ "2026_11_03-University of California, Berkeley-Mengjie Zhao") [Humanoid Loco-Manipulation, Force Control, Motion Tracking]
 > 875. **CARD**: [Contact-Anchored Retargeting for Dexterous Manipulation](https://card-retargeting.github.io/ "2026_10_27-Carnegie Mellon University-Cunxi Dai") [Dexterous Manipulation, Contact-Anchored Retargeting, Human Demonstrations]
 > 876. **ML-HALO**: [Perceptive Humanoid Motion from Simulation](https://apple-aiml-research.github.io/ml-halo/ "2026_11_04-Apple-Siyuan Hu") [Humanoid Robots, Physical Skills, Simulation]
+> 877. **Human2Any**: [Human-to-Robot Transfer via Constraint-Aware Compositional Planning](https://human2any.github.io/ "2026_06_27-Georgia Institute of Technology-Shuo Cheng") [Learning from Human Videos, Motion Planning, Diffusion Steering]
+> 878. **MATE**: [Asynchronous Multi-Rate Diffusion Policy Composition](https://lag-fusion.github.io/ "2026_11_06-Shanghai Jiao Tong University-Zihao He") [Different policies, Different rates, Working together, Diffusion Policy Composition, Robotic Imitation Learning]
+> 879. **EGOWILD2DEX**: [Learning Dexterous Robotic Manipulation from In-the-Wild Human Experience](https://mmlab.hk/egowild2dex/ "2026_09_20-The University of Hong Kong-Kunyang Lin") [Dexterous Robotic Manipulation, In-the-Wild Human Experience, Large-scale Ego-human Demonstrations, Robot Learning]
+> 880. **FlowDPG**: [Deterministic Policy Gradient on Flow Matching Policies for Real-World Manipulation](https://flowdpg.github.io/ "2026_09_30-Skild AI-Kexin Shi") [Flow Matching, Offline-to-Online RL, Real-World Manipulation]
+> 881. **GR00T 2**: [Scaling Robot Foundation Models for Generalization, Dexterity, and Adaptation](https://research.nvidia.com/labs/gear/gr00t-2/ "2026_11-NVIDIA") [WAMs, Robot Learning, Generalization, Dexterity, Adaptation]
+> 882. **Recova**: [Agent-Guided Failure Recovery for Autonomous Robotic Manipulation](https://www.liuisabella.com/Recova/ "2026_10_01-University of California-Isabella Liu") [Autonomous Robotic Manipulation, Agent-Guided Failure Recovery, Scalable Failure Exploration, Physical Grounding, Digital Twin, Robot Learning]
+> 883. **8SeeBFM**: [Behavior Foundation Model That Sees](https://capfab.github.io/seebfm-media/ "2026_11-VinRobotics-Thanh Ly") [Behavior Foundation Model, Humanoid
+Policy, Prompt Interface]
+> 884. **ATLAS**: [Agentic Harness for Whole‑Body Intelligence from Human Video](https://atlas-humanoid.github.io/ "2026_11-UC Berkeley-Junli Ren") [Whole‑Body Intelligence, Human Video, Agentic Harness, Robot Learning]
+> 885. **Humanoid Goalkeeper**: [Learning from Position Conditioned Task-Motion Constraints](https://humanoid-goalkeeper.github.io/Goalkeeper/ "2026_03_14-The University of Hong Kong-Junli Ren") [Reinforcement Learning, Humanoid Robots, Autonomous Goalkeeping]
+> 886. **Ropedia Xperience 2**: [A Gold Standard for Scaling Physical AI Environments and Behaviors](https://ropedia.com/xperience/2-research/ "2026_11_12-Ropedia Research Team") [Human Behavior Demonstration, Interactive Simulation Environments, Physical AI Data Collection]
+> 887. **DISCO**: [Long-Horizon Multi-Object Rearrangement via Distilled Tree Search over Continuous Actions](https://distilled-search.github.io/ "2026_10_19-CMU-Kallol Saha") [Robot Learning, Robot Planning, Policy Learning, Long-horizon Manipulation]
+> 888. **Steel**: [Scaling Simulation Across Robots, Tasks, and Worlds](https://www.skild.ai/blogs/steel "2026_11-Skild Team") [Embodied Learning, Scalable Throughput-optimized Engine, Newton Physics Engine, NVIDIA Isaac Lab]
+> 889. **Embodied First Exam**: [The first exam for code agents in the physical world](https://www.embodied-first-exam.ai/ "2026_11_09-Northwestern University-Kangrui Wang") [ agentic robotic, coding agents, control robots, visuomotor policy learning, agent-native evaluation framework]
+> 890. **Learning to Act While Waiting**: [RL Finetuning of Generalist Robot Policies Under Inference Latency](https://async-rl-intermediate-information.github.io/ "2026_08_24-Siemens-Brian Zhu") [RL Steering, Inference Latencies, Real-time Control]
+> 891. **XMimic and XSoma**: [Learning Humanoid Motion Tracking and Locomotion in Under a Minute](https://nico-bohlinger.github.io/papers/2026_xmimic_xsoma.pdf "2026-Technical University of Darmstadt-Nico Bohlinger") [humanoid motion tracking, humanoid locomotion, Robot Learning]
 
 ## (2) Autonomous Driving
 
@@ -2375,6 +2398,8 @@ Articulated Object Manipulation, Force-Informed Learning]
 > 47. **React Native WebGPU**: [React Native WebGPU powered by Dawn](https://wcandillon.github.io/react-native-webgpu/ "2026-Dawn") [WebGPU, iOS, Android, macOS, visionOS]
 > 48. **Arnis**: [Bring the Real World into Minecraft](https://arnismc.com/ "2026-Louis Erbkamm") [Location on Earth, playable Minecraft world]
 > 49. **OpenWhispr**: [The open-source and free alternative to WisprFlow and Granola](https://openwhispr.com/zh-CN "2026-Gizmo Labs") [Privacy-first, Voice-to-text Dictation, AI agents, Meeting Transcription, Notes]
+> 50. **Chimera**: [A voice grown from a simulated airway](https://www.chimera.audio/ "2026-jamesondh") [ultimate vocal synthesizer, sing, speak, beatbox]
+> 51. **Velxio**: [A free, open-source circuit and microcontroller simulator that runs entirely in your browser](https://velxio.dev/ "2026-Velxio") [Arduino, ESP32, Raspberry Pi, SPICE-accurate analog co-simulation]
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
