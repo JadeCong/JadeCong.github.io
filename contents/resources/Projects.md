@@ -2156,6 +2156,7 @@ Policy, Prompt Interface]
 > 890. **Learning to Act While Waiting**: [RL Finetuning of Generalist Robot Policies Under Inference Latency](https://async-rl-intermediate-information.github.io/ "2026_08_24-Siemens-Brian Zhu") [RL Steering, Inference Latencies, Real-time Control]
 > 891. **XMimic and XSoma**: [Learning Humanoid Motion Tracking and Locomotion in Under a Minute](https://nico-bohlinger.github.io/papers/2026_xmimic_xsoma.pdf "2026-Technical University of Darmstadt-Nico Bohlinger") [humanoid motion tracking, humanoid locomotion, Robot Learning]
 > 892. **LfDEC**: [From a Single Demonstration to a General Policy for Contact-Rich Manipulation](https://lfdec.github.io/ "2026_05_17-Technische Universit ̈at Berlin-Xing Li") [ Learning from Demonstration, One-shot Generalization, Contact-rich Manipulation Tasks, Robot Learning]
+> 893. **Flash ALOHA**: [Learning Fast and Precise Manipulation ](https://flash-aloha.github.io/ "2026_07-Stanford University-John Hua Yao") [Robot Learning, Manipulation Policy, Manipulation Skills, Human Demonstrations, Robotic Manipulation]
 
 ## (2) Autonomous Driving
 
