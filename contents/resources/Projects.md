@@ -25,7 +25,7 @@ accent_image:
 # related_posts:
 # redirect_from:
 # excerpt_separator:
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-21
 
 hide_description: true
 hide_image: false
@@ -254,7 +254,8 @@ featured: false
 > 204. **Qwen-3D**: [A Generalist 3D Vision-Language Model for Spatial Understanding](https://qwen-3d.github.io/ "2026_08_04-Carnegie Mellon University-Lucy Lin") [LMMs, efficient long-horizon visual reasoning, Spatial Understanding]
 > 205. **Atlas**: [A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas "2026_09_03-World Labs Team") [world generation, reconstruction, simulation]
 > 206. **MOSS-TTS-Nano**: [A multilingual tiny speech generation model for realtime voice cloning, CPU-friendly deployment, and lightweight product integration](https://openmoss.ai/MOSS-TTS-Nano-Demo/ "2026_03_20-SII-OpenMOSS Team") [speech generation model, ealtime voice cloning]
-> 207. **Male CNS Connectome**: [Male fruit fly CNS cell types](https://male-cns.janelia.org/ "2026-University of Cambridge") [connectome, entire male Drosophila central nervous system, central brain, optic lobes, ventral nerve cord] 
+> 207. **Male CNS Connectome**: [Male fruit fly CNS cell types](https://male-cns.janelia.org/ "2026-University of Cambridge") [connectome, entire male Drosophila central nervous system, central brain, optic lobes, ventral nerve cord]
+> 208. **SADL**: [On the Demand-Supply Geometry of Representation Collapse](https://zju3dv.github.io/SADL/ "2026_11_16-Zhejiang University-Junhan Sun") [Joint-Embedding Predictive Architectures, Supply And Demand Loss]
 
 ## (2) Agents
 
@@ -2157,6 +2158,11 @@ Policy, Prompt Interface]
 > 891. **XMimic and XSoma**: [Learning Humanoid Motion Tracking and Locomotion in Under a Minute](https://nico-bohlinger.github.io/papers/2026_xmimic_xsoma.pdf "2026-Technical University of Darmstadt-Nico Bohlinger") [humanoid motion tracking, humanoid locomotion, Robot Learning]
 > 892. **LfDEC**: [From a Single Demonstration to a General Policy for Contact-Rich Manipulation](https://lfdec.github.io/ "2026_05_17-Technische Universit ̈at Berlin-Xing Li") [ Learning from Demonstration, One-shot Generalization, Contact-rich Manipulation Tasks, Robot Learning]
 > 893. **Flash ALOHA**: [Learning Fast and Precise Manipulation ](https://flash-aloha.github.io/ "2026_07-Stanford University-John Hua Yao") [Robot Learning, Manipulation Policy, Manipulation Skills, Human Demonstrations, Robotic Manipulation]
+> 894. **Ego2Robot Learning**: [From Egocentric Human Video to Robot Manipulation in the Era of Embodied Intelligence](https://mikewu597.github.io/Ego2Robot_Learning/ "2026_11_10-The Hong Kong Polytechnic University-Yi Wang") [Robot Manipulation, Egocentric Human Video,  Hand-object Interactio, Robot Learning,  Embodied Intelligence]
+> 895. **Play2Perfect**: [What Matters in Dexterous Play Pretraining for Precise Assembly](https://play2perfect.github.io/ "2026_10_15-Stanford University-Tyler Ga Wei Lum") [Reinforcement Learning, Dexterous Manipulation, Sim-to-Real]
+> 896. **RoboScript**: [World In-Context Learning for Agentic Robot Manipulation](https://archeone-ai.github.io/RoboScript/ "2026_11_09-Huazhong University of Science and Technology-Heng Fang") [Agentic Robot Manipulation, In-Context Learning, Learn in Context]
+> 897. **VTAM**: [Efficient Visuo-Tactile World-Action Models for Contact-Rich Manipulation without Tactile Pretraining](https://plan-lab.github.io/projects/vtam/ "2026_11_005-University of Illinois-Haoran Yuan") [VTAM, Contact-Rich Manipulation]
+> 898. **FLOMO**: [3D Scene Flow as a World Action Model Intermediate for Learning from Human Video](https://flomo-wam.github.io/ "2026-Georgia Institute of Technology-Shitij Govil") [World Action Model, 3D Scene Flow, 3D Motion, Human Video, Robot Learning]
 
 ## (2) Autonomous Driving
 
@@ -2402,6 +2408,7 @@ Policy, Prompt Interface]
 > 49. **OpenWhispr**: [The open-source and free alternative to WisprFlow and Granola](https://openwhispr.com/zh-CN "2026-Gizmo Labs") [Privacy-first, Voice-to-text Dictation, AI agents, Meeting Transcription, Notes]
 > 50. **Chimera**: [A voice grown from a simulated airway](https://www.chimera.audio/ "2026-jamesondh") [ultimate vocal synthesizer, sing, speak, beatbox]
 > 51. **Velxio**: [A free, open-source circuit and microcontroller simulator that runs entirely in your browser](https://velxio.dev/ "2026-Velxio") [Arduino, ESP32, Raspberry Pi, SPICE-accurate analog co-simulation]
+> 52. **CrommaCode**: [CrommaCode](https://cromma.ai/code/zh "2026-Cromma") [Agent, Vibe Coding]
 
 Continue reading [Papers](Papers.md){:.heading.flip-title}
 {:.read-more}
